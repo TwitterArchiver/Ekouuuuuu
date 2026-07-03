@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056354537573847040",
+        "3_2056354537573908480"
+      ],
+      "media_source_tweet_id": [
+        "2056354547724083413",
+        "2056354547724083413"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2056682750661582940",
+    "created_at": "2026-05-19T10:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T11:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056682750661582940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1820291389722423296",
+          "start": 3,
+          "username": "bananacha_han"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pjc7MhRhzI",
+          "end": 57,
+          "expanded_url": "https://x.com/bananacha_han/status/2056354547724083413/photo/1",
+          "media_key": "3_2056354537573847040",
+          "start": 34,
+          "url": "https://t.co/Pjc7MhRhzI"
+        },
+        {
+          "display_url": "pic.x.com/Pjc7MhRhzI",
+          "end": 57,
+          "expanded_url": "https://x.com/bananacha_han/status/2056354547724083413/photo/1",
+          "media_key": "3_2056354537573908480",
+          "start": 34,
+          "url": "https://t.co/Pjc7MhRhzI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056682750661582940",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056354547724083413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bananacha_han: 私に堕ちていくキミがすき❤︎ https://t.co/Pjc7MhRhzI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056354537573847040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImjjpBaEAAGoZU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056354537573908480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImjjpBbAAAErCJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056354537573847040",
+            "3_2056354537573908480"
+          ],
+          "media_source_tweet_id": [
+            "2056354547724083413",
+            "2056354547724083413"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2056682750661582940",
+        "created_at": "2026-05-19T10:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056682750661582940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1820291389722423296",
+              "start": 3,
+              "username": "bananacha_han"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pjc7MhRhzI",
+              "end": 57,
+              "expanded_url": "https://x.com/bananacha_han/status/2056354547724083413/photo/1",
+              "media_key": "3_2056354537573847040",
+              "start": 34,
+              "url": "https://t.co/Pjc7MhRhzI"
+            },
+            {
+              "display_url": "pic.x.com/Pjc7MhRhzI",
+              "end": 57,
+              "expanded_url": "https://x.com/bananacha_han/status/2056354547724083413/photo/1",
+              "media_key": "3_2056354537573908480",
+              "start": 34,
+              "url": "https://t.co/Pjc7MhRhzI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056682750661582940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056354547724083413",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bananacha_han: 私に堕ちていくキミがすき❤︎ https://t.co/Pjc7MhRhzI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056354537573847040",
+            "3_2056354537573908480"
+          ]
+        },
+        "author_id": "1820291389722423296",
+        "conversation_id": "2056354547724083413",
+        "created_at": "2026-05-18T12:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056354547724083413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pjc7MhRhzI",
+              "end": 38,
+              "expanded_url": "https://x.com/bananacha_han/status/2056354547724083413/photo/1",
+              "media_key": "3_2056354537573847040",
+              "start": 15,
+              "url": "https://t.co/Pjc7MhRhzI"
+            },
+            {
+              "display_url": "pic.x.com/Pjc7MhRhzI",
+              "end": 38,
+              "expanded_url": "https://x.com/bananacha_han/status/2056354547724083413/photo/1",
+              "media_key": "3_2056354537573908480",
+              "start": 15,
+              "url": "https://t.co/Pjc7MhRhzI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056354547724083413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 9772,
+          "like_count": 741,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "私に堕ちていくキミがすき❤︎ https://t.co/Pjc7MhRhzI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "她說她停不下這瘋狂‖閨蜜@seeFvn‖老公@Shiroko_Li‖支畜別他媽來惡心我了‖找我要色圖的你媽死了‖順男加我請附帶絕育證明‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 12,
+                "username": "seeFvn"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2054494874192195972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 303,
+          "like_count": 12963,
+          "listed_count": 1,
+          "media_count": 540,
+          "tweet_count": 3279
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T02:51:53.000Z",
+        "description": "アサイーの案件まってます！",
+        "id": "1820291389722423296",
+        "name": "ばななチャーハン",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3611,
+          "following_count": 34,
+          "like_count": 13335,
+          "listed_count": 29,
+          "media_count": 277,
+          "tweet_count": 4708
+        },
+        "username": "bananacha_han",
+        "verified": false
+      }
+    ]
+  }
+}

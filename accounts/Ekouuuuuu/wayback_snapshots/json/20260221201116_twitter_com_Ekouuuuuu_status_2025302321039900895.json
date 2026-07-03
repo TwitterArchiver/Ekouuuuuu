@@ -1,0 +1,696 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1405277096465756161",
+          "name": "Kamihime Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405277096465756161",
+          "name": "Kamihime Project"
+        }
+      }
+    ],
+    "conversation_id": "2025302321039900895",
+    "created_at": "2026-02-21T20:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T21:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025302321039900895"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "伊藤誠",
+          "probability": 0.9699,
+          "start": 19,
+          "type": "Person"
+        },
+        {
+          "end": 77,
+          "normalized_text": "神姫PROJECT",
+          "probability": 0.518,
+          "start": 69,
+          "type": "Other"
+        },
+        {
+          "end": 91,
+          "normalized_text": "School Days",
+          "probability": 0.8985,
+          "start": 81,
+          "type": "Other"
+        },
+        {
+          "end": 107,
+          "normalized_text": "誠",
+          "probability": 0.6407,
+          "start": 107,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "33482896",
+          "start": 3,
+          "username": "dengekionline"
+        }
+      ],
+      "urls": [
+        {
+          "description": "『神姫PROJECT』にて、『School Days』とのコラボが2026年2月末に実施されることが発表されました。伊藤誠は神姫世界でどう生きるのか……!?",
+          "display_url": "dengekionline.com/article/202602…",
+          "end": 66,
+          "expanded_url": "https://dengekionline.com/article/202602/66697",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2025125488763801600/Sf5bauJh?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2025125488763801600/Sf5bauJh?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 43,
+          "status": 200,
+          "title": "『School Days』伊藤誠、『神姫PROJECT』に異世界転生したうえに分裂して瘴気を放つ",
+          "unwound_url": "https://dengekionline.com/article/202602/66697",
+          "url": "https://t.co/ikq3IZbp3a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025302321039900895",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4704
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025125445558304897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dengekionline: 伊藤誠、異世界転生したうえに分裂して瘴気を放つ\nhttps://t.co/ikq3IZbp3a\n\n『神姫PROJECT』で『School Days』コラボが2月26日より開催。誠の瘴気にあてられた神姫たちがヤンデレ化するようです。\nPVには…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2025125425626972163",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqw2FQbgAMjzrO.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_2025125431121469440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqw2Zua4AA1Z8Z.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_2025125436779618304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqw2uzbYAAXbWL.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_2025125442257321984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqw3DNagAAgQn9.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1405277096465756161",
+              "name": "Kamihime Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405277096465756161",
+              "name": "Kamihime Project"
+            }
+          }
+        ],
+        "conversation_id": "2025302321039900895",
+        "created_at": "2026-02-21T20:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T21:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025302321039900895"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "伊藤誠",
+              "probability": 0.9699,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 77,
+              "normalized_text": "神姫PROJECT",
+              "probability": 0.518,
+              "start": 69,
+              "type": "Other"
+            },
+            {
+              "end": 91,
+              "normalized_text": "School Days",
+              "probability": 0.8985,
+              "start": 81,
+              "type": "Other"
+            },
+            {
+              "end": 107,
+              "normalized_text": "誠",
+              "probability": 0.6407,
+              "start": 107,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "33482896",
+              "start": 3,
+              "username": "dengekionline"
+            }
+          ],
+          "urls": [
+            {
+              "description": "『神姫PROJECT』にて、『School Days』とのコラボが2026年2月末に実施されることが発表されました。伊藤誠は神姫世界でどう生きるのか……!?",
+              "display_url": "dengekionline.com/article/202602…",
+              "end": 66,
+              "expanded_url": "https://dengekionline.com/article/202602/66697",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2025125488763801600/Sf5bauJh?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2025125488763801600/Sf5bauJh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 43,
+              "status": 200,
+              "title": "『School Days』伊藤誠、『神姫PROJECT』に異世界転生したうえに分裂して瘴気を放つ",
+              "unwound_url": "https://dengekionline.com/article/202602/66697",
+              "url": "https://t.co/ikq3IZbp3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025302321039900895",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4704
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025125445558304897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dengekionline: 伊藤誠、異世界転生したうえに分裂して瘴気を放つ\nhttps://t.co/ikq3IZbp3a\n\n『神姫PROJECT』で『School Days』コラボが2月26日より開催。誠の瘴気にあてられた神姫たちがヤンデレ化するようです。\nPVには…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025125425626972163",
+            "3_2025125431121469440",
+            "3_2025125436779618304",
+            "3_2025125442257321984"
+          ]
+        },
+        "author_id": "33482896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1405277096465756161",
+              "name": "Kamihime Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405277096465756161",
+              "name": "Kamihime Project"
+            }
+          }
+        ],
+        "conversation_id": "2025125445558304897",
+        "created_at": "2026-02-21T08:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T09:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025125445558304897"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "伊藤誠",
+              "probability": 0.9753,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 58,
+              "normalized_text": "神姫PROJECT",
+              "probability": 0.6101,
+              "start": 50,
+              "type": "Other"
+            },
+            {
+              "end": 72,
+              "normalized_text": "School Days",
+              "probability": 0.9122,
+              "start": 62,
+              "type": "Other"
+            },
+            {
+              "end": 88,
+              "normalized_text": "誠",
+              "probability": 0.6343,
+              "start": 88,
+              "type": "Person"
+            },
+            {
+              "end": 123,
+              "normalized_text": "伊藤誠",
+              "probability": 0.9358,
+              "start": 121,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 163,
+              "start": 152,
+              "tag": "SchoolDays"
+            },
+            {
+              "end": 173,
+              "start": 164,
+              "tag": "神姫プロジェクト"
+            }
+          ],
+          "urls": [
+            {
+              "description": "『神姫PROJECT』にて、『School Days』とのコラボが2026年2月末に実施されることが発表されました。伊藤誠は神姫世界でどう生きるのか……!?",
+              "display_url": "dengekionline.com/article/202602…",
+              "end": 47,
+              "expanded_url": "https://dengekionline.com/article/202602/66697",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2025125488763801600/Sf5bauJh?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2025125488763801600/Sf5bauJh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "『School Days』伊藤誠、『神姫PROJECT』に異世界転生したうえに分裂して瘴気を放つ",
+              "unwound_url": "https://dengekionline.com/article/202602/66697",
+              "url": "https://t.co/ikq3IZbp3a"
+            },
+            {
+              "display_url": "pic.x.com/z0BDuWEoCI",
+              "end": 197,
+              "expanded_url": "https://x.com/dengekionline/status/2025125445558304897/photo/1",
+              "media_key": "3_2025125425626972163",
+              "start": 174,
+              "url": "https://t.co/z0BDuWEoCI"
+            },
+            {
+              "display_url": "pic.x.com/z0BDuWEoCI",
+              "end": 197,
+              "expanded_url": "https://x.com/dengekionline/status/2025125445558304897/photo/1",
+              "media_key": "3_2025125431121469440",
+              "start": 174,
+              "url": "https://t.co/z0BDuWEoCI"
+            },
+            {
+              "display_url": "pic.x.com/z0BDuWEoCI",
+              "end": 197,
+              "expanded_url": "https://x.com/dengekionline/status/2025125445558304897/photo/1",
+              "media_key": "3_2025125436779618304",
+              "start": 174,
+              "url": "https://t.co/z0BDuWEoCI"
+            },
+            {
+              "display_url": "pic.x.com/z0BDuWEoCI",
+              "end": 197,
+              "expanded_url": "https://x.com/dengekionline/status/2025125445558304897/photo/1",
+              "media_key": "3_2025125442257321984",
+              "start": 174,
+              "url": "https://t.co/z0BDuWEoCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025125445558304897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2274,
+          "impression_count": 1129623,
+          "like_count": 12893,
+          "quote_count": 719,
+          "reply_count": 157,
+          "retweet_count": 4704
+        },
+        "reply_settings": "everyone",
+        "text": "伊藤誠、異世界転生したうえに分裂して瘴気を放つ\nhttps://t.co/ikq3IZbp3a\n\n『神姫PROJECT』で『School Days』コラボが2月26日より開催。誠の瘴気にあてられた神姫たちがヤンデレ化するようです。\nPVには「伊藤誠の増殖が、1体で終わるわけない」というメッセージも。\n\n#SchoolDays #神姫プロジェクト https://t.co/z0BDuWEoCI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 252,
+          "like_count": 8819,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 2248
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-20T11:15:09.000Z",
+        "description": "KADOKAWA Game Linkageが運営する総合エンタメ情報サイト・電撃オンラインの公式Twitterです。ゲームやアニメを中心に、エンタメ情報をお届けします！\nお問い合わせ→  https://t.co/XsuxGC5Pbj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kadokawagamelinkage.jp",
+                "end": 117,
+                "expanded_url": "http://kadokawagamelinkage.jp",
+                "start": 94,
+                "url": "https://t.co/XsuxGC5Pbj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dengekionline.com",
+                "end": 23,
+                "expanded_url": "https://dengekionline.com/",
+                "start": 0,
+                "url": "https://t.co/brY9qqNGKu"
+              }
+            ]
+          }
+        },
+        "id": "33482896",
+        "location": "東京都文京区",
+        "name": "電撃オンライン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1441456215490400257/HvDx-r47_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568684,
+          "following_count": 24408,
+          "like_count": 473,
+          "listed_count": 5940,
+          "media_count": 162088,
+          "tweet_count": 291702
+        },
+        "url": "https://t.co/brY9qqNGKu",
+        "username": "dengekionline",
+        "verified": true
+      }
+    ]
+  }
+}

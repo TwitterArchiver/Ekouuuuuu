@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044591963253706752"
+      ],
+      "media_source_tweet_id": [
+        "2044591965220585629"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2044813230317371569",
+    "created_at": "2026-04-16T16:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T17:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044813230317371569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2027543101120909313",
+          "start": 3,
+          "username": "egomaiid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PDDVKI0SIw",
+          "end": 57,
+          "expanded_url": "https://x.com/egomaiid/status/2044591965220585629/photo/1",
+          "media_key": "3_2044591963253706752",
+          "start": 34,
+          "url": "https://t.co/PDDVKI0SIw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044813230317371569",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 312
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044591965220585629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @egomaiid: ~ a glimmer of hope https://t.co/PDDVKI0SIw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 691,
+        "media_key": "3_2044591963253706752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_ZjtBbEAAJgng.jpg",
+        "width": 875
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044591963253706752"
+          ],
+          "media_source_tweet_id": [
+            "2044591965220585629"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2044813230317371569",
+        "created_at": "2026-04-16T16:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044813230317371569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2027543101120909313",
+              "start": 3,
+              "username": "egomaiid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PDDVKI0SIw",
+              "end": 57,
+              "expanded_url": "https://x.com/egomaiid/status/2044591965220585629/photo/1",
+              "media_key": "3_2044591963253706752",
+              "start": 34,
+              "url": "https://t.co/PDDVKI0SIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044813230317371569",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 312
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044591965220585629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @egomaiid: ~ a glimmer of hope https://t.co/PDDVKI0SIw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044591963253706752"
+          ]
+        },
+        "author_id": "2027543101120909313",
+        "conversation_id": "2044591965220585629",
+        "created_at": "2026-04-16T01:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044591965220585629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PDDVKI0SIw",
+              "end": 43,
+              "expanded_url": "https://x.com/egomaiid/status/2044591965220585629/photo/1",
+              "media_key": "3_2044591963253706752",
+              "start": 20,
+              "url": "https://t.co/PDDVKI0SIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044591965220585629",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 13965,
+          "like_count": 2265,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 312
+        },
+        "reply_settings": "everyone",
+        "text": "~ a glimmer of hope https://t.co/PDDVKI0SIw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "Don't you let me go‖男友@Shiroko_Li‖叫我白菜就好‖🚪2778收錢我就跑路‖查主頁成分我會回fo‖陰暗逼od蛆互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2042383810571223190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 253,
+          "like_count": 10811,
+          "listed_count": 1,
+          "media_count": 433,
+          "tweet_count": 2697
+        },
+        "url": "https://t.co/8kuFPf6mcv",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T00:35:38.000Z",
+        "description": "⋆.𐙚 𝒊𝒏𝒕𝒆𝒓𝒏𝒆𝒕 𝒂𝒏𝒈𝒆𝒍\n\n↪ art shop (ngo drop) below",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "acggoods.com/store/egomaid",
+                "end": 23,
+                "expanded_url": "https://acggoods.com/store/egomaid",
+                "start": 0,
+                "url": "https://t.co/lcMRlifsMj"
+              }
+            ]
+          }
+        },
+        "id": "2027543101120909313",
+        "name": "꒰ა egomaid ໒꒱",
+        "pinned_tweet_id": "2043011863160541413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038273261130162176/8rESeLnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 116,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/lcMRlifsMj",
+        "username": "egomaiid",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022091855995994112"
+      ],
+      "media_source_tweet_id": [
+        "2022091865903051117"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2022320528967762213",
+    "created_at": "2026-02-13T14:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T15:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022320528967762213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1781313953181974528",
+          "start": 3,
+          "username": "timawx0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2xJhBMJqIK",
+          "end": 36,
+          "expanded_url": "https://x.com/timawx0/status/2022091865903051117/photo/1",
+          "media_key": "3_2022091855995994112",
+          "start": 13,
+          "url": "https://t.co/2xJhBMJqIK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022320528967762213",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022091865903051117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @timawx0: https://t.co/2xJhBMJqIK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1097,
+        "media_key": "3_2022091855995994112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_p1FvaAAAprcS.jpg",
+        "width": 1051
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022091855995994112"
+          ],
+          "media_source_tweet_id": [
+            "2022091865903051117"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2022320528967762213",
+        "created_at": "2026-02-13T14:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022320528967762213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1781313953181974528",
+              "start": 3,
+              "username": "timawx0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2xJhBMJqIK",
+              "end": 36,
+              "expanded_url": "https://x.com/timawx0/status/2022091865903051117/photo/1",
+              "media_key": "3_2022091855995994112",
+              "start": 13,
+              "url": "https://t.co/2xJhBMJqIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022320528967762213",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022091865903051117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @timawx0: https://t.co/2xJhBMJqIK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022091855995994112"
+          ]
+        },
+        "author_id": "1781313953181974528",
+        "conversation_id": "2022091865903051117",
+        "created_at": "2026-02-12T23:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T00:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022091865903051117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2xJhBMJqIK",
+              "end": 23,
+              "expanded_url": "https://x.com/timawx0/status/2022091865903051117/photo/1",
+              "media_key": "3_2022091855995994112",
+              "start": 0,
+              "url": "https://t.co/2xJhBMJqIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022091865903051117",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 11618,
+          "like_count": 1301,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2xJhBMJqIK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 248,
+          "like_count": 8443,
+          "listed_count": 1,
+          "media_count": 347,
+          "tweet_count": 2138
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T13:28:43.000Z",
+        "description": "適当人間@Nek0P0_u",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "Nek0P0_u"
+              }
+            ]
+          }
+        },
+        "id": "1781313953181974528",
+        "name": "イヤァ",
+        "pinned_tweet_id": "2002005234974117899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003766514504318976/dUlzLFjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 610,
+          "like_count": 9741,
+          "listed_count": 3,
+          "media_count": 1367,
+          "tweet_count": 22225
+        },
+        "username": "timawx0",
+        "verified": false
+      }
+    ]
+  }
+}

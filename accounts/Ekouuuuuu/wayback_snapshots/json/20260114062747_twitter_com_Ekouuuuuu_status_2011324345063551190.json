@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011262240851402753"
+      ],
+      "media_source_tweet_id": [
+        "2011262250913579466"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2011324345063551190",
+    "created_at": "2026-01-14T06:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T07:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011324345063551190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0pxRKZRAbn",
+          "end": 35,
+          "expanded_url": "https://x.com/Cldeop/status/2011262250913579466/photo/1",
+          "media_key": "3_2011262240851402753",
+          "start": 12,
+          "url": "https://t.co/0pxRKZRAbn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011324345063551190",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011262250913579466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: https://t.co/0pxRKZRAbn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2011324345063551190].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2011324345063551190",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2011324345063551190"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 850,
+        "media_key": "3_2011262240851402753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-lwWhgaoAEqWEj.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011262240851402753"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2011262250913579466",
+        "created_at": "2026-01-14T02:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T03:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011262250913579466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0pxRKZRAbn",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/2011262250913579466/photo/1",
+              "media_key": "3_2011262240851402753",
+              "start": 0,
+              "url": "https://t.co/0pxRKZRAbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011262250913579466",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4248,
+          "like_count": 221,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0pxRKZRAbn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/a1Jpzl6Paz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuu",
+                "end": 74,
+                "expanded_url": "http://t.me/Ekouuuuu",
+                "start": 51,
+                "url": "https://t.co/a1Jpzl6Paz"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 209,
+          "like_count": 6360,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1233
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2006394934333710386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98066,
+          "following_count": 679,
+          "like_count": 33793,
+          "listed_count": 275,
+          "media_count": 14981,
+          "tweet_count": 21640
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2053765965696176189",
+    "created_at": "2026-05-11T09:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T10:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053765965696176189"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ekouuuuuu/stat…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Ekouuuuuu/status/2053765832480841952",
+          "start": 21,
+          "url": "https://t.co/dpPM0U4tXE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053765965696176189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053765832480841952",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "醫生在暗示我開不了勁太大的藥，上面不讓開 https://t.co/dpPM0U4tXE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2053765965696176189",
+        "created_at": "2026-05-11T09:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053765965696176189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ekouuuuuu/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Ekouuuuuu/status/2053765832480841952",
+              "start": 21,
+              "url": "https://t.co/dpPM0U4tXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053765965696176189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053765832480841952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "醫生在暗示我開不了勁太大的藥，上面不讓開 https://t.co/dpPM0U4tXE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2053765832480841952",
+        "created_at": "2026-05-11T09:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053765832480841952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ekouuuuuu/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Ekouuuuuu/status/2053748257860600092",
+              "start": 37,
+              "url": "https://t.co/GrgRdKjHcp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053765832480841952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053748257860600092",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "醫生給我開了勞拉讓我舌下含服半t半個小時過後給她反饋效果再考慮要不要換藥 https://t.co/GrgRdKjHcp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "我還想和你談論宇宙和天空‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼8964",
+        "pinned_tweet_id": "2051776082542825551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 295,
+          "like_count": 12166,
+          "listed_count": 1,
+          "media_count": 501,
+          "tweet_count": 3034
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

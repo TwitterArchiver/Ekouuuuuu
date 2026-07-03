@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039160717681815552"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2039160727429435896",
+    "created_at": "2026-04-01T01:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T02:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039160727429435896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sn7fFirIIi",
+          "end": 28,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2039160727429435896/photo/1",
+          "media_key": "3_2039160717681815552",
+          "start": 5,
+          "url": "https://t.co/Sn7fFirIIi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039160727429435896",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Aru♡ https://t.co/Sn7fFirIIi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039160717681815552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEyN3mla8AASZF4.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039160717681815552"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2039160727429435896",
+        "created_at": "2026-04-01T01:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T02:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039160727429435896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sn7fFirIIi",
+              "end": 28,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2039160727429435896/photo/1",
+              "media_key": "3_2039160717681815552",
+              "start": 5,
+              "url": "https://t.co/Sn7fFirIIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039160727429435896",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Aru♡ https://t.co/Sn7fFirIIi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖恆春最深情‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo‖陰暗逼od蛆互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2035365735460180096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 248,
+          "like_count": 9768,
+          "listed_count": 1,
+          "media_count": 411,
+          "tweet_count": 2556
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

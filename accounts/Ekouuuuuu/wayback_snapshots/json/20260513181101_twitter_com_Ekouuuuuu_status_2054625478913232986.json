@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2054625428686483457"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2054625478913232986",
+    "created_at": "2026-05-13T18:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T19:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054625478913232986"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JOHDW6p9Vc",
+          "end": 68,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2054625478913232986/video/1",
+          "media_key": "7_2054625428686483457",
+          "start": 45,
+          "url": "https://t.co/JOHDW6p9Vc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054625478913232986",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Станет странное сердце бестолковая усталость https://t.co/JOHDW6p9Vc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7956,
+        "height": 1280,
+        "media_key": "7_2054625428686483457",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2054625428686483457/pu/img/GOG7vniWvRJl9Prx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054625428686483457/pu/vid/avc1/320x568/3-NRUXVIO6xPsE6M.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054625428686483457/pu/vid/avc1/480x852/tnKPkjbO10jnOFa7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054625428686483457/pu/vid/avc1/720x1280/VB9Rgo6FQ4q6U5Dq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2054625428686483457/pu/pl/EWMr-uBUobEcj6RV.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2054625428686483457"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2054625478913232986",
+        "created_at": "2026-05-13T18:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T19:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054625478913232986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JOHDW6p9Vc",
+              "end": 68,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2054625478913232986/video/1",
+              "media_key": "7_2054625428686483457",
+              "start": 45,
+              "url": "https://t.co/JOHDW6p9Vc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054625478913232986",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Станет странное сердце бестолковая усталость https://t.co/JOHDW6p9Vc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "她說她停不下這瘋狂‖閨蜜@seeFvn‖老公@Shiroko_Li‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 12,
+                "username": "seeFvn"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake flowers",
+        "pinned_tweet_id": "2054494874192195972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 295,
+          "like_count": 12345,
+          "listed_count": 1,
+          "media_count": 512,
+          "tweet_count": 3070
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999665618350669825"
+      ],
+      "media_source_tweet_id": [
+        "1999666039710454140"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1999751847586988511",
+    "created_at": "2025-12-13T08:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T09:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999751847586988511"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "南京大フェスティバル",
+          "probability": 0.2936,
+          "start": 36,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 63,
+          "tag": "南京大フェスティバル2025"
+        },
+        {
+          "end": 87,
+          "start": 79,
+          "tag": "誠に武漢である"
+        },
+        {
+          "end": 95,
+          "start": 89,
+          "tag": "这就是中国"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1526175319224295424",
+          "start": 3,
+          "username": "tsunajinkujotai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PmlurAnKIY",
+          "end": 119,
+          "expanded_url": "https://x.com/tsunajinkujotai/status/1999666039710454140/photo/1",
+          "media_key": "3_1999665618350669825",
+          "start": 96,
+          "url": "https://t.co/PmlurAnKIY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999751847586988511",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999666039710454140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsunajinkujotai: さぁ皆さま！今日は待ちに待った南京大フェスティバル！張り切って盛り上げましょう！\n\n#南京大フェスティバル2025\n#誠に武漢である \n#这就是中国 https://t.co/PmlurAnKIY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1585,
+        "media_key": "3_1999665618350669825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8A9SQNagAEJ-VY.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999665618350669825"
+          ],
+          "media_source_tweet_id": [
+            "1999666039710454140"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1999751847586988511",
+        "created_at": "2025-12-13T08:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T09:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999751847586988511"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "南京大フェスティバル",
+              "probability": 0.2936,
+              "start": 36,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 63,
+              "tag": "南京大フェスティバル2025"
+            },
+            {
+              "end": 87,
+              "start": 79,
+              "tag": "誠に武漢である"
+            },
+            {
+              "end": 95,
+              "start": 89,
+              "tag": "这就是中国"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1526175319224295424",
+              "start": 3,
+              "username": "tsunajinkujotai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PmlurAnKIY",
+              "end": 119,
+              "expanded_url": "https://x.com/tsunajinkujotai/status/1999666039710454140/photo/1",
+              "media_key": "3_1999665618350669825",
+              "start": 96,
+              "url": "https://t.co/PmlurAnKIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999751847586988511",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999666039710454140",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsunajinkujotai: さぁ皆さま！今日は待ちに待った南京大フェスティバル！張り切って盛り上げましょう！\n\n#南京大フェスティバル2025\n#誠に武漢である \n#这就是中国 https://t.co/PmlurAnKIY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999665618350669825"
+          ]
+        },
+        "author_id": "1526175319224295424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1999666039710454140",
+        "created_at": "2025-12-13T02:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T03:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999666039710454140"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "南京大フェスティバル",
+              "probability": 0.3008,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 42,
+              "tag": "南京大フェスティバル2025"
+            },
+            {
+              "end": 66,
+              "start": 58,
+              "tag": "誠に武漢である"
+            },
+            {
+              "end": 74,
+              "start": 68,
+              "tag": "这就是中国"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PmlurAnKIY",
+              "end": 98,
+              "expanded_url": "https://x.com/tsunajinkujotai/status/1999666039710454140/photo/1",
+              "media_key": "3_1999665618350669825",
+              "start": 75,
+              "url": "https://t.co/PmlurAnKIY"
+            },
+            {
+              "display_url": "x.com/mini13user/sta…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/mini13user/status/1999644343657988447",
+              "start": 99,
+              "url": "https://t.co/bv4MWQUu9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999666039710454140",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8369,
+          "like_count": 563,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999644343657988447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "さぁ皆さま！今日は待ちに待った南京大フェスティバル！張り切って盛り上げましょう！\n\n#南京大フェスティバル2025\n#誠に武漢である \n#这就是中国 https://t.co/PmlurAnKIY https://t.co/bv4MWQUu9L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999520374074024441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 137,
+          "like_count": 3507,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 301
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-16T12:18:53.000Z",
+        "description": "起来！ 不愿做奴隶的人们！小日子过得不错的精神吱哪人支持你们！可惜不是你！不要吃饭要核酸！不要改革要文革！不要自由要封控！不要选票要领袖！不要尊严要谎言！不做公民做奴才！顺便一提，五月三十五号是什么节日？习明泽现在在哪里？为什么秦刚突然失去？长江黄河会倒流吗？庆丰帝比崇祯帝更伟大呀？日本语勉强中！墙国话忘掉中！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=o0TGQz…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/watch?v=o0TGQzMCgDw",
+                "start": 0,
+                "url": "https://t.co/3cpcm43h7j"
+              }
+            ]
+          }
+        },
+        "id": "1526175319224295424",
+        "location": "北京市西城区西华门大街28号 ",
+        "name": "乳滑大佐💙💛冈村宁次💙💛 张嘴就喷的傻逼废物w",
+        "pinned_tweet_id": "1537686223707590656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777611230242623488/zKhC4kAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2993,
+          "following_count": 1249,
+          "like_count": 176684,
+          "listed_count": 33,
+          "media_count": 3644,
+          "tweet_count": 42062
+        },
+        "url": "https://t.co/3cpcm43h7j",
+        "username": "tsunajinkujotai",
+        "verified": false
+      }
+    ]
+  }
+}

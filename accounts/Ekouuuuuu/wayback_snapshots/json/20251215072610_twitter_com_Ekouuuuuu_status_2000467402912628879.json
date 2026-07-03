@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000467402912628879",
+    "created_at": "2025-12-15T07:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T08:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000467402912628879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/siquanjiale896…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/siquanjiale8964/status/2000262292454425025",
+          "start": 17,
+          "url": "https://t.co/9S1YfVxW4w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000467402912628879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000262292454425025",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "稀里嘩啦愛上你是什麼雷霆比喻。？ https://t.co/9S1YfVxW4w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000467402912628879",
+        "created_at": "2025-12-15T07:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000467402912628879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/siquanjiale896…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/siquanjiale8964/status/2000262292454425025",
+              "start": 17,
+              "url": "https://t.co/9S1YfVxW4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000467402912628879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000262292454425025",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "稀里嘩啦愛上你是什麼雷霆比喻。？ https://t.co/9S1YfVxW4w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854915067994841088",
+        "conversation_id": "2000262292454425025",
+        "created_at": "2025-12-14T17:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T18:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000262292454425025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000262292454425025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1581,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们咋做到就是随便说点啥然后对方就稀里哗啦爱上你的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 153,
+          "like_count": 3934,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 530
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T15:53:35.000Z",
+        "description": "｜性格は悪いが善良だ｜",
+        "id": "1854915067994841088",
+        "location": "不闲聊 好友位52 聊天门520 没有线下不要问了",
+        "name": "悽",
+        "pinned_tweet_id": "1993553535557116224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988170632170008581/oFbmNtXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1478,
+          "following_count": 161,
+          "like_count": 1256,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 2688
+        },
+        "username": "siquanjiale8964",
+        "verified": false
+      }
+    ]
+  }
+}

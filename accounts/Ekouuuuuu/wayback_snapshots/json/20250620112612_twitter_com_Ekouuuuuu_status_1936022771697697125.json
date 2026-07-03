@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936022681712836608"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1935673486925783117",
+    "created_at": "2025-06-20T11:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T12:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936022771697697125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2437409155",
+          "start": 0,
+          "username": "Imran19549446"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xhT2vzA3Pp",
+          "end": 46,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1936022771697697125/photo/1",
+          "media_key": "3_1936022681712836608",
+          "start": 23,
+          "url": "https://t.co/xhT2vzA3Pp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936022771697697125",
+    "in_reply_to_user_id": "2437409155",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935673486925783117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Imran19549446 配姐姐喝一杯😭 https://t.co/xhT2vzA3Pp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936022681712836608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4iXxyXwAA-I66.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1935673473373802496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtzkxLWXkAACXPX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936022681712836608"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1935673486925783117",
+        "created_at": "2025-06-20T11:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T12:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936022771697697125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2437409155",
+              "start": 0,
+              "username": "Imran19549446"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xhT2vzA3Pp",
+              "end": 46,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1936022771697697125/photo/1",
+              "media_key": "3_1936022681712836608",
+              "start": 23,
+              "url": "https://t.co/xhT2vzA3Pp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936022771697697125",
+        "in_reply_to_user_id": "2437409155",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935673486925783117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Imran19549446 配姐姐喝一杯😭 https://t.co/xhT2vzA3Pp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935673473373802496"
+          ]
+        },
+        "author_id": "2437409155",
+        "conversation_id": "1935673486925783117",
+        "created_at": "2025-06-19T12:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T13:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935673486925783117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RoGI7qFi9z",
+              "end": 153,
+              "expanded_url": "https://x.com/Imran19549446/status/1935673486925783117/photo/1",
+              "media_key": "3_1935673473373802496",
+              "start": 130,
+              "url": "https://t.co/RoGI7qFi9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935673486925783117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 29546,
+          "like_count": 237,
+          "quote_count": 0,
+          "reply_count": 103,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚打车回家的路上被滴滴师傅说我败坏风气  男不男女不女..说我极度自私不考虑父母不考虑家人 … 说这样走在街上会影响青少年的学生的身心…（说了很多很多难听的话…）我好像已经习惯不去反驳一切 默默接受这些社会带给我的恶意…  🥺 你们愿意陪我一起喝一杯吗…. https://t.co/RoGI7qFi9z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "☘️☘️☘️☘️//〔觉今是而昨非〕//☘️☘️☘️☘️☘️/不是一個有素質的人/打遊戲可以叫上我🥲",
+        "id": "1912063502782812160",
+        "location": "莫对故国思故人",
+        "name": "一根白菜梗🥬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933223087061024768/NHwQoVVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 39,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 80
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-10T18:57:18.000Z",
+        "description": "MTF🏳️‍⚧️/INFP/2025.6.2持证含糖🍥/家长不管党🌟/天赋党/轻微焦虑/攒钱srs手术目前进度1/3🔝｜｜不下海不od不键政 /对很多东西感兴趣就会挑一个最猎奇的/要爱自己 永远做个善良可爱的人🧡",
+        "id": "2437409155",
+        "location": "外太空🪐",
+        "name": "桃源^奈奈生🌟🏳️‍⚧️（srs手术规划中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871257582188515328/rm-OY0Hm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 821,
+          "like_count": 189,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 168
+        },
+        "username": "Imran19549446",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1932814960373215327",
+    "created_at": "2025-06-13T10:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T11:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933476813138973133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842423358216142849",
+          "start": 0,
+          "username": "keeganlike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933476813138973133",
+    "in_reply_to_user_id": "1842423358216142849",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932814960373215327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keeganlike 拿酒瓶子紫薇，紫薇完摔碎拿碎片紫餐，紫餐完抽根烟冷静一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1932814960373215327",
+        "created_at": "2025-06-13T10:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T11:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933476813138973133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842423358216142849",
+              "start": 0,
+              "username": "keeganlike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933476813138973133",
+        "in_reply_to_user_id": "1842423358216142849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932814960373215327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keeganlike 拿酒瓶子紫薇，紫薇完摔碎拿碎片紫餐，紫餐完抽根烟冷静一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842423358216142849",
+        "conversation_id": "1932814960373215327",
+        "created_at": "2025-06-11T14:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T15:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932814960373215327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932814960373215327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 159904,
+          "like_count": 1038,
+          "quote_count": 16,
+          "reply_count": 374,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "除了抽烟喝酒紫薇紫餐还有啥发泄方式吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "觉今是而昨非",
+        "id": "1912063502782812160",
+        "location": "Nara-ken, Japan",
+        "name": "Ekou白菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933223087061024768/NHwQoVVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 38,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T04:36:02.000Z",
+        "description": "🫧istp 一个普女罢了 经常会打错字，请见谅。",
+        "id": "1842423358216142849",
+        "name": "泡啊",
+        "pinned_tweet_id": "1905663779826008348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933034574592028674/-GHeRnaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19594,
+          "following_count": 441,
+          "like_count": 9688,
+          "listed_count": 14,
+          "media_count": 215,
+          "tweet_count": 5812
+        },
+        "username": "keeganlike",
+        "verified": false
+      }
+    ]
+  }
+}

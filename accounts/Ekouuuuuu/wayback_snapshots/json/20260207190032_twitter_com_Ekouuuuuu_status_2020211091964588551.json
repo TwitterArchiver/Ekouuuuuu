@@ -1,0 +1,579 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2018680057720455168"
+      ],
+      "media_source_tweet_id": [
+        "2018680085675413669"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2020211091964588551",
+    "created_at": "2026-02-07T19:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T20:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020211091964588551"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 25,
+          "tag": "习近平斩杀线"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1239457591417171973",
+          "start": 3,
+          "username": "GFWfrog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bvtpaGVpRO",
+          "end": 56,
+          "expanded_url": "https://x.com/GFWfrog/status/2018680085675413669/video/1",
+          "media_key": "7_2018680057720455168",
+          "start": 33,
+          "url": "https://t.co/bvtpaGVpRO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020211091964588551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018680085675413669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GFWfrog: 习主席超越神的杀戮😱\n\n#习近平斩杀线 https://t.co/bvtpaGVpRO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19967,
+        "height": 832,
+        "media_key": "7_2018680057720455168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018680057720455168/pu/img/-3NufkCAAPBxlWtR.jpg",
+        "public_metrics": {
+          "view_count": 70731
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018680057720455168/pu/vid/avc1/320x426/uAD7j0vjB9mzgRVq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018680057720455168/pu/vid/avc1/480x640/0FM_2fqffswYg9Cd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018680057720455168/pu/vid/avc1/624x832/dYAnDzAb5DOKdIAA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018680057720455168/pu/pl/YpnoAPUezJcuXUkF.m3u8?v=555"
+          }
+        ],
+        "width": 624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2018680057720455168"
+          ],
+          "media_source_tweet_id": [
+            "2018680085675413669"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2020211091964588551",
+        "created_at": "2026-02-07T19:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T20:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020211091964588551"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "习近平斩杀线"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1239457591417171973",
+              "start": 3,
+              "username": "GFWfrog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvtpaGVpRO",
+              "end": 56,
+              "expanded_url": "https://x.com/GFWfrog/status/2018680085675413669/video/1",
+              "media_key": "7_2018680057720455168",
+              "start": 33,
+              "url": "https://t.co/bvtpaGVpRO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020211091964588551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018680085675413669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GFWfrog: 习主席超越神的杀戮😱\n\n#习近平斩杀线 https://t.co/bvtpaGVpRO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2018680057720455168"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2018680085675413669",
+        "created_at": "2026-02-03T13:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T14:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018680085675413669"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "习近平斩杀线"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvtpaGVpRO",
+              "end": 43,
+              "expanded_url": "https://x.com/GFWfrog/status/2018680085675413669/video/1",
+              "media_key": "7_2018680057720455168",
+              "start": 20,
+              "url": "https://t.co/bvtpaGVpRO"
+            },
+            {
+              "display_url": "x.com/GFWfrog/status…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/GFWfrog/status/2018558093597229241",
+              "start": 44,
+              "url": "https://t.co/n8jPHfnpsv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018680085675413669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 164611,
+          "like_count": 890,
+          "quote_count": 6,
+          "reply_count": 38,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018558093597229241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "习主席超越神的杀戮😱\n\n#习近平斩杀线 https://t.co/bvtpaGVpRO https://t.co/n8jPHfnpsv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖同類互fo‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 247,
+          "like_count": 8188,
+          "listed_count": 1,
+          "media_count": 328,
+          "tweet_count": 2013
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "投稿方式：私信 或 https://t.co/RDqRjAemGp 150岁爷习近平粉丝群：https://t.co/tzbqdA1pKg\n电报频道：https://t.co/Evu48wmwfT \n#习近平150岁倒计时 #大自爆运动 #大冲塔运动 #大传单运动 \n邮箱：gfwfrog@gmail.com 🐸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 100,
+                "tag": "习近平150岁倒计时"
+              },
+              {
+                "end": 118,
+                "start": 112,
+                "tag": "大自爆运动"
+              },
+              {
+                "end": 125,
+                "start": 119,
+                "tag": "大冲塔运动"
+              },
+              {
+                "end": 132,
+                "start": 126,
+                "tag": "大传单运动"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/laohuhaha_bot",
+                "end": 33,
+                "expanded_url": "http://t.me/laohuhaha_bot",
+                "start": 10,
+                "url": "https://t.co/RDqRjAemGp"
+              },
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 69,
+                "expanded_url": "http://t.me/SpeedUpCN",
+                "start": 46,
+                "url": "https://t.co/tzbqdA1pKg"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 98,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 75,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85idW"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙哈哈🐸(习近平150岁倒计时⏳)",
+        "pinned_tweet_id": "2017567995443261535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001820777713221633/f9HElYyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262453,
+          "following_count": 2509,
+          "like_count": 124143,
+          "listed_count": 900,
+          "media_count": 6977,
+          "tweet_count": 13382
+        },
+        "url": "https://t.co/B3cyU85idW",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

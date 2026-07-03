@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994246984094633985"
+      ],
+      "media_source_tweet_id": [
+        "1994246990843269282"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994573968376996270",
+    "created_at": "2025-11-29T01:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T02:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994573968376996270"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "チーパオ",
+          "probability": 0.3473,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1822676667334270976",
+          "start": 3,
+          "username": "Rin0214TW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GWoe8lVkmQ",
+          "end": 67,
+          "expanded_url": "https://x.com/Rin0214TW/status/1994246990843269282/photo/1",
+          "media_key": "3_1994246984094633985",
+          "start": 44,
+          "url": "https://t.co/GWoe8lVkmQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994573968376996270",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 566
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994246990843269282",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rin0214TW: チーパオ姿の聖亜🦊\nアクリルスタンドとして制作予定です。 https://t.co/GWoe8lVkmQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994246984094633985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6z9EOla0AEjnfm.jpg",
+        "width": 1452
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994246984094633985"
+          ],
+          "media_source_tweet_id": [
+            "1994246990843269282"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994573968376996270",
+        "created_at": "2025-11-29T01:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994573968376996270"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "チーパオ",
+              "probability": 0.3473,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1822676667334270976",
+              "start": 3,
+              "username": "Rin0214TW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GWoe8lVkmQ",
+              "end": 67,
+              "expanded_url": "https://x.com/Rin0214TW/status/1994246990843269282/photo/1",
+              "media_key": "3_1994246984094633985",
+              "start": 44,
+              "url": "https://t.co/GWoe8lVkmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994573968376996270",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 566
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994246990843269282",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rin0214TW: チーパオ姿の聖亜🦊\nアクリルスタンドとして制作予定です。 https://t.co/GWoe8lVkmQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994246984094633985"
+          ]
+        },
+        "author_id": "1822676667334270976",
+        "conversation_id": "1994246990843269282",
+        "created_at": "2025-11-28T03:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994246990843269282"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "チーパオ",
+              "probability": 0.2964,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GWoe8lVkmQ",
+              "end": 52,
+              "expanded_url": "https://x.com/Rin0214TW/status/1994246990843269282/photo/1",
+              "media_key": "3_1994246984094633985",
+              "start": 29,
+              "url": "https://t.co/GWoe8lVkmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994246990843269282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 712,
+          "impression_count": 47602,
+          "like_count": 5925,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 566
+        },
+        "reply_settings": "everyone",
+        "text": "チーパオ姿の聖亜🦊\nアクリルスタンドとして制作予定です。 https://t.co/GWoe8lVkmQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 2862,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 225
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T16:49:27.000Z",
+        "description": "illustrator🎨￤崩壊スターレイル、原神とブルアカのイラストを描きます￤中国語、日本語、ENG⭕️￤ 依頼、お仕事 ：DM/ ✉️danpa624@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/51399868",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/51399868",
+                "start": 0,
+                "url": "https://t.co/kawZpJJmFv"
+              }
+            ]
+          }
+        },
+        "id": "1822676667334270976",
+        "name": "RINリン🍎 1日目東へ51b",
+        "pinned_tweet_id": "1955153767919423505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822676824985681920/qwZFpTuy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3483,
+          "following_count": 191,
+          "like_count": 530,
+          "listed_count": 26,
+          "media_count": 53,
+          "tweet_count": 190
+        },
+        "url": "https://t.co/kawZpJJmFv",
+        "username": "Rin0214TW",
+        "verified": true
+      }
+    ]
+  }
+}

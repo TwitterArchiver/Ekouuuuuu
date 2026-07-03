@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999901698194837771",
+    "created_at": "2025-12-13T17:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T18:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999901698194837771"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Qiu1647/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Qiu1647/status/1999855321855213949",
+          "start": 5,
+          "url": "https://t.co/UOnwmQBvcw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999901698194837771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999855321855213949",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是這樣的 https://t.co/UOnwmQBvcw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999901698194837771",
+        "created_at": "2025-12-13T17:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T18:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999901698194837771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Qiu1647/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Qiu1647/status/1999855321855213949",
+              "start": 5,
+              "url": "https://t.co/UOnwmQBvcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999901698194837771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999855321855213949",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是這樣的 https://t.co/UOnwmQBvcw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490543758160527361",
+        "conversation_id": "1999855321855213949",
+        "created_at": "2025-12-13T14:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T15:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999855321855213949"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999855321855213949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 521,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认为人类幼崽在生物中是最丑陋的那一档"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了ww‖極樂‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 147,
+          "like_count": 3631,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 384
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T04:32:15.000Z",
+        "description": "男。我不期待爱，只期待流量，关注，钱。不谈恋爱，不免费私联，文案随意转载。",
+        "id": "1490543758160527361",
+        "location": "狮城",
+        "name": "Philip（p",
+        "pinned_tweet_id": "1997213991886602721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999091432024375296/itsbnFY__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 1494,
+          "like_count": 62995,
+          "listed_count": 5,
+          "media_count": 637,
+          "tweet_count": 15360
+        },
+        "username": "Qiu1647",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1934648186758676846",
+    "created_at": "2025-06-18T12:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T13:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935312645181292594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1103830967163117568",
+          "start": 0,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935312645181292594",
+    "in_reply_to_user_id": "1103830967163117568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934648186758676846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anblk984 还好我小学的时候就给习近平画双马尾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1934648186758676846",
+        "created_at": "2025-06-18T12:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T13:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935312645181292594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103830967163117568",
+              "start": 0,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935312645181292594",
+        "in_reply_to_user_id": "1103830967163117568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934648186758676846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anblk984 还好我小学的时候就给习近平画双马尾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103830967163117568",
+        "conversation_id": "1934648186758676846",
+        "created_at": "2025-06-16T16:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T17:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934648186758676846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934648186758676846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 66491,
+          "like_count": 584,
+          "quote_count": 5,
+          "reply_count": 93,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "现在天天复读反党反华烂梗的你是否互相起多年前小学早读书声琅琅歌颂祖国的自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "☘️☘️☘️☘️//〔觉今是而昨非〕//☘️☘️☘️☘️☘️/一想到有錢人過得這麼好就不自覺的挺直了腰捏/打遊戲可以叫上我🥲",
+        "id": "1912063502782812160",
+        "location": "🚪52就能解鎖一根白菜的日常生活）",
+        "name": "一根白菜梗🥬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933223087061024768/NHwQoVVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 32,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 59
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人   无米线爱习楠                                                                   \n狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCI5nz…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCI5nz6x7NwtAkNfwouiz3Gw",
+                "start": 0,
+                "url": "https://t.co/WZA7RK3yQl"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "纳克萨玛斯          下面是油管",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1934784296000323596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806502873544671232/5QMKRtxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7922,
+          "following_count": 958,
+          "like_count": 85464,
+          "listed_count": 49,
+          "media_count": 1388,
+          "tweet_count": 19771
+        },
+        "url": "https://t.co/WZA7RK3yQl",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

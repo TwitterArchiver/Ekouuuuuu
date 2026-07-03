@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053050180749209600"
+      ],
+      "media_source_tweet_id": [
+        "2053050187342586078"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2053673795949658172",
+    "created_at": "2026-05-11T03:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053673795949658172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1775443581496614913",
+          "start": 3,
+          "username": "saltt808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wtMM8maHsy",
+          "end": 42,
+          "expanded_url": "https://x.com/saltt808/status/2053050187342586078/photo/1",
+          "media_key": "3_2053050180749209600",
+          "start": 19,
+          "url": "https://t.co/wtMM8maHsy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053673795949658172",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 331
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053050187342586078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saltt808: おえっ… https://t.co/wtMM8maHsy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2053050180749209600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3mQwmbsAAEUHW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053050180749209600"
+          ],
+          "media_source_tweet_id": [
+            "2053050187342586078"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2053673795949658172",
+        "created_at": "2026-05-11T03:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053673795949658172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775443581496614913",
+              "start": 3,
+              "username": "saltt808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wtMM8maHsy",
+              "end": 42,
+              "expanded_url": "https://x.com/saltt808/status/2053050187342586078/photo/1",
+              "media_key": "3_2053050180749209600",
+              "start": 19,
+              "url": "https://t.co/wtMM8maHsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053673795949658172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 331
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053050187342586078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saltt808: おえっ… https://t.co/wtMM8maHsy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053050180749209600"
+          ]
+        },
+        "author_id": "1775443581496614913",
+        "conversation_id": "2053050187342586078",
+        "created_at": "2026-05-09T09:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053050187342586078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wtMM8maHsy",
+              "end": 28,
+              "expanded_url": "https://x.com/saltt808/status/2053050187342586078/photo/1",
+              "media_key": "3_2053050180749209600",
+              "start": 5,
+              "url": "https://t.co/wtMM8maHsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053050187342586078",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 25666,
+          "like_count": 4100,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 331
+        },
+        "reply_settings": "everyone",
+        "text": "おえっ… https://t.co/wtMM8maHsy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "我還想和你談論宇宙和天空‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2051776082542825551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 297,
+          "like_count": 11972,
+          "listed_count": 1,
+          "media_count": 500,
+          "tweet_count": 2998
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T08:41:57.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/saltt808",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/saltt808",
+                "start": 0,
+                "url": "https://t.co/DKyBwLjfIj"
+              }
+            ]
+          }
+        },
+        "id": "1775443581496614913",
+        "location": "qkql0808@naver.com",
+        "name": "소금",
+        "pinned_tweet_id": "2051910205504672209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039249218582560768/58b2mdLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11638,
+          "following_count": 185,
+          "like_count": 9971,
+          "listed_count": 41,
+          "media_count": 95,
+          "tweet_count": 1459
+        },
+        "url": "https://t.co/DKyBwLjfIj",
+        "username": "saltt808",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994354902940999680"
+      ],
+      "media_source_tweet_id": [
+        "1994354914584080525"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10054080790",
+          "name": "ハッピーシュガーライフ"
+        }
+      }
+    ],
+    "conversation_id": "1994575496534004056",
+    "created_at": "2025-11-29T01:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T02:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994575496534004056"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "ハッピーシュガーライフ",
+          "probability": 0.3995,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1247752825926324225",
+          "start": 3,
+          "username": "matchaistasty"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5q4J2UmLtr",
+          "end": 54,
+          "expanded_url": "https://x.com/matchaistasty/status/1994354914584080525/photo/1",
+          "media_key": "3_1994354902940999680",
+          "start": 31,
+          "url": "https://t.co/5q4J2UmLtr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994575496534004056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 435
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994354914584080525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @matchaistasty: ハッピーシュガーライフ https://t.co/5q4J2UmLtr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3567,
+        "media_key": "3_1994354902940999680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61fN7nbYAAW-Fq.jpg",
+        "width": 2680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994354902940999680"
+          ],
+          "media_source_tweet_id": [
+            "1994354914584080525"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054080790",
+              "name": "ハッピーシュガーライフ"
+            }
+          }
+        ],
+        "conversation_id": "1994575496534004056",
+        "created_at": "2025-11-29T01:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994575496534004056"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "ハッピーシュガーライフ",
+              "probability": 0.3995,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1247752825926324225",
+              "start": 3,
+              "username": "matchaistasty"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5q4J2UmLtr",
+              "end": 54,
+              "expanded_url": "https://x.com/matchaistasty/status/1994354914584080525/photo/1",
+              "media_key": "3_1994354902940999680",
+              "start": 31,
+              "url": "https://t.co/5q4J2UmLtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994575496534004056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 435
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994354914584080525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @matchaistasty: ハッピーシュガーライフ https://t.co/5q4J2UmLtr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994354902940999680"
+          ]
+        },
+        "author_id": "1247752825926324225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054080790",
+              "name": "ハッピーシュガーライフ"
+            }
+          }
+        ],
+        "conversation_id": "1994354914584080525",
+        "created_at": "2025-11-28T10:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994354914584080525"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "ハッピーシュガーライフ",
+              "probability": 0.3491,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5q4J2UmLtr",
+              "end": 35,
+              "expanded_url": "https://x.com/matchaistasty/status/1994354914584080525/photo/1",
+              "media_key": "3_1994354902940999680",
+              "start": 12,
+              "url": "https://t.co/5q4J2UmLtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994354914584080525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 317,
+          "impression_count": 50259,
+          "like_count": 4621,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 435
+        },
+        "reply_settings": "everyone",
+        "text": "ハッピーシュガーライフ https://t.co/5q4J2UmLtr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 2887,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 242
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-08T05:07:19.000Z",
+        "description": "📩: tastygreentea19@gmail.com\n【Fanbox】https://t.co/FcnHLcnpaa\n【Youtube】https://t.co/OF0i61HJcq\n【nsfw】@matchaistasty2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 100,
+                "username": "matchaistasty2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "matchaistasty.fanbox.cc",
+                "end": 60,
+                "expanded_url": "https://matchaistasty.fanbox.cc/",
+                "start": 37,
+                "url": "https://t.co/FcnHLcnpaa"
+              },
+              {
+                "display_url": "youtube.com/@greenTEA1919",
+                "end": 93,
+                "expanded_url": "https://www.youtube.com/@greenTEA1919",
+                "start": 70,
+                "url": "https://t.co/OF0i61HJcq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/52156829",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/52156829",
+                "start": 0,
+                "url": "https://t.co/6nHpgJefVj"
+              }
+            ]
+          }
+        },
+        "id": "1247752825926324225",
+        "name": "green TEA。🍵",
+        "pinned_tweet_id": "1982063875291046037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824787135108677632/rhyE8aUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122170,
+          "following_count": 5,
+          "like_count": 666,
+          "listed_count": 544,
+          "media_count": 192,
+          "tweet_count": 2092
+        },
+        "url": "https://t.co/6nHpgJefVj",
+        "username": "matchaistasty",
+        "verified": false
+      }
+    ]
+  }
+}

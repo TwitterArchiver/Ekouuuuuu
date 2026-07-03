@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2009897471674294349",
+    "created_at": "2026-01-10T07:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T08:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009897471674294349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1792158516096180224",
+          "start": 3,
+          "username": "Dr_Duckter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009897471674294349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009494947280597483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dr_Duckter: 发现一个规律\n\n批评毛泽东 腊左会骂\n批评邓小平 既得利益者会骂\n批评江泽民 蛤丝会骂\n批评胡锦涛 基本盘会骂\n批评习近平 粉红和水军闻着味就来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2009897471674294349",
+        "created_at": "2026-01-10T07:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T08:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009897471674294349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1792158516096180224",
+              "start": 3,
+              "username": "Dr_Duckter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009897471674294349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009494947280597483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dr_Duckter: 发现一个规律\n\n批评毛泽东 腊左会骂\n批评邓小平 既得利益者会骂\n批评江泽民 蛤丝会骂\n批评胡锦涛 基本盘会骂\n批评习近平 粉红和水军闻着味就来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792158516096180224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2009494947280597483",
+        "created_at": "2026-01-09T05:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T06:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009494947280597483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009494947280597483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 115564,
+          "like_count": 865,
+          "quote_count": 3,
+          "reply_count": 55,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "发现一个规律\n\n批评毛泽东 腊左会骂\n批评邓小平 既得利益者会骂\n批评江泽民 蛤丝会骂\n批评胡锦涛 基本盘会骂\n批评习近平 粉红和水军闻着味就来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖藥物依賴‖尼古丁依賴‖N₂O依賴‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 111,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 88,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2004134740719538263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 198,
+          "like_count": 5960,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1051
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T11:41:14.000Z",
+        "description": "逃生仓 @Dr__Duckter 关注我带你看更多冲塔图片",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "Dr__Duckter"
+              }
+            ]
+          }
+        },
+        "id": "1792158516096180224",
+        "location": "God's Country",
+        "name": "Dr Duckter Duckworth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001493366782185472/9v0dyZ8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 515,
+          "like_count": 7458,
+          "listed_count": 15,
+          "media_count": 155,
+          "tweet_count": 1275
+        },
+        "username": "Dr_Duckter",
+        "verified": false
+      }
+    ]
+  }
+}

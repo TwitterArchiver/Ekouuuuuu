@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000060257083772928"
+      ],
+      "media_source_tweet_id": [
+        "2000060397290914167"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2000510410232107449",
+    "created_at": "2025-12-15T10:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T11:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000510410232107449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1691307559",
+          "start": 3,
+          "username": "murariss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eEiCBx3IT5",
+          "end": 43,
+          "expanded_url": "https://x.com/murariss/status/2000060397290914167/photo/1",
+          "media_key": "3_2000060257083772928",
+          "start": 20,
+          "url": "https://t.co/eEiCBx3IT5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000510410232107449",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1149
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000060397290914167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @murariss: 新刊表紙！ https://t.co/eEiCBx3IT5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1769,
+        "media_key": "3_2000060257083772928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8GkNQDa0AAG04l.jpg",
+        "width": 1253
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000060257083772928"
+          ],
+          "media_source_tweet_id": [
+            "2000060397290914167"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000510410232107449",
+        "created_at": "2025-12-15T10:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T11:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000510410232107449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1691307559",
+              "start": 3,
+              "username": "murariss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eEiCBx3IT5",
+              "end": 43,
+              "expanded_url": "https://x.com/murariss/status/2000060397290914167/photo/1",
+              "media_key": "3_2000060257083772928",
+              "start": 20,
+              "url": "https://t.co/eEiCBx3IT5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000510410232107449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1149
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000060397290914167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @murariss: 新刊表紙！ https://t.co/eEiCBx3IT5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000060257083772928"
+          ]
+        },
+        "author_id": "1691307559",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000060397290914167",
+        "created_at": "2025-12-14T04:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T05:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000060397290914167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eEiCBx3IT5",
+              "end": 29,
+              "expanded_url": "https://x.com/murariss/status/2000060397290914167/photo/1",
+              "media_key": "3_2000060257083772928",
+              "start": 6,
+              "url": "https://t.co/eEiCBx3IT5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000060397290914167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1205,
+          "impression_count": 94777,
+          "like_count": 9809,
+          "quote_count": 8,
+          "reply_count": 10,
+          "retweet_count": 1149
+        },
+        "reply_settings": "everyone",
+        "text": "新刊表紙！ https://t.co/eEiCBx3IT5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 155,
+          "like_count": 4023,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 576
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-22T14:50:40.000Z",
+        "description": "pixiv→https://t.co/Fy26X4lf4u\n🍈→https://t.co/OiE6GZpwyt\nエボンの賜物だな",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/7335129",
+                "end": 29,
+                "expanded_url": "http://pixiv.net/users/7335129",
+                "start": 6,
+                "url": "https://t.co/Fy26X4lf4u"
+              },
+              {
+                "display_url": "melonbooks.co.jp/circle/index.p…",
+                "end": 55,
+                "expanded_url": "https://www.melonbooks.co.jp/circle/index.php?circle_id=25865",
+                "start": 32,
+                "url": "https://t.co/OiE6GZpwyt"
+              }
+            ]
+          }
+        },
+        "id": "1691307559",
+        "location": "2b2t",
+        "name": "リスくん/C107火曜東フ55b",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978648326880059392/AZWOOrm9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38429,
+          "following_count": 429,
+          "like_count": 25518,
+          "listed_count": 581,
+          "media_count": 58,
+          "tweet_count": 4456
+        },
+        "username": "murariss",
+        "verified": true
+      }
+    ]
+  }
+}

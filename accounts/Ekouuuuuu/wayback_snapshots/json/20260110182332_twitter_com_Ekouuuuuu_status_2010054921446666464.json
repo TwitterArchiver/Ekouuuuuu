@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010054917399138304"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2010054921446666464",
+    "created_at": "2026-01-10T18:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T19:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010054921446666464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/42kTrmDFYd",
+          "end": 31,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2010054921446666464/photo/1",
+          "media_key": "3_2010054917399138304",
+          "start": 8,
+          "url": "https://t.co/42kTrmDFYd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010054921446666464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的心好亂…… https://t.co/42kTrmDFYd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010054917399138304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-UmTDKaUAAkEyG.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010054917399138304"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2010054921446666464",
+        "created_at": "2026-01-10T18:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T19:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010054921446666464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/42kTrmDFYd",
+              "end": 31,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2010054921446666464/photo/1",
+              "media_key": "3_2010054917399138304",
+              "start": 8,
+              "url": "https://t.co/42kTrmDFYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010054921446666464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的心好亂…… https://t.co/42kTrmDFYd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖藥物依賴‖尼古丁依賴‖N₂O依賴‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 111,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 88,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2004134740719538263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 201,
+          "like_count": 6096,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1090
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

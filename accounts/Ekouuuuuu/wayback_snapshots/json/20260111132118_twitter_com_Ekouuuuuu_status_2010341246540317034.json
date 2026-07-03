@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010181822278447105"
+      ],
+      "media_source_tweet_id": [
+        "2010260389771259962"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Barbecues and Grilling",
+          "id": "858037909219192833",
+          "name": "Grilling"
+        }
+      }
+    ],
+    "conversation_id": "2010341246540317034",
+    "created_at": "2026-01-11T13:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T14:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010341246540317034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "949602468643549184",
+          "start": 3,
+          "username": "Ponconyan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/nekogoing/stat…",
+          "end": 59,
+          "expanded_url": "https://x.com/nekogoing/status/2009550724905230739?s=20",
+          "start": 36,
+          "url": "https://t.co/hfaybtyOaB"
+        },
+        {
+          "display_url": "pic.x.com/WyUyAJ5UdA",
+          "end": 83,
+          "expanded_url": "https://x.com/Ponconyan/status/2010260389771259962/photo/1",
+          "media_key": "3_2010181822278447105",
+          "start": 60,
+          "url": "https://t.co/WyUyAJ5UdA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010341246540317034",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 613
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010260389771259962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ponconyan: みんなで焼き肉ターイムヽ(ﾟ∀ﾟ)ﾉ \n\nhttps://t.co/hfaybtyOaB https://t.co/WyUyAJ5UdA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2010181822278447105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-WZt4rasAEIQZf.jpg",
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010181822278447105"
+          ],
+          "media_source_tweet_id": [
+            "2010260389771259962"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Barbecues and Grilling",
+              "id": "858037909219192833",
+              "name": "Grilling"
+            }
+          }
+        ],
+        "conversation_id": "2010341246540317034",
+        "created_at": "2026-01-11T13:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010341246540317034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "949602468643549184",
+              "start": 3,
+              "username": "Ponconyan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/nekogoing/stat…",
+              "end": 59,
+              "expanded_url": "https://x.com/nekogoing/status/2009550724905230739?s=20",
+              "start": 36,
+              "url": "https://t.co/hfaybtyOaB"
+            },
+            {
+              "display_url": "pic.x.com/WyUyAJ5UdA",
+              "end": 83,
+              "expanded_url": "https://x.com/Ponconyan/status/2010260389771259962/photo/1",
+              "media_key": "3_2010181822278447105",
+              "start": 60,
+              "url": "https://t.co/WyUyAJ5UdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010341246540317034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 613
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010260389771259962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ponconyan: みんなで焼き肉ターイムヽ(ﾟ∀ﾟ)ﾉ \n\nhttps://t.co/hfaybtyOaB https://t.co/WyUyAJ5UdA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010181822278447105"
+          ]
+        },
+        "author_id": "949602468643549184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Barbecues and Grilling",
+              "id": "858037909219192833",
+              "name": "Grilling"
+            }
+          }
+        ],
+        "conversation_id": "2010260389771259962",
+        "created_at": "2026-01-11T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010260389771259962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekogoing/stat…",
+              "end": 44,
+              "expanded_url": "https://x.com/nekogoing/status/2009550724905230739?s=20",
+              "start": 21,
+              "url": "https://t.co/hfaybtyOaB"
+            },
+            {
+              "display_url": "pic.x.com/WyUyAJ5UdA",
+              "end": 68,
+              "expanded_url": "https://x.com/Ponconyan/status/2010260389771259962/photo/1",
+              "media_key": "3_2010181822278447105",
+              "start": 45,
+              "url": "https://t.co/WyUyAJ5UdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010260389771259962",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 402,
+          "impression_count": 82968,
+          "like_count": 4345,
+          "quote_count": 7,
+          "reply_count": 11,
+          "retweet_count": 613
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009550724905230739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "みんなで焼き肉ターイムヽ(ﾟ∀ﾟ)ﾉ \n\nhttps://t.co/hfaybtyOaB https://t.co/WyUyAJ5UdA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖藥物依賴‖尼古丁依賴‖N₂O依賴‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 111,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 88,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 209,
+          "like_count": 6163,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1147
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-06T11:24:06.000Z",
+        "description": "ゲームとイラスト関連をメインに投稿しています！\n\nPixiv➡️https://t.co/XJ18SfW7X5\nお題箱➡️https://t.co/IBq3kD3eeI\nYoutube➡️https://t.co/wHYQWsmYFx\n\n※イラスト・動画共にAIを使用してます",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/S3oM8",
+                "end": 55,
+                "expanded_url": "https://x.gd/S3oM8",
+                "start": 32,
+                "url": "https://t.co/XJ18SfW7X5"
+              },
+              {
+                "display_url": "x.gd/Hl4AI",
+                "end": 84,
+                "expanded_url": "https://x.gd/Hl4AI",
+                "start": 61,
+                "url": "https://t.co/IBq3kD3eeI"
+              },
+              {
+                "display_url": "x.gd/h8umu",
+                "end": 117,
+                "expanded_url": "https://x.gd/h8umu",
+                "start": 94,
+                "url": "https://t.co/wHYQWsmYFx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ponconyan",
+                "end": 23,
+                "expanded_url": "https://lit.link/ponconyan",
+                "start": 0,
+                "url": "https://t.co/TjYOqUixnW"
+              }
+            ]
+          }
+        },
+        "id": "949602468643549184",
+        "location": "北海道　札幌",
+        "name": "ぽんこつ",
+        "pinned_tweet_id": "2009762107793821884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1282624303763083264/_jKiMvlY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41010,
+          "following_count": 2378,
+          "like_count": 39684,
+          "listed_count": 186,
+          "media_count": 6162,
+          "tweet_count": 23579
+        },
+        "url": "https://t.co/TjYOqUixnW",
+        "username": "Ponconyan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999645015954588046",
+    "created_at": "2025-12-13T07:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T08:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999740947186454935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1835298312628445184",
+          "start": 0,
+          "username": "Chinlawantree"
+        },
+        {
+          "end": 29,
+          "id": "304506442",
+          "start": 15,
+          "username": "peopledailyJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999740947186454935",
+    "in_reply_to_user_id": "1835298312628445184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999739792180019297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chinlawantree @peopledailyJP 我的家人和你們支國人的待遇可不同哦～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999645015954588046",
+        "created_at": "2025-12-13T07:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T08:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999740947186454935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1835298312628445184",
+              "start": 0,
+              "username": "Chinlawantree"
+            },
+            {
+              "end": 29,
+              "id": "304506442",
+              "start": 15,
+              "username": "peopledailyJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999740947186454935",
+        "in_reply_to_user_id": "1835298312628445184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999739792180019297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chinlawantree @peopledailyJP 我的家人和你們支國人的待遇可不同哦～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835298312628445184",
+        "conversation_id": "1999645015954588046",
+        "created_at": "2025-12-13T07:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T08:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999739792180019297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            },
+            {
+              "end": 25,
+              "id": "304506442",
+              "start": 11,
+              "username": "peopledailyJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999739792180019297",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999692268014604547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu @peopledailyJP 我希望你奶奶是当年的慰安妇 下辈子也是☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999520374074024441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 136,
+          "like_count": 3454,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 252
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T12:43:19.000Z",
+        "description": "",
+        "id": "1835298312628445184",
+        "location": "Shenzhen",
+        "name": "唔拖邦🙃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835332148284342273/NFQHSx_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "Chinlawantree",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-24T16:43:20.000Z",
+        "description": "＃中国 で最も早く開設された日本語ニュースサイト「人民網日本語版」のTwitter公式アカウントです。中国関連のニュースの記事見出しをお届けします。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "中国"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "j.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://j.people.com.cn/",
+                "start": 0,
+                "url": "https://t.co/2bWBbIG4tH"
+              }
+            ]
+          }
+        },
+        "id": "304506442",
+        "name": "人民網日本",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957355707252248576/LuV0zyjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37921,
+          "following_count": 105,
+          "like_count": 945,
+          "listed_count": 691,
+          "media_count": 21220,
+          "tweet_count": 37185
+        },
+        "url": "https://t.co/2bWBbIG4tH",
+        "username": "peopledailyJP",
+        "verified": true
+      }
+    ]
+  }
+}

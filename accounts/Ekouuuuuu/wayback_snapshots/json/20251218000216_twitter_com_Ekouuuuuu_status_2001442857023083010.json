@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2001138532489027672",
+    "created_at": "2025-12-18T00:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T01:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001442857023083010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974688655513096192",
+          "start": 0,
+          "username": "lin_dialog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001442857023083010",
+    "in_reply_to_user_id": "1974688655513096192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001138532489027672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lin_dialog 還真是"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9323,
+        "height": 472,
+        "media_key": "13_2001138467032719364",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001138467032719364/img/I9B0_6jViqj3c4UO.jpg",
+        "public_metrics": {
+          "view_count": 1427
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001138467032719364/vid/avc1/518x270/ggeP13ikkMSfOgCd.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001138467032719364/vid/avc1/906x472/2WU-PyqsqXMMKckV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001138467032719364/pl/5f6u32aTE2eSxNKB.m3u8"
+          }
+        ],
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2001138532489027672",
+        "created_at": "2025-12-18T00:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T01:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001442857023083010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974688655513096192",
+              "start": 0,
+              "username": "lin_dialog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001442857023083010",
+        "in_reply_to_user_id": "1974688655513096192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001138532489027672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lin_dialog 還真是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001138467032719364"
+          ]
+        },
+        "author_id": "1974688655513096192",
+        "conversation_id": "2001138532489027672",
+        "created_at": "2025-12-17T03:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T04:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001138532489027672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6I2EjwIqWJ",
+              "end": 33,
+              "expanded_url": "https://x.com/lin_dialog/status/2001138532489027672/video/1",
+              "media_key": "13_2001138467032719364",
+              "start": 10,
+              "url": "https://t.co/6I2EjwIqWJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001138532489027672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3981,
+          "like_count": 142,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "我吃完pr就这样： https://t.co/6I2EjwIqWJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 184,
+          "like_count": 4624,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 689
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "霖霖 ♡ 17 they/them｜shedtwt odtwt｜bmi16.7 (o^^o) ♡｜need more moots!｜抽烟喝酒自残od｜非二元性别｜朋克摇滚 哲学 小说爱好者｜LGBTQ+🏳️‍🌈全友好^^｜互fo私信我 只fo同类! 健全勿扰",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "1993204221223879044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997881852657549312/35b--OQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 177,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 942
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

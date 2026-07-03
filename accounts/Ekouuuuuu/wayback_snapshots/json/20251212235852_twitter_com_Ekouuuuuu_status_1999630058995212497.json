@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1999630058995212497",
+    "created_at": "2025-12-12T23:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T00:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999630058995212497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1830467588557836288",
+          "start": 3,
+          "username": "mozzya_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "bilibili.com/opus/114513684…",
+          "end": 118,
+          "expanded_url": "https://www.bilibili.com/opus/1145136846370504707?spm_id_from=333.1387.0.0",
+          "start": 95,
+          "status": 200,
+          "title": "验证码_哔哩哔哩",
+          "unwound_url": "https://www.bilibili.com/opus/1145136846370504707?spm_id_from=333.1387.0.0",
+          "url": "https://t.co/E77Yw4wfgu"
+        },
+        {
+          "display_url": "t.co/Lf40Jtj",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/Lf40Jtj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999630058995212497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 297
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999117375778754609",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mozzya_: 你好，中国的老师们！\n我开通BiliBili账号啦！今后我会把漫画翻译成中文，在这里更新作品！\n请多多关照！520❤（听说这是“我爱你”的意思？我今天刚学会的。）\nhttps://t.co/E77Yw4wfgu https://t.co/Lf40Jtj…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 497,
+        "media_key": "3_1999117346980683776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75KoqMa4AARKt_.jpg",
+        "width": 497
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1999630058995212497",
+        "created_at": "2025-12-12T23:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T00:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999630058995212497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1830467588557836288",
+              "start": 3,
+              "username": "mozzya_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bilibili.com/opus/114513684…",
+              "end": 118,
+              "expanded_url": "https://www.bilibili.com/opus/1145136846370504707?spm_id_from=333.1387.0.0",
+              "start": 95,
+              "status": 200,
+              "title": "验证码_哔哩哔哩",
+              "unwound_url": "https://www.bilibili.com/opus/1145136846370504707?spm_id_from=333.1387.0.0",
+              "url": "https://t.co/E77Yw4wfgu"
+            },
+            {
+              "display_url": "t.co/Lf40Jtj",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/Lf40Jtj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999630058995212497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 297
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999117375778754609",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mozzya_: 你好，中国的老师们！\n我开通BiliBili账号啦！今后我会把漫画翻译成中文，在这里更新作品！\n请多多关照！520❤（听说这是“我爱你”的意思？我今天刚学会的。）\nhttps://t.co/E77Yw4wfgu https://t.co/Lf40Jtj…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999117346980683776"
+          ]
+        },
+        "author_id": "1830467588557836288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1999117375778754609",
+        "created_at": "2025-12-11T14:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T15:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999117375778754609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bilibili.com/opus/114513684…",
+              "end": 105,
+              "expanded_url": "https://www.bilibili.com/opus/1145136846370504707?spm_id_from=333.1387.0.0",
+              "start": 82,
+              "status": 200,
+              "title": "验证码_哔哩哔哩",
+              "unwound_url": "https://www.bilibili.com/opus/1145136846370504707?spm_id_from=333.1387.0.0",
+              "url": "https://t.co/E77Yw4wfgu"
+            },
+            {
+              "display_url": "pic.x.com/Lf40Jtj9dl",
+              "end": 129,
+              "expanded_url": "https://x.com/mozzya_/status/1999117375778754609/photo/1",
+              "media_key": "3_1999117346980683776",
+              "start": 106,
+              "url": "https://t.co/Lf40Jtj9dl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999117375778754609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 289,
+          "impression_count": 164443,
+          "like_count": 6012,
+          "quote_count": 2,
+          "reply_count": 210,
+          "retweet_count": 297
+        },
+        "reply_settings": "everyone",
+        "text": "你好，中国的老师们！\n我开通BiliBili账号啦！今后我会把漫画翻译成中文，在这里更新作品！\n请多多关照！520❤（听说这是“我爱你”的意思？我今天刚学会的。）\nhttps://t.co/E77Yw4wfgu https://t.co/Lf40Jtj9dl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999520374074024441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 134,
+          "like_count": 3402,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 206
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T04:47:42.000Z",
+        "description": "와카모애호가/B站 Mozzya",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/33171038",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/33171038",
+                "start": 0,
+                "url": "https://t.co/MclMzzlkrx"
+              }
+            ]
+          }
+        },
+        "id": "1830467588557836288",
+        "name": "좃간/C107 1日目 東4ミ-43a",
+        "pinned_tweet_id": "1998732499464200305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910552615391551489/sCTAbdK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12331,
+          "following_count": 252,
+          "like_count": 1118,
+          "listed_count": 45,
+          "media_count": 129,
+          "tweet_count": 1666
+        },
+        "url": "https://t.co/MclMzzlkrx",
+        "username": "mozzya_",
+        "verified": false
+      }
+    ]
+  }
+}

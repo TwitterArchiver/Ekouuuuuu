@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062639945626619904",
+        "3_2062639945966309376"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1037750303553073152",
+          "name": "Onmyoji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1037750303553073152",
+          "name": "Onmyoji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2062639949439184958",
+    "created_at": "2026-06-04T20:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T21:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062639949439184958"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 90,
+          "tag": "陰陽師"
+        },
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "妖刀姬"
+        },
+        {
+          "end": 115,
+          "start": 100,
+          "tag": "cosplayㅤㅤㅤㅤㅤㅤㅤ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RQVb3xy2HO",
+          "end": 139,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2062639949439184958/photo/1",
+          "media_key": "3_2062639945626619904",
+          "start": 116,
+          "url": "https://t.co/RQVb3xy2HO"
+        },
+        {
+          "display_url": "pic.x.com/RQVb3xy2HO",
+          "end": 139,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2062639949439184958/photo/1",
+          "media_key": "3_2062639945966309376",
+          "start": 116,
+          "url": "https://t.co/RQVb3xy2HO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062639949439184958",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "「強ければ、誰も私を欺かない。強ければ、誰も私を傷つけない。…でも、強さって、一体何？」\n「只要變強，就沒有人能欺騙我。只要變強，就沒有人能傷害我。……但是，強大究竟是什麼呢？」\n#陰陽師 #妖刀姬 #cosplayㅤㅤㅤㅤㅤㅤㅤ https://t.co/RQVb3xy2HO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062639945626619904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_4GiqbEAAxfTl.jpg",
+        "width": 1553
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062639945966309376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_4Gj7aUAA8iWK.jpg",
+        "width": 1553
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062639945626619904",
+            "3_2062639945966309376"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1037750303553073152",
+              "name": "Onmyoji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1037750303553073152",
+              "name": "Onmyoji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2062639949439184958",
+        "created_at": "2026-06-04T20:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T21:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062639949439184958"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "陰陽師"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "妖刀姬"
+            },
+            {
+              "end": 115,
+              "start": 100,
+              "tag": "cosplayㅤㅤㅤㅤㅤㅤㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RQVb3xy2HO",
+              "end": 139,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2062639949439184958/photo/1",
+              "media_key": "3_2062639945626619904",
+              "start": 116,
+              "url": "https://t.co/RQVb3xy2HO"
+            },
+            {
+              "display_url": "pic.x.com/RQVb3xy2HO",
+              "end": 139,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2062639949439184958/photo/1",
+              "media_key": "3_2062639945966309376",
+              "start": 116,
+              "url": "https://t.co/RQVb3xy2HO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062639949439184958",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「強ければ、誰も私を欺かない。強ければ、誰も私を傷つけない。…でも、強さって、一体何？」\n「只要變強，就沒有人能欺騙我。只要變強，就沒有人能傷害我。……但是，強大究竟是什麼呢？」\n#陰陽師 #妖刀姬 #cosplayㅤㅤㅤㅤㅤㅤㅤ https://t.co/RQVb3xy2HO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖化 學 極 樂‖支畜別他媽來惡心我了‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2058947003573579910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 325,
+          "like_count": 13309,
+          "listed_count": 1,
+          "media_count": 540,
+          "tweet_count": 3466
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

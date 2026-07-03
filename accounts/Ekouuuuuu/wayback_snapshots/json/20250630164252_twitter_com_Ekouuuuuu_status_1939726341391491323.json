@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939726338530930688"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1939726341391491323",
+    "created_at": "2025-06-30T16:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T17:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939726341391491323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9zLx6K5kdf",
+          "end": 30,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1939726341391491323/photo/1",
+          "media_key": "3_1939726338530930688",
+          "start": 7,
+          "url": "https://t.co/9zLx6K5kdf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939726341391491323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 15,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這是一個自拍 https://t.co/9zLx6K5kdf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1939726338530930688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GutK0-ma8AAWyX2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939726338530930688"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1939726341391491323",
+        "created_at": "2025-06-30T16:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T17:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939726341391491323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9zLx6K5kdf",
+              "end": 30,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1939726341391491323/photo/1",
+              "media_key": "3_1939726338530930688",
+              "start": 7,
+              "url": "https://t.co/9zLx6K5kdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939726341391491323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這是一個自拍 https://t.co/9zLx6K5kdf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "不是一個有素質的人/打遊戲可以叫上我🥲",
+        "id": "1912063502782812160",
+        "location": "莫对故国思故人",
+        "name": "白菜喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937599411460403200/XrYwRLKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 43,
+          "like_count": 947,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 159
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

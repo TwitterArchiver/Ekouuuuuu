@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000468669034537256",
+    "created_at": "2025-12-15T07:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T08:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000468669034537256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976556976168636416",
+          "start": 3,
+          "username": "hutudantax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000468669034537256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000116666433466373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hutudantax: 很讨厌把游戏看得比朋友还重要的人，游戏玩得开心不就行了？本末倒置"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000468669034537256",
+        "created_at": "2025-12-15T07:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000468669034537256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976556976168636416",
+              "start": 3,
+              "username": "hutudantax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000468669034537256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000116666433466373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hutudantax: 很讨厌把游戏看得比朋友还重要的人，游戏玩得开心不就行了？本末倒置"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976556976168636416",
+        "conversation_id": "2000116666433466373",
+        "created_at": "2025-12-14T08:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T09:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000116666433466373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000116666433466373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 22748,
+          "like_count": 270,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "很讨厌把游戏看得比朋友还重要的人，游戏玩得开心不就行了？本末倒置"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 154,
+          "like_count": 3949,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 538
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-10T07:54:51.000Z",
+        "description": "蛋的生活碎碎念｜大号回家@hutudanx｜匿名 https://t.co/WC6cN6xuO3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "hutudanx"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hutudan",
+                "end": 48,
+                "expanded_url": "https://ngl.link/hutudan",
+                "start": 25,
+                "url": "https://t.co/WC6cN6xuO3"
+              }
+            ]
+          }
+        },
+        "id": "1976556976168636416",
+        "name": "蛋挞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977724985318817792/QsAo6Ce1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 76,
+          "like_count": 1490,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 396
+        },
+        "username": "hutudantax",
+        "verified": false
+      }
+    ]
+  }
+}

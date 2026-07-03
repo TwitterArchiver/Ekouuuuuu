@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1998385603663306890",
+    "created_at": "2025-12-09T13:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T14:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998385603663306890"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Youoann/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Youoann/status/1997894351318561167",
+          "start": 3,
+          "url": "https://t.co/j449FUfyXl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998385603663306890",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997894351318561167",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "痛… https://t.co/j449FUfyXl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1998385603663306890",
+        "created_at": "2025-12-09T13:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998385603663306890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Youoann/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Youoann/status/1997894351318561167",
+              "start": 3,
+              "url": "https://t.co/j449FUfyXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998385603663306890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997894351318561167",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "痛… https://t.co/j449FUfyXl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875585533159862276",
+        "conversation_id": "1997894351318561167",
+        "created_at": "2025-12-08T05:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T06:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997894351318561167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997894351318561167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 276417,
+          "like_count": 5024,
+          "quote_count": 41,
+          "reply_count": 77,
+          "retweet_count": 540
+        },
+        "reply_settings": "everyone",
+        "text": "子宫 你就每个月为不存在的婴儿掉肉流血吧 你的主人一点都不疼 不累"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖近日研究笑氣提純收集中‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997890323276816384/2Kk3argv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 132,
+          "like_count": 3365,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 224
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T16:50:25.000Z",
+        "description": "当朋友圈随便发的丨不随便加微信别私信吓我了 我只是个脆弱的小女孩",
+        "id": "1875585533159862276",
+        "name": "萌萌之中注定",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997588011903492096/KrUyd049_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 32,
+          "like_count": 2073,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 919
+        },
+        "username": "Youoann",
+        "verified": false
+      }
+    ]
+  }
+}

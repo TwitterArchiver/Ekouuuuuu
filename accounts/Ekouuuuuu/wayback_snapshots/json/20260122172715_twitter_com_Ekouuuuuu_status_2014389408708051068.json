@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014389406405427203"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2014389408708051068",
+    "created_at": "2026-01-22T17:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T18:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014389408708051068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VDLGIm6RG5",
+          "end": 42,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2014389408708051068/photo/1",
+          "media_key": "3_2014389406405427203",
+          "start": 19,
+          "url": "https://t.co/VDLGIm6RG5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014389408708051068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是否還是不太喜歡吃香菜\n到現在還沒改 https://t.co/VDLGIm6RG5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2014389408708051068].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2014389408708051068",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2014389408708051068"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014389406405427203",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_SMfhAbAAM_5vM.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖友LGBT‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6U23",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 80,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 57,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 226,
+          "like_count": 6824,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1464
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

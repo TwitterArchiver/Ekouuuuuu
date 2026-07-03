@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2010331369105469611",
+    "created_at": "2026-01-11T13:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T14:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010336446826303834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1935705327380410369",
+          "start": 0,
+          "username": "xm101027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010336446826303834",
+    "in_reply_to_user_id": "1935705327380410369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010336356300734639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xm101027 我一直在笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2010331369105469611",
+        "created_at": "2026-01-11T13:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010336446826303834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1935705327380410369",
+              "start": 0,
+              "username": "xm101027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010336446826303834",
+        "in_reply_to_user_id": "1935705327380410369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010336356300734639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xm101027 我一直在笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935705327380410369",
+        "conversation_id": "2010331369105469611",
+        "created_at": "2026-01-11T13:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010336356300734639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010336356300734639",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010331369105469611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu 已经被吓哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖藥物依賴‖尼古丁依賴‖N₂O依賴‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 111,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 88,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 207,
+          "like_count": 6186,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1155
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T14:24:54.000Z",
+        "description": "恨幸福来过",
+        "id": "1935705327380410369",
+        "location": "纯绿🚪52",
+        "name": "我们应该只有彼此",
+        "pinned_tweet_id": "2010335922173399267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008835117246992384/Vrh1e7iZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 16,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 299
+        },
+        "username": "xm101027",
+        "verified": false
+      }
+    ]
+  }
+}

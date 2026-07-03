@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000574392062164992"
+      ],
+      "media_source_tweet_id": [
+        "2000574397414047843"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2000759866051453260",
+    "created_at": "2025-12-16T02:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T03:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000759866051453260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1895760079955378179",
+          "start": 3,
+          "username": "tukimimodoki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WEuzse1MeP",
+          "end": 49,
+          "expanded_url": "https://x.com/tukimimodoki/status/2000574397414047843/photo/1",
+          "media_key": "3_2000574392062164992",
+          "start": 26,
+          "url": "https://t.co/WEuzse1MeP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000759866051453260",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000574397414047843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tukimimodoki: 便利屋落書き〜 https://t.co/WEuzse1MeP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1288,
+        "media_key": "3_2000574392062164992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8N3z2GbwAAp_Iq.jpg",
+        "width": 1025
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000574392062164992"
+          ],
+          "media_source_tweet_id": [
+            "2000574397414047843"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2000759866051453260",
+        "created_at": "2025-12-16T02:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T03:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000759866051453260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1895760079955378179",
+              "start": 3,
+              "username": "tukimimodoki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WEuzse1MeP",
+              "end": 49,
+              "expanded_url": "https://x.com/tukimimodoki/status/2000574397414047843/photo/1",
+              "media_key": "3_2000574392062164992",
+              "start": 26,
+              "url": "https://t.co/WEuzse1MeP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000759866051453260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000574397414047843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tukimimodoki: 便利屋落書き〜 https://t.co/WEuzse1MeP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000574392062164992"
+          ]
+        },
+        "author_id": "1895760079955378179",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2000574397414047843",
+        "created_at": "2025-12-15T14:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T15:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000574397414047843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WEuzse1MeP",
+              "end": 31,
+              "expanded_url": "https://x.com/tukimimodoki/status/2000574397414047843/photo/1",
+              "media_key": "3_2000574392062164992",
+              "start": 8,
+              "url": "https://t.co/WEuzse1MeP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000574397414047843",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 6189,
+          "like_count": 812,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "便利屋落書き〜 https://t.co/WEuzse1MeP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 166,
+          "like_count": 4078,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 588
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T08:57:05.000Z",
+        "description": "サブ垢です！メイン→@kototuki_nyan　　　 リク返激遅星人です。申し訳ない…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "kototuki_nyan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/wwpz14he4y28zt…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/wwpz14he4y28ztv?t=2Aw9XK&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/ncQ7UF3YoM"
+              }
+            ]
+          }
+        },
+        "id": "1895760079955378179",
+        "name": "月未もどき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896794888978710528/Fook7mYG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 332,
+          "like_count": 1360,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 269
+        },
+        "url": "https://t.co/ncQ7UF3YoM",
+        "username": "tukimimodoki",
+        "verified": false
+      }
+    ]
+  }
+}

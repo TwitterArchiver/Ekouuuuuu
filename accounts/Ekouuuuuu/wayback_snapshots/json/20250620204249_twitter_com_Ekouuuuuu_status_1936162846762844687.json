@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1935991815867613648",
+    "created_at": "2025-06-20T20:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T21:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936162846762844687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1664970844026867713",
+          "start": 0,
+          "username": "GodBottleXD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936162846762844687",
+    "in_reply_to_user_id": "1664970844026867713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935991815867613648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GodBottleXD 真的嗎（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_1935991813044641792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4GS_CXIAAisHi.jpg",
+        "width": 1515
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1935991815867613648",
+        "created_at": "2025-06-20T20:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T21:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936162846762844687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1664970844026867713",
+              "start": 0,
+              "username": "GodBottleXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936162846762844687",
+        "in_reply_to_user_id": "1664970844026867713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935991815867613648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GodBottleXD 真的嗎（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935991813044641792"
+          ]
+        },
+        "author_id": "1664970844026867713",
+        "conversation_id": "1935991815867613648",
+        "created_at": "2025-06-20T09:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T10:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935991815867613648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T7dt6zBfXT",
+              "end": 23,
+              "expanded_url": "https://x.com/GodBottleXD/status/1935991815867613648/photo/1",
+              "media_key": "3_1935991813044641792",
+              "start": 0,
+              "url": "https://t.co/T7dt6zBfXT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935991815867613648",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 533,
+          "impression_count": 668861,
+          "like_count": 3771,
+          "quote_count": 11,
+          "reply_count": 74,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/T7dt6zBfXT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "☘️☘️☘️☘️//〔觉今是而昨非〕//☘️☘️☘️☘️☘️/不是一個有素質的人/打遊戲可以叫上我🥲",
+        "id": "1912063502782812160",
+        "location": "莫对故国思故人",
+        "name": "一根白菜梗🥬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933223087061024768/NHwQoVVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 39,
+          "like_count": 591,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 99
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T12:23:12.000Z",
+        "description": "让银河燃烧吧",
+        "id": "1664970844026867713",
+        "name": "GodBottleXD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664972571111202817/5c2-gyNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3288,
+          "following_count": 242,
+          "like_count": 1303,
+          "listed_count": 6,
+          "media_count": 722,
+          "tweet_count": 2210
+        },
+        "username": "GodBottleXD",
+        "verified": false
+      }
+    ]
+  }
+}

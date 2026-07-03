@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022673512503427072"
+      ],
+      "media_source_tweet_id": [
+        "2022673519222652970"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2022698758048489917",
+    "created_at": "2026-02-14T15:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T16:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022698758048489917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1604172477034565632",
+          "start": 3,
+          "username": "itr_kbut"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8vCkvnbs8p",
+          "end": 39,
+          "expanded_url": "https://x.com/itr_kbut/status/2022673519222652970/photo/1",
+          "media_key": "3_2022673512503427072",
+          "start": 16,
+          "url": "https://t.co/8vCkvnbs8p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022698758048489917",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 466
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022673519222652970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itr_kbut: 🍫 https://t.co/8vCkvnbs8p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_2022673512503427072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBH619FbwAAGGyP.jpg",
+        "width": 764
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022673512503427072"
+          ],
+          "media_source_tweet_id": [
+            "2022673519222652970"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2022698758048489917",
+        "created_at": "2026-02-14T15:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022698758048489917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1604172477034565632",
+              "start": 3,
+              "username": "itr_kbut"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8vCkvnbs8p",
+              "end": 39,
+              "expanded_url": "https://x.com/itr_kbut/status/2022673519222652970/photo/1",
+              "media_key": "3_2022673512503427072",
+              "start": 16,
+              "url": "https://t.co/8vCkvnbs8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022698758048489917",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 466
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022673519222652970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itr_kbut: 🍫 https://t.co/8vCkvnbs8p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022673512503427072"
+          ]
+        },
+        "author_id": "1604172477034565632",
+        "conversation_id": "2022673519222652970",
+        "created_at": "2026-02-14T14:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T15:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022673519222652970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8vCkvnbs8p",
+              "end": 25,
+              "expanded_url": "https://x.com/itr_kbut/status/2022673519222652970/photo/1",
+              "media_key": "3_2022673512503427072",
+              "start": 2,
+              "url": "https://t.co/8vCkvnbs8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022673519222652970",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 37393,
+          "like_count": 3575,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 466
+        },
+        "reply_settings": "everyone",
+        "text": "🍫 https://t.co/8vCkvnbs8p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 247,
+          "like_count": 8458,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 2156
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T17:51:43.000Z",
+        "description": "ブルアカ多め雑多壁打ち絵描き。生徒のハッピーが好きで過度なキャラ改変やグロリョナ、クロスオーバーが苦手で自衛もします。描いてるのは創作先生。翻訳OK。※転載、アイコン等の使用❌。見かけたら即ブロ。ご依頼等はskebのみ。https://t.co/IySdvmE3CI\nマシュマロ→https://t.co/LTkvU8PMaI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@itr_kbut",
+                "end": 133,
+                "expanded_url": "https://skeb.jp/@itr_kbut",
+                "start": 110,
+                "url": "https://t.co/IySdvmE3CI"
+              },
+              {
+                "display_url": "x.gd/FXG41",
+                "end": 163,
+                "expanded_url": "https://x.gd/FXG41",
+                "start": 140,
+                "url": "https://t.co/LTkvU8PMaI"
+              }
+            ]
+          }
+        },
+        "id": "1604172477034565632",
+        "name": "🎄いたる🎄",
+        "pinned_tweet_id": "1755058102075068657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748397541518147585/m82dMDcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106683,
+          "following_count": 2,
+          "like_count": 262,
+          "listed_count": 521,
+          "media_count": 1034,
+          "tweet_count": 4838
+        },
+        "username": "itr_kbut",
+        "verified": false
+      }
+    ]
+  }
+}

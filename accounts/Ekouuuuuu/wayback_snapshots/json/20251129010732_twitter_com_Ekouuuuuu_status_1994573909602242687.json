@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994410406862057473"
+      ],
+      "media_source_tweet_id": [
+        "1994410422875935034"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994573909602242687",
+    "created_at": "2025-11-29T01:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T02:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994573909602242687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "81290793",
+          "start": 3,
+          "username": "ideolo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OL2vRJtKVS",
+          "end": 35,
+          "expanded_url": "https://x.com/ideolo/status/1994410422875935034/photo/1",
+          "media_key": "3_1994410406862057473",
+          "start": 12,
+          "url": "https://t.co/OL2vRJtKVS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994573909602242687",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 375
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994410422875935034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ideolo: https://t.co/OL2vRJtKVS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1381,
+        "media_key": "3_1994410406862057473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G62Rsr1a8AES5fH.jpg",
+        "width": 978
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994410406862057473"
+          ],
+          "media_source_tweet_id": [
+            "1994410422875935034"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994573909602242687",
+        "created_at": "2025-11-29T01:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994573909602242687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "81290793",
+              "start": 3,
+              "username": "ideolo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OL2vRJtKVS",
+              "end": 35,
+              "expanded_url": "https://x.com/ideolo/status/1994410422875935034/photo/1",
+              "media_key": "3_1994410406862057473",
+              "start": 12,
+              "url": "https://t.co/OL2vRJtKVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994573909602242687",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 375
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994410422875935034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ideolo: https://t.co/OL2vRJtKVS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994410406862057473"
+          ]
+        },
+        "author_id": "81290793",
+        "conversation_id": "1994410422875935034",
+        "created_at": "2025-11-28T14:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T15:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994410422875935034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OL2vRJtKVS",
+              "end": 23,
+              "expanded_url": "https://x.com/ideolo/status/1994410422875935034/photo/1",
+              "media_key": "3_1994410406862057473",
+              "start": 0,
+              "url": "https://t.co/OL2vRJtKVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994410422875935034",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 25001,
+          "like_count": 2750,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 375
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OL2vRJtKVS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 2860,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 224
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-10T05:44:06.000Z",
+        "description": "バンダナカピバラ |「東方異文石：RE 」Steamにて発売中 \nbooth通販：https://t.co/RBkWCBBJk1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ideoloideolo.booth.pm",
+                "end": 64,
+                "expanded_url": "https://ideoloideolo.booth.pm/",
+                "start": 41,
+                "url": "https://t.co/RBkWCBBJk1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ideoloideolo.com",
+                "end": 23,
+                "expanded_url": "https://www.ideoloideolo.com/",
+                "start": 0,
+                "url": "https://t.co/vOd5UNLxSD"
+              }
+            ]
+          }
+        },
+        "id": "81290793",
+        "location": "日本 東京",
+        "name": "ideolo✨冬コミ2日参加-火曜東ア94ab/水曜南ｑ04a",
+        "pinned_tweet_id": "1984566083110780964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1464978182252404738/wdkWQCtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97393,
+          "following_count": 13961,
+          "like_count": 124346,
+          "listed_count": 909,
+          "media_count": 1608,
+          "tweet_count": 4897
+        },
+        "url": "https://t.co/vOd5UNLxSD",
+        "username": "ideolo",
+        "verified": true
+      }
+    ]
+  }
+}

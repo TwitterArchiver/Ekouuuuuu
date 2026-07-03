@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021164642429771776"
+      ],
+      "media_source_tweet_id": [
+        "2021164646992880006"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2021361235468661055",
+    "created_at": "2026-02-10T23:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T00:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021361235468661055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1903024436745469952",
+          "start": 3,
+          "username": "ku_sabi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vR86Pr30vf",
+          "end": 37,
+          "expanded_url": "https://x.com/ku_sabi_/status/2021164646992880006/photo/1",
+          "media_key": "3_2021164642429771776",
+          "start": 14,
+          "url": "https://t.co/vR86Pr30vf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021361235468661055",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021164646992880006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ku_sabi_: https://t.co/vR86Pr30vf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2021164642429771776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAyeiKCbIAA6do4.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021164642429771776"
+          ],
+          "media_source_tweet_id": [
+            "2021164646992880006"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2021361235468661055",
+        "created_at": "2026-02-10T23:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T00:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021361235468661055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1903024436745469952",
+              "start": 3,
+              "username": "ku_sabi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vR86Pr30vf",
+              "end": 37,
+              "expanded_url": "https://x.com/ku_sabi_/status/2021164646992880006/photo/1",
+              "media_key": "3_2021164642429771776",
+              "start": 14,
+              "url": "https://t.co/vR86Pr30vf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021361235468661055",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021164646992880006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ku_sabi_: https://t.co/vR86Pr30vf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021164642429771776"
+          ]
+        },
+        "author_id": "1903024436745469952",
+        "conversation_id": "2021164646992880006",
+        "created_at": "2026-02-10T10:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T11:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021164646992880006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vR86Pr30vf",
+              "end": 23,
+              "expanded_url": "https://x.com/ku_sabi_/status/2021164646992880006/photo/1",
+              "media_key": "3_2021164642429771776",
+              "start": 0,
+              "url": "https://t.co/vR86Pr30vf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021164646992880006",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 3642,
+          "like_count": 417,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/vR86Pr30vf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 248,
+          "like_count": 8312,
+          "listed_count": 1,
+          "media_count": 341,
+          "tweet_count": 2092
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T10:02:48.000Z",
+        "description": "絵と音 風景絵-›@utututuna サブ-›@siohari_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "utututuna"
+              },
+              {
+                "end": 33,
+                "start": 24,
+                "username": "siohari_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ku_sabi?si=mB…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ku_sabi?si=mBT4HIF41YtNzwOg",
+                "start": 0,
+                "url": "https://t.co/BtzJEWenaU"
+              }
+            ]
+          }
+        },
+        "id": "1903024436745469952",
+        "location": "何かあればDMまで",
+        "name": "楔しお",
+        "pinned_tweet_id": "2020816819116736986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015460742791839745/zVJXOgLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6266,
+          "following_count": 53,
+          "like_count": 2459,
+          "listed_count": 27,
+          "media_count": 80,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/BtzJEWenaU",
+        "username": "ku_sabi_",
+        "verified": false
+      }
+    ]
+  }
+}

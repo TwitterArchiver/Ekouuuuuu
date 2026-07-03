@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2024929697650339840"
+      ],
+      "media_source_tweet_id": [
+        "2024929753157759438"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025112156250014127",
+    "created_at": "2026-02-21T07:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025112156250014127"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "Hoshino",
+          "probability": 0.5763,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794442413181652992",
+          "start": 3,
+          "username": "GyaruGlow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i0BCjY4F6f",
+          "end": 61,
+          "expanded_url": "https://x.com/GyaruGlow/status/2024929753157759438/video/1",
+          "media_key": "13_2024929697650339840",
+          "start": 38,
+          "url": "https://t.co/i0BCjY4F6f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025112156250014127",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024929753157759438",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GyaruGlow: Hoshino low cortisol 😌 https://t.co/i0BCjY4F6f"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13366,
+        "height": 576,
+        "media_key": "13_2024929697650339840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024929697650339840/img/98qAVI3ELzBOr1o2.jpg",
+        "public_metrics": {
+          "view_count": 8652
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024929697650339840/vid/avc1/320x320/_fTm5MW-qfEha2oM.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024929697650339840/vid/avc1/576x576/uzjwDJguIlW91W8R.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024929697650339840/pl/tb1JhGdN6PtkQC6o.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024929697650339840"
+          ],
+          "media_source_tweet_id": [
+            "2024929753157759438"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025112156250014127",
+        "created_at": "2026-02-21T07:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025112156250014127"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Hoshino",
+              "probability": 0.5763,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794442413181652992",
+              "start": 3,
+              "username": "GyaruGlow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i0BCjY4F6f",
+              "end": 61,
+              "expanded_url": "https://x.com/GyaruGlow/status/2024929753157759438/video/1",
+              "media_key": "13_2024929697650339840",
+              "start": 38,
+              "url": "https://t.co/i0BCjY4F6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025112156250014127",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024929753157759438",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GyaruGlow: Hoshino low cortisol 😌 https://t.co/i0BCjY4F6f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024929697650339840"
+          ]
+        },
+        "author_id": "1794442413181652992",
+        "conversation_id": "2024929753157759438",
+        "created_at": "2026-02-20T19:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T20:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024929753157759438"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Hoshino",
+              "probability": 0.7277,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i0BCjY4F6f",
+              "end": 46,
+              "expanded_url": "https://x.com/GyaruGlow/status/2024929753157759438/video/1",
+              "media_key": "13_2024929697650339840",
+              "start": 23,
+              "url": "https://t.co/i0BCjY4F6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024929753157759438",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 16752,
+          "like_count": 1266,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "Hoshino low cortisol 😌 https://t.co/i0BCjY4F6f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 250,
+          "like_count": 8708,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 2237
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T18:56:44.000Z",
+        "description": "I shitpost anime memes everyday and retweet My Dress-Up Darling content 😆",
+        "id": "1794442413181652992",
+        "name": "Marini",
+        "pinned_tweet_id": "2013722556470095930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861447081509949441/-mAhCyBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40635,
+          "following_count": 162,
+          "like_count": 29429,
+          "listed_count": 66,
+          "media_count": 3629,
+          "tweet_count": 4930
+        },
+        "username": "GyaruGlow",
+        "verified": true
+      }
+    ]
+  }
+}

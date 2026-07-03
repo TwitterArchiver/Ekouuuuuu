@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010208928613969920"
+      ],
+      "media_source_tweet_id": [
+        "2010208951451951119"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2010320597688217981",
+    "created_at": "2026-01-11T11:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T12:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010320597688217981"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "希死念慮",
+          "probability": 0.495,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1715706589318115328",
+          "start": 3,
+          "username": "ouchikila"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8EVKYjU0N5",
+          "end": 43,
+          "expanded_url": "https://x.com/ouchikila/status/2010208951451951119/photo/1",
+          "media_key": "3_2010208928613969920",
+          "start": 20,
+          "url": "https://t.co/8EVKYjU0N5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010320597688217981",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 368
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010208951451951119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ouchikila: 希死念慮 https://t.co/8EVKYjU0N5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2010320597688217981].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2010320597688217981",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2010320597688217981"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010208928613969920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-WyXrpasAA2lG8.jpg",
+        "width": 1460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010208928613969920"
+          ]
+        },
+        "author_id": "1715706589318115328",
+        "conversation_id": "2010208951451951119",
+        "created_at": "2026-01-11T04:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T05:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010208951451951119"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "希死念慮",
+              "probability": 0.5305,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8EVKYjU0N5",
+              "end": 28,
+              "expanded_url": "https://x.com/ouchikila/status/2010208951451951119/photo/1",
+              "media_key": "3_2010208928613969920",
+              "start": 5,
+              "url": "https://t.co/8EVKYjU0N5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010208951451951119",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 423,
+          "impression_count": 52695,
+          "like_count": 4891,
+          "quote_count": 17,
+          "reply_count": 4,
+          "retweet_count": 368
+        },
+        "reply_settings": "everyone",
+        "text": "希死念慮 https://t.co/8EVKYjU0N5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖藥物依賴‖尼古丁依賴‖N₂O依賴‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 111,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 88,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 206,
+          "like_count": 6184,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1155
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-21T12:28:48.000Z",
+        "description": "絵を描いてます 【✉️kiraillust@gmail.com】【skeb https://t.co/gwqMynn3wI】【sub @alikihcuo】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "alikihcuo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ouchikila",
+                "end": 61,
+                "expanded_url": "https://skeb.jp/@ouchikila",
+                "start": 38,
+                "url": "https://t.co/gwqMynn3wI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ouchikila",
+                "end": 23,
+                "expanded_url": "https://lit.link/ouchikila",
+                "start": 0,
+                "url": "https://t.co/FW8B1P1qy1"
+              }
+            ]
+          }
+        },
+        "id": "1715706589318115328",
+        "name": "大内吉良@ｺﾐﾃｨｱT55b",
+        "pinned_tweet_id": "1994242325577650276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789883301244915712/Kj78L6E0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6438,
+          "following_count": 113,
+          "like_count": 11435,
+          "listed_count": 23,
+          "media_count": 74,
+          "tweet_count": 1066
+        },
+        "url": "https://t.co/FW8B1P1qy1",
+        "username": "ouchikila",
+        "verified": false
+      }
+    ]
+  }
+}

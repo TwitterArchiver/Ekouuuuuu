@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030629896867782657"
+      ],
+      "media_source_tweet_id": [
+        "2030629899384344645"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2030877270374830143",
+    "created_at": "2026-03-09T05:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T06:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030877270374830143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1585585955297181696",
+          "start": 3,
+          "username": "MangaArchiveX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IRmUiPeuvr",
+          "end": 42,
+          "expanded_url": "https://x.com/MangaArchiveX/status/2030629899384344645/photo/1",
+          "media_key": "3_2030629896867782657",
+          "start": 19,
+          "url": "https://t.co/IRmUiPeuvr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030877270374830143",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 206
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030629899384344645",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MangaArchiveX: https://t.co/IRmUiPeuvr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1103,
+        "media_key": "3_2030629896867782657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4_IekXoAEkMuF.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030629896867782657"
+          ],
+          "media_source_tweet_id": [
+            "2030629899384344645"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2030877270374830143",
+        "created_at": "2026-03-09T05:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T06:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030877270374830143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1585585955297181696",
+              "start": 3,
+              "username": "MangaArchiveX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRmUiPeuvr",
+              "end": 42,
+              "expanded_url": "https://x.com/MangaArchiveX/status/2030629899384344645/photo/1",
+              "media_key": "3_2030629896867782657",
+              "start": 19,
+              "url": "https://t.co/IRmUiPeuvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030877270374830143",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030629899384344645",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MangaArchiveX: https://t.co/IRmUiPeuvr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030629896867782657"
+          ]
+        },
+        "author_id": "1585585955297181696",
+        "conversation_id": "2030629899384344645",
+        "created_at": "2026-03-08T13:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030629899384344645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRmUiPeuvr",
+              "end": 23,
+              "expanded_url": "https://x.com/MangaArchiveX/status/2030629899384344645/photo/1",
+              "media_key": "3_2030629896867782657",
+              "start": 0,
+              "url": "https://t.co/IRmUiPeuvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030629899384344645",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1213,
+          "impression_count": 73644,
+          "like_count": 5140,
+          "quote_count": 7,
+          "reply_count": 8,
+          "retweet_count": 206
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IRmUiPeuvr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 244,
+          "like_count": 9243,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 2355
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-27T10:55:37.000Z",
+        "description": "High Quality Manga and Fan Arts",
+        "id": "1585585955297181696",
+        "name": "Manga Archive",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963140865032929280/s9bKWSQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148198,
+          "following_count": 9,
+          "like_count": 9689,
+          "listed_count": 114,
+          "media_count": 6597,
+          "tweet_count": 7184
+        },
+        "username": "MangaArchiveX",
+        "verified": true
+      }
+    ]
+  }
+}

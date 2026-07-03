@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005696991146467328"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "All the latest action from Major League Baseball.",
+          "id": "10001466882",
+          "name": "MLB Baseball"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10029304618",
+          "name": "MLB Baseball"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "769193663230468096",
+          "name": "Baseball"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "769193602169704448",
+          "name": "MLB"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "769193602169704448",
+          "name": "MLB"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "769193663230468096",
+          "name": "Baseball"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "769193631345369089",
+          "name": "Toronto Blue Jays"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "769193602169704448",
+          "name": "MLB"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "769193602169704448",
+          "name": "MLB"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "769193631345369089",
+          "name": "Toronto Blue Jays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "769193663230468096",
+          "name": "Baseball"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2005696994300551231",
+    "created_at": "2025-12-29T17:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T18:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005696994300551231"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 15,
+          "tag": "BlueJays"
+        },
+        {
+          "end": 33,
+          "start": 25,
+          "tag": "Hoshino"
+        },
+        {
+          "end": 39,
+          "start": 34,
+          "tag": "同人創作"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/suekxeRcbr",
+          "end": 63,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2005696994300551231/photo/1",
+          "media_key": "3_2005696991146467328",
+          "start": 40,
+          "url": "https://t.co/suekxeRcbr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005696994300551231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "或許你不會懂\n自從你愛我以後\n#BlueJays #Hoshino #同人創作 https://t.co/suekxeRcbr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1077,
+        "media_key": "3_2005696991146467328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9WqyWxa4AAkns-.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005696991146467328"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "All the latest action from Major League Baseball.",
+              "id": "10001466882",
+              "name": "MLB Baseball"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10029304618",
+              "name": "MLB Baseball"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "769193663230468096",
+              "name": "Baseball"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "769193602169704448",
+              "name": "MLB"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "769193602169704448",
+              "name": "MLB"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "769193663230468096",
+              "name": "Baseball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "769193631345369089",
+              "name": "Toronto Blue Jays"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "769193602169704448",
+              "name": "MLB"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "769193602169704448",
+              "name": "MLB"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "769193631345369089",
+              "name": "Toronto Blue Jays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "769193663230468096",
+              "name": "Baseball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2005696994300551231",
+        "created_at": "2025-12-29T17:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T18:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005696994300551231"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "BlueJays"
+            },
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "Hoshino"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "同人創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/suekxeRcbr",
+              "end": 63,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2005696994300551231/photo/1",
+              "media_key": "3_2005696991146467328",
+              "start": 40,
+              "url": "https://t.co/suekxeRcbr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005696994300551231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "或許你不會懂\n自從你愛我以後\n#BlueJays #Hoshino #同人創作 https://t.co/suekxeRcbr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了w‖生理性別女‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 191,
+          "like_count": 5346,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 889
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

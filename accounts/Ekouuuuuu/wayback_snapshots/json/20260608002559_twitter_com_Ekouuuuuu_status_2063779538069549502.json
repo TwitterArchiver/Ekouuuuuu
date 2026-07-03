@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2063435644043735431",
+    "created_at": "2026-06-08T00:25:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T01:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063779538069549502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053065107576385537",
+          "start": 0,
+          "username": "qingchuyuan"
+        },
+        {
+          "end": 20,
+          "id": "1980612830824132609",
+          "start": 13,
+          "username": "seeFvn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063779538069549502",
+    "in_reply_to_user_id": "2053065107576385537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063632941524341116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingchuyuan @seeFvn 別人愛抽什麼抽什麼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2063435644043735431",
+        "created_at": "2026-06-08T00:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063779538069549502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053065107576385537",
+              "start": 0,
+              "username": "qingchuyuan"
+            },
+            {
+              "end": 20,
+              "id": "1980612830824132609",
+              "start": 13,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063779538069549502",
+        "in_reply_to_user_id": "2053065107576385537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063632941524341116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingchuyuan @seeFvn 別人愛抽什麼抽什麼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053065107576385537",
+        "conversation_id": "2063435644043735431",
+        "created_at": "2026-06-07T14:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063632941524341116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063632941524341116",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063435644043735431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 你这抽的烟都没啥劲儿啊，要抽抽白将白利，有劲儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖化 學 極 樂‖支畜別他媽來惡心我了‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2058947003573579910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 334,
+          "like_count": 13539,
+          "listed_count": 1,
+          "media_count": 558,
+          "tweet_count": 3563
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T10:51:35.000Z",
+        "description": "🐧2079718005",
+        "id": "2053065107576385537",
+        "name": "晴初原",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062420032412377088/Ic-9oUgb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 26,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 62
+        },
+        "username": "qingchuyuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 647,
+          "like_count": 4249,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1476
+        },
+        "username": "seeFvn",
+        "verified": false
+      }
+    ]
+  }
+}

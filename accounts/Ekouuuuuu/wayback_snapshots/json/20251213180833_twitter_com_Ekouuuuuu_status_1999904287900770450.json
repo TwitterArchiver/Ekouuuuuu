@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999529860994387968",
+        "3_1999529900211113984"
+      ],
+      "media_source_tweet_id": [
+        "1999811540090785971",
+        "1999811540090785971"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999904287900770450",
+    "created_at": "2025-12-13T18:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T19:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999904287900770450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tcLISTcA8F",
+          "end": 83,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1999811540090785971/photo/1",
+          "media_key": "3_1999529860994387968",
+          "start": 60,
+          "url": "https://t.co/tcLISTcA8F"
+        },
+        {
+          "display_url": "pic.x.com/tcLISTcA8F",
+          "end": 83,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1999811540090785971/photo/1",
+          "media_key": "3_1999529900211113984",
+          "start": 60,
+          "url": "https://t.co/tcLISTcA8F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999904287900770450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999811540090785971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 网友投稿：央视删除后又重新上架了该视频，最新视频显示“豆包AI”水印已被清除。 https://t.co/tcLISTcA8F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1118,
+        "media_key": "3_1999529860994387968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7_B0IpbUAACNyn.jpg",
+        "width": 1078
+      },
+      {
+        "height": 583,
+        "media_key": "3_1999529900211113984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7_B2avbEAA7ZN1.jpg",
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999529860994387968",
+            "3_1999529900211113984"
+          ],
+          "media_source_tweet_id": [
+            "1999811540090785971",
+            "1999811540090785971"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999904287900770450",
+        "created_at": "2025-12-13T18:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T19:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999904287900770450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tcLISTcA8F",
+              "end": 83,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1999811540090785971/photo/1",
+              "media_key": "3_1999529860994387968",
+              "start": 60,
+              "url": "https://t.co/tcLISTcA8F"
+            },
+            {
+              "display_url": "pic.x.com/tcLISTcA8F",
+              "end": 83,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1999811540090785971/photo/1",
+              "media_key": "3_1999529900211113984",
+              "start": 60,
+              "url": "https://t.co/tcLISTcA8F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999904287900770450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999811540090785971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 网友投稿：央视删除后又重新上架了该视频，最新视频显示“豆包AI”水印已被清除。 https://t.co/tcLISTcA8F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999529860994387968",
+            "3_1999529900211113984"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1999811540090785971",
+        "created_at": "2025-12-13T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999811540090785971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tcLISTcA8F",
+              "end": 63,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1999811540090785971/photo/1",
+              "media_key": "3_1999529860994387968",
+              "start": 40,
+              "url": "https://t.co/tcLISTcA8F"
+            },
+            {
+              "display_url": "pic.x.com/tcLISTcA8F",
+              "end": 63,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1999811540090785971/photo/1",
+              "media_key": "3_1999529900211113984",
+              "start": 40,
+              "url": "https://t.co/tcLISTcA8F"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1999298156744364134",
+              "start": 64,
+              "url": "https://t.co/eF3Q36pYMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999811540090785971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 232065,
+          "like_count": 1029,
+          "quote_count": 6,
+          "reply_count": 86,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999298156744364134",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "网友投稿：央视删除后又重新上架了该视频，最新视频显示“豆包AI”水印已被清除。 https://t.co/tcLISTcA8F https://t.co/eF3Q36pYMn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了ww‖極樂‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 147,
+          "like_count": 3665,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 393
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1991824796930187302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998464594226839552/OmoQEWXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2159131,
+          "following_count": 986,
+          "like_count": 8453,
+          "listed_count": 8411,
+          "media_count": 38482,
+          "tweet_count": 45384
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

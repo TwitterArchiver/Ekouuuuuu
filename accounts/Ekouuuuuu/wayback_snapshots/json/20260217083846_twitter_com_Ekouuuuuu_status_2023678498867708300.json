@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022992732583837696"
+      ],
+      "media_source_tweet_id": [
+        "2022992735624663304"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2023678498867708300",
+    "created_at": "2026-02-17T08:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T09:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023678498867708300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1913499553262972928",
+          "start": 3,
+          "username": "necrosamus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X8Oqj4McpW",
+          "end": 39,
+          "expanded_url": "https://x.com/necrosamus/status/2022992735624663304/photo/1",
+          "media_key": "3_2022992732583837696",
+          "start": 16,
+          "url": "https://t.co/X8Oqj4McpW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023678498867708300",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 677
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022992735624663304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @necrosamus: https://t.co/X8Oqj4McpW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 131,
+        "media_key": "3_2022992732583837696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMdLAjbQAAPjOH.jpg",
+        "width": 570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022992732583837696"
+          ],
+          "media_source_tweet_id": [
+            "2022992735624663304"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2023678498867708300",
+        "created_at": "2026-02-17T08:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023678498867708300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1913499553262972928",
+              "start": 3,
+              "username": "necrosamus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X8Oqj4McpW",
+              "end": 39,
+              "expanded_url": "https://x.com/necrosamus/status/2022992735624663304/photo/1",
+              "media_key": "3_2022992732583837696",
+              "start": 16,
+              "url": "https://t.co/X8Oqj4McpW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023678498867708300",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 677
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022992735624663304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @necrosamus: https://t.co/X8Oqj4McpW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022992732583837696"
+          ]
+        },
+        "author_id": "1913499553262972928",
+        "conversation_id": "2022992735624663304",
+        "created_at": "2026-02-15T11:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022992735624663304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X8Oqj4McpW",
+              "end": 23,
+              "expanded_url": "https://x.com/necrosamus/status/2022992735624663304/photo/1",
+              "media_key": "3_2022992732583837696",
+              "start": 0,
+              "url": "https://t.co/X8Oqj4McpW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022992735624663304",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 18796,
+          "like_count": 2360,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 677
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/X8Oqj4McpW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 248,
+          "like_count": 8514,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 2206
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T07:47:24.000Z",
+        "description": ".𖥔 ݁ ˖ #太宰治's dear (♡ˊ͈ ꒳ ˋ͈) ⊹ ࣪ ˖ nonsharing \n#yumetwt 𐂯 #shedtwt ꒰ @dazaiscide ꒱",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 7,
+                "tag": "太宰治"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "yumetwt"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "tag": "shedtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "dazaiscide"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "samusoda.straw.page",
+                "end": 23,
+                "expanded_url": "http://samusoda.straw.page",
+                "start": 0,
+                "url": "https://t.co/qRpyAOZdLs"
+              }
+            ]
+          }
+        },
+        "id": "1913499553262972928",
+        "location": "bmi 17s",
+        "name": "sora",
+        "pinned_tweet_id": "2021243689780043776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017530267716509696/vtdR_Swm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3182,
+          "following_count": 2768,
+          "like_count": 61722,
+          "listed_count": 104,
+          "media_count": 7036,
+          "tweet_count": 38899
+        },
+        "url": "https://t.co/qRpyAOZdLs",
+        "username": "necrosamus",
+        "verified": false
+      }
+    ]
+  }
+}

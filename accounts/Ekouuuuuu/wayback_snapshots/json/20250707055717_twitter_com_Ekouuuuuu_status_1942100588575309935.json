@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942100537500975104"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1942100588575309935",
+    "created_at": "2025-07-07T05:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T06:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942100588575309935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/exQUtatwJV",
+          "end": 26,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1942100588575309935/photo/1",
+          "media_key": "3_1942100537500975104",
+          "start": 3,
+          "url": "https://t.co/exQUtatwJV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942100588575309935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蝦咪 https://t.co/exQUtatwJV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1942100537500975104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvO6Ji_XQAAcNjv.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942100537500975104"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1942100588575309935",
+        "created_at": "2025-07-07T05:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T06:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942100588575309935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/exQUtatwJV",
+              "end": 26,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1942100588575309935/photo/1",
+              "media_key": "3_1942100537500975104",
+              "start": 3,
+              "url": "https://t.co/exQUtatwJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942100588575309935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蝦咪 https://t.co/exQUtatwJV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "不是一個有素質的人/打遊戲可以叫上我🥲",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937599411460403200/XrYwRLKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 46,
+          "like_count": 1005,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 172
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

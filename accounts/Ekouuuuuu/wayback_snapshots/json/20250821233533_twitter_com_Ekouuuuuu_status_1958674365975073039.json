@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958674362045014016",
+        "3_1958674362875486210"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1958674365975073039",
+    "created_at": "2025-08-21T23:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T00:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958674365975073039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YyaDzFPGKc",
+          "end": 34,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1958674365975073039/photo/1",
+          "media_key": "3_1958674362045014016",
+          "start": 11,
+          "url": "https://t.co/YyaDzFPGKc"
+        },
+        {
+          "display_url": "pic.x.com/YyaDzFPGKc",
+          "end": 34,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1958674365975073039/photo/1",
+          "media_key": "3_1958674362875486210",
+          "start": 11,
+          "url": "https://t.co/YyaDzFPGKc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958674365975073039",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "墻內發od的是傻逼嗎 https://t.co/YyaDzFPGKc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958674362045014016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy6b9GxboAAHv0T.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958674362875486210",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy6b9J3boAIGgPX.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958674362045014016",
+            "3_1958674362875486210"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1958674365975073039",
+        "created_at": "2025-08-21T23:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T00:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958674365975073039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YyaDzFPGKc",
+              "end": 34,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1958674365975073039/photo/1",
+              "media_key": "3_1958674362045014016",
+              "start": 11,
+              "url": "https://t.co/YyaDzFPGKc"
+            },
+            {
+              "display_url": "pic.x.com/YyaDzFPGKc",
+              "end": 34,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1958674365975073039/photo/1",
+              "media_key": "3_1958674362875486210",
+              "start": 11,
+              "url": "https://t.co/YyaDzFPGKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958674365975073039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墻內發od的是傻逼嗎 https://t.co/YyaDzFPGKc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "一個生理女的負能精神病",
+        "id": "1912063502782812160",
+        "name": "白菜_Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958369871634612224/WJLvJs86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 73,
+          "like_count": 1776,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 242
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

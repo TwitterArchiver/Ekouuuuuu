@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2001454262711464430",
+    "created_at": "2025-12-22T00:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T01:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002897085952319606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1977674820759506944",
+          "start": 0,
+          "username": "kinaiyuru_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002897085952319606",
+    "in_reply_to_user_id": "1977674820759506944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002399763011154405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kinaiyuru_ 重醫，重慶精衛在另一個地方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2001454262711464430",
+        "created_at": "2025-12-22T00:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T01:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002897085952319606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1977674820759506944",
+              "start": 0,
+              "username": "kinaiyuru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002897085952319606",
+        "in_reply_to_user_id": "1977674820759506944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002399763011154405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kinaiyuru_ 重醫，重慶精衛在另一個地方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977674820759506944",
+        "conversation_id": "2001454262711464430",
+        "created_at": "2025-12-20T15:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002399763011154405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002399763011154405",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001454262711464430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu 重慶精衛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2002371651392929813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 186,
+          "like_count": 4799,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 761
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T09:56:43.000Z",
+        "description": "原本的帳號@kinaiyurun0128 |地雷|病嬌|19歲|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "kinaiyurun0128"
+              }
+            ]
+          }
+        },
+        "id": "1977674820759506944",
+        "name": "岐奈ゆるん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000953556233527296/LeUYc6Ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 139,
+          "like_count": 4387,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 623
+        },
+        "username": "kinaiyuru_",
+        "verified": false
+      }
+    ]
+  }
+}

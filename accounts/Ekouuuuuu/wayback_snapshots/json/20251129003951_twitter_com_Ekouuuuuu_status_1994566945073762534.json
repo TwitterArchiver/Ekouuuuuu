@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993941362497163264"
+      ],
+      "media_source_tweet_id": [
+        "1993941374950101140"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994566945073762534",
+    "created_at": "2025-11-29T00:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T01:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994566945073762534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1074201485020344321",
+          "start": 3,
+          "username": "kk_rge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fen6UkOMjy",
+          "end": 55,
+          "expanded_url": "https://x.com/kk_rge/status/1993941374950101140/photo/1",
+          "media_key": "3_1993941362497163264",
+          "start": 32,
+          "url": "https://t.co/fen6UkOMjy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994566945073762534",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 624
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993941374950101140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kk_rge: ぬい棚動かしたら偶然百合が発生して最高 https://t.co/fen6UkOMjy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1993941362497163264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vnGtaaEAARiCu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993941362497163264"
+          ],
+          "media_source_tweet_id": [
+            "1993941374950101140"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994566945073762534",
+        "created_at": "2025-11-29T00:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T01:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994566945073762534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1074201485020344321",
+              "start": 3,
+              "username": "kk_rge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fen6UkOMjy",
+              "end": 55,
+              "expanded_url": "https://x.com/kk_rge/status/1993941374950101140/photo/1",
+              "media_key": "3_1993941362497163264",
+              "start": 32,
+              "url": "https://t.co/fen6UkOMjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994566945073762534",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 624
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993941374950101140",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kk_rge: ぬい棚動かしたら偶然百合が発生して最高 https://t.co/fen6UkOMjy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993941362497163264"
+          ]
+        },
+        "author_id": "1074201485020344321",
+        "conversation_id": "1993941374950101140",
+        "created_at": "2025-11-27T07:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993941374950101140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fen6UkOMjy",
+              "end": 43,
+              "expanded_url": "https://x.com/kk_rge/status/1993941374950101140/photo/1",
+              "media_key": "3_1993941362497163264",
+              "start": 20,
+              "url": "https://t.co/fen6UkOMjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993941374950101140",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 491,
+          "impression_count": 136509,
+          "like_count": 7306,
+          "quote_count": 9,
+          "reply_count": 34,
+          "retweet_count": 624
+        },
+        "reply_settings": "everyone",
+        "text": "ぬい棚動かしたら偶然百合が発生して最高 https://t.co/fen6UkOMjy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 91,
+          "like_count": 2796,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 179
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-16T07:16:06.000Z",
+        "description": "ナツ",
+        "id": "1074201485020344321",
+        "location": "放課後ぬいぬい部",
+        "name": "星型フルーツ",
+        "pinned_tweet_id": "1989221902414672023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977550482668429312/HQ2PKF14_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 294,
+          "like_count": 3113,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 1431
+        },
+        "username": "kk_rge",
+        "verified": false
+      }
+    ]
+  }
+}

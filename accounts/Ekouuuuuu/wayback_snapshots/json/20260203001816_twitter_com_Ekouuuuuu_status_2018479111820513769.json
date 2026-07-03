@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018242753092878336"
+      ],
+      "media_source_tweet_id": [
+        "2018242760147673090"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2018479111820513769",
+    "created_at": "2026-02-03T00:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T01:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018479111820513769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1607385073015492608",
+          "start": 3,
+          "username": "Aputto_9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pmAYsoSGId",
+          "end": 37,
+          "expanded_url": "https://x.com/Aputto_9/status/2018242760147673090/photo/1",
+          "media_key": "3_2018242753092878336",
+          "start": 14,
+          "url": "https://t.co/pmAYsoSGId"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018479111820513769",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018242760147673090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aputto_9: https://t.co/pmAYsoSGId"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1929,
+        "media_key": "3_2018242753092878336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAI9F0CbgAAsnKF.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018242753092878336"
+          ],
+          "media_source_tweet_id": [
+            "2018242760147673090"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2018479111820513769",
+        "created_at": "2026-02-03T00:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018479111820513769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1607385073015492608",
+              "start": 3,
+              "username": "Aputto_9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pmAYsoSGId",
+              "end": 37,
+              "expanded_url": "https://x.com/Aputto_9/status/2018242760147673090/photo/1",
+              "media_key": "3_2018242753092878336",
+              "start": 14,
+              "url": "https://t.co/pmAYsoSGId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018479111820513769",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018242760147673090",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aputto_9: https://t.co/pmAYsoSGId"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018242753092878336"
+          ]
+        },
+        "author_id": "1607385073015492608",
+        "conversation_id": "2018242760147673090",
+        "created_at": "2026-02-02T08:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018242760147673090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pmAYsoSGId",
+              "end": 23,
+              "expanded_url": "https://x.com/Aputto_9/status/2018242760147673090/photo/1",
+              "media_key": "3_2018242753092878336",
+              "start": 0,
+              "url": "https://t.co/pmAYsoSGId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018242760147673090",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 10346,
+          "like_count": 1250,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pmAYsoSGId"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "同一片天為何好久不見‖叫我白菜就好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 235,
+          "like_count": 7846,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 1871
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T14:37:27.000Z",
+        "description": "FA #あぷのおーしー りぷかえせてない",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 3,
+                "tag": "あぷのおーしー"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aputto9",
+                "end": 23,
+                "expanded_url": "https://lit.link/aputto9",
+                "start": 0,
+                "url": "https://t.co/PMwbggX0Ue"
+              }
+            ]
+          }
+        },
+        "id": "1607385073015492608",
+        "location": "無断利用禁止",
+        "name": "Apu︎",
+        "pinned_tweet_id": "1938889759688196377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850427867496333312/kbJlpDMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38891,
+          "following_count": 334,
+          "like_count": 61436,
+          "listed_count": 201,
+          "media_count": 895,
+          "tweet_count": 8592
+        },
+        "url": "https://t.co/PMwbggX0Ue",
+        "username": "Aputto_9",
+        "verified": false
+      }
+    ]
+  }
+}

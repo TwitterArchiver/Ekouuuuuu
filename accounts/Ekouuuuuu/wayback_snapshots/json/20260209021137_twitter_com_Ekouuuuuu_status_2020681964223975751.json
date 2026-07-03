@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019943928292888576",
+        "3_2019943943904112640",
+        "3_2019943969770336258",
+        "3_2019943986514075648"
+      ],
+      "media_source_tweet_id": [
+        "2019944043854373026",
+        "2019944043854373026",
+        "2019944043854373026",
+        "2019944043854373026"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2020681964223975751",
+    "created_at": "2026-02-09T02:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T03:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020681964223975751"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "きゅうくらりん",
+          "probability": 0.3798,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705961363343048704",
+          "start": 3,
+          "username": "nzawasaji777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PlTof88dDI",
+          "end": 57,
+          "expanded_url": "https://x.com/nzawasaji777/status/2019944043854373026/photo/1",
+          "media_key": "3_2019943928292888576",
+          "start": 34,
+          "url": "https://t.co/PlTof88dDI"
+        },
+        {
+          "display_url": "pic.x.com/PlTof88dDI",
+          "end": 57,
+          "expanded_url": "https://x.com/nzawasaji777/status/2019944043854373026/photo/1",
+          "media_key": "3_2019943943904112640",
+          "start": 34,
+          "url": "https://t.co/PlTof88dDI"
+        },
+        {
+          "display_url": "pic.x.com/PlTof88dDI",
+          "end": 57,
+          "expanded_url": "https://x.com/nzawasaji777/status/2019944043854373026/photo/1",
+          "media_key": "3_2019943969770336258",
+          "start": 34,
+          "url": "https://t.co/PlTof88dDI"
+        },
+        {
+          "display_url": "pic.x.com/PlTof88dDI",
+          "end": 57,
+          "expanded_url": "https://x.com/nzawasaji777/status/2019944043854373026/photo/1",
+          "media_key": "3_2019943986514075648",
+          "start": 34,
+          "url": "https://t.co/PlTof88dDI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020681964223975751",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1543
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019944043854373026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @nzawasaji777: きゅうくらりん\n(タップ推奨) https://t.co/PlTof88dDI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3240,
+        "media_key": "3_2019943928292888576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhITPga0AAfDow.jpg",
+        "width": 1920
+      },
+      {
+        "height": 3240,
+        "media_key": "3_2019943943904112640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhIUJqbMAASOB4.jpg",
+        "width": 1920
+      },
+      {
+        "height": 3240,
+        "media_key": "3_2019943969770336258",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhIVqBacAIRjO6.jpg",
+        "width": 1920
+      },
+      {
+        "height": 3140,
+        "media_key": "3_2019943986514075648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhIWoZboAAJMgD.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019943928292888576",
+            "3_2019943943904112640",
+            "3_2019943969770336258",
+            "3_2019943986514075648"
+          ],
+          "media_source_tweet_id": [
+            "2019944043854373026",
+            "2019944043854373026",
+            "2019944043854373026",
+            "2019944043854373026"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2020681964223975751",
+        "created_at": "2026-02-09T02:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T03:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020681964223975751"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "きゅうくらりん",
+              "probability": 0.3798,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705961363343048704",
+              "start": 3,
+              "username": "nzawasaji777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PlTof88dDI",
+              "end": 57,
+              "expanded_url": "https://x.com/nzawasaji777/status/2019944043854373026/photo/1",
+              "media_key": "3_2019943928292888576",
+              "start": 34,
+              "url": "https://t.co/PlTof88dDI"
+            },
+            {
+              "display_url": "pic.x.com/PlTof88dDI",
+              "end": 57,
+              "expanded_url": "https://x.com/nzawasaji777/status/2019944043854373026/photo/1",
+              "media_key": "3_2019943943904112640",
+              "start": 34,
+              "url": "https://t.co/PlTof88dDI"
+            },
+            {
+              "display_url": "pic.x.com/PlTof88dDI",
+              "end": 57,
+              "expanded_url": "https://x.com/nzawasaji777/status/2019944043854373026/photo/1",
+              "media_key": "3_2019943969770336258",
+              "start": 34,
+              "url": "https://t.co/PlTof88dDI"
+            },
+            {
+              "display_url": "pic.x.com/PlTof88dDI",
+              "end": 57,
+              "expanded_url": "https://x.com/nzawasaji777/status/2019944043854373026/photo/1",
+              "media_key": "3_2019943986514075648",
+              "start": 34,
+              "url": "https://t.co/PlTof88dDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020681964223975751",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1543
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019944043854373026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @nzawasaji777: きゅうくらりん\n(タップ推奨) https://t.co/PlTof88dDI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019943928292888576",
+            "3_2019943943904112640",
+            "3_2019943969770336258",
+            "3_2019943986514075648"
+          ]
+        },
+        "author_id": "1705961363343048704",
+        "conversation_id": "2019944043854373026",
+        "created_at": "2026-02-07T01:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T02:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019944043854373026"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "きゅうくらりん",
+              "probability": 0.4983,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PlTof88dDI",
+              "end": 39,
+              "expanded_url": "https://x.com/nzawasaji777/status/2019944043854373026/photo/1",
+              "media_key": "3_2019943928292888576",
+              "start": 16,
+              "url": "https://t.co/PlTof88dDI"
+            },
+            {
+              "display_url": "pic.x.com/PlTof88dDI",
+              "end": 39,
+              "expanded_url": "https://x.com/nzawasaji777/status/2019944043854373026/photo/1",
+              "media_key": "3_2019943943904112640",
+              "start": 16,
+              "url": "https://t.co/PlTof88dDI"
+            },
+            {
+              "display_url": "pic.x.com/PlTof88dDI",
+              "end": 39,
+              "expanded_url": "https://x.com/nzawasaji777/status/2019944043854373026/photo/1",
+              "media_key": "3_2019943969770336258",
+              "start": 16,
+              "url": "https://t.co/PlTof88dDI"
+            },
+            {
+              "display_url": "pic.x.com/PlTof88dDI",
+              "end": 39,
+              "expanded_url": "https://x.com/nzawasaji777/status/2019944043854373026/photo/1",
+              "media_key": "3_2019943986514075648",
+              "start": 16,
+              "url": "https://t.co/PlTof88dDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019944043854373026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2667,
+          "impression_count": 2385199,
+          "like_count": 32242,
+          "quote_count": 25,
+          "reply_count": 3,
+          "retweet_count": 1543
+        },
+        "reply_settings": "following",
+        "text": "きゅうくらりん\n(タップ推奨) https://t.co/PlTof88dDI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖同類互fo‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 250,
+          "like_count": 8260,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 2051
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T15:04:27.000Z",
+        "description": "んざわさじ 絵 動画 漫画 隣人を愛そうね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nzawasaji777",
+                "end": 23,
+                "expanded_url": "https://lit.link/nzawasaji777",
+                "start": 0,
+                "url": "https://t.co/0RQYPNrPQP"
+              }
+            ]
+          }
+        },
+        "id": "1705961363343048704",
+        "location": "AI学習　無断使用× 依頼はlit link或いはDM、✉️",
+        "name": "ん沢　匙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971735989354897408/7xq8Wocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7220,
+          "following_count": 682,
+          "like_count": 6858,
+          "listed_count": 37,
+          "media_count": 289,
+          "tweet_count": 2520
+        },
+        "url": "https://t.co/0RQYPNrPQP",
+        "username": "nzawasaji777",
+        "verified": false
+      }
+    ]
+  }
+}

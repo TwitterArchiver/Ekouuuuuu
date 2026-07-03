@@ -1,0 +1,498 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994353549413879808",
+        "3_1994353549418123264",
+        "3_1994353549409669120",
+        "3_1994353549401300993"
+      ],
+      "media_source_tweet_id": [
+        "1994353572922724727",
+        "1994353572922724727",
+        "1994353572922724727",
+        "1994353572922724727"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1994572648438010320",
+    "created_at": "2025-11-29T01:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T02:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994572648438010320"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 15,
+          "tag": "今月描いた絵を晒そう"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1493238104739573760",
+          "start": 3,
+          "username": "393939Min"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9QQ4wtXKZw",
+          "end": 50,
+          "expanded_url": "https://x.com/393939Min/status/1994353572922724727/photo/1",
+          "media_key": "3_1994353549413879808",
+          "start": 27,
+          "url": "https://t.co/9QQ4wtXKZw"
+        },
+        {
+          "display_url": "pic.x.com/9QQ4wtXKZw",
+          "end": 50,
+          "expanded_url": "https://x.com/393939Min/status/1994353572922724727/photo/1",
+          "media_key": "3_1994353549418123264",
+          "start": 27,
+          "url": "https://t.co/9QQ4wtXKZw"
+        },
+        {
+          "display_url": "pic.x.com/9QQ4wtXKZw",
+          "end": 50,
+          "expanded_url": "https://x.com/393939Min/status/1994353572922724727/photo/1",
+          "media_key": "3_1994353549409669120",
+          "start": 27,
+          "url": "https://t.co/9QQ4wtXKZw"
+        },
+        {
+          "display_url": "pic.x.com/9QQ4wtXKZw",
+          "end": 50,
+          "expanded_url": "https://x.com/393939Min/status/1994353572922724727/photo/1",
+          "media_key": "3_1994353549401300993",
+          "start": 27,
+          "url": "https://t.co/9QQ4wtXKZw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994572648438010320",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994353572922724727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @393939Min: #今月描いた絵を晒そう https://t.co/9QQ4wtXKZw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1369,
+        "media_key": "3_1994353549413879808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61d_JVakAAWw2Z.jpg",
+        "width": 968
+      },
+      {
+        "height": 676,
+        "media_key": "3_1994353549418123264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61d_JWbUAAyM6X.jpg",
+        "width": 478
+      },
+      {
+        "height": 545,
+        "media_key": "3_1994353549409669120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61d_JUaUAA45EC.jpg",
+        "width": 684
+      },
+      {
+        "height": 1442,
+        "media_key": "3_1994353549401300993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61d_JSaoAElp-s.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994353549413879808",
+            "3_1994353549418123264",
+            "3_1994353549409669120",
+            "3_1994353549401300993"
+          ],
+          "media_source_tweet_id": [
+            "1994353572922724727",
+            "1994353572922724727",
+            "1994353572922724727",
+            "1994353572922724727"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1994572648438010320",
+        "created_at": "2025-11-29T01:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994572648438010320"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 15,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1493238104739573760",
+              "start": 3,
+              "username": "393939Min"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9QQ4wtXKZw",
+              "end": 50,
+              "expanded_url": "https://x.com/393939Min/status/1994353572922724727/photo/1",
+              "media_key": "3_1994353549413879808",
+              "start": 27,
+              "url": "https://t.co/9QQ4wtXKZw"
+            },
+            {
+              "display_url": "pic.x.com/9QQ4wtXKZw",
+              "end": 50,
+              "expanded_url": "https://x.com/393939Min/status/1994353572922724727/photo/1",
+              "media_key": "3_1994353549418123264",
+              "start": 27,
+              "url": "https://t.co/9QQ4wtXKZw"
+            },
+            {
+              "display_url": "pic.x.com/9QQ4wtXKZw",
+              "end": 50,
+              "expanded_url": "https://x.com/393939Min/status/1994353572922724727/photo/1",
+              "media_key": "3_1994353549409669120",
+              "start": 27,
+              "url": "https://t.co/9QQ4wtXKZw"
+            },
+            {
+              "display_url": "pic.x.com/9QQ4wtXKZw",
+              "end": 50,
+              "expanded_url": "https://x.com/393939Min/status/1994353572922724727/photo/1",
+              "media_key": "3_1994353549401300993",
+              "start": 27,
+              "url": "https://t.co/9QQ4wtXKZw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994572648438010320",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994353572922724727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @393939Min: #今月描いた絵を晒そう https://t.co/9QQ4wtXKZw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994353549413879808",
+            "3_1994353549418123264",
+            "3_1994353549409669120",
+            "3_1994353549401300993"
+          ]
+        },
+        "author_id": "1493238104739573760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          }
+        ],
+        "conversation_id": "1994353572922724727",
+        "created_at": "2025-11-28T10:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994353572922724727"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9QQ4wtXKZw",
+              "end": 35,
+              "expanded_url": "https://x.com/393939Min/status/1994353572922724727/photo/1",
+              "media_key": "3_1994353549413879808",
+              "start": 12,
+              "url": "https://t.co/9QQ4wtXKZw"
+            },
+            {
+              "display_url": "pic.x.com/9QQ4wtXKZw",
+              "end": 35,
+              "expanded_url": "https://x.com/393939Min/status/1994353572922724727/photo/1",
+              "media_key": "3_1994353549418123264",
+              "start": 12,
+              "url": "https://t.co/9QQ4wtXKZw"
+            },
+            {
+              "display_url": "pic.x.com/9QQ4wtXKZw",
+              "end": 35,
+              "expanded_url": "https://x.com/393939Min/status/1994353572922724727/photo/1",
+              "media_key": "3_1994353549409669120",
+              "start": 12,
+              "url": "https://t.co/9QQ4wtXKZw"
+            },
+            {
+              "display_url": "pic.x.com/9QQ4wtXKZw",
+              "end": 35,
+              "expanded_url": "https://x.com/393939Min/status/1994353572922724727/photo/1",
+              "media_key": "3_1994353549401300993",
+              "start": 12,
+              "url": "https://t.co/9QQ4wtXKZw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994353572922724727",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 12672,
+          "like_count": 898,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "#今月描いた絵を晒そう https://t.co/9QQ4wtXKZw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 2850,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 214
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T14:58:14.000Z",
+        "description": "趣味🎨 | お題箱📦 : 【https://t.co/avFUKt4HpI】 | サブ垢【@393939Min_nosub】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "393939Min_nosub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/393939Min",
+                "end": 37,
+                "expanded_url": "http://odaibako.net/u/393939Min",
+                "start": 14,
+                "url": "https://t.co/avFUKt4HpI"
+              }
+            ]
+          }
+        },
+        "id": "1493238104739573760",
+        "name": "みなりん",
+        "pinned_tweet_id": "1992065498251411723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989241443207266305/e8blwdKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4368,
+          "following_count": 303,
+          "like_count": 4114,
+          "listed_count": 28,
+          "media_count": 204,
+          "tweet_count": 1304
+        },
+        "username": "393939Min",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992564817346043904",
+        "3_1992564817346109440"
+      ],
+      "media_source_tweet_id": [
+        "1992564825361383932",
+        "1992564825361383932"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1995648473967042994",
+    "created_at": "2025-12-02T00:17:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T01:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995648473967042994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1533285336800866307",
+          "start": 3,
+          "username": "Miya_xxx_38"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ujsuN7CGTm",
+          "end": 53,
+          "expanded_url": "https://x.com/Miya_xxx_38/status/1992564825361383932/photo/1",
+          "media_key": "3_1992564817346043904",
+          "start": 30,
+          "url": "https://t.co/ujsuN7CGTm"
+        },
+        {
+          "display_url": "pic.x.com/ujsuN7CGTm",
+          "end": 53,
+          "expanded_url": "https://x.com/Miya_xxx_38/status/1992564825361383932/photo/1",
+          "media_key": "3_1992564817346109440",
+          "start": 30,
+          "url": "https://t.co/ujsuN7CGTm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995648473967042994",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1934
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992564825361383932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miya_xxx_38: かわいい返信が返ってきた https://t.co/ujsuN7CGTm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1917,
+        "media_key": "3_1992564817346043904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cDJPHaIAAciTX.jpg",
+        "width": 1534
+      },
+      {
+        "height": 1585,
+        "media_key": "3_1992564817346109440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cDJPHbIAAWTP6.jpg",
+        "width": 1404
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992564817346043904",
+            "3_1992564817346109440"
+          ],
+          "media_source_tweet_id": [
+            "1992564825361383932",
+            "1992564825361383932"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995648473967042994",
+        "created_at": "2025-12-02T00:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T01:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995648473967042994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1533285336800866307",
+              "start": 3,
+              "username": "Miya_xxx_38"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ujsuN7CGTm",
+              "end": 53,
+              "expanded_url": "https://x.com/Miya_xxx_38/status/1992564825361383932/photo/1",
+              "media_key": "3_1992564817346043904",
+              "start": 30,
+              "url": "https://t.co/ujsuN7CGTm"
+            },
+            {
+              "display_url": "pic.x.com/ujsuN7CGTm",
+              "end": 53,
+              "expanded_url": "https://x.com/Miya_xxx_38/status/1992564825361383932/photo/1",
+              "media_key": "3_1992564817346109440",
+              "start": 30,
+              "url": "https://t.co/ujsuN7CGTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995648473967042994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1934
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992564825361383932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miya_xxx_38: かわいい返信が返ってきた https://t.co/ujsuN7CGTm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992564817346043904",
+            "3_1992564817346109440"
+          ]
+        },
+        "author_id": "1533285336800866307",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992564825361383932",
+        "created_at": "2025-11-23T12:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T13:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992564825361383932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ujsuN7CGTm",
+              "end": 36,
+              "expanded_url": "https://x.com/Miya_xxx_38/status/1992564825361383932/photo/1",
+              "media_key": "3_1992564817346043904",
+              "start": 13,
+              "url": "https://t.co/ujsuN7CGTm"
+            },
+            {
+              "display_url": "pic.x.com/ujsuN7CGTm",
+              "end": 36,
+              "expanded_url": "https://x.com/Miya_xxx_38/status/1992564825361383932/photo/1",
+              "media_key": "3_1992564817346109440",
+              "start": 13,
+              "url": "https://t.co/ujsuN7CGTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992564825361383932",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1796,
+          "impression_count": 402906,
+          "like_count": 28312,
+          "quote_count": 119,
+          "reply_count": 16,
+          "retweet_count": 1934
+        },
+        "reply_settings": "everyone",
+        "text": "かわいい返信が返ってきた https://t.co/ujsuN7CGTm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 117,
+          "like_count": 3136,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 207
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T03:11:41.000Z",
+        "description": "𝙞𝙡𝙡𝙪𝙨𝙩𝙧𝙖𝙩𝙞𝙤𝙣💌📮￤女の子とうさぎさんの 漫画を描いてます 【skeb受付中】https://t.co/0sN0BDpVrC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Miya_xxx_38",
+                "end": 67,
+                "expanded_url": "https://skeb.jp/@Miya_xxx_38",
+                "start": 44,
+                "url": "https://t.co/0sN0BDpVrC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/71183609",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/71183609",
+                "start": 0,
+                "url": "https://t.co/sQRbkOFkey"
+              }
+            ]
+          }
+        },
+        "id": "1533285336800866307",
+        "location": "ご依頼はskebのみ承っております(skeb only)",
+        "name": "みんとぴあ",
+        "pinned_tweet_id": "1982780544003031225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971199086654345216/MmLuUiJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10723,
+          "following_count": 391,
+          "like_count": 16437,
+          "listed_count": 49,
+          "media_count": 53,
+          "tweet_count": 3787
+        },
+        "url": "https://t.co/sQRbkOFkey",
+        "username": "Miya_xxx_38",
+        "verified": false
+      }
+    ]
+  }
+}

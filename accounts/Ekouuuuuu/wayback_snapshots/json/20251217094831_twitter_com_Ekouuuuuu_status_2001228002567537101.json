@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2001228002567537101",
+    "created_at": "2025-12-17T09:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T10:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001228002567537101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1614768068353462273",
+          "start": 3,
+          "username": "Muddledist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001228002567537101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996892588021109061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Muddledist: 求求了痴情的人儿啊让我入几个门槛哥吧呜呜😭😭😭\n这条转发抽三个喜茶（折现25r），拜托大家了🥺🥺🥺\n88➕微信开放朋友圈\n188➕微信开放朋友圈➕偶尔日常聊天➕点歌\n388 ➕微信开放朋友圈➕偶尔日常聊天➕点歌➕偶尔涩图\n588 ➕微信开放朋友圈…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2001228002567537101].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2001228002567537101",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2001228002567537101"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1534,
+        "media_key": "3_1996892522753544199",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ZjK2Fb0Ac7T2E.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996892522761879552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ZjK2HbAAAmama.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996892522757738497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ZjK2Gb0AEDNyN.jpg",
+        "width": 1506
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996892522761818112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ZjK2HaEAA54Qy.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996892522753544199",
+            "3_1996892522761879552",
+            "3_1996892522757738497",
+            "3_1996892522761818112"
+          ]
+        },
+        "author_id": "1614768068353462273",
+        "conversation_id": "1996892588021109061",
+        "created_at": "2025-12-05T10:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T11:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996892588021109061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QlE3Hr90Wr",
+              "end": 174,
+              "expanded_url": "https://x.com/Muddledist/status/1996892588021109061/photo/1",
+              "media_key": "3_1996892522753544199",
+              "start": 151,
+              "url": "https://t.co/QlE3Hr90Wr"
+            },
+            {
+              "display_url": "pic.x.com/QlE3Hr90Wr",
+              "end": 174,
+              "expanded_url": "https://x.com/Muddledist/status/1996892588021109061/photo/1",
+              "media_key": "3_1996892522761879552",
+              "start": 151,
+              "url": "https://t.co/QlE3Hr90Wr"
+            },
+            {
+              "display_url": "pic.x.com/QlE3Hr90Wr",
+              "end": 174,
+              "expanded_url": "https://x.com/Muddledist/status/1996892588021109061/photo/1",
+              "media_key": "3_1996892522757738497",
+              "start": 151,
+              "url": "https://t.co/QlE3Hr90Wr"
+            },
+            {
+              "display_url": "pic.x.com/QlE3Hr90Wr",
+              "end": 174,
+              "expanded_url": "https://x.com/Muddledist/status/1996892588021109061/photo/1",
+              "media_key": "3_1996892522761818112",
+              "start": 151,
+              "url": "https://t.co/QlE3Hr90Wr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996892588021109061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8448,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "求求了痴情的人儿啊让我入几个门槛哥吧呜呜😭😭😭\n这条转发抽三个喜茶（折现25r），拜托大家了🥺🥺🥺\n88➕微信开放朋友圈\n188➕微信开放朋友圈➕偶尔日常聊天➕点歌\n388 ➕微信开放朋友圈➕偶尔日常聊天➕点歌➕偶尔涩图\n588 ➕微信开放朋友圈➕主动日常聊天➕点歌➕经常涩图➕语音聊天➕定制诗歌文章 https://t.co/QlE3Hr90Wr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 181,
+          "like_count": 4362,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 631
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T23:35:01.000Z",
+        "description": "211中文系抽象魔怔缺爱磕药地雷女｜流浪吟詩，爛泥打樁｜ 自由思考，獨立展望，用批判性思維看待這個復雜的世界。｜ 賽博發癲日記本｜ 赛博妓女实在处女｜ 欢迎互关｜🚪88/188/388/588/1888",
+        "id": "1614768068353462273",
+        "location": "夢",
+        "name": "乙女椿",
+        "pinned_tweet_id": "1997183338004816174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000155988427771904/7dNfl-vH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 5605,
+          "like_count": 7602,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 2220
+        },
+        "username": "Muddledist",
+        "verified": false
+      }
+    ]
+  }
+}

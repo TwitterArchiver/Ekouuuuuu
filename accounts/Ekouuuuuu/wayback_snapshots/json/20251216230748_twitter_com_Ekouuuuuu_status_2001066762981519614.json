@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999479528209735766",
+    "created_at": "2025-12-16T23:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T00:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001066762981519614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1685004211040452608",
+          "start": 0,
+          "username": "yun0225plm"
+        },
+        {
+          "end": 25,
+          "id": "1866458229527764992",
+          "start": 12,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001066762981519614",
+    "in_reply_to_user_id": "1685004211040452608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001026734632894660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yun0225plm @Citrus_amara 不用谢w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999479528209735766",
+        "created_at": "2025-12-16T23:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T00:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001066762981519614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685004211040452608",
+              "start": 0,
+              "username": "yun0225plm"
+            },
+            {
+              "end": 25,
+              "id": "1866458229527764992",
+              "start": 12,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001066762981519614",
+        "in_reply_to_user_id": "1685004211040452608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001026734632894660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yun0225plm @Citrus_amara 不用谢w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685004211040452608",
+        "conversation_id": "1999479528209735766",
+        "created_at": "2025-12-16T20:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T21:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001026734632894660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            },
+            {
+              "end": 24,
+              "id": "1866458229527764992",
+              "start": 11,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001026734632894660",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999754682361872558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu @Citrus_amara 我靠谢谢你宝儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2000500587956187160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 174,
+          "like_count": 4329,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 609
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T19:08:16.000Z",
+        "description": "甲乙左右相手固定 | 17 ↓",
+        "id": "1685004211040452608",
+        "name": "あかね",
+        "pinned_tweet_id": "1953555328890798099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996008510094802946/8pKinAgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 49,
+          "like_count": 2248,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1196
+        },
+        "username": "yun0225plm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2000895596702372279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 937,
+          "like_count": 14284,
+          "listed_count": 4,
+          "media_count": 259,
+          "tweet_count": 6723
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

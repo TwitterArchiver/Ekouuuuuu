@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1996159671867203617",
+    "created_at": "2025-12-03T10:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T11:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996159671867203617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996159671867203617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995749015305290032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 能再表演一下那个吗 就是那个 外卖商战"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1996159671867203617",
+        "created_at": "2025-12-03T10:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996159671867203617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996159671867203617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995749015305290032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 能再表演一下那个吗 就是那个 外卖商战"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865419581206208512",
+        "conversation_id": "1995749015305290032",
+        "created_at": "2025-12-02T06:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T07:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995749015305290032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995749015305290032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 117159,
+          "like_count": 1077,
+          "quote_count": 8,
+          "reply_count": 31,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "能再表演一下那个吗 就是那个 外卖商战"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖Aru是一切！‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 126,
+          "like_count": 3282,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 257
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9979,
+          "following_count": 8063,
+          "like_count": 27790,
+          "listed_count": 25,
+          "media_count": 6717,
+          "tweet_count": 42282
+        },
+        "username": "DDzhanshou5150",
+        "verified": true
+      }
+    ]
+  }
+}

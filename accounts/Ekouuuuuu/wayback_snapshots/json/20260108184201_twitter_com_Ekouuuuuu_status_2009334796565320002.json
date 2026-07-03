@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009309523794907138"
+      ],
+      "media_source_tweet_id": [
+        "2009309747514859817"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2009334796565320002",
+    "created_at": "2026-01-08T18:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T19:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009334796565320002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1153970326604144640",
+          "start": 3,
+          "username": "Ruters0615"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R4RzLYEsds",
+          "end": 46,
+          "expanded_url": "https://x.com/Ruters0615/status/2009309747514859817/photo/1",
+          "media_key": "3_2009309523794907138",
+          "start": 23,
+          "url": "https://t.co/R4RzLYEsds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009334796565320002",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009309747514859817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ruters0615: 我真的求你了 https://t.co/R4RzLYEsds"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2009334796565320002].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2009334796565320002",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2009334796565320002"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2009309523794907138",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-KAXbma0AIXw31.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009309523794907138"
+          ]
+        },
+        "author_id": "1153970326604144640",
+        "conversation_id": "2009309747514859817",
+        "created_at": "2026-01-08T17:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T18:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009309747514859817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4RzLYEsds",
+              "end": 30,
+              "expanded_url": "https://x.com/Ruters0615/status/2009309747514859817/photo/1",
+              "media_key": "3_2009309523794907138",
+              "start": 7,
+              "url": "https://t.co/R4RzLYEsds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009309747514859817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3061,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我真的求你了 https://t.co/R4RzLYEsds"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了w‖生理性別女‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 90,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 67,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2006059996145148295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 198,
+          "like_count": 5858,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1015
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T10:09:00.000Z",
+        "description": "官方X账户，国安部最高通缉，专注于乳包反共鬼畜作品，投稿请私信or邮箱投稿：Ruters0615@gmail.com\nTelegram：https://t.co/p6qoFVZxgy\nYouTube：小反旗&小池塘（被国安橄榄过三回啊三回）\nRumble / Spotify：Ruters乳透社",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruters0615",
+                "end": 91,
+                "expanded_url": "http://t.me/Ruters0615",
+                "start": 68,
+                "url": "https://t.co/p6qoFVZxgy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@RutersXiaoFan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@RutersXiaoFanQi",
+                "start": 0,
+                "url": "https://t.co/fxNkDBFEkL"
+              }
+            ]
+          }
+        },
+        "id": "1153970326604144640",
+        "location": "IP属地：梁家河",
+        "name": "Ruters乳透社",
+        "pinned_tweet_id": "1984884324806828349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520784344280748032/gHq_Pfaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295417,
+          "following_count": 2386,
+          "like_count": 2363,
+          "listed_count": 929,
+          "media_count": 2306,
+          "tweet_count": 3064
+        },
+        "url": "https://t.co/fxNkDBFEkL",
+        "username": "Ruters0615",
+        "verified": true
+      }
+    ]
+  }
+}

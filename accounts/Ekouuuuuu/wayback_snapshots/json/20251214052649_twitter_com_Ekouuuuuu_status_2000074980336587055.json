@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1998356302519799855",
+    "created_at": "2025-12-14T05:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T06:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000074980336587055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1823879767634141185",
+          "start": 0,
+          "username": "oioioi525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000074980336587055",
+    "in_reply_to_user_id": "1823879767634141185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998356302519799855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oioioi525 ww可愛捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998356295938916352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7uWdqIawAAR7Q6.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1998356302519799855",
+        "created_at": "2025-12-14T05:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000074980336587055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1823879767634141185",
+              "start": 0,
+              "username": "oioioi525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000074980336587055",
+        "in_reply_to_user_id": "1823879767634141185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998356302519799855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oioioi525 ww可愛捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998356295938916352"
+          ]
+        },
+        "author_id": "1823879767634141185",
+        "conversation_id": "1998356302519799855",
+        "created_at": "2025-12-09T11:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T12:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998356302519799855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pr02FChy5A",
+              "end": 32,
+              "expanded_url": "https://x.com/oioioi525/status/1998356302519799855/photo/1",
+              "media_key": "3_1998356295938916352",
+              "start": 9,
+              "url": "https://t.co/Pr02FChy5A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998356302519799855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 242,
+          "impression_count": 45919,
+          "like_count": 2429,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "老师在看哪里呢？ https://t.co/Pr02FChy5A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了ww‖買笑氣請加我tg‖化學極樂‖養病中……‖🇯🇵🤝🇹🇼‖overdose是吸毒所以我是毒蟲🥺‖N₂O重度依賴‖支畜滾‖陰暗逼（？）‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 156,
+          "like_count": 3742,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 459
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T00:30:05.000Z",
+        "description": "这里是ran 3 无🔞 定制私 唯一小号@ran3ran3ran3 fanbox∶https://t.co/Riisyc9qhR patreon:https://t.co/c8fX4AeM4X 岛盒↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "ran3ran3ran3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ran3.fanbox.cc",
+                "end": 64,
+                "expanded_url": "https://ran3.fanbox.cc/",
+                "start": 41,
+                "url": "https://t.co/Riisyc9qhR"
+              },
+              {
+                "display_url": "patreon.com/c/oioioi525",
+                "end": 96,
+                "expanded_url": "https://www.patreon.com/c/oioioi525",
+                "start": 73,
+                "url": "https://t.co/c8fX4AeM4X"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/43524R",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/43524R",
+                "start": 0,
+                "url": "https://t.co/GmLuuar1YB"
+              }
+            ]
+          }
+        },
+        "id": "1823879767634141185",
+        "name": "ran3",
+        "pinned_tweet_id": "1975383708241961433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975935320190590976/D-XGVDoC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92771,
+          "following_count": 1135,
+          "like_count": 3657,
+          "listed_count": 402,
+          "media_count": 268,
+          "tweet_count": 1046
+        },
+        "url": "https://t.co/GmLuuar1YB",
+        "username": "oioioi525",
+        "verified": true
+      }
+    ]
+  }
+}

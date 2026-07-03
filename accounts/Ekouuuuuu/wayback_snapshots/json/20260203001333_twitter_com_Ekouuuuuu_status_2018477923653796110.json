@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017932066617454592"
+      ],
+      "media_source_tweet_id": [
+        "2017932071579386302"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2018477923653796110",
+    "created_at": "2026-02-03T00:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T01:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018477923653796110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687721440668471296",
+          "start": 3,
+          "username": "yowai_nuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L7jISuYmrK",
+          "end": 38,
+          "expanded_url": "https://x.com/yowai_nuu/status/2017932071579386302/photo/1",
+          "media_key": "3_2017932066617454592",
+          "start": 15,
+          "url": "https://t.co/L7jISuYmrK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018477923653796110",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 268
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017932071579386302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yowai_nuu: https://t.co/L7jISuYmrK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_2017932066617454592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAEiheuacAAuYpw.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017932066617454592"
+          ],
+          "media_source_tweet_id": [
+            "2017932071579386302"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2018477923653796110",
+        "created_at": "2026-02-03T00:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018477923653796110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687721440668471296",
+              "start": 3,
+              "username": "yowai_nuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L7jISuYmrK",
+              "end": 38,
+              "expanded_url": "https://x.com/yowai_nuu/status/2017932071579386302/photo/1",
+              "media_key": "3_2017932066617454592",
+              "start": 15,
+              "url": "https://t.co/L7jISuYmrK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018477923653796110",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 268
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017932071579386302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yowai_nuu: https://t.co/L7jISuYmrK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017932066617454592"
+          ]
+        },
+        "author_id": "1687721440668471296",
+        "conversation_id": "2017932071579386302",
+        "created_at": "2026-02-01T12:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T13:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017932071579386302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L7jISuYmrK",
+              "end": 23,
+              "expanded_url": "https://x.com/yowai_nuu/status/2017932071579386302/photo/1",
+              "media_key": "3_2017932066617454592",
+              "start": 0,
+              "url": "https://t.co/L7jISuYmrK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017932071579386302",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 26378,
+          "like_count": 2441,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 268
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/L7jISuYmrK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "同一片天為何好久不見‖叫我白菜就好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 235,
+          "like_count": 7836,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 1863
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T07:05:38.000Z",
+        "description": "ぴんくの水玉 いつもありがとう ！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yowainu361",
+                "end": 23,
+                "expanded_url": "https://lit.link/yowainu361",
+                "start": 0,
+                "url": "https://t.co/G2UZBgOL5S"
+              }
+            ]
+          }
+        },
+        "id": "1687721440668471296",
+        "name": "よわいぬ",
+        "pinned_tweet_id": "2002013107527528920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983412394052464645/4btm3pMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3280,
+          "following_count": 914,
+          "like_count": 40493,
+          "listed_count": 36,
+          "media_count": 578,
+          "tweet_count": 3807
+        },
+        "url": "https://t.co/G2UZBgOL5S",
+        "username": "yowai_nuu",
+        "verified": false
+      }
+    ]
+  }
+}

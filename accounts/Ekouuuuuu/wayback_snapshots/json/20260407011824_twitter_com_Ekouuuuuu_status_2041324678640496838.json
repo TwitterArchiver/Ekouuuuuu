@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041079058017275904"
+      ],
+      "media_source_tweet_id": [
+        "2041079074685378901"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2041324678640496838",
+    "created_at": "2026-04-07T01:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T02:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041324678640496838"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 15,
+          "tag": "NEEDY_pic"
+        },
+        {
+          "end": 46,
+          "start": 26,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1734551655926927360",
+          "start": 3,
+          "username": "himexuime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qLkz5WmWBh",
+          "end": 70,
+          "expanded_url": "https://x.com/himexuime/status/2041079074685378901/photo/1",
+          "media_key": "3_2041079058017275904",
+          "start": 47,
+          "url": "https://t.co/qLkz5WmWBh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041324678640496838",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 197
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041079074685378901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @himexuime: #NEEDY_pic #NEEDY_GIRL_OVERDOSE https://t.co/qLkz5WmWBh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041079058017275904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNeltOb0AA2Duh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041079058017275904"
+          ],
+          "media_source_tweet_id": [
+            "2041079074685378901"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2041324678640496838",
+        "created_at": "2026-04-07T01:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041324678640496838"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 46,
+              "start": 26,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1734551655926927360",
+              "start": 3,
+              "username": "himexuime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qLkz5WmWBh",
+              "end": 70,
+              "expanded_url": "https://x.com/himexuime/status/2041079074685378901/photo/1",
+              "media_key": "3_2041079058017275904",
+              "start": 47,
+              "url": "https://t.co/qLkz5WmWBh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041324678640496838",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 197
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041079074685378901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @himexuime: #NEEDY_pic #NEEDY_GIRL_OVERDOSE https://t.co/qLkz5WmWBh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041079058017275904"
+          ]
+        },
+        "author_id": "1734551655926927360",
+        "conversation_id": "2041079074685378901",
+        "created_at": "2026-04-06T09:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041079074685378901"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 31,
+              "start": 11,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qLkz5WmWBh",
+              "end": 55,
+              "expanded_url": "https://x.com/himexuime/status/2041079074685378901/photo/1",
+              "media_key": "3_2041079058017275904",
+              "start": 32,
+              "url": "https://t.co/qLkz5WmWBh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041079074685378901",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 8597,
+          "like_count": 1192,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 197
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_pic #NEEDY_GIRL_OVERDOSE https://t.co/qLkz5WmWBh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖恆春最深情‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo‖陰暗逼od蛆互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2035365735460180096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 250,
+          "like_count": 9909,
+          "listed_count": 1,
+          "media_count": 422,
+          "tweet_count": 2615
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-12T12:32:45.000Z",
+        "description": "✉️ : daisukiruru486@gmail.com | No AI training / Repost 🚫",
+        "id": "1734551655926927360",
+        "location": "i : 이단님cm",
+        "name": "るる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036838100241104896/6bRBxTzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 42,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 55
+        },
+        "username": "himexuime",
+        "verified": false
+      }
+    ]
+  }
+}

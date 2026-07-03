@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994361620374675456"
+      ],
+      "media_source_tweet_id": [
+        "1994361624950628388"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994570102965198922",
+    "created_at": "2025-11-29T00:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T01:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994570102965198922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "763150487046590465",
+          "start": 3,
+          "username": "animalkyat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZmzmJ2aJ2a",
+          "end": 66,
+          "expanded_url": "https://x.com/animalkyat/status/1994361624950628388/photo/1",
+          "media_key": "3_1994361620374675456",
+          "start": 43,
+          "url": "https://t.co/ZmzmJ2aJ2a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994570102965198922",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 564
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994361624950628388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animalkyat: 「実家の猫元気？」と母にラインしたら送られてきた写真 https://t.co/ZmzmJ2aJ2a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1522,
+        "media_key": "3_1994361620374675456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61lU8Aa4AAAqBI.jpg",
+        "width": 1230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994361620374675456"
+          ],
+          "media_source_tweet_id": [
+            "1994361624950628388"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994570102965198922",
+        "created_at": "2025-11-29T00:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T01:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994570102965198922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "763150487046590465",
+              "start": 3,
+              "username": "animalkyat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZmzmJ2aJ2a",
+              "end": 66,
+              "expanded_url": "https://x.com/animalkyat/status/1994361624950628388/photo/1",
+              "media_key": "3_1994361620374675456",
+              "start": 43,
+              "url": "https://t.co/ZmzmJ2aJ2a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994570102965198922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 564
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994361624950628388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animalkyat: 「実家の猫元気？」と母にラインしたら送られてきた写真 https://t.co/ZmzmJ2aJ2a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994361620374675456"
+          ]
+        },
+        "author_id": "763150487046590465",
+        "conversation_id": "1994361624950628388",
+        "created_at": "2025-11-28T11:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994361624950628388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZmzmJ2aJ2a",
+              "end": 50,
+              "expanded_url": "https://x.com/animalkyat/status/1994361624950628388/photo/1",
+              "media_key": "3_1994361620374675456",
+              "start": 27,
+              "url": "https://t.co/ZmzmJ2aJ2a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994361624950628388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 100515,
+          "like_count": 9182,
+          "quote_count": 21,
+          "reply_count": 59,
+          "retweet_count": 564
+        },
+        "reply_settings": "everyone",
+        "text": "「実家の猫元気？」と母にラインしたら送られてきた写真 https://t.co/ZmzmJ2aJ2a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 2822,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 196
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-09T23:10:29.000Z",
+        "description": "いろんな動物をお届けします🦦🦥🐿️🦜🐈🐓🦔🐕🐇PRや広告拡散等のお仕事はDMまで",
+        "id": "763150487046590465",
+        "location": "日本 東京",
+        "name": "癒しの動物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893589723161280512/ea2nEpd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224036,
+          "following_count": 154,
+          "like_count": 540,
+          "listed_count": 518,
+          "media_count": 3984,
+          "tweet_count": 4563
+        },
+        "username": "animalkyat",
+        "verified": false
+      }
+    ]
+  }
+}

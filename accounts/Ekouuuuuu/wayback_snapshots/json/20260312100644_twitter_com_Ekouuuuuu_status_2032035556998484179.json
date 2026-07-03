@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031747042515828736"
+      ],
+      "media_source_tweet_id": [
+        "2031747048408858880"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2032035556998484179",
+    "created_at": "2026-03-12T10:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T11:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032035556998484179"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 31,
+          "tag": "陸八魔アル生誕祭2026"
+        },
+        {
+          "end": 50,
+          "start": 45,
+          "tag": "ブルアカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1460062773430620165",
+          "start": 3,
+          "username": "tsetainsu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LmsG0g71sx",
+          "end": 74,
+          "expanded_url": "https://x.com/tsetainsu/status/2031747048408858880/photo/1",
+          "media_key": "3_2031747042515828736",
+          "start": 51,
+          "url": "https://t.co/LmsG0g71sx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032035556998484179",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 695
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031747048408858880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsetainsu: アルにバースデイサプライズ \n #陸八魔アル生誕祭2026 #ブルアカ https://t.co/LmsG0g71sx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2031747042515828736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDI3K6abQAAK0Bs.jpg",
+        "width": 623
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031747042515828736"
+          ],
+          "media_source_tweet_id": [
+            "2031747048408858880"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2032035556998484179",
+        "created_at": "2026-03-12T10:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032035556998484179"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 31,
+              "tag": "陸八魔アル生誕祭2026"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "ブルアカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1460062773430620165",
+              "start": 3,
+              "username": "tsetainsu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LmsG0g71sx",
+              "end": 74,
+              "expanded_url": "https://x.com/tsetainsu/status/2031747048408858880/photo/1",
+              "media_key": "3_2031747042515828736",
+              "start": 51,
+              "url": "https://t.co/LmsG0g71sx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032035556998484179",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 695
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031747048408858880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsetainsu: アルにバースデイサプライズ \n #陸八魔アル生誕祭2026 #ブルアカ https://t.co/LmsG0g71sx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031747042515828736"
+          ]
+        },
+        "author_id": "1460062773430620165",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          }
+        ],
+        "conversation_id": "2031747048408858880",
+        "created_at": "2026-03-11T15:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T16:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031747048408858880"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 16,
+              "tag": "陸八魔アル生誕祭2026"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "ブルアカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LmsG0g71sx",
+              "end": 59,
+              "expanded_url": "https://x.com/tsetainsu/status/2031747048408858880/photo/1",
+              "media_key": "3_2031747042515828736",
+              "start": 36,
+              "url": "https://t.co/LmsG0g71sx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031747048408858880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 491,
+          "impression_count": 70060,
+          "like_count": 5959,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 695
+        },
+        "reply_settings": "everyone",
+        "text": "アルにバースデイサプライズ \n #陸八魔アル生誕祭2026 #ブルアカ https://t.co/LmsG0g71sx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2032007899732721877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 242,
+          "like_count": 9345,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 2417
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-15T01:52:44.000Z",
+        "description": "■イラストレーター\n■お仕事の連絡先:DM\n■実績:\n「初音ミク GALAXY LIVE2021」\nイラスト募集『大賞』受賞(ヘッダー)等\n■Skeb→https://t.co/LjvFZ2VRth\n■https://t.co/4TeuPwWKFn\n■ファンアート：ブルアカ等\n■無断使用禁止",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tsetainsu",
+                "end": 99,
+                "expanded_url": "http://skeb.jp/@tsetainsu",
+                "start": 76,
+                "url": "https://t.co/LjvFZ2VRth"
+              },
+              {
+                "display_url": "pixiv.net/users/66304213",
+                "end": 124,
+                "expanded_url": "http://pixiv.net/users/66304213",
+                "start": 101,
+                "url": "https://t.co/4TeuPwWKFn"
+              }
+            ]
+          }
+        },
+        "id": "1460062773430620165",
+        "name": "ツェータインス",
+        "pinned_tweet_id": "1923664881179587064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942447728270741504/f4J3QwOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32435,
+          "following_count": 597,
+          "like_count": 25920,
+          "listed_count": 245,
+          "media_count": 300,
+          "tweet_count": 12027
+        },
+        "username": "tsetainsu",
+        "verified": true
+      }
+    ]
+  }
+}

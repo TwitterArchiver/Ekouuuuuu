@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054870235489161216"
+      ],
+      "media_source_tweet_id": [
+        "2054870240346210803"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2055027930498256990",
+    "created_at": "2026-05-14T20:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T21:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055027930498256990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1649352789544534016",
+          "start": 3,
+          "username": "4kill_n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OFpwfQUG1t",
+          "end": 39,
+          "expanded_url": "https://x.com/4kill_n/status/2054870240346210803/photo/1",
+          "media_key": "3_2054870235489161216",
+          "start": 16,
+          "url": "https://t.co/OFpwfQUG1t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055027930498256990",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054870240346210803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4kill_n: ばぁ https://t.co/OFpwfQUG1t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054870235489161216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRdl43a0AA7MkP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054870235489161216"
+          ],
+          "media_source_tweet_id": [
+            "2054870240346210803"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2055027930498256990",
+        "created_at": "2026-05-14T20:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T21:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055027930498256990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1649352789544534016",
+              "start": 3,
+              "username": "4kill_n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OFpwfQUG1t",
+              "end": 39,
+              "expanded_url": "https://x.com/4kill_n/status/2054870240346210803/photo/1",
+              "media_key": "3_2054870235489161216",
+              "start": 16,
+              "url": "https://t.co/OFpwfQUG1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055027930498256990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054870240346210803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4kill_n: ばぁ https://t.co/OFpwfQUG1t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054870235489161216"
+          ]
+        },
+        "author_id": "1649352789544534016",
+        "conversation_id": "2054870240346210803",
+        "created_at": "2026-05-14T10:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054870240346210803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OFpwfQUG1t",
+              "end": 26,
+              "expanded_url": "https://x.com/4kill_n/status/2054870240346210803/photo/1",
+              "media_key": "3_2054870235489161216",
+              "start": 3,
+              "url": "https://t.co/OFpwfQUG1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054870240346210803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 9168,
+          "like_count": 1052,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "ばぁ https://t.co/OFpwfQUG1t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "她說她停不下這瘋狂‖閨蜜@seeFvn‖老公@Shiroko_Li‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 12,
+                "username": "seeFvn"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake flowers",
+        "pinned_tweet_id": "2054494874192195972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 296,
+          "like_count": 12507,
+          "listed_count": 1,
+          "media_count": 514,
+          "tweet_count": 3101
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T10:02:12.000Z",
+        "description": "@44jester",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "44jester"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/HT5Z5BBD2SD5?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/jOmjExX5Tj"
+              }
+            ]
+          }
+        },
+        "id": "1649352789544534016",
+        "name": "⁴𝔨𝔦𝔩𝔩",
+        "pinned_tweet_id": "2008491992549126609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017252273949458432/13hmKH95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4950,
+          "following_count": 0,
+          "like_count": 6814,
+          "listed_count": 21,
+          "media_count": 260,
+          "tweet_count": 711
+        },
+        "url": "https://t.co/jOmjExX5Tj",
+        "username": "4kill_n",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2070842771184009569",
+    "created_at": "2026-06-28T02:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T03:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071064681163403372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767607831908470784",
+          "start": 0,
+          "username": "fang_liu96370"
+        },
+        {
+          "end": 27,
+          "id": "1781745564738281472",
+          "start": 15,
+          "username": "Stolly21_TG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071064681163403372",
+    "in_reply_to_user_id": "1767607831908470784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070846580807368994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fang_liu96370 @Stolly21_TG 劉芳你吃不吃晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2070842771184009569",
+        "created_at": "2026-06-28T02:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T03:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071064681163403372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767607831908470784",
+              "start": 0,
+              "username": "fang_liu96370"
+            },
+            {
+              "end": 27,
+              "id": "1781745564738281472",
+              "start": 15,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071064681163403372",
+        "in_reply_to_user_id": "1767607831908470784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070846580807368994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fang_liu96370 @Stolly21_TG 劉芳你吃不吃晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767607831908470784",
+        "conversation_id": "2070842771184009569",
+        "created_at": "2026-06-27T12:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070846580807368994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070846580807368994",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070842771184009569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 要当我是警察我总不能给你证明我不是吧，自证陷阱呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖LGBTQ+友好‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2064040950851404219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 380,
+          "like_count": 14436,
+          "listed_count": 1,
+          "media_count": 638,
+          "tweet_count": 3855
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T17:45:39.000Z",
+        "description": "",
+        "id": "1767607831908470784",
+        "name": "bad cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070844724718755840/SuZREOOH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 285,
+          "like_count": 1998,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "fang_liu96370",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 132,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 415
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052706578512715776"
+      ],
+      "media_source_tweet_id": [
+        "2052706587132006418"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Newlyweds",
+          "id": "847546008917520384",
+          "name": "Newlyweds"
+        }
+      }
+    ],
+    "conversation_id": "2053088531212624099",
+    "created_at": "2026-05-09T12:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053088531212624099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1363166287984123905",
+          "start": 3,
+          "username": "HAYAKU_NER0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bqjpsF5CAr",
+          "end": 50,
+          "expanded_url": "https://x.com/HAYAKU_NER0/status/2052706587132006418/photo/1",
+          "media_key": "3_2052706578512715776",
+          "start": 27,
+          "url": "https://t.co/bqjpsF5CAr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053088531212624099",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 410
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052706587132006418",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HAYAKU_NER0: 💗新婚詰め合わせ💗 https://t.co/bqjpsF5CAr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1631,
+        "media_key": "3_2052706578512715776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHytwehboAA-xRr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052706578512715776"
+          ],
+          "media_source_tweet_id": [
+            "2052706587132006418"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Newlyweds",
+              "id": "847546008917520384",
+              "name": "Newlyweds"
+            }
+          }
+        ],
+        "conversation_id": "2053088531212624099",
+        "created_at": "2026-05-09T12:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053088531212624099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1363166287984123905",
+              "start": 3,
+              "username": "HAYAKU_NER0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bqjpsF5CAr",
+              "end": 50,
+              "expanded_url": "https://x.com/HAYAKU_NER0/status/2052706587132006418/photo/1",
+              "media_key": "3_2052706578512715776",
+              "start": 27,
+              "url": "https://t.co/bqjpsF5CAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053088531212624099",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 410
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052706587132006418",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HAYAKU_NER0: 💗新婚詰め合わせ💗 https://t.co/bqjpsF5CAr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052706578512715776"
+          ]
+        },
+        "author_id": "1363166287984123905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Newlyweds",
+              "id": "847546008917520384",
+              "name": "Newlyweds"
+            }
+          }
+        ],
+        "conversation_id": "2052706587132006418",
+        "created_at": "2026-05-08T11:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052706587132006418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bqjpsF5CAr",
+              "end": 33,
+              "expanded_url": "https://x.com/HAYAKU_NER0/status/2052706587132006418/photo/1",
+              "media_key": "3_2052706578512715776",
+              "start": 10,
+              "url": "https://t.co/bqjpsF5CAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052706587132006418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 859,
+          "impression_count": 86390,
+          "like_count": 6756,
+          "quote_count": 22,
+          "reply_count": 2,
+          "retweet_count": 410
+        },
+        "reply_settings": "everyone",
+        "text": "💗新婚詰め合わせ💗 https://t.co/bqjpsF5CAr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "我還想和你談論宇宙和天空‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2051776082542825551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 299,
+          "like_count": 11919,
+          "listed_count": 1,
+          "media_count": 490,
+          "tweet_count": 2968
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-20T16:39:23.000Z",
+        "description": "💌 0hayaneoki0@gmail.com / 🎀 https://t.co/uhtKJEq15E / 🐮個人依頼 ▶︎ @notfumin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "notfumin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/yummy383/",
+                "end": 51,
+                "expanded_url": "https://lit.link/yummy383/",
+                "start": 28,
+                "url": "https://t.co/uhtKJEq15E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@HAYAKU_NER0",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@HAYAKU_NER0",
+                "start": 0,
+                "url": "https://t.co/n0FMrTn1xE"
+              }
+            ]
+          }
+        },
+        "id": "1363166287984123905",
+        "location": "🚫無断転載、参考、トレス、自作発言、AI、フォロバ目的🚫",
+        "name": "早寝早起き",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657718741583679488/91Yv3qLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33525,
+          "following_count": 61,
+          "like_count": 4689,
+          "listed_count": 246,
+          "media_count": 95,
+          "tweet_count": 3856
+        },
+        "url": "https://t.co/n0FMrTn1xE",
+        "username": "HAYAKU_NER0",
+        "verified": true
+      }
+    ]
+  }
+}

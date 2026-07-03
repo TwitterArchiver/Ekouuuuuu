@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999390818017165483",
+    "created_at": "2025-12-13T07:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T08:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999750239218204834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1048228061894860801",
+          "start": 0,
+          "username": "Aebdlle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999750239218204834",
+    "in_reply_to_user_id": "1048228061894860801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999390818017165483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aebdlle 總而言之你很可愛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_1999390788329852931",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79DVCmW0AMZ_Iy.jpg",
+        "width": 1438
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999390818017165483",
+        "created_at": "2025-12-13T07:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T08:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999750239218204834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1048228061894860801",
+              "start": 0,
+              "username": "Aebdlle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999750239218204834",
+        "in_reply_to_user_id": "1048228061894860801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999390818017165483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aebdlle 總而言之你很可愛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999390788329852931"
+          ]
+        },
+        "author_id": "1048228061894860801",
+        "conversation_id": "1999390818017165483",
+        "created_at": "2025-12-12T08:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999390818017165483"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "福州"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xW2xTKFgXV",
+              "end": 46,
+              "expanded_url": "https://x.com/Aebdlle/status/1999390818017165483/photo/1",
+              "media_key": "3_1999390788329852931",
+              "start": 23,
+              "url": "https://t.co/xW2xTKFgXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999390818017165483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 39077,
+          "like_count": 477,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "骂我的人看到我长这样还忍心骂我吗？  #福州 https://t.co/xW2xTKFgXV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999520374074024441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 137,
+          "like_count": 3492,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 293
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-05T15:06:59.000Z",
+        "description": "",
+        "id": "1048228061894860801",
+        "name": "野生小猫-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961433310199975936/emSFmaq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 4,
+          "media_count": 31,
+          "tweet_count": 63
+        },
+        "username": "Aebdlle",
+        "verified": false
+      }
+    ]
+  }
+}

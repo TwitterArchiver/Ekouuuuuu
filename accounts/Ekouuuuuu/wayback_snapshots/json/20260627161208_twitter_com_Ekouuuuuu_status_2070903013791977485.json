@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2070864025290969373",
+    "created_at": "2026-06-27T16:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070903013791977485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063564638328147968",
+          "start": 0,
+          "username": "frontier_tut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070903013791977485",
+    "in_reply_to_user_id": "2063564638328147968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070864025290969373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frontier_tut 可愛捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2070864013614006272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0v2TWaQAAz2X7.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2070864025290969373",
+        "created_at": "2026-06-27T16:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070903013791977485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063564638328147968",
+              "start": 0,
+              "username": "frontier_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070903013791977485",
+        "in_reply_to_user_id": "2063564638328147968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070864025290969373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frontier_tut 可愛捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070864013614006272"
+          ]
+        },
+        "author_id": "2063564638328147968",
+        "conversation_id": "2070864025290969373",
+        "created_at": "2026-06-27T13:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070864025290969373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GD8PVNnh5N",
+              "end": 35,
+              "expanded_url": "https://x.com/frontier_tut/status/2070864025290969373/photo/1",
+              "media_key": "3_2070864013614006272",
+              "start": 12,
+              "url": "https://t.co/GD8PVNnh5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070864025290969373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闺蜜送我的一套汉洋折衷 https://t.co/GD8PVNnh5N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖LGBTQ+友好‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2064040950851404219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 378,
+          "like_count": 14431,
+          "listed_count": 1,
+          "media_count": 638,
+          "tweet_count": 3851
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 156,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      }
+    ]
+  }
+}

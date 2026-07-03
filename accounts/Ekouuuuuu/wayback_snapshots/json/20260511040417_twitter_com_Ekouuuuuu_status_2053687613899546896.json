@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053476009413111808",
+        "3_2053476009434107904"
+      ],
+      "media_source_tweet_id": [
+        "2053476020972584975",
+        "2053476020972584975"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2053687613899546896",
+    "created_at": "2026-05-11T04:04:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T05:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053687613899546896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1786684765753753601",
+          "start": 3,
+          "username": "BIlIo_oIs2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hlsAPzZlP6",
+          "end": 43,
+          "expanded_url": "https://x.com/BIlIo_oIs2/status/2053476020972584975/photo/1",
+          "media_key": "3_2053476009413111808",
+          "start": 20,
+          "url": "https://t.co/hlsAPzZlP6"
+        },
+        {
+          "display_url": "pic.x.com/hlsAPzZlP6",
+          "end": 43,
+          "expanded_url": "https://x.com/BIlIo_oIs2/status/2053476020972584975/photo/1",
+          "media_key": "3_2053476009434107904",
+          "start": 20,
+          "url": "https://t.co/hlsAPzZlP6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053687613899546896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053476020972584975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BIlIo_oIs2: 神キタ https://t.co/hlsAPzZlP6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2053476009413111808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9pjP_a8AArYXl.jpg",
+        "width": 750
+      },
+      {
+        "height": 1450,
+        "media_key": "3_2053476009434107904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9pjQEbUAAP8WU.jpg",
+        "width": 1085
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053476009413111808",
+            "3_2053476009434107904"
+          ],
+          "media_source_tweet_id": [
+            "2053476020972584975",
+            "2053476020972584975"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2053687613899546896",
+        "created_at": "2026-05-11T04:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053687613899546896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1786684765753753601",
+              "start": 3,
+              "username": "BIlIo_oIs2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hlsAPzZlP6",
+              "end": 43,
+              "expanded_url": "https://x.com/BIlIo_oIs2/status/2053476020972584975/photo/1",
+              "media_key": "3_2053476009413111808",
+              "start": 20,
+              "url": "https://t.co/hlsAPzZlP6"
+            },
+            {
+              "display_url": "pic.x.com/hlsAPzZlP6",
+              "end": 43,
+              "expanded_url": "https://x.com/BIlIo_oIs2/status/2053476020972584975/photo/1",
+              "media_key": "3_2053476009434107904",
+              "start": 20,
+              "url": "https://t.co/hlsAPzZlP6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053687613899546896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053476020972584975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BIlIo_oIs2: 神キタ https://t.co/hlsAPzZlP6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053476009413111808",
+            "3_2053476009434107904"
+          ]
+        },
+        "author_id": "1786684765753753601",
+        "conversation_id": "2053476020972584975",
+        "created_at": "2026-05-10T14:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053476020972584975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hlsAPzZlP6",
+              "end": 27,
+              "expanded_url": "https://x.com/BIlIo_oIs2/status/2053476020972584975/photo/1",
+              "media_key": "3_2053476009413111808",
+              "start": 4,
+              "url": "https://t.co/hlsAPzZlP6"
+            },
+            {
+              "display_url": "pic.x.com/hlsAPzZlP6",
+              "end": 27,
+              "expanded_url": "https://x.com/BIlIo_oIs2/status/2053476020972584975/photo/1",
+              "media_key": "3_2053476009434107904",
+              "start": 4,
+              "url": "https://t.co/hlsAPzZlP6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053476020972584975",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 39284,
+          "like_count": 1006,
+          "quote_count": 12,
+          "reply_count": 1,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "神キタ https://t.co/hlsAPzZlP6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "我還想和你談論宇宙和天空‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼8964",
+        "pinned_tweet_id": "2051776082542825551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 296,
+          "like_count": 12129,
+          "listed_count": 1,
+          "media_count": 500,
+          "tweet_count": 3028
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T09:10:28.000Z",
+        "description": "本人@bIlIo_oIどうでもいいこと、絵の経過など色々ストーリーのように使います、愛犬チワワを沢山のせてます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "bIlIo_oI"
+              }
+            ]
+          }
+        },
+        "id": "1786684765753753601",
+        "name": "ぶーいぬチワワ",
+        "pinned_tweet_id": "1812501647463252099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786685824291180544/b9V6bbtW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2559,
+          "following_count": 31,
+          "like_count": 2106,
+          "listed_count": 4,
+          "media_count": 277,
+          "tweet_count": 2997
+        },
+        "username": "BIlIo_oIs2",
+        "verified": false
+      }
+    ]
+  }
+}

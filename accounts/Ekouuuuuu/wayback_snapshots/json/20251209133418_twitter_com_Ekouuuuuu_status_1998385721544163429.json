@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1997951963611500544"
+      ],
+      "media_source_tweet_id": [
+        "1997954337054793912"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1998385721544163429",
+    "created_at": "2025-12-09T13:34:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T14:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998385721544163429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1538220905158938624",
+          "start": 3,
+          "username": "tadanotarosuke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1g8TykSYCQ",
+          "end": 43,
+          "expanded_url": "https://x.com/tadanotarosuke/status/1997954337054793912/video/1",
+          "media_key": "13_1997951963611500544",
+          "start": 20,
+          "url": "https://t.co/1g8TykSYCQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998385721544163429",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1018
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997954337054793912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tadanotarosuke: https://t.co/1g8TykSYCQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5500,
+        "height": 1080,
+        "media_key": "13_1997951963611500544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1997951963611500544/img/lUnrPNqt98OkoCEi.jpg",
+        "public_metrics": {
+          "view_count": 58511
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997951963611500544/vid/avc1/1080x1080/9E7u0J_i_CS-bmVs.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997951963611500544/vid/avc1/540x540/33hQPlEev2RxFJHc.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997951963611500544/vid/avc1/720x720/aAJsuGpZ3SVJ-_YO.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997951963611500544/vid/avc1/320x320/169sohQkQWnbgEHZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1997951963611500544/pl/walpoVudReEV9ibt.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997951963611500544"
+          ],
+          "media_source_tweet_id": [
+            "1997954337054793912"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1998385721544163429",
+        "created_at": "2025-12-09T13:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998385721544163429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1538220905158938624",
+              "start": 3,
+              "username": "tadanotarosuke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1g8TykSYCQ",
+              "end": 43,
+              "expanded_url": "https://x.com/tadanotarosuke/status/1997954337054793912/video/1",
+              "media_key": "13_1997951963611500544",
+              "start": 20,
+              "url": "https://t.co/1g8TykSYCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998385721544163429",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1018
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997954337054793912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tadanotarosuke: https://t.co/1g8TykSYCQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997951963611500544"
+          ]
+        },
+        "author_id": "1538220905158938624",
+        "conversation_id": "1997954337054793912",
+        "created_at": "2025-12-08T09:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T10:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997954337054793912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1g8TykSYCQ",
+              "end": 23,
+              "expanded_url": "https://x.com/tadanotarosuke/status/1997954337054793912/video/1",
+              "media_key": "13_1997951963611500544",
+              "start": 0,
+              "url": "https://t.co/1g8TykSYCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997954337054793912",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1027,
+          "impression_count": 143803,
+          "like_count": 9369,
+          "quote_count": 30,
+          "reply_count": 14,
+          "retweet_count": 1018
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1g8TykSYCQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖近日研究笑氣提純收集中‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997890323276816384/2Kk3argv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 132,
+          "like_count": 3367,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 225
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T18:04:03.000Z",
+        "description": "面白いものも作っていきたいです。\n\nMAIL→tanaka0tarosuke@gmail.com\nskeb→ https://t.co/olkOmHlhqM\nyoutube(はじめたて)→https://t.co/JpPVx4lDXj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tadanotarosuke",
+                "end": 78,
+                "expanded_url": "http://skeb.jp/@tadanotarosuke",
+                "start": 55,
+                "url": "https://t.co/olkOmHlhqM"
+              },
+              {
+                "display_url": "youtube.com/@tadanotarosuke",
+                "end": 117,
+                "expanded_url": "https://www.youtube.com/@tadanotarosuke",
+                "start": 94,
+                "url": "https://t.co/JpPVx4lDXj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/82974196",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/82974196",
+                "start": 0,
+                "url": "https://t.co/rAFpefdTLn"
+              }
+            ]
+          }
+        },
+        "id": "1538220905158938624",
+        "location": "お仕事などの依頼はDMまたはメールにてお願いします！",
+        "name": "ただのたろすけ",
+        "pinned_tweet_id": "1996878558673957221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538222788116221953/ZgRvu06m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30241,
+          "following_count": 957,
+          "like_count": 4962,
+          "listed_count": 188,
+          "media_count": 98,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/rAFpefdTLn",
+        "username": "tadanotarosuke",
+        "verified": true
+      }
+    ]
+  }
+}

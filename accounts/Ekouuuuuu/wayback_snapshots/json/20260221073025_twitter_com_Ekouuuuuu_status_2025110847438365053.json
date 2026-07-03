@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2025110847438365053",
+    "created_at": "2026-02-21T07:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025110847438365053"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Spr1ngWlnd/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Spr1ngWlnd/status/2024694626721157170",
+          "start": 5,
+          "url": "https://t.co/HeA3Z3OCBk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025110847438365053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024694626721157170",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好贵…… https://t.co/HeA3Z3OCBk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 954,
+        "media_key": "3_2024694615006466050",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBkpBmobUAIrw6o.jpg",
+        "width": 720
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2024694615002292224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBkpBmnboAAK0Sg.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2024694615224565760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBkpBncbQAAZ1G3.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2024694615702720519",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBkpBpObUAcDSuB.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2025110847438365053",
+        "created_at": "2026-02-21T07:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025110847438365053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Spr1ngWlnd/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Spr1ngWlnd/status/2024694626721157170",
+              "start": 5,
+              "url": "https://t.co/HeA3Z3OCBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025110847438365053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024694626721157170",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好贵…… https://t.co/HeA3Z3OCBk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024694615006466050",
+            "3_2024694615002292224",
+            "3_2024694615224565760",
+            "3_2024694615702720519"
+          ]
+        },
+        "author_id": "1916824571128287232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024694626721157170",
+        "created_at": "2026-02-20T03:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T04:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024694626721157170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FbAFXgkgVi",
+              "end": 36,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2024694626721157170/photo/1",
+              "media_key": "3_2024694615006466050",
+              "start": 13,
+              "url": "https://t.co/FbAFXgkgVi"
+            },
+            {
+              "display_url": "pic.x.com/FbAFXgkgVi",
+              "end": 36,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2024694626721157170/photo/1",
+              "media_key": "3_2024694615002292224",
+              "start": 13,
+              "url": "https://t.co/FbAFXgkgVi"
+            },
+            {
+              "display_url": "pic.x.com/FbAFXgkgVi",
+              "end": 36,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2024694626721157170/photo/1",
+              "media_key": "3_2024694615224565760",
+              "start": 13,
+              "url": "https://t.co/FbAFXgkgVi"
+            },
+            {
+              "display_url": "pic.x.com/FbAFXgkgVi",
+              "end": 36,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2024694626721157170/photo/1",
+              "media_key": "3_2024694615702720519",
+              "start": 13,
+              "url": "https://t.co/FbAFXgkgVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024694626721157170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 13055,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pdd已上架普瑞巴林欧版 https://t.co/FbAFXgkgVi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 250,
+          "like_count": 8701,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 2235
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "谨以此号，纪念我的童年，那是一段小有遗憾的幸福时光...",
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "Spring风#物质研究",
+        "pinned_tweet_id": "2023996995975684451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023980914729254912/9d2mun2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 52,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 52
+        },
+        "username": "Spr1ngWlnd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012715598510456832"
+      ],
+      "media_source_tweet_id": [
+        "2012715607029055683"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2012955165339558175",
+    "created_at": "2026-01-18T18:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T19:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012955165339558175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1210479881919709184",
+          "start": 3,
+          "username": "6PBqg6FWzk5HkRi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7f3ZpU9MN2",
+          "end": 44,
+          "expanded_url": "https://x.com/6PBqg6FWzk5HkRi/status/2012715607029055683/photo/1",
+          "media_key": "3_2012715598510456832",
+          "start": 21,
+          "url": "https://t.co/7f3ZpU9MN2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012955165339558175",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012715607029055683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @6PBqg6FWzk5HkRi: https://t.co/7f3ZpU9MN2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1522,
+        "media_key": "3_2012715598510456832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-6aLEsagAAgS1S.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012715598510456832"
+          ],
+          "media_source_tweet_id": [
+            "2012715607029055683"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2012955165339558175",
+        "created_at": "2026-01-18T18:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T19:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012955165339558175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1210479881919709184",
+              "start": 3,
+              "username": "6PBqg6FWzk5HkRi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7f3ZpU9MN2",
+              "end": 44,
+              "expanded_url": "https://x.com/6PBqg6FWzk5HkRi/status/2012715607029055683/photo/1",
+              "media_key": "3_2012715598510456832",
+              "start": 21,
+              "url": "https://t.co/7f3ZpU9MN2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012955165339558175",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012715607029055683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @6PBqg6FWzk5HkRi: https://t.co/7f3ZpU9MN2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012715598510456832"
+          ]
+        },
+        "author_id": "1210479881919709184",
+        "conversation_id": "2012715607029055683",
+        "created_at": "2026-01-18T02:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T03:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012715607029055683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7f3ZpU9MN2",
+              "end": 23,
+              "expanded_url": "https://x.com/6PBqg6FWzk5HkRi/status/2012715607029055683/photo/1",
+              "media_key": "3_2012715598510456832",
+              "start": 0,
+              "url": "https://t.co/7f3ZpU9MN2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012715607029055683",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 851,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7f3ZpU9MN2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 74,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 51,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 220,
+          "like_count": 6598,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 1299
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-27T08:38:07.000Z",
+        "description": "中華民國台灣自由區，唯一由中國人成立，以摧毀中共暴政為宗旨的革命政黨。在大陸淪陷區推動全民反抗、人民起義、武裝佔領，摧毀中共暴政，建立以中華民國為國名的聯邦中國，已經漸入佳境，獲得響應！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iTxIpRv2azs1N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iTxIpRv2azs1NzY1",
+                "start": 0,
+                "url": "https://t.co/ujDJobr4ax"
+              }
+            ]
+          }
+        },
+        "id": "1210479881919709184",
+        "location": "ROC中華民國",
+        "name": "中華民國 中華保台反共復國黨 （政黨證字第381號）",
+        "pinned_tweet_id": "2012746453802983527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767323927586742272/eHuQFJfU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35222,
+          "following_count": 4148,
+          "like_count": 28533,
+          "listed_count": 95,
+          "media_count": 51937,
+          "tweet_count": 86953
+        },
+        "url": "https://t.co/ujDJobr4ax",
+        "username": "6PBqg6FWzk5HkRi",
+        "verified": true
+      }
+    ]
+  }
+}

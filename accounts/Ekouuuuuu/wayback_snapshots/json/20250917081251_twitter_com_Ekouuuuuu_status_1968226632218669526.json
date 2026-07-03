@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1968226632218669526",
+    "created_at": "2025-09-17T08:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T09:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968226632218669526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1529448037885833216",
+          "start": 3,
+          "username": "WoShiGaoYuliang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968226632218669526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967590456398913854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WoShiGaoYuliang: 大象新闻，李颖，方脸等一众自媒体证明了一件事：星星之火可以变现"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1968226632218669526",
+        "created_at": "2025-09-17T08:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T09:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968226632218669526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1529448037885833216",
+              "start": 3,
+              "username": "WoShiGaoYuliang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968226632218669526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967590456398913854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WoShiGaoYuliang: 大象新闻，李颖，方脸等一众自媒体证明了一件事：星星之火可以变现"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529448037885833216",
+        "conversation_id": "1967590456398913854",
+        "created_at": "2025-09-15T14:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T15:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967590456398913854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967590456398913854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9249,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "大象新闻，李颖，方脸等一众自媒体证明了一件事：星星之火可以变现"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "年年歲歲花相似",
+        "id": "1912063502782812160",
+        "name": "白菜_Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958369871634612224/WJLvJs86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 82,
+          "like_count": 1884,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 260
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T13:03:35.000Z",
+        "description": "2001年5月至2004年4月，任汉东省吕州市政法委副书记。\n2004年4月至2010年3月，担任汉东省吕州市委常委、政法委书记，并兼任吕州市政府副市长、党组副书记。\n2013年5月至2013年7月，担任汉东省委副书记、吕州市委书记。\n2013年7月至今，担任汉东省委常委、省委副书记、政法委书记。",
+        "id": "1529448037885833216",
+        "location": "汉东省 京州市 省委大院",
+        "name": "高育良",
+        "pinned_tweet_id": "1941784806347747656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829749016302919680/epgAdANi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 511,
+          "like_count": 22940,
+          "listed_count": 4,
+          "media_count": 635,
+          "tweet_count": 7929
+        },
+        "username": "WoShiGaoYuliang",
+        "verified": false
+      }
+    ]
+  }
+}

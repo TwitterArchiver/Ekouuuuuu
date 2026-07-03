@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1936338858448404615",
+    "created_at": "2025-06-21T08:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T09:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936338858448404615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1396421618545606656",
+          "start": 3,
+          "username": "5NnZOwPn8zB7eCS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936338858448404615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935718817424097393",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5NnZOwPn8zB7eCS: 你在这装什么清高？老子早对着你照片打过飞机了，等于被老子草过，懂吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1936338858448404615",
+        "created_at": "2025-06-21T08:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T09:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936338858448404615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1396421618545606656",
+              "start": 3,
+              "username": "5NnZOwPn8zB7eCS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936338858448404615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935718817424097393",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5NnZOwPn8zB7eCS: 你在这装什么清高？老子早对着你照片打过飞机了，等于被老子草过，懂吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1396421618545606656",
+        "conversation_id": "1935718817424097393",
+        "created_at": "2025-06-19T15:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T16:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935718817424097393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935718817424097393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 116220,
+          "like_count": 537,
+          "quote_count": 3,
+          "reply_count": 94,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "你在这装什么清高？老子早对着你照片打过飞机了，等于被老子草过，懂吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "☘️☘️☘️☘️//〔觉今是而昨非〕//☘️☘️☘️☘️☘️/不是一個有素質的人/打遊戲可以叫上我🥲",
+        "id": "1912063502782812160",
+        "location": "莫对故国思故人",
+        "name": "一根白菜梗🥬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933223087061024768/NHwQoVVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 41,
+          "like_count": 675,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 108
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-23T11:04:19.000Z",
+        "description": "皮囊无罪",
+        "id": "1396421618545606656",
+        "name": ".",
+        "pinned_tweet_id": "1612490489701502977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703041143506952193/nihHHlnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245310,
+          "following_count": 33,
+          "like_count": 725,
+          "listed_count": 738,
+          "media_count": 239,
+          "tweet_count": 518
+        },
+        "username": "5NnZOwPn8zB7eCS",
+        "verified": false
+      }
+    ]
+  }
+}

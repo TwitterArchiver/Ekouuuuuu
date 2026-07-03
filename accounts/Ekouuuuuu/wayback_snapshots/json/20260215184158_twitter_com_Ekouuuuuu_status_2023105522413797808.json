@@ -1,0 +1,571 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022607469902721024"
+      ],
+      "media_source_tweet_id": [
+        "2022608033998909470"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2023105522413797808",
+    "created_at": "2026-02-15T18:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T19:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023105522413797808"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "ブルアカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "837211995061555202",
+          "start": 3,
+          "username": "0202ase"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QeRYps16tX",
+          "end": 64,
+          "expanded_url": "https://x.com/0202ase/status/2022608033998909470/photo/1",
+          "media_key": "3_2022607469902721024",
+          "start": 41,
+          "url": "https://t.co/QeRYps16tX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023105522413797808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3776
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022608033998909470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0202ase: バレンタインの味見のはずでしたのに…… 🤎\n#ブルアカ https://t.co/QeRYps16tX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2022607469902721024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBG-xxOacAAfxBf.jpg",
+        "width": 2939
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022607469902721024"
+          ],
+          "media_source_tweet_id": [
+            "2022608033998909470"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2023105522413797808",
+        "created_at": "2026-02-15T18:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T19:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023105522413797808"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "ブルアカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "837211995061555202",
+              "start": 3,
+              "username": "0202ase"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QeRYps16tX",
+              "end": 64,
+              "expanded_url": "https://x.com/0202ase/status/2022608033998909470/photo/1",
+              "media_key": "3_2022607469902721024",
+              "start": 41,
+              "url": "https://t.co/QeRYps16tX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023105522413797808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3776
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022608033998909470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0202ase: バレンタインの味見のはずでしたのに…… 🤎\n#ブルアカ https://t.co/QeRYps16tX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022607469902721024"
+          ]
+        },
+        "author_id": "837211995061555202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2022608033998909470",
+        "created_at": "2026-02-14T09:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T10:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022608033998909470"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "ブルアカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QeRYps16tX",
+              "end": 51,
+              "expanded_url": "https://x.com/0202ase/status/2022608033998909470/photo/1",
+              "media_key": "3_2022607469902721024",
+              "start": 28,
+              "url": "https://t.co/QeRYps16tX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022608033998909470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8772,
+          "impression_count": 524245,
+          "like_count": 57560,
+          "quote_count": 16,
+          "reply_count": 52,
+          "retweet_count": 3776
+        },
+        "reply_settings": "everyone",
+        "text": "バレンタインの味見のはずでしたのに…… 🤎\n#ブルアカ https://t.co/QeRYps16tX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 247,
+          "like_count": 8487,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 2177
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-02T08:04:29.000Z",
+        "description": "🩷/ 문의- 📧 https://t.co/YEHuqtCsSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/02_qwii",
+                "end": 32,
+                "expanded_url": "http://linktr.ee/02_qwii",
+                "start": 9,
+                "url": "https://t.co/YEHuqtCsSQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/69090340",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/69090340",
+                "start": 0,
+                "url": "https://t.co/JAOHba3L7p"
+              }
+            ]
+          }
+        },
+        "id": "837211995061555202",
+        "name": "🎀₀²",
+        "pinned_tweet_id": "1718175314940149958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864907551369998336/ld08ZKdn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116817,
+          "following_count": 181,
+          "like_count": 10291,
+          "listed_count": 760,
+          "media_count": 233,
+          "tweet_count": 1805
+        },
+        "url": "https://t.co/JAOHba3L7p",
+        "username": "0202ase",
+        "verified": true
+      }
+    ]
+  }
+}

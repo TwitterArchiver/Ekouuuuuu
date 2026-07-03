@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1974696638418706677",
+    "created_at": "2025-10-05T04:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T05:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974696638418706677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds520/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/hgds520/status/1974461216086221088",
+          "start": 9,
+          "url": "https://t.co/Qrp69wMz2I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974696638418706677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974461216086221088",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好獵奇的想法😂😂 https://t.co/Qrp69wMz2I"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1974696638418706677",
+        "created_at": "2025-10-05T04:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T05:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974696638418706677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds520/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/hgds520/status/1974461216086221088",
+              "start": 9,
+              "url": "https://t.co/Qrp69wMz2I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974696638418706677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974461216086221088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好獵奇的想法😂😂 https://t.co/Qrp69wMz2I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826321786834944000",
+        "conversation_id": "1974461216086221088",
+        "created_at": "2025-10-04T13:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T14:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974461216086221088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974461216086221088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 81259,
+          "like_count": 584,
+          "quote_count": 8,
+          "reply_count": 66,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "你们发的性压抑指数到底是给谁看的，是不是想在推特约炮？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "年年歲歲花相似",
+        "id": "1912063502782812160",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974683142880665600/4D1J2k-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 81,
+          "like_count": 2149,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 307
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T18:13:55.000Z",
+        "description": "你读这句话的时候这几秒就没了 因为我是时间掠夺者 专门发无聊的东西来浪费你的时间",
+        "id": "1826321786834944000",
+        "location": "乱发的",
+        "name": "我掉了一个粉丝.",
+        "pinned_tweet_id": "1953803355685372350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928056822075904002/fV5sMBFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 438,
+          "like_count": 7408,
+          "listed_count": 8,
+          "media_count": 75,
+          "tweet_count": 474
+        },
+        "username": "hgds520",
+        "verified": false
+      }
+    ]
+  }
+}

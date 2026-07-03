@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045421628885200896"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2045421634623078488",
+    "created_at": "2026-04-18T08:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T09:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045421634623078488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PjilDOVNRX",
+          "end": 44,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2045421634623078488/photo/1",
+          "media_key": "3_2045421628885200896",
+          "start": 21,
+          "url": "https://t.co/PjilDOVNRX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045421634623078488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你始終有千萬種理由 我一直都跟隨你的感受 https://t.co/PjilDOVNRX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2045421628885200896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLMImWacAAwH2d.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045421628885200896"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2045421634623078488",
+        "created_at": "2026-04-18T08:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045421634623078488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PjilDOVNRX",
+              "end": 44,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2045421634623078488/photo/1",
+              "media_key": "3_2045421628885200896",
+              "start": 21,
+              "url": "https://t.co/PjilDOVNRX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045421634623078488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你始終有千萬種理由 我一直都跟隨你的感受 https://t.co/PjilDOVNRX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "Don't you let me go‖男友@Shiroko_Li‖叫我白菜就好‖日本語がわからない‖三民主義‖🚪2778收錢我就跑路‖查主頁成分我會回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2045267383476945131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 259,
+          "like_count": 11027,
+          "listed_count": 1,
+          "media_count": 441,
+          "tweet_count": 2708
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000971377294369173",
+    "created_at": "2025-12-17T18:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T19:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001352213588021338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1697913281816432640",
+          "start": 0,
+          "username": "kiligulyanov"
+        },
+        {
+          "end": 25,
+          "id": "1535701819812462600",
+          "start": 14,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001352213588021338",
+    "in_reply_to_user_id": "1697913281816432640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001051083196551620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiligulyanov @Kenntnis22 笑死我了啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000971377294369173",
+        "created_at": "2025-12-17T18:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T19:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001352213588021338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1697913281816432640",
+              "start": 0,
+              "username": "kiligulyanov"
+            },
+            {
+              "end": 25,
+              "id": "1535701819812462600",
+              "start": 14,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001352213588021338",
+        "in_reply_to_user_id": "1697913281816432640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001051083196551620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiligulyanov @Kenntnis22 笑死我了啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697913281816432640",
+        "conversation_id": "2000971377294369173",
+        "created_at": "2025-12-16T22:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T23:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001051083196551620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001051083196551620",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 34760,
+          "like_count": 274,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000971377294369173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 胖猫知道重庆是男人的天堂吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 181,
+          "like_count": 4504,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 662
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T10:04:17.000Z",
+        "description": "爱征服一切，让我们屈服于爱吧",
+        "id": "1697913281816432640",
+        "location": "梦境的地方",
+        "name": "Kilig",
+        "pinned_tweet_id": "1797459378897068324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874127554749358085/H_nHRR6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2346,
+          "following_count": 940,
+          "like_count": 24742,
+          "listed_count": 8,
+          "media_count": 1318,
+          "tweet_count": 9273
+        },
+        "username": "kiligulyanov",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2000435916138013085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45639,
+          "following_count": 343,
+          "like_count": 38527,
+          "listed_count": 223,
+          "media_count": 7941,
+          "tweet_count": 12162
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

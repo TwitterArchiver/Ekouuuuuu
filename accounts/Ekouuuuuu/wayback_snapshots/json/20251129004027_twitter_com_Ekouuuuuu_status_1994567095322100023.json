@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994252603421765632"
+      ],
+      "media_source_tweet_id": [
+        "1994252610392740016"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994567095322100023",
+    "created_at": "2025-11-29T00:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T01:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994567095322100023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850869946399744000",
+          "start": 3,
+          "username": "1____ly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3o7dYaRE5U",
+          "end": 42,
+          "expanded_url": "https://x.com/1____ly/status/1994252610392740016/photo/1",
+          "media_key": "3_1994252603421765632",
+          "start": 19,
+          "url": "https://t.co/3o7dYaRE5U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994567095322100023",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 407
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994252610392740016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1____ly: なんかいる https://t.co/3o7dYaRE5U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994252603421765632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60CLUNaMAAvCks.jpg",
+        "width": 1520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994252603421765632"
+          ],
+          "media_source_tweet_id": [
+            "1994252610392740016"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994567095322100023",
+        "created_at": "2025-11-29T00:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T01:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994567095322100023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850869946399744000",
+              "start": 3,
+              "username": "1____ly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3o7dYaRE5U",
+              "end": 42,
+              "expanded_url": "https://x.com/1____ly/status/1994252610392740016/photo/1",
+              "media_key": "3_1994252603421765632",
+              "start": 19,
+              "url": "https://t.co/3o7dYaRE5U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994567095322100023",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 407
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994252610392740016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1____ly: なんかいる https://t.co/3o7dYaRE5U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994252603421765632"
+          ]
+        },
+        "author_id": "1850869946399744000",
+        "conversation_id": "1994252610392740016",
+        "created_at": "2025-11-28T03:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994252610392740016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3o7dYaRE5U",
+              "end": 29,
+              "expanded_url": "https://x.com/1____ly/status/1994252610392740016/photo/1",
+              "media_key": "3_1994252603421765632",
+              "start": 6,
+              "url": "https://t.co/3o7dYaRE5U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994252610392740016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 378,
+          "impression_count": 44744,
+          "like_count": 4521,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 407
+        },
+        "reply_settings": "everyone",
+        "text": "なんかいる https://t.co/3o7dYaRE5U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 91,
+          "like_count": 2802,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 183
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T11:59:29.000Z",
+        "description": "18↑ノゾミ描く✍️/空崎ヒナ絆100/💳🍶@Axa_Peach",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Axa_Peach"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/TC8Nnnnn",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/TC8Nnnnn",
+                "start": 0,
+                "url": "https://t.co/74wmc7MYxW"
+              }
+            ]
+          }
+        },
+        "id": "1850869946399744000",
+        "location": "リリース初期から/過去絵ハイライト/スマホ指描き",
+        "name": "はし",
+        "pinned_tweet_id": "1992995607989060048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968994121697406976/3jFcqgF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4004,
+          "following_count": 365,
+          "like_count": 8688,
+          "listed_count": 19,
+          "media_count": 584,
+          "tweet_count": 5830
+        },
+        "url": "https://t.co/74wmc7MYxW",
+        "username": "1____ly",
+        "verified": false
+      }
+    ]
+  }
+}

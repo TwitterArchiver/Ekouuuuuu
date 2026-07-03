@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1876289722882171318",
+    "created_at": "2025-04-16T12:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T13:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912482913226244586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1135334607199490048",
+          "start": 0,
+          "username": "CPyTQBzKGNBmcXQ"
+        },
+        {
+          "end": 27,
+          "id": "1431937398913466368",
+          "start": 17,
+          "username": "maomi1221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912482913226244586",
+    "in_reply_to_user_id": "1135334607199490048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876289722882171318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CPyTQBzKGNBmcXQ @maomi1221 猪蹄放血"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876289652224856064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggnrf2iakAAdvTr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1876289722882171318",
+        "created_at": "2025-04-16T12:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T13:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912482913226244586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            },
+            {
+              "end": 27,
+              "id": "1431937398913466368",
+              "start": 17,
+              "username": "maomi1221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912482913226244586",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876289722882171318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ @maomi1221 猪蹄放血"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876289652224856064"
+          ]
+        },
+        "author_id": "1135334607199490048",
+        "conversation_id": "1876289722882171318",
+        "created_at": "2025-01-06T15:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T16:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876289722882171318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gh1jLnP1k6",
+              "end": 23,
+              "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/1876289722882171318/photo/1",
+              "media_key": "3_1876289652224856064",
+              "start": 0,
+              "url": "https://t.co/gh1jLnP1k6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876289722882171318",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 234,
+          "impression_count": 35151,
+          "like_count": 3878,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 480
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gh1jLnP1k6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "悲伤随着情绪的平仄逆流成河",
+        "id": "1912063502782812160",
+        "location": "Nara-ken, Japan",
+        "name": "Ekou白菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912063810430443520/vyJKkQeD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5141,
+          "following_count": 357,
+          "like_count": 80363,
+          "listed_count": 12,
+          "media_count": 398,
+          "tweet_count": 9264
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T11:11:08.000Z",
+        "description": "Small号@yuyu08_12\n割的浅（不爽就去死",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "yuyu08_12"
+              }
+            ]
+          }
+        },
+        "id": "1431937398913466368",
+        "name": "阿念の愛🔪/不定期自残",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1633806473905201153/La8fwNLG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 32,
+          "like_count": 3910,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 522
+        },
+        "username": "maomi1221",
+        "verified": false
+      }
+    ]
+  }
+}

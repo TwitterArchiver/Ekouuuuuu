@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2024962880240553984"
+      ],
+      "media_source_tweet_id": [
+        "2024962936691732618"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025121383358103750",
+    "created_at": "2026-02-21T08:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T09:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025121383358103750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794442413181652992",
+          "start": 3,
+          "username": "GyaruGlow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ovNwHIIXJ",
+          "end": 59,
+          "expanded_url": "https://x.com/GyaruGlow/status/2024962936691732618/video/1",
+          "media_key": "13_2024962880240553984",
+          "start": 36,
+          "url": "https://t.co/5ovNwHIIXJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025121383358103750",
+    "lang": "ro",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 487
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024962936691732618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GyaruGlow: Lore accurate Miyu 😭 https://t.co/5ovNwHIIXJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18093,
+        "height": 1280,
+        "media_key": "13_2024962880240553984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024962880240553984/img/RSCc8ktqPKA3xwR6.jpg",
+        "public_metrics": {
+          "view_count": 113541
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024962880240553984/vid/avc1/320x568/hhC0mael4MXmymWv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024962880240553984/vid/avc1/480x852/7zzunXeuvD-SZxPC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024962880240553984/vid/avc1/720x1280/SO9lWZd4rQXfiR8_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024962880240553984/pl/w2_vCKg8sKZSEhmx.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024962880240553984"
+          ],
+          "media_source_tweet_id": [
+            "2024962936691732618"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025121383358103750",
+        "created_at": "2026-02-21T08:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T09:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025121383358103750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794442413181652992",
+              "start": 3,
+              "username": "GyaruGlow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ovNwHIIXJ",
+              "end": 59,
+              "expanded_url": "https://x.com/GyaruGlow/status/2024962936691732618/video/1",
+              "media_key": "13_2024962880240553984",
+              "start": 36,
+              "url": "https://t.co/5ovNwHIIXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025121383358103750",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 487
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024962936691732618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GyaruGlow: Lore accurate Miyu 😭 https://t.co/5ovNwHIIXJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024962880240553984"
+          ]
+        },
+        "author_id": "1794442413181652992",
+        "conversation_id": "2024962936691732618",
+        "created_at": "2026-02-20T21:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T22:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024962936691732618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ovNwHIIXJ",
+              "end": 44,
+              "expanded_url": "https://x.com/GyaruGlow/status/2024962936691732618/video/1",
+              "media_key": "13_2024962880240553984",
+              "start": 21,
+              "url": "https://t.co/5ovNwHIIXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024962936691732618",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1007,
+          "impression_count": 223656,
+          "like_count": 5528,
+          "quote_count": 7,
+          "reply_count": 18,
+          "retweet_count": 487
+        },
+        "reply_settings": "everyone",
+        "text": "Lore accurate Miyu 😭 https://t.co/5ovNwHIIXJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 250,
+          "like_count": 8750,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 2240
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T18:56:44.000Z",
+        "description": "I shitpost anime memes everyday and retweet My Dress-Up Darling content 😆",
+        "id": "1794442413181652992",
+        "name": "Marini",
+        "pinned_tweet_id": "2013722556470095930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861447081509949441/-mAhCyBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40636,
+          "following_count": 162,
+          "like_count": 29429,
+          "listed_count": 66,
+          "media_count": 3629,
+          "tweet_count": 4930
+        },
+        "username": "GyaruGlow",
+        "verified": true
+      }
+    ]
+  }
+}

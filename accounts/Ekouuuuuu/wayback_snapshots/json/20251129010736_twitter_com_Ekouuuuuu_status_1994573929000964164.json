@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994035726036742144"
+      ],
+      "media_source_tweet_id": [
+        "1994035754394374405"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994573929000964164",
+    "created_at": "2025-11-29T01:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T02:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994573929000964164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587528839693242368",
+          "start": 3,
+          "username": "put_buri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qIpzVvoa78",
+          "end": 41,
+          "expanded_url": "https://x.com/put_buri/status/1994035754394374405/photo/1",
+          "media_key": "3_1994035726036742144",
+          "start": 18,
+          "url": "https://t.co/qIpzVvoa78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994573929000964164",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1434
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994035754394374405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @put_buri: コハル https://t.co/qIpzVvoa78"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 578,
+        "media_key": "3_1994035726036742144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6w87Y_bsAAI7mX.png",
+        "width": 466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994035726036742144"
+          ],
+          "media_source_tweet_id": [
+            "1994035754394374405"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994573929000964164",
+        "created_at": "2025-11-29T01:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994573929000964164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587528839693242368",
+              "start": 3,
+              "username": "put_buri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qIpzVvoa78",
+              "end": 41,
+              "expanded_url": "https://x.com/put_buri/status/1994035754394374405/photo/1",
+              "media_key": "3_1994035726036742144",
+              "start": 18,
+              "url": "https://t.co/qIpzVvoa78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994573929000964164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1434
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994035754394374405",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @put_buri: コハル https://t.co/qIpzVvoa78"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994035726036742144"
+          ]
+        },
+        "author_id": "1587528839693242368",
+        "conversation_id": "1994035754394374405",
+        "created_at": "2025-11-27T13:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994035754394374405"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "コハル",
+              "probability": 0.6272,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qIpzVvoa78",
+              "end": 27,
+              "expanded_url": "https://x.com/put_buri/status/1994035754394374405/photo/1",
+              "media_key": "3_1994035726036742144",
+              "start": 4,
+              "url": "https://t.co/qIpzVvoa78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994035754394374405",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1194,
+          "impression_count": 135658,
+          "like_count": 13647,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1434
+        },
+        "reply_settings": "everyone",
+        "text": "コハル https://t.co/qIpzVvoa78"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 2861,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 224
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-01T19:36:09.000Z",
+        "description": "Twitter向いてない物です 。ようび(@0ver_sd )の落書き垢ほぼ本体です。壁打ちに近いものですお題箱https://t.co/uJfYSRNbRr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "0ver_sd"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/put_buri",
+                "end": 79,
+                "expanded_url": "https://odaibako.net/u/put_buri",
+                "start": 56,
+                "url": "https://t.co/uJfYSRNbRr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "draw.kuku.lu",
+                "end": 23,
+                "expanded_url": "https://draw.kuku.lu/",
+                "start": 0,
+                "url": "https://t.co/fW0dzZH8WC"
+              }
+            ]
+          }
+        },
+        "id": "1587528839693242368",
+        "location": "フォロワーのみ通知してます",
+        "name": "置物",
+        "pinned_tweet_id": "1955399889048965607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657141097536294912/uyHqwWpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42460,
+          "following_count": 154,
+          "like_count": 34567,
+          "listed_count": 238,
+          "media_count": 401,
+          "tweet_count": 3674
+        },
+        "url": "https://t.co/fW0dzZH8WC",
+        "username": "put_buri",
+        "verified": false
+      }
+    ]
+  }
+}

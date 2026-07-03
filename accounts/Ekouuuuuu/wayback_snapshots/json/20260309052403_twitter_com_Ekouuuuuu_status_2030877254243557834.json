@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030643499884822528"
+      ],
+      "media_source_tweet_id": [
+        "2030643508780876088"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      }
+    ],
+    "conversation_id": "2030877254243557834",
+    "created_at": "2026-03-09T05:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T06:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030877254243557834"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "Paris",
+          "probability": 0.984,
+          "start": 21,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1643156074663378944",
+          "start": 3,
+          "username": "Showori_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vke8VyUVNQ",
+          "end": 50,
+          "expanded_url": "https://x.com/Showori_/status/2030643508780876088/photo/1",
+          "media_key": "3_2030643499884822528",
+          "start": 27,
+          "url": "https://t.co/Vke8VyUVNQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030877254243557834",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 209
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030643508780876088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Showori_: I love Paris https://t.co/Vke8VyUVNQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030643499884822528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5LgRwXQAADomi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030643499884822528"
+          ],
+          "media_source_tweet_id": [
+            "2030643508780876088"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          }
+        ],
+        "conversation_id": "2030877254243557834",
+        "created_at": "2026-03-09T05:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T06:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030877254243557834"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Paris",
+              "probability": 0.984,
+              "start": 21,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1643156074663378944",
+              "start": 3,
+              "username": "Showori_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vke8VyUVNQ",
+              "end": 50,
+              "expanded_url": "https://x.com/Showori_/status/2030643508780876088/photo/1",
+              "media_key": "3_2030643499884822528",
+              "start": 27,
+              "url": "https://t.co/Vke8VyUVNQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030877254243557834",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 209
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030643508780876088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Showori_: I love Paris https://t.co/Vke8VyUVNQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030643499884822528"
+          ]
+        },
+        "author_id": "1643156074663378944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          }
+        ],
+        "conversation_id": "2030643508780876088",
+        "created_at": "2026-03-08T13:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030643508780876088"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Paris",
+              "probability": 0.9821,
+              "start": 7,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vke8VyUVNQ",
+              "end": 36,
+              "expanded_url": "https://x.com/Showori_/status/2030643508780876088/photo/1",
+              "media_key": "3_2030643499884822528",
+              "start": 13,
+              "url": "https://t.co/Vke8VyUVNQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030643508780876088",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 16095,
+          "like_count": 1973,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 209
+        },
+        "reply_settings": "everyone",
+        "text": "I love Paris https://t.co/Vke8VyUVNQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 244,
+          "like_count": 9243,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 2354
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-04T07:38:39.000Z",
+        "description": "The never kill yourself Hoshino guy 💛💙 ★ Part time memer, full time menace ★ pfp @middovah banner @ccl_waifu ★ alt @Showowori ★ https://t.co/1QjtT80pDJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "middovah"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ccl_waifu"
+              },
+              {
+                "end": 125,
+                "start": 115,
+                "username": "Showowori"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ko-fi.com/shoori",
+                "end": 151,
+                "expanded_url": "https://ko-fi.com/shoori",
+                "start": 128,
+                "url": "https://t.co/1QjtT80pDJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shoori.straw.page",
+                "end": 23,
+                "expanded_url": "https://shoori.straw.page",
+                "start": 0,
+                "url": "https://t.co/73CoZ4Iwuk"
+              }
+            ]
+          }
+        },
+        "id": "1643156074663378944",
+        "location": "Delaware 🇺🇸🇺🇸🦅🦅🦅💪💪💪",
+        "name": "Shoori",
+        "pinned_tweet_id": "1910733482566844705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008146291667144704/OY3JKvKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17062,
+          "following_count": 878,
+          "like_count": 89667,
+          "listed_count": 50,
+          "media_count": 2500,
+          "tweet_count": 22367
+        },
+        "url": "https://t.co/73CoZ4Iwuk",
+        "username": "Showori_",
+        "verified": true
+      }
+    ]
+  }
+}

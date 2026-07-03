@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2045708968660475968",
+    "created_at": "2026-04-19T14:47:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045877048523280403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1993455710274043905",
+          "start": 0,
+          "username": "satireorcry1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045877048523280403",
+    "in_reply_to_user_id": "1993455710274043905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045708968660475968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satireorcry1 我是線下，有真人嗎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1979,
+        "media_key": "3_2045600085656911872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGNucJoWwAAt9mu.jpg",
+        "width": 1088
+      },
+      {
+        "height": 1733,
+        "media_key": "3_2045600124727177216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGNuebLbsAAl7zD.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2045708968660475968",
+        "created_at": "2026-04-19T14:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045877048523280403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993455710274043905",
+              "start": 0,
+              "username": "satireorcry1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045877048523280403",
+        "in_reply_to_user_id": "1993455710274043905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045708968660475968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satireorcry1 我是線下，有真人嗎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045600085656911872",
+            "3_2045600124727177216"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2045708968660475968",
+        "created_at": "2026-04-19T03:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T04:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045708968660475968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hOm6pZxN90",
+              "end": 58,
+              "expanded_url": "https://x.com/satireorcry1/status/2045708968660475968/photo/1",
+              "media_key": "3_2045600085656911872",
+              "start": 35,
+              "url": "https://t.co/hOm6pZxN90"
+            },
+            {
+              "display_url": "pic.x.com/hOm6pZxN90",
+              "end": 58,
+              "expanded_url": "https://x.com/satireorcry1/status/2045708968660475968/photo/1",
+              "media_key": "3_2045600124727177216",
+              "start": 35,
+              "url": "https://t.co/hOm6pZxN90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045708968660475968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 23646,
+          "like_count": 239,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "鹦鹉把 习近平的著作 啃烂了！\n于是主人对两个鹦鹉进行文革式的批斗！ https://t.co/hOm6pZxN90"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "Don't you let me go‖男友@Shiroko_Li‖叫我白菜就好‖三民主義‖🚪2778收錢我就跑路‖查主頁成分我會回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2045267383476945131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 270,
+          "like_count": 11078,
+          "listed_count": 1,
+          "media_count": 445,
+          "tweet_count": 2722
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvofvi1"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20709,
+          "following_count": 1517,
+          "like_count": 12352,
+          "listed_count": 43,
+          "media_count": 2388,
+          "tweet_count": 3728
+        },
+        "url": "https://t.co/EYxWvofvi1",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

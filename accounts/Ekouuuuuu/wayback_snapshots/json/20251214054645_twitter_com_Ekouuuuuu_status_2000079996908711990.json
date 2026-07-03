@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000015069682585601"
+      ],
+      "media_source_tweet_id": [
+        "2000015072371085462"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2000079996908711990",
+    "created_at": "2025-12-14T05:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T06:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000079996908711990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1110409695921999874",
+          "start": 3,
+          "username": "Philia093EGO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/INnavqbLlu",
+          "end": 47,
+          "expanded_url": "https://x.com/Philia093EGO/status/2000015072371085462/photo/1",
+          "media_key": "3_2000015069682585601",
+          "start": 24,
+          "url": "https://t.co/INnavqbLlu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000079996908711990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000015072371085462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Philia093EGO: 我要破防了 https://t.co/INnavqbLlu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1068,
+        "media_key": "3_2000015069682585601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8F7G_3b0AEysQU.jpg",
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000015069682585601"
+          ],
+          "media_source_tweet_id": [
+            "2000015072371085462"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000079996908711990",
+        "created_at": "2025-12-14T05:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000079996908711990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1110409695921999874",
+              "start": 3,
+              "username": "Philia093EGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/INnavqbLlu",
+              "end": 47,
+              "expanded_url": "https://x.com/Philia093EGO/status/2000015072371085462/photo/1",
+              "media_key": "3_2000015069682585601",
+              "start": 24,
+              "url": "https://t.co/INnavqbLlu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000079996908711990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000015072371085462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Philia093EGO: 我要破防了 https://t.co/INnavqbLlu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000015069682585601"
+          ]
+        },
+        "author_id": "1110409695921999874",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000015072371085462",
+        "created_at": "2025-12-14T01:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T02:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000015072371085462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/INnavqbLlu",
+              "end": 29,
+              "expanded_url": "https://x.com/Philia093EGO/status/2000015072371085462/photo/1",
+              "media_key": "3_2000015069682585601",
+              "start": 6,
+              "url": "https://t.co/INnavqbLlu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000015072371085462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 779,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要破防了 https://t.co/INnavqbLlu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了ww‖買笑氣請加我tg‖化學極樂‖養病中……‖🇯🇵🤝🇹🇼‖overdose是吸毒所以我是毒蟲🥺‖N₂O重度依賴‖支畜滾‖陰暗逼（？）‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 159,
+          "like_count": 3801,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 481
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-26T05:14:36.000Z",
+        "description": "玩旮旯game有助身體健康",
+        "id": "1110409695921999874",
+        "location": "馬來西亞",
+        "name": "琪寶⌒★",
+        "pinned_tweet_id": "1996883897234387373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999146506524532736/RUXyfcr6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3097,
+          "following_count": 489,
+          "like_count": 7149,
+          "listed_count": 9,
+          "media_count": 229,
+          "tweet_count": 941
+        },
+        "username": "Philia093EGO",
+        "verified": false
+      }
+    ]
+  }
+}

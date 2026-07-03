@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2053176890152964096"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2053176929394831605",
+    "created_at": "2026-05-09T18:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T19:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053176929394831605"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bKXSHcdPvg",
+          "end": 51,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2053176929394831605/video/1",
+          "media_key": "7_2053176890152964096",
+          "start": 28,
+          "url": "https://t.co/bKXSHcdPvg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053176929394831605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你們怎麼做到左手顫抖右手大疆的。。\n我兩隻手的抖得要命 https://t.co/bKXSHcdPvg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053176929394831605].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053176929394831605",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053176929394831605"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11048,
+        "height": 1280,
+        "media_key": "7_2053176890152964096",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053176890152964096/pu/img/LkZJ5xEhY-PNrK6U.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053176890152964096/pu/vid/avc1/320x568/bh3_58ImgObc1uPI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053176890152964096/pu/vid/avc1/480x852/4zYZkLGSGQqy93sW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053176890152964096/pu/vid/avc1/720x1280/zI3ZLKkOzPYb5hYL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053176890152964096/pu/pl/EuGdI_VFzU3Pw41V.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "我還想和你談論宇宙和天空‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2051776082542825551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 299,
+          "like_count": 11919,
+          "listed_count": 1,
+          "media_count": 492,
+          "tweet_count": 2972
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

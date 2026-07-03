@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014730749166133248"
+      ],
+      "media_source_tweet_id": [
+        "2014730754266440076"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2014997728217174506",
+    "created_at": "2026-01-24T09:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T10:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014997728217174506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824818634809806848",
+          "start": 3,
+          "username": "hsgmxz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ulHrItdvHn",
+          "end": 56,
+          "expanded_url": "https://x.com/hsgmxz/status/2014730754266440076/photo/1",
+          "media_key": "3_2014730749166133248",
+          "start": 33,
+          "url": "https://t.co/ulHrItdvHn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014997728217174506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014730754266440076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsgmxz: 今天是窝的生日🥰 请各位吃雌二醇肯德基😋 https://t.co/ulHrItdvHn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 295,
+        "media_key": "3_2014730749166133248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XC8R4aoAAgxbq.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014730749166133248"
+          ],
+          "media_source_tweet_id": [
+            "2014730754266440076"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2014997728217174506",
+        "created_at": "2026-01-24T09:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T10:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014997728217174506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824818634809806848",
+              "start": 3,
+              "username": "hsgmxz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ulHrItdvHn",
+              "end": 56,
+              "expanded_url": "https://x.com/hsgmxz/status/2014730754266440076/photo/1",
+              "media_key": "3_2014730749166133248",
+              "start": 33,
+              "url": "https://t.co/ulHrItdvHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014997728217174506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014730754266440076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsgmxz: 今天是窝的生日🥰 请各位吃雌二醇肯德基😋 https://t.co/ulHrItdvHn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014730749166133248"
+          ]
+        },
+        "author_id": "1824818634809806848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2014730754266440076",
+        "created_at": "2026-01-23T16:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014730754266440076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ulHrItdvHn",
+              "end": 44,
+              "expanded_url": "https://x.com/hsgmxz/status/2014730754266440076/photo/1",
+              "media_key": "3_2014730749166133248",
+              "start": 21,
+              "url": "https://t.co/ulHrItdvHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014730754266440076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2219,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今天是窝的生日🥰 请各位吃雌二醇肯德基😋 https://t.co/ulHrItdvHn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "中共的走狗沒有一個是無辜的‖叫我白菜就好了捏‖cisgender‖養病中…‖友LGBT‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6U23",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 83,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 60,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2014018792066535498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 226,
+          "like_count": 7022,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1523
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T14:40:51.000Z",
+        "description": "「この世には息もできない人が沢山いるんですよ。」可以叫咱honoka。|永远14🏳️‍⚧️|🍥2025.7.26|初音ミク大好き。🥰|2011.1.24|同类互fo|极度社恐|重焦重郁|intp-t||匿名提问箱https://t.co/eJ9r7NqD38|老婆：@chao_ching_i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 133,
+                "username": "chao_ching_i"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hsgmxz1",
+                "end": 129,
+                "expanded_url": "http://ngl.link/hsgmxz1",
+                "start": 106,
+                "url": "https://t.co/eJ9r7NqD38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mx_honoka",
+                "end": 23,
+                "expanded_url": "http://t.me/mx_honoka",
+                "start": 0,
+                "url": "https://t.co/Xrx6CgHM4p"
+              }
+            ]
+          }
+        },
+        "id": "1824818634809806848",
+        "location": "誰もいないセカイ",
+        "name": "萌新 honoka🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2014730754266440076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010288262104088577/1zvRCsQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1757,
+          "following_count": 1214,
+          "like_count": 9670,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 1540
+        },
+        "url": "https://t.co/Xrx6CgHM4p",
+        "username": "hsgmxz",
+        "verified": false
+      }
+    ]
+  }
+}

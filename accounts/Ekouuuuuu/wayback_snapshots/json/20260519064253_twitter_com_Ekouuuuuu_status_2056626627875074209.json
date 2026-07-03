@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056337539909476352"
+      ],
+      "media_source_tweet_id": [
+        "2056338046870823076"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056626627875074209",
+    "created_at": "2026-05-19T06:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T07:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056626627875074209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1408028409599467521",
+          "start": 3,
+          "username": "AngelSuicide999"
+        }
+      ],
+      "urls": [
+        {
+          "description": "spotifyhttps://open.spotify.com/intl-ja/track/1i9IyhhLapxMPER1qMec0P?si=1fa234ac532243b6applehttps://music.apple.com/jp/song/u-n-%E5%BD%BC%E5%A5%B3%E3%81%AF%...",
+          "display_url": "youtu.be/1f4PnF5jss0",
+          "end": 111,
+          "expanded_url": "https://youtu.be/1f4PnF5jss0",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2056338089463959552/v9RatRDK?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2056338089463959552/v9RatRDK?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 88,
+          "status": 200,
+          "title": "U.N.彼女は繝輔Λ繝ｳ螟ｧ螂ｽ縺阪□縺代←謔溘ｊ謗ｨ縺?क्या तुम अकेली हो, रानरान? (मार डालो)",
+          "unwound_url": "https://www.youtube.com/watch?v=1f4PnF5jss0&feature=youtu.be",
+          "url": "https://t.co/IOHLYWB0yI"
+        },
+        {
+          "display_url": "pic.x.com/4bkeYy77K2",
+          "end": 135,
+          "expanded_url": "https://x.com/AngelSuicide999/status/2056338046870823076/video/1",
+          "media_key": "13_2056337539909476352",
+          "start": 112,
+          "url": "https://t.co/4bkeYy77K2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056626627875074209",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 147
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056338046870823076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngelSuicide999: U.N.彼女は繝輔Λ繝ｳ螟ｧ螂ｽ縺阪□縺代←謔溘ｊ謗ｨ縺?क्या तुम अकेली हो, रानरान? (मार डालो)\nhttps://t.co/IOHLYWB0yI https://t.co/4bkeYy77K2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17400,
+        "height": 1080,
+        "media_key": "13_2056337539909476352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056337539909476352/img/0l6FIAtelIC6VMY2.jpg",
+        "public_metrics": {
+          "view_count": 4532
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056337539909476352/vid/avc1/360x270/qWqL-k_XgbA7r4Jq.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056337539909476352/vid/avc1/480x360/4bkX3i7NBgBYAD4o.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056337539909476352/vid/avc1/960x720/U9JRVeXe9BatYdxG.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056337539909476352/vid/avc1/1440x1080/Czc2FhL9WiTKW3oM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056337539909476352/pl/D2clG1Yg0rIBJpu2.m3u8?v=cfc"
+          }
+        ],
+        "width": 1440
+      },
+      {
+        "duration_ms": 17400,
+        "height": 1080,
+        "media_key": "13_2056337539909476352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056337539909476352/img/0l6FIAtelIC6VMY2.jpg",
+        "public_metrics": {
+          "view_count": 4542
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056337539909476352/vid/avc1/360x270/qWqL-k_XgbA7r4Jq.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056337539909476352/vid/avc1/480x360/4bkX3i7NBgBYAD4o.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056337539909476352/vid/avc1/960x720/U9JRVeXe9BatYdxG.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056337539909476352/vid/avc1/1440x1080/Czc2FhL9WiTKW3oM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056337539909476352/pl/D2clG1Yg0rIBJpu2.m3u8?v=cfc"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056337539909476352"
+          ],
+          "media_source_tweet_id": [
+            "2056338046870823076"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056626627875074209",
+        "created_at": "2026-05-19T06:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056626627875074209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1408028409599467521",
+              "start": 3,
+              "username": "AngelSuicide999"
+            }
+          ],
+          "urls": [
+            {
+              "description": "spotifyhttps://open.spotify.com/intl-ja/track/1i9IyhhLapxMPER1qMec0P?si=1fa234ac532243b6applehttps://music.apple.com/jp/song/u-n-%E5%BD%BC%E5%A5%B3%E3%81%AF%...",
+              "display_url": "youtu.be/1f4PnF5jss0",
+              "end": 111,
+              "expanded_url": "https://youtu.be/1f4PnF5jss0",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2056338089463959552/v9RatRDK?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2056338089463959552/v9RatRDK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 88,
+              "status": 200,
+              "title": "U.N.彼女は繝輔Λ繝ｳ螟ｧ螂ｽ縺阪□縺代←謔溘ｊ謗ｨ縺?क्या तुम अकेली हो, रानरान? (मार डालो)",
+              "unwound_url": "https://www.youtube.com/watch?v=1f4PnF5jss0&feature=youtu.be",
+              "url": "https://t.co/IOHLYWB0yI"
+            },
+            {
+              "display_url": "pic.x.com/4bkeYy77K2",
+              "end": 135,
+              "expanded_url": "https://x.com/AngelSuicide999/status/2056338046870823076/video/1",
+              "media_key": "13_2056337539909476352",
+              "start": 112,
+              "url": "https://t.co/4bkeYy77K2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056626627875074209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056338046870823076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngelSuicide999: U.N.彼女は繝輔Λ繝ｳ螟ｧ螂ｽ縺阪□縺代←謔溘ｊ謗ｨ縺?क्या तुम अकेली हो, रानरान? (मार डालो)\nhttps://t.co/IOHLYWB0yI https://t.co/4bkeYy77K2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056337539909476352"
+          ]
+        },
+        "author_id": "1408028409599467521",
+        "conversation_id": "2056338046870823076",
+        "created_at": "2026-05-18T11:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056338046870823076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "spotifyhttps://open.spotify.com/intl-ja/track/1i9IyhhLapxMPER1qMec0P?si=1fa234ac532243b6applehttps://music.apple.com/jp/song/u-n-%E5%BD%BC%E5%A5%B3%E3%81%AF%...",
+              "display_url": "youtu.be/1f4PnF5jss0",
+              "end": 90,
+              "expanded_url": "https://youtu.be/1f4PnF5jss0",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2056338089463959552/v9RatRDK?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2056338089463959552/v9RatRDK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 67,
+              "status": 200,
+              "title": "U.N.彼女は繝輔Λ繝ｳ螟ｧ螂ｽ縺阪□縺代←謔溘ｊ謗ｨ縺?क्या तुम अकेली हो, रानरान? (मार डालो)",
+              "unwound_url": "https://www.youtube.com/watch?v=1f4PnF5jss0&feature=youtu.be",
+              "url": "https://t.co/IOHLYWB0yI"
+            },
+            {
+              "display_url": "pic.x.com/4bkeYy77K2",
+              "end": 114,
+              "expanded_url": "https://x.com/AngelSuicide999/status/2056338046870823076/video/1",
+              "media_key": "13_2056337539909476352",
+              "start": 91,
+              "url": "https://t.co/4bkeYy77K2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056338046870823076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 13354,
+          "like_count": 865,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "U.N.彼女は繝輔Λ繝ｳ螟ｧ螂ｽ縺阪□縺代←謔溘ｊ謗ｨ縺?क्या तुम अकेली हो, रानरान? (मार डालो)\nhttps://t.co/IOHLYWB0yI https://t.co/4bkeYy77K2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "她說她停不下這瘋狂‖閨蜜@seeFvn‖老公@Shiroko_Li‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 12,
+                "username": "seeFvn"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2054494874192195972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 302,
+          "like_count": 12945,
+          "listed_count": 1,
+          "media_count": 538,
+          "tweet_count": 3272
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-24T11:45:17.000Z",
+        "description": "お仕事❣️ブッキング( ゜o゜)\nおまちまち待ち(クダヒャイ)꒰ ᐡᴗ ̫ ᴗ ꒱♡\n( ﾟ∀ﾟ)o彡°dm！dm！\nADHDおとこの娘クソガキメンヘラ()\n最強の漢🔥.⋆♱\nパソコンポチポチ(꜆꜄꜆^._.^)꜆꜄꜆\n\n #angelsuicidecore",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 112,
+                "tag": "angelsuicidecore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tunecore.co.jp/artists/angels…",
+                "end": 23,
+                "expanded_url": "https://www.tunecore.co.jp/artists/angelsuicide999",
+                "start": 0,
+                "url": "https://t.co/1XH3J5n5Au"
+              }
+            ]
+          }
+        },
+        "id": "1408028409599467521",
+        "location": "fiction tokio.⋆♱💞ᩚ",
+        "name": "देवदूत आत्महत्या",
+        "pinned_tweet_id": "2050182189338513881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049330628609605632/E029CVB5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34796,
+          "following_count": 2,
+          "like_count": 91379,
+          "listed_count": 98,
+          "media_count": 928,
+          "tweet_count": 3696
+        },
+        "url": "https://t.co/1XH3J5n5Au",
+        "username": "AngelSuicide999",
+        "verified": true
+      }
+    ]
+  }
+}

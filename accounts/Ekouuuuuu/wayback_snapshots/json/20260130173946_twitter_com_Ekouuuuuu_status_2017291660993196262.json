@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017160360785326080"
+      ],
+      "media_source_tweet_id": [
+        "2017160368339206360"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2017291660993196262",
+    "created_at": "2026-01-30T17:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T18:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017291660993196262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939690371363282944",
+          "start": 3,
+          "username": "nycnyanyanya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DbiFUxJw2B",
+          "end": 44,
+          "expanded_url": "https://x.com/nycnyanyanya/status/2017160368339206360/photo/1",
+          "media_key": "3_2017160360785326080",
+          "start": 21,
+          "url": "https://t.co/DbiFUxJw2B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017291660993196262",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017160368339206360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nycnyanyanya: 虚空 https://t.co/DbiFUxJw2B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017160360785326080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5kqSebsAAKsRA.jpg",
+        "width": 1424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017160360785326080"
+          ],
+          "media_source_tweet_id": [
+            "2017160368339206360"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2017291660993196262",
+        "created_at": "2026-01-30T17:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T18:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017291660993196262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939690371363282944",
+              "start": 3,
+              "username": "nycnyanyanya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DbiFUxJw2B",
+              "end": 44,
+              "expanded_url": "https://x.com/nycnyanyanya/status/2017160368339206360/photo/1",
+              "media_key": "3_2017160360785326080",
+              "start": 21,
+              "url": "https://t.co/DbiFUxJw2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017291660993196262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017160368339206360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nycnyanyanya: 虚空 https://t.co/DbiFUxJw2B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017160360785326080"
+          ]
+        },
+        "author_id": "1939690371363282944",
+        "conversation_id": "2017160368339206360",
+        "created_at": "2026-01-30T08:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T09:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017160368339206360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DbiFUxJw2B",
+              "end": 26,
+              "expanded_url": "https://x.com/nycnyanyanya/status/2017160368339206360/photo/1",
+              "media_key": "3_2017160360785326080",
+              "start": 3,
+              "url": "https://t.co/DbiFUxJw2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017160368339206360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3119,
+          "like_count": 296,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "虚空 https://t.co/DbiFUxJw2B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "同一片天為何好久不見‖叫我白菜就好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 236,
+          "like_count": 7745,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 1787
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T14:20:16.000Z",
+        "description": "till when？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/tanakaguruguru",
+                "end": 23,
+                "expanded_url": "https://lit.link/tanakaguruguru",
+                "start": 0,
+                "url": "https://t.co/t9KJwDPPdy"
+              }
+            ]
+          }
+        },
+        "id": "1939690371363282944",
+        "name": "田中ぐるぐる",
+        "pinned_tweet_id": "1999425104762261803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013595583311753216/7Yf--Aa6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 97,
+          "like_count": 3720,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1561
+        },
+        "url": "https://t.co/t9KJwDPPdy",
+        "username": "nycnyanyanya",
+        "verified": false
+      }
+    ]
+  }
+}

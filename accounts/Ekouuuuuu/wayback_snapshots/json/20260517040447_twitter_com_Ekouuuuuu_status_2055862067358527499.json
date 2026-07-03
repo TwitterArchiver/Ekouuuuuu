@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192269799428096",
+          "name": "China politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192841529200640",
+          "name": "China political issues"
+        }
+      }
+    ],
+    "conversation_id": "2055862067358527499",
+    "created_at": "2026-05-17T04:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055862067358527499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3247652319",
+          "start": 3,
+          "username": "clashreport"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055862067358527499",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 611
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055612747161755852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @clashreport: Taiwan:\n\nThe Republic of China is a sovereign and independent democratic country. \n\nBeijing has no right to make claims ov…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20800,
+        "height": 1080,
+        "media_key": "13_2055612680686252032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055612680686252032/img/0LHKIftg1UBN9gRm.jpg",
+        "public_metrics": {
+          "view_count": 340171
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055612680686252032/vid/avc1/480x270/n_M1OH-nUfKKjP3Y.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055612680686252032/vid/avc1/1920x1080/IBV3eHxauzJBEcKW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055612680686252032/vid/avc1/640x360/S1-Rw96reFDZQNNB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055612680686252032/vid/avc1/1280x720/uXDznFt11doH98a1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055612680686252032/pl/wJCJHki51PoIdxJ4.m3u8?v=bc2"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "2055862067358527499",
+        "created_at": "2026-05-17T04:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055862067358527499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3247652319",
+              "start": 3,
+              "username": "clashreport"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055862067358527499",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 611
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055612747161755852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @clashreport: Taiwan:\n\nThe Republic of China is a sovereign and independent democratic country. \n\nBeijing has no right to make claims ov…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055612680686252032"
+          ]
+        },
+        "author_id": "3247652319",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "2055612747161755852",
+        "created_at": "2026-05-16T11:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055612747161755852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xPhKPXtlXF",
+              "end": 156,
+              "expanded_url": "https://x.com/clashreport/status/2055612747161755852/video/1",
+              "media_key": "13_2055612680686252032",
+              "start": 133,
+              "url": "https://t.co/xPhKPXtlXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055612747161755852",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 345,
+          "impression_count": 266923,
+          "like_count": 3710,
+          "quote_count": 93,
+          "reply_count": 302,
+          "retweet_count": 611
+        },
+        "reply_settings": "everyone",
+        "text": "Taiwan:\n\nThe Republic of China is a sovereign and independent democratic country. \n\nBeijing has no right to make claims over Taiwan. https://t.co/xPhKPXtlXF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "她說她停不下這瘋狂‖閨蜜@seeFvn‖老公@Shiroko_Li‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 12,
+                "username": "seeFvn"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2054494874192195972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 296,
+          "like_count": 12701,
+          "listed_count": 1,
+          "media_count": 523,
+          "tweet_count": 3195
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-12T11:23:40.000Z",
+        "description": "Breaking news, reports, and opinions from ongoing clashes of the world.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "clashreport.com",
+                "end": 23,
+                "expanded_url": "https://clashreport.com/",
+                "start": 0,
+                "url": "https://t.co/6Wod25TCux"
+              }
+            ]
+          }
+        },
+        "id": "3247652319",
+        "name": "Clash Report",
+        "pinned_tweet_id": "2053812363984273654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942576646457868288/gOMYVVRf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855786,
+          "following_count": 2,
+          "like_count": 60,
+          "listed_count": 6121,
+          "media_count": 56481,
+          "tweet_count": 80735
+        },
+        "url": "https://t.co/6Wod25TCux",
+        "username": "clashreport",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "AE"
+          ]
+        }
+      }
+    ]
+  }
+}

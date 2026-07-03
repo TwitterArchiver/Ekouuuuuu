@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933113880076853248"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1933113894048059444",
+    "created_at": "2025-06-12T10:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T11:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933113894048059444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2tLGYnwZ7B",
+          "end": 37,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1933113894048059444/photo/1",
+          "media_key": "3_1933113880076853248",
+          "start": 14,
+          "url": "https://t.co/2tLGYnwZ7B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933113894048059444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爱没有多高尚 性没有多低俗 https://t.co/2tLGYnwZ7B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1933113880076853248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtPM1PRboAA7Wgm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933113880076853248"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1933113894048059444",
+        "created_at": "2025-06-12T10:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T11:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933113894048059444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2tLGYnwZ7B",
+              "end": 37,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1933113894048059444/photo/1",
+              "media_key": "3_1933113880076853248",
+              "start": 14,
+              "url": "https://t.co/2tLGYnwZ7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933113894048059444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱没有多高尚 性没有多低俗 https://t.co/2tLGYnwZ7B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "这个世界 性在繁殖 爱在消失",
+        "id": "1912063502782812160",
+        "location": "Nara-ken, Japan",
+        "name": "千千面面眠眠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931725408283799552/jhn11osa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 25,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

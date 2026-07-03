@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064037799729430528"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2064037836685484152",
+    "created_at": "2026-06-08T17:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T18:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064037836685484152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 71,
+          "id": "1980612830824132609",
+          "start": 64,
+          "username": "seeFvn"
+        },
+        {
+          "end": 85,
+          "id": "2009945300723740673",
+          "start": 74,
+          "username": "Shiroko_Li"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Nw4W6P6vh",
+          "end": 175,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2064037836685484152/photo/1",
+          "media_key": "3_2064037799729430528",
+          "start": 152,
+          "url": "https://t.co/2Nw4W6P6vh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064037836685484152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "歡迎來到Mandrake的首頁🙃\n叫我曼德拉草/白菜都可以☑️\n台灣語/國語🆗\n三民主義🇹🇼 自我認知性別女/異性戀\n唯一的閨蜜@seeFvn 主人@Shiroko_Li\n討厭藥物濫用/餐券/負能量/cosplay/碎碎唸/吸毒/NSFW的麻煩自行屏蔽🥲\n討厭中國「特色」社會主義\n獨裁狗習近平早日下台 https://t.co/2Nw4W6P6vh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064037799729430528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTvcW_aAAA-q2y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064037799729430528"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2064037836685484152",
+        "created_at": "2026-06-08T17:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064037836685484152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 71,
+              "id": "1980612830824132609",
+              "start": 64,
+              "username": "seeFvn"
+            },
+            {
+              "end": 85,
+              "id": "2009945300723740673",
+              "start": 74,
+              "username": "Shiroko_Li"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Nw4W6P6vh",
+              "end": 175,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2064037836685484152/photo/1",
+              "media_key": "3_2064037799729430528",
+              "start": 152,
+              "url": "https://t.co/2Nw4W6P6vh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064037836685484152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歡迎來到Mandrake的首頁🙃\n叫我曼德拉草/白菜都可以☑️\n台灣語/國語🆗\n三民主義🇹🇼 自我認知性別女/異性戀\n唯一的閨蜜@seeFvn 主人@Shiroko_Li\n討厭藥物濫用/餐券/負能量/cosplay/碎碎唸/吸毒/NSFW的麻煩自行屏蔽🥲\n討厭中國「特色」社會主義\n獨裁狗習近平早日下台 https://t.co/2Nw4W6P6vh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖化 學 極 樂‖支畜別他媽來惡心我了‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 334,
+          "like_count": 13556,
+          "listed_count": 1,
+          "media_count": 562,
+          "tweet_count": 3570
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 648,
+          "like_count": 4259,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1479
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T11:08:17.000Z",
+        "description": "天空没有极限（The sky's no limit)",
+        "id": "2009945300723740673",
+        "location": "平流层",
+        "name": "Shiroko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063368019422920704/1dozRMLN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 4,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 44
+        },
+        "username": "Shiroko_Li",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052768199096270848"
+      ],
+      "media_source_tweet_id": [
+        "2052768206365008332"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2052805206430421337",
+    "created_at": "2026-05-08T17:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052805206430421337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1964548340198350848",
+          "start": 3,
+          "username": "capsaicin_4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4WZBMpdTIU",
+          "end": 48,
+          "expanded_url": "https://x.com/capsaicin_4/status/2052768206365008332/photo/1",
+          "media_key": "3_2052768199096270848",
+          "start": 25,
+          "url": "https://t.co/4WZBMpdTIU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052805206430421337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052768206365008332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @capsaicin_4: 𓆩♡໒꒱· ﾟ https://t.co/4WZBMpdTIU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2124,
+        "media_key": "3_2052768199096270848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzlzRFaAAAj4ys.jpg",
+        "width": 3006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052768199096270848"
+          ],
+          "media_source_tweet_id": [
+            "2052768206365008332"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2052805206430421337",
+        "created_at": "2026-05-08T17:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052805206430421337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1964548340198350848",
+              "start": 3,
+              "username": "capsaicin_4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4WZBMpdTIU",
+              "end": 48,
+              "expanded_url": "https://x.com/capsaicin_4/status/2052768206365008332/photo/1",
+              "media_key": "3_2052768199096270848",
+              "start": 25,
+              "url": "https://t.co/4WZBMpdTIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052805206430421337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052768206365008332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @capsaicin_4: 𓆩♡໒꒱· ﾟ https://t.co/4WZBMpdTIU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052768199096270848"
+          ]
+        },
+        "author_id": "1964548340198350848",
+        "conversation_id": "2052768206365008332",
+        "created_at": "2026-05-08T15:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052768206365008332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4WZBMpdTIU",
+              "end": 31,
+              "expanded_url": "https://x.com/capsaicin_4/status/2052768206365008332/photo/1",
+              "media_key": "3_2052768199096270848",
+              "start": 8,
+              "url": "https://t.co/4WZBMpdTIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052768206365008332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 3020,
+          "like_count": 336,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "𓆩♡໒꒱· ﾟ https://t.co/4WZBMpdTIU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "我還想和你談論宇宙和天空‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2051776082542825551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 298,
+          "like_count": 11857,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 2934
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T04:36:47.000Z",
+        "description": "創作中心垢 🌶無断転載禁止 怒るよ𝖈𝖆𝖕𝖘𝖆𝖎𝖈𝖎𝖓✟",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@capsaicin_4",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@capsaicin_4",
+                "start": 0,
+                "url": "https://t.co/XpMNNp2oZC"
+              }
+            ]
+          }
+        },
+        "id": "1964548340198350848",
+        "location": "🔕推奨",
+        "name": "𰻞𰻞✟",
+        "pinned_tweet_id": "2024799515178680773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008255240177676296/BXLXENEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2917,
+          "following_count": 29,
+          "like_count": 1080,
+          "listed_count": 6,
+          "media_count": 71,
+          "tweet_count": 1205
+        },
+        "url": "https://t.co/XpMNNp2oZC",
+        "username": "capsaicin_4",
+        "verified": false
+      }
+    ]
+  }
+}

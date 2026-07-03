@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1974581607958011967",
+    "created_at": "2025-10-08T06:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T07:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975805370263273783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863439189909618688",
+          "start": 0,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975805370263273783",
+    "in_reply_to_user_id": "1863439189909618688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974581607958011967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086xe 還有此等好事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 364,
+        "media_key": "3_1974581568929996801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2cfeaQbIAEMVP8.jpg",
+        "width": 442
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1974581607958011967",
+        "created_at": "2025-10-08T06:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T07:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975805370263273783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975805370263273783",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974581607958011967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 還有此等好事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974581568929996801"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974581607958011967",
+        "created_at": "2025-10-04T21:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T22:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974581607958011967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HdXRsN6Ju5",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/1974581607958011967/photo/1",
+              "media_key": "3_1974581568929996801",
+              "start": 0,
+              "url": "https://t.co/HdXRsN6Ju5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974581607958011967",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 363519,
+          "like_count": 3242,
+          "quote_count": 56,
+          "reply_count": 345,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HdXRsN6Ju5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "年年歲歲花相似",
+        "id": "1912063502782812160",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974683142880665600/4D1J2k-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 80,
+          "like_count": 2164,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 321
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "1946867029245624703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19558,
+          "following_count": 196,
+          "like_count": 53,
+          "listed_count": 55,
+          "media_count": 6570,
+          "tweet_count": 6594
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

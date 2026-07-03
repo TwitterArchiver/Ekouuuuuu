@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2056288606789231014",
+    "created_at": "2026-05-18T08:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056288606789231014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "77007853",
+          "start": 3,
+          "username": "thatgamecompany"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056288606789231014",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055830736209379700",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thatgamecompany: Some journeys are only possible together ✨\n\nWhich of our games was your first thatgamecompany experience? 🤔 💙 https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8362,
+        "height": 1080,
+        "media_key": "7_2055830673194196992",
+        "preview_image_url": "https://pbs.twimg.com/media/HIfHJH9WQAAxbAu.jpg",
+        "public_metrics": {
+          "view_count": 3867
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055830673194196992/pu/vid/avc1/480x270/VXNBnpJeUNO8Uxu6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055830673194196992/pu/vid/avc1/640x360/b5UPEZK-VpWKIjHG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055830673194196992/pu/vid/avc1/1280x720/8uD3WbOTDc7yn6Ho.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2055830673194196992/pu/pl/V9SMrNw8MhZM6GZp.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2056288606789231014",
+        "created_at": "2026-05-18T08:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056288606789231014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "77007853",
+              "start": 3,
+              "username": "thatgamecompany"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056288606789231014",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055830736209379700",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thatgamecompany: Some journeys are only possible together ✨\n\nWhich of our games was your first thatgamecompany experience? 🤔 💙 https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055830673194196992"
+          ]
+        },
+        "author_id": "77007853",
+        "conversation_id": "2055830736209379700",
+        "created_at": "2026-05-17T02:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055830736209379700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LCHN3Cowd8",
+              "end": 133,
+              "expanded_url": "https://x.com/thatgamecompany/status/2055830736209379700/video/1",
+              "media_key": "7_2055830673194196992",
+              "start": 110,
+              "url": "https://t.co/LCHN3Cowd8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055830736209379700",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 12130,
+          "like_count": 529,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "Some journeys are only possible together ✨\n\nWhich of our games was your first thatgamecompany experience? 🤔 💙 https://t.co/LCHN3Cowd8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "她說她停不下這瘋狂‖閨蜜@seeFvn‖老公@Shiroko_Li‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 12,
+                "username": "seeFvn"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2054494874192195972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 303,
+          "like_count": 12863,
+          "listed_count": 1,
+          "media_count": 524,
+          "tweet_count": 3217
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-24T18:28:23.000Z",
+        "description": "The award-winning game studio that brought YOU flOw, Flower, and Journey. @thatskygame is available on iOS, Android, Nintendo Switch, and Sony PlayStation.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "thatskygame"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thatgamecompany.com",
+                "end": 23,
+                "expanded_url": "http://www.thatgamecompany.com",
+                "start": 0,
+                "url": "https://t.co/FcdinJqQD1"
+              }
+            ]
+          }
+        },
+        "id": "77007853",
+        "location": "Santa Monica, CA",
+        "name": "thatgamecompany",
+        "pinned_tweet_id": "1943722231353258300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/907741315416256512/X1Pmjbv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174003,
+          "following_count": 601,
+          "like_count": 3389,
+          "listed_count": 1906,
+          "media_count": 840,
+          "tweet_count": 8128
+        },
+        "url": "https://t.co/FcdinJqQD1",
+        "username": "thatgamecompany",
+        "verified": false
+      }
+    ]
+  }
+}

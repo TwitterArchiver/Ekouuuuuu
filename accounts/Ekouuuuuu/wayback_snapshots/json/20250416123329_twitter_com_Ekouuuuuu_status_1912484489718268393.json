@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1912430775703859468",
+    "created_at": "2025-04-16T12:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T13:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912484489718268393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "882074687915696129",
+          "start": 0,
+          "username": "AMGMIneq"
+        },
+        {
+          "end": 25,
+          "id": "1419538139392090112",
+          "start": 10,
+          "username": "EN_BlueArchive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912484489718268393",
+    "in_reply_to_user_id": "882074687915696129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912482728219668892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AMGMIneq @EN_BlueArchive super idol的笑容😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 220,
+        "media_key": "16_1912482716185980928",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GoqA5clW8AAAonL.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GoqA5clW8AAAonL.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1912430775703859468",
+        "created_at": "2025-04-16T12:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T13:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912484489718268393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "882074687915696129",
+              "start": 0,
+              "username": "AMGMIneq"
+            },
+            {
+              "end": 25,
+              "id": "1419538139392090112",
+              "start": 10,
+              "username": "EN_BlueArchive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912484489718268393",
+        "in_reply_to_user_id": "882074687915696129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912482728219668892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AMGMIneq @EN_BlueArchive super idol的笑容😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1912482716185980928"
+          ]
+        },
+        "author_id": "882074687915696129",
+        "conversation_id": "1912430775703859468",
+        "created_at": "2025-04-16T12:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T13:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912482728219668892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1419538139392090112",
+              "start": 0,
+              "username": "EN_BlueArchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZwGzUoeCzS",
+              "end": 54,
+              "expanded_url": "https://x.com/AMGMIneq/status/1912482728219668892/photo/1",
+              "media_key": "16_1912482716185980928",
+              "start": 31,
+              "url": "https://t.co/ZwGzUoeCzS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912482728219668892",
+        "in_reply_to_user_id": "1419538139392090112",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912430775703859468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EN_BlueArchive &gt;super idol https://t.co/ZwGzUoeCzS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "悲伤随着情绪的平仄逆流成河",
+        "id": "1912063502782812160",
+        "location": "Nara-ken, Japan",
+        "name": "Ekou白菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912063810430443520/vyJKkQeD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-04T03:12:48.000Z",
+        "description": "Westaboo. Approximately 2 decades old. Freak of color. Profile pic from @mewdokas. Banner by @C0denameDelta. Sometimes retweet/post NSFW.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "mewdokas"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "C0denameDelta"
+              }
+            ]
+          }
+        },
+        "id": "882074687915696129",
+        "location": "Cybrex Alpha",
+        "name": "Adit Urfa Nunki",
+        "pinned_tweet_id": "1313022449353584640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523171477633126400/kMNUD8pB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 209,
+          "like_count": 327220,
+          "listed_count": 1,
+          "media_count": 1062,
+          "tweet_count": 51861
+        },
+        "username": "AMGMIneq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-26T06:01:06.000Z",
+        "description": "Sensei! Welcome to the official Twitter of Blue Archive!\nOfficial Discord:  https://t.co/cFEZ2MGrG5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nexon.link/8rS",
+                "end": 99,
+                "expanded_url": "http://nexon.link/8rS",
+                "start": 76,
+                "url": "https://t.co/cFEZ2MGrG5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluearchive.nexon.com",
+                "end": 23,
+                "expanded_url": "http://bluearchive.nexon.com",
+                "start": 0,
+                "url": "https://t.co/cDdxxqMVaq"
+              }
+            ]
+          }
+        },
+        "id": "1419538139392090112",
+        "name": "BlueArchive",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775702504040509440/iVOGcbLZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355272,
+          "following_count": 3,
+          "like_count": 2,
+          "listed_count": 897,
+          "media_count": 3097,
+          "tweet_count": 3746
+        },
+        "url": "https://t.co/cDdxxqMVaq",
+        "username": "EN_BlueArchive",
+        "verified": true
+      }
+    ]
+  }
+}

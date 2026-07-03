@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Page for Global Pride Month for all years",
+          "id": "1275153105659650048",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      }
+    ],
+    "conversation_id": "2062056366840430983",
+    "created_at": "2026-06-03T06:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062056366840430983"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 22,
+          "tag": "Pride"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243872262215929857",
+          "start": 3,
+          "username": "tugbaiyigun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062056366840430983",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 437
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061812340446601479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tugbaiyigun: 🏳️‍🌈 #Pride Ayı vesilesiyle heteroseksüellere birkaç soru:\n\n• Heteroseksüel olduğunuzu ne zaman fark ettiniz?\n\n• Bunun ger…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          }
+        ],
+        "conversation_id": "2062056366840430983",
+        "created_at": "2026-06-03T06:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062056366840430983"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "Pride"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243872262215929857",
+              "start": 3,
+              "username": "tugbaiyigun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062056366840430983",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 437
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061812340446601479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tugbaiyigun: 🏳️‍🌈 #Pride Ayı vesilesiyle heteroseksüellere birkaç soru:\n\n• Heteroseksüel olduğunuzu ne zaman fark ettiniz?\n\n• Bunun ger…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243872262215929857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          }
+        ],
+        "conversation_id": "2061812340446601479",
+        "created_at": "2026-06-02T14:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:05:07.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061811352977477643",
+          "2061811962741202976",
+          "2061812193717297594",
+          "2061812340446601479"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "Pride"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061812340446601479",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 5,
+                "tag": "Pride"
+              }
+            ]
+          },
+          "text": "🏳️‍🌈 #Pride Ayı vesilesiyle heteroseksüellere birkaç soru:\n\n• Heteroseksüel olduğunuzu ne zaman fark ettiniz?\n\n• Bunun gerçekten sizin kararınız olduğundan emin misiniz, yoksa çevrenizin etkisiyle mi heteroseksüel oldunuz?\n\n• Hiç karşı cinsten biriyle birlikte olmadan heteroseksüel olduğunuza nasıl karar verdiniz?\n\n• Çocuklara heteroseksüelliği özendiren filmler, diziler, şarkılar ve masallar hakkında ne düşünüyorsunuz?\n\n• Heteroseksüelliğinizi ailenize açıklamak zor oldu mu?\n\n• Heteroseksüel olmanızın temel sebebi biyolojik mi, psikolojik mi, yoksa bir dönem arkadaş çevrenizden etkilenmiş olmanız mı?\n\n• Heteroseksüel yaşam tarzınızı evinizde yaşamanız hepimizin kabul edebileceği bir şey. Ama bunu neden sokakta görünür kılmak istiyorsunuz?\n\n• Bir gün doğru insanla tanışıp heteroseksüellikten vazgeçebileceğinizi düşünüyor musunuz?\n\nBu sorular size saçma, hadsiz veya kırıcı geliyorsa, LGBTİQ+’ların onlarca yıldır maruz bırakıldığı şeyin ne olduğunu anlamaya başlıyorsunuz demektir.\n\nBazı sorular anlamak için sorulmaz; önyargıları meşrulaştırmak için sorulur.\n\nSorun hiçbir zaman LGBTİQ+’lar değildi. Sorun, bazı insanların kendi varoluşlarını hiç sorgulamazken başkalarının varoluşunu sorgulamayı kendilerinde hak görmeleriydi.\n\n🏳️‍🌈 Mutlu Pride Ayı."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 34633,
+          "like_count": 1693,
+          "quote_count": 21,
+          "reply_count": 14,
+          "retweet_count": 437
+        },
+        "reply_settings": "everyone",
+        "text": "🏳️‍🌈 #Pride Ayı vesilesiyle heteroseksüellere birkaç soru:\n\n• Heteroseksüel olduğunuzu ne zaman fark ettiniz?\n\n• Bunun gerçekten sizin kararınız olduğundan emin misiniz, yoksa çevrenizin etkisiyle mi heteroseksüel oldunuz?\n\n• Hiç karşı cinsten biriyle birlikte olmadan"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖化 學 極 樂‖支畜別他媽來惡心我了‖順男順女加我請附帶絕育證明‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2058947003573579910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 322,
+          "like_count": 13136,
+          "listed_count": 1,
+          "media_count": 537,
+          "tweet_count": 3442
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T12:07:24.000Z",
+        "description": "University of York, Centre for Women’s and Gender Studies PhD | Previously journalist always activist✊️🏴🇵🇸",
+        "id": "1243872262215929857",
+        "location": "Κωνσταντινούπολη",
+        "name": "Tuğba İyigün",
+        "pinned_tweet_id": "1988655752160886936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897037095945768960/3z0i5VU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 552,
+          "like_count": 14333,
+          "listed_count": 2,
+          "media_count": 2197,
+          "tweet_count": 12362
+        },
+        "username": "tugbaiyigun",
+        "verified": true
+      }
+    ]
+  }
+}

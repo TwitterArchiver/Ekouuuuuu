@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014288169429303297"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2014288171920712125",
+    "created_at": "2026-01-22T10:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T11:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014288171920712125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S6BuNt8CIr",
+          "end": 35,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2014288171920712125/photo/1",
+          "media_key": "3_2014288169429303297",
+          "start": 12,
+          "url": "https://t.co/S6BuNt8CIr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014288171920712125",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "歧視LGBT的你媽死了 https://t.co/S6BuNt8CIr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2014288169429303297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Qwav4bAAE9Xts.jpg",
+        "width": 761
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014288169429303297"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2014288171920712125",
+        "created_at": "2026-01-22T10:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T11:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014288171920712125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6BuNt8CIr",
+              "end": 35,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2014288171920712125/photo/1",
+              "media_key": "3_2014288169429303297",
+              "start": 12,
+              "url": "https://t.co/S6BuNt8CIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014288171920712125",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歧視LGBT的你媽死了 https://t.co/S6BuNt8CIr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖友LGBT‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6U23",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 80,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 57,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 226,
+          "like_count": 6713,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 1379
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

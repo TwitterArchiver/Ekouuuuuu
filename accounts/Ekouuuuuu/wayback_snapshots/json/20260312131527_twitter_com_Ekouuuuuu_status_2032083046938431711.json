@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031780300196564992"
+      ],
+      "media_source_tweet_id": [
+        "2032028071784566908"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032083046938431711",
+    "created_at": "2026-03-12T13:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T14:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032083046938431711"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "アルちゃん",
+          "probability": 0.8704,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1832069412385632256",
+          "start": 3,
+          "username": "huuu_ulul18"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AlBwvCzFBk",
+          "end": 71,
+          "expanded_url": "https://x.com/huuu_ulul18/status/2032028071784566908/photo/1",
+          "media_key": "3_2031780300196564992",
+          "start": 48,
+          "url": "https://t.co/AlBwvCzFBk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032083046938431711",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032028071784566908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huuu_ulul18: アルちゃんお誕生日おめでとう～！！🎂\n今年も愛してる！！！！ https://t.co/AlBwvCzFBk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1069,
+        "media_key": "3_2031780300196564992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDJVaw7aUAA5hSy.jpg",
+        "width": 1378
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031780300196564992"
+          ],
+          "media_source_tweet_id": [
+            "2032028071784566908"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032083046938431711",
+        "created_at": "2026-03-12T13:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032083046938431711"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "アルちゃん",
+              "probability": 0.8704,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1832069412385632256",
+              "start": 3,
+              "username": "huuu_ulul18"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AlBwvCzFBk",
+              "end": 71,
+              "expanded_url": "https://x.com/huuu_ulul18/status/2032028071784566908/photo/1",
+              "media_key": "3_2031780300196564992",
+              "start": 48,
+              "url": "https://t.co/AlBwvCzFBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032083046938431711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032028071784566908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huuu_ulul18: アルちゃんお誕生日おめでとう～！！🎂\n今年も愛してる！！！！ https://t.co/AlBwvCzFBk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031780300196564992"
+          ]
+        },
+        "author_id": "1832069412385632256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032028071784566908",
+        "created_at": "2026-03-12T09:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T10:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032028071784566908"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "アルちゃん",
+              "probability": 0.8973,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AlBwvCzFBk",
+              "end": 54,
+              "expanded_url": "https://x.com/huuu_ulul18/status/2032028071784566908/photo/1",
+              "media_key": "3_2031780300196564992",
+              "start": 31,
+              "url": "https://t.co/AlBwvCzFBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032028071784566908",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 5334,
+          "like_count": 595,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "アルちゃんお誕生日おめでとう～！！🎂\n今年も愛してる！！！！ https://t.co/AlBwvCzFBk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2032007899732721877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 242,
+          "like_count": 9349,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 2436
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T14:52:51.000Z",
+        "description": "えふうーるです ぶるあかとかすき おえかきするよ 나는 그림 그리는걸 좋아해요 AI学習❌ 無断転載❌",
+        "id": "1832069412385632256",
+        "location": "えっちなのもいい",
+        "name": "えふうーる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025711322290327552/EBzMt__o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 163,
+          "like_count": 9247,
+          "listed_count": 5,
+          "media_count": 92,
+          "tweet_count": 1673
+        },
+        "username": "huuu_ulul18",
+        "verified": false
+      }
+    ]
+  }
+}

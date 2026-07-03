@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1965342747965235201"
+      ],
+      "media_source_tweet_id": [
+        "1965342845746970954"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1966779276080136388",
+    "created_at": "2025-09-13T08:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T09:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966779276080136388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1756246342676979713",
+          "start": 3,
+          "username": "sanmiguelnoodle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q88sqiUk1l",
+          "end": 55,
+          "expanded_url": "https://x.com/sanmiguelnoodle/status/1965342845746970954/video/1",
+          "media_key": "7_1965342747965235201",
+          "start": 32,
+          "url": "https://t.co/Q88sqiUk1l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966779276080136388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 201
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965342845746970954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sanmiguelnoodle: 近平！過來！坐下！😡 https://t.co/Q88sqiUk1l"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 91881,
+        "height": 720,
+        "media_key": "7_1965342747965235201",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1965342747965235201/pu/img/116ir1wCiuOBM1Xv.jpg",
+        "public_metrics": {
+          "view_count": 457932
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965342747965235201/pu/vid/avc1/480x270/BchVBljvNG9J-Ki9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965342747965235201/pu/vid/avc1/640x360/2Q7voyrqpOcqpTPe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965342747965235201/pu/vid/avc1/1280x720/P3qeSOS7sBcZgrWt.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1965342747965235201/pu/pl/XFeEqNbJyzQVwPC8.m3u8?tag=12&v=67d"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1965342747965235201"
+          ],
+          "media_source_tweet_id": [
+            "1965342845746970954"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1966779276080136388",
+        "created_at": "2025-09-13T08:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T09:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966779276080136388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1756246342676979713",
+              "start": 3,
+              "username": "sanmiguelnoodle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q88sqiUk1l",
+              "end": 55,
+              "expanded_url": "https://x.com/sanmiguelnoodle/status/1965342845746970954/video/1",
+              "media_key": "7_1965342747965235201",
+              "start": 32,
+              "url": "https://t.co/Q88sqiUk1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966779276080136388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 201
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965342845746970954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sanmiguelnoodle: 近平！過來！坐下！😡 https://t.co/Q88sqiUk1l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1965342747965235201"
+          ]
+        },
+        "author_id": "1756246342676979713",
+        "conversation_id": "1965342845746970954",
+        "created_at": "2025-09-09T09:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T10:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965342845746970954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q88sqiUk1l",
+              "end": 34,
+              "expanded_url": "https://x.com/sanmiguelnoodle/status/1965342845746970954/video/1",
+              "media_key": "7_1965342747965235201",
+              "start": 11,
+              "url": "https://t.co/Q88sqiUk1l"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "00180402799fed03"
+        },
+        "id": "1965342845746970954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 578,
+          "impression_count": 607507,
+          "like_count": 2230,
+          "quote_count": 24,
+          "reply_count": 104,
+          "retweet_count": 201
+        },
+        "reply_settings": "everyone",
+        "text": "近平！過來！坐下！😡 https://t.co/Q88sqiUk1l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "年年歲歲花相似",
+        "id": "1912063502782812160",
+        "name": "白菜_Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958369871634612224/WJLvJs86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 81,
+          "like_count": 1876,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 257
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "中華民國派🇹🇼❂​ | 台灣人 | 🚪28.88r | MTX🏳️‍⚧️🍥 | MDD/GAD/OCD/ASD/BPD🤒 | 看我的貼文不順眼請block我，我就是圈地自萌的一個人 | 唉呀這不是我好寶寶@mi_huan030 @bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "mi_huan030"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "bolckAshley"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanmiguelnoodle.com.tw",
+                "end": 23,
+                "expanded_url": "https://www.sanmiguelnoodle.com.tw",
+                "start": 0,
+                "url": "https://t.co/2lbauKPJ9M"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "name": "生力麵🇹🇼🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1951233007156863102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964918207443267584/M9R_Qxou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 507,
+          "like_count": 2241,
+          "listed_count": 3,
+          "media_count": 403,
+          "tweet_count": 4580
+        },
+        "url": "https://t.co/2lbauKPJ9M",
+        "username": "sanmiguelnoodle",
+        "verified": false
+      }
+    ]
+  }
+}

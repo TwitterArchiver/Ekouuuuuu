@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1989984928503931023",
+    "created_at": "2025-11-16T11:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T12:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990013057708511560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1269764347322003456",
+          "start": 0,
+          "username": "NecoraNyaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990013057708511560",
+    "in_reply_to_user_id": "1269764347322003456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989984928503931023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NecoraNyaru こんばんは~\n今日はロールプレイの写真を撮りました～！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989984923961446400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G53YvrUa0AAB_RJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1989984928503931023",
+        "created_at": "2025-11-16T11:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T12:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990013057708511560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1269764347322003456",
+              "start": 0,
+              "username": "NecoraNyaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990013057708511560",
+        "in_reply_to_user_id": "1269764347322003456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989984928503931023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NecoraNyaru こんばんは~\n今日はロールプレイの写真を撮りました～！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989984923961446400"
+          ]
+        },
+        "author_id": "1269764347322003456",
+        "conversation_id": "1989984928503931023",
+        "created_at": "2025-11-16T09:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T10:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989984928503931023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6PO2q9HFmb",
+              "end": 56,
+              "expanded_url": "https://x.com/NecoraNyaru/status/1989984928503931023/photo/1",
+              "media_key": "3_1989984923961446400",
+              "start": 33,
+              "url": "https://t.co/6PO2q9HFmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989984928503931023",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 484,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "ぐだぐだしてたら日曜日おわた！！！！\nみんなはおでかけしたー？？ https://t.co/6PO2q9HFmb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "還要多久 我才能在你身邊",
+        "id": "1912063502782812160",
+        "location": "我最想選的肩膀又是否願意與我同心",
+        "name": "我珍惜你的方式錯了嗎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979464074787246080/49ypr-ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 41,
+          "like_count": 2562,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 105
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-07T22:53:15.000Z",
+        "description": "@De_Del1ght VStreamer 猫雷にゃるだよ！超絶カワボ悪魔だにょっ⚡️twitchで毎日15:00～配信中！FPSゲームと歌が大好き！登録者34万人😎￤アセ3￤まま@abandonrnk￤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "De_Del1ght"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "abandonrnk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/NecoraNyaru",
+                "end": 23,
+                "expanded_url": "https://lit.link/NecoraNyaru",
+                "start": 0,
+                "url": "https://t.co/OG5AiReHT5"
+              }
+            ]
+          }
+        },
+        "id": "1269764347322003456",
+        "location": "VIVE公式アンバサダー",
+        "name": "猫雷 にゃる🐱🌩Vtuber",
+        "pinned_tweet_id": "1910467833525658031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1328288940109905921/87eMVOxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24108,
+          "following_count": 1363,
+          "like_count": 21519,
+          "listed_count": 267,
+          "media_count": 2744,
+          "tweet_count": 64743
+        },
+        "url": "https://t.co/OG5AiReHT5",
+        "username": "NecoraNyaru",
+        "verified": false
+      }
+    ]
+  }
+}

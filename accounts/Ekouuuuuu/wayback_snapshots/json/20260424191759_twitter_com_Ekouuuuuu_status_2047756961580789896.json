@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047311150061395968"
+      ],
+      "media_source_tweet_id": [
+        "2047311152578015247"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2047756961580789896",
+    "created_at": "2026-04-24T19:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T20:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047756961580789896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1210479881919709184",
+          "start": 3,
+          "username": "6PBqg6FWzk5HkRi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BZT4FFuQGE",
+          "end": 44,
+          "expanded_url": "https://x.com/6PBqg6FWzk5HkRi/status/2047311152578015247/photo/1",
+          "media_key": "3_2047311150061395968",
+          "start": 21,
+          "url": "https://t.co/BZT4FFuQGE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047756961580789896",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047311152578015247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @6PBqg6FWzk5HkRi: https://t.co/BZT4FFuQGE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1264,
+        "media_key": "3_2047311150061395968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmCpNQbIAAkLL8.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047311150061395968"
+          ],
+          "media_source_tweet_id": [
+            "2047311152578015247"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2047756961580789896",
+        "created_at": "2026-04-24T19:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047756961580789896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1210479881919709184",
+              "start": 3,
+              "username": "6PBqg6FWzk5HkRi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZT4FFuQGE",
+              "end": 44,
+              "expanded_url": "https://x.com/6PBqg6FWzk5HkRi/status/2047311152578015247/photo/1",
+              "media_key": "3_2047311150061395968",
+              "start": 21,
+              "url": "https://t.co/BZT4FFuQGE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047756961580789896",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047311152578015247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @6PBqg6FWzk5HkRi: https://t.co/BZT4FFuQGE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047311150061395968"
+          ]
+        },
+        "author_id": "1210479881919709184",
+        "conversation_id": "2047311152578015247",
+        "created_at": "2026-04-23T13:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047311152578015247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZT4FFuQGE",
+              "end": 23,
+              "expanded_url": "https://x.com/6PBqg6FWzk5HkRi/status/2047311152578015247/photo/1",
+              "media_key": "3_2047311150061395968",
+              "start": 0,
+              "url": "https://t.co/BZT4FFuQGE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047311152578015247",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 10318,
+          "like_count": 327,
+          "quote_count": 2,
+          "reply_count": 86,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BZT4FFuQGE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "世界會記得你曾來過‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2045267383476945131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 279,
+          "like_count": 11330,
+          "listed_count": 1,
+          "media_count": 458,
+          "tweet_count": 2795
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-27T08:38:07.000Z",
+        "description": "復國黨是在中華民國台灣自由區，唯一由反共中國人成立的革命政黨，在本黨思想導師、前北京大學法學教授袁紅冰老師、黨主席程凱力的領導下，致力於＜摧毀中共暴政、中華民國還都南京、建立民主聯邦中國＞為目標。\n\n復國革命，要靠兩岸三地（台灣、大陸、海外）中國人自己完成，復國黨無權要求本土台派台灣人的参與，但是歡迎精神上的支持與認同",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iTxIpRv2azs1N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iTxIpRv2azs1NzY1",
+                "start": 0,
+                "url": "https://t.co/ujDJobr4ax"
+              }
+            ]
+          }
+        },
+        "id": "1210479881919709184",
+        "location": "ROC中華民國",
+        "name": "中華民國 中華保台反共復國黨 （政黨證字第381號）",
+        "pinned_tweet_id": "2045433423402266911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767323927586742272/eHuQFJfU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38010,
+          "following_count": 4142,
+          "like_count": 29481,
+          "listed_count": 95,
+          "media_count": 55208,
+          "tweet_count": 91602
+        },
+        "url": "https://t.co/ujDJobr4ax",
+        "username": "6PBqg6FWzk5HkRi",
+        "verified": true
+      }
+    ]
+  }
+}

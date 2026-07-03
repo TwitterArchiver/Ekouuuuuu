@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032026657423503360"
+      ],
+      "media_source_tweet_id": [
+        "2032026838076428631"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2032035013416665303",
+    "created_at": "2026-03-12T10:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T11:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032035013416665303"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "アル社長",
+          "probability": 0.439,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1661620225639604224",
+          "start": 3,
+          "username": "sggholln"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YSuZuWSOQ4",
+          "end": 55,
+          "expanded_url": "https://x.com/sggholln/status/2032026838076428631/photo/1",
+          "media_key": "3_2032026657423503360",
+          "start": 32,
+          "url": "https://t.co/YSuZuWSOQ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032035013416665303",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032026838076428631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sggholln: アル社長お誕生日おめでとう！!🎂🎉 https://t.co/YSuZuWSOQ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3409,
+        "media_key": "3_2032026657423503360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDM1epHaMAATKDB.jpg",
+        "width": 2448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032026657423503360"
+          ],
+          "media_source_tweet_id": [
+            "2032026838076428631"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2032035013416665303",
+        "created_at": "2026-03-12T10:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032035013416665303"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "アル社長",
+              "probability": 0.439,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1661620225639604224",
+              "start": 3,
+              "username": "sggholln"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSuZuWSOQ4",
+              "end": 55,
+              "expanded_url": "https://x.com/sggholln/status/2032026838076428631/photo/1",
+              "media_key": "3_2032026657423503360",
+              "start": 32,
+              "url": "https://t.co/YSuZuWSOQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032035013416665303",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032026838076428631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sggholln: アル社長お誕生日おめでとう！!🎂🎉 https://t.co/YSuZuWSOQ4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032026657423503360"
+          ]
+        },
+        "author_id": "1661620225639604224",
+        "conversation_id": "2032026838076428631",
+        "created_at": "2026-03-12T09:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T10:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032026838076428631"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "アル社長",
+              "probability": 0.4062,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSuZuWSOQ4",
+              "end": 41,
+              "expanded_url": "https://x.com/sggholln/status/2032026838076428631/photo/1",
+              "media_key": "3_2032026657423503360",
+              "start": 18,
+              "url": "https://t.co/YSuZuWSOQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032026838076428631",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 3756,
+          "like_count": 544,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "アル社長お誕生日おめでとう！!🎂🎉 https://t.co/YSuZuWSOQ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2032007899732721877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 242,
+          "like_count": 9338,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 2406
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-25T06:28:40.000Z",
+        "description": "눈_눈\n\ncontact: sggholln0312@gmail.com\n\nBluesky:https://t.co/gwJmWL4aO4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/sgholl…",
+                "end": 69,
+                "expanded_url": "https://bsky.app/profile/sgholln.bsky.social",
+                "start": 46,
+                "url": "https://t.co/gwJmWL4aO4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/57317120",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/57317120",
+                "start": 0,
+                "url": "https://t.co/m8wu72Zcer"
+              }
+            ]
+          }
+        },
+        "id": "1661620225639604224",
+        "name": "Vande",
+        "pinned_tweet_id": "2032026838076428631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024391634566385664/k528weRT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51685,
+          "following_count": 2051,
+          "like_count": 30240,
+          "listed_count": 333,
+          "media_count": 84,
+          "tweet_count": 738
+        },
+        "url": "https://t.co/m8wu72Zcer",
+        "username": "sggholln",
+        "verified": false
+      }
+    ]
+  }
+}

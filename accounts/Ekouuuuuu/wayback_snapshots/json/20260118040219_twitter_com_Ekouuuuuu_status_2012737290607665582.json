@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2012637331183005810",
+    "created_at": "2026-01-18T04:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T05:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012737290607665582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1774638060963008512",
+          "start": 0,
+          "username": "LST12123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012737290607665582",
+    "in_reply_to_user_id": "1774638060963008512",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012703048070754454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LST12123 ₍˄·͈༝·͈˄*₎◞ ̑̑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2012637331183005810",
+        "created_at": "2026-01-18T04:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T05:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012737290607665582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1774638060963008512",
+              "start": 0,
+              "username": "LST12123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012737290607665582",
+        "in_reply_to_user_id": "1774638060963008512",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012703048070754454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LST12123 ₍˄·͈༝·͈˄*₎◞ ̑̑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774638060963008512",
+        "conversation_id": "2012637331183005810",
+        "created_at": "2026-01-18T01:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T02:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012703048070754454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012703048070754454",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012637331183005810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu 生日快乐！🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 74,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 51,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 219,
+          "like_count": 6534,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 1278
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T03:21:16.000Z",
+        "description": "傻卵二次元：粥批|音游人|邦邦人|英雄联盟|三角洲|FGO     碎碎念区主播|国际立场中立🥺|🇯🇵学习中。\n自用蜂鸟vpn：https://t.co/nGLI6Qmm5p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sachlife.com/#/",
+                "end": 87,
+                "expanded_url": "https://www.sachlife.com/#/",
+                "start": 64,
+                "url": "https://t.co/nGLI6Qmm5p"
+              }
+            ]
+          }
+        },
+        "id": "1774638060963008512",
+        "location": "距离你520m",
+        "name": "困困神",
+        "pinned_tweet_id": "2010828933063958778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978672734499704832/6yWQMv9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 431,
+          "like_count": 1063,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 949
+        },
+        "username": "LST12123",
+        "verified": true
+      }
+    ]
+  }
+}

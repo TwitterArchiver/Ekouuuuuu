@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995776676345905152"
+      ],
+      "media_source_tweet_id": [
+        "1995776706368676130"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1996159660790067219",
+    "created_at": "2025-12-03T10:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T11:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996159660790067219"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "ノゾミ",
+          "probability": 0.5797,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "966979476226625536",
+          "start": 3,
+          "username": "sabasabaflash"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z45uVhiYbu",
+          "end": 58,
+          "expanded_url": "https://x.com/sabasabaflash/status/1995776706368676130/photo/1",
+          "media_key": "3_1995776676345905152",
+          "start": 35,
+          "url": "https://t.co/Z45uVhiYbu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996159660790067219",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1576
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995776706368676130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sabasabaflash: ノゾミにメイド服を着てもらった https://t.co/Z45uVhiYbu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1594,
+        "media_key": "3_1995776676345905152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7JsUCSbgAAa8_M.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995776676345905152"
+          ],
+          "media_source_tweet_id": [
+            "1995776706368676130"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1996159660790067219",
+        "created_at": "2025-12-03T10:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996159660790067219"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "ノゾミ",
+              "probability": 0.5797,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "966979476226625536",
+              "start": 3,
+              "username": "sabasabaflash"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z45uVhiYbu",
+              "end": 58,
+              "expanded_url": "https://x.com/sabasabaflash/status/1995776706368676130/photo/1",
+              "media_key": "3_1995776676345905152",
+              "start": 35,
+              "url": "https://t.co/Z45uVhiYbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996159660790067219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1576
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995776706368676130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sabasabaflash: ノゾミにメイド服を着てもらった https://t.co/Z45uVhiYbu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995776676345905152"
+          ]
+        },
+        "author_id": "966979476226625536",
+        "conversation_id": "1995776706368676130",
+        "created_at": "2025-12-02T08:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T09:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995776706368676130"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "ノゾミ",
+              "probability": 0.4961,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z45uVhiYbu",
+              "end": 39,
+              "expanded_url": "https://x.com/sabasabaflash/status/1995776706368676130/photo/1",
+              "media_key": "3_1995776676345905152",
+              "start": 16,
+              "url": "https://t.co/Z45uVhiYbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995776706368676130",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1450,
+          "impression_count": 149013,
+          "like_count": 14468,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 1576
+        },
+        "reply_settings": "everyone",
+        "text": "ノゾミにメイド服を着てもらった https://t.co/Z45uVhiYbu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 124,
+          "like_count": 3235,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 237
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-23T10:14:07.000Z",
+        "description": "イラストを描いてます！！\n連絡先→sabasabaflash@gmail.com\n\nskeb → https://t.co/ugumGQQp2E",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@sabasabaflash",
+                "end": 72,
+                "expanded_url": "https://skeb.jp/@sabasabaflash",
+                "start": 49,
+                "url": "https://t.co/ugumGQQp2E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/19098713",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/19098713",
+                "start": 0,
+                "url": "https://t.co/bw0Axghrra"
+              }
+            ]
+          }
+        },
+        "id": "966979476226625536",
+        "name": "さばな@skeb募集中！",
+        "pinned_tweet_id": "1770038749717573720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973479653773025284/bsiJrWjr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62184,
+          "following_count": 692,
+          "like_count": 15869,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 735
+        },
+        "url": "https://t.co/bw0Axghrra",
+        "username": "sabasabaflash",
+        "verified": false
+      }
+    ]
+  }
+}

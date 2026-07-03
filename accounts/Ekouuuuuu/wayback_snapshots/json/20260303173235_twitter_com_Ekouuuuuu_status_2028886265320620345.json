@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028886262644654080"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2028886265320620345",
+    "created_at": "2026-03-03T17:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T18:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028886265320620345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/12HyeOMP2E",
+          "end": 32,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2028886265320620345/photo/1",
+          "media_key": "3_2028886262644654080",
+          "start": 9,
+          "url": "https://t.co/12HyeOMP2E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028886265320620345",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "(´-﹏-`；) https://t.co/12HyeOMP2E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028886262644654080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgNTm6awAAuiBL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028886262644654080"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2028886265320620345",
+        "created_at": "2026-03-03T17:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028886265320620345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/12HyeOMP2E",
+              "end": 32,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2028886265320620345/photo/1",
+              "media_key": "3_2028886262644654080",
+              "start": 9,
+              "url": "https://t.co/12HyeOMP2E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028886265320620345",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(´-﹏-`；) https://t.co/12HyeOMP2E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 247,
+          "like_count": 8965,
+          "listed_count": 1,
+          "media_count": 372,
+          "tweet_count": 2292
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933534967205933057",
+        "3_1933534973640032256"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1933534976311767184",
+    "created_at": "2025-06-13T14:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T15:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933534976311767184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8nnvswijLZ",
+          "end": 117,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1933534976311767184/photo/1",
+          "media_key": "3_1933534967205933057",
+          "start": 94,
+          "url": "https://t.co/8nnvswijLZ"
+        },
+        {
+          "display_url": "pic.x.com/8nnvswijLZ",
+          "end": 117,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1933534976311767184/photo/1",
+          "media_key": "3_1933534973640032256",
+          "start": 94,
+          "url": "https://t.co/8nnvswijLZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933534976311767184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你不在我身边的这一年我过得一直都很痛 我总是反复梦到你 然后在夜里痛哭 我们分开的那天其实我很难过 我的感情说不出口 绝望的感觉就是在某一个相爱的时刻突然发觉我们之间是错误的 迟早会分开 https://t.co/8nnvswijLZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1933534967205933057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtVLzvEbMAER4uE.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1933534973640032256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtVL0HCbwAAu9s9.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933534967205933057",
+            "3_1933534973640032256"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1933534976311767184",
+        "created_at": "2025-06-13T14:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T15:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933534976311767184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8nnvswijLZ",
+              "end": 117,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1933534976311767184/photo/1",
+              "media_key": "3_1933534967205933057",
+              "start": 94,
+              "url": "https://t.co/8nnvswijLZ"
+            },
+            {
+              "display_url": "pic.x.com/8nnvswijLZ",
+              "end": 117,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1933534976311767184/photo/1",
+              "media_key": "3_1933534973640032256",
+              "start": 94,
+              "url": "https://t.co/8nnvswijLZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933534976311767184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你不在我身边的这一年我过得一直都很痛 我总是反复梦到你 然后在夜里痛哭 我们分开的那天其实我很难过 我的感情说不出口 绝望的感觉就是在某一个相爱的时刻突然发觉我们之间是错误的 迟早会分开 https://t.co/8nnvswijLZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "觉今是而昨非",
+        "id": "1912063502782812160",
+        "location": "Nara-ken, Japan",
+        "name": "Ekou白菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933223087061024768/NHwQoVVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 42,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 30
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

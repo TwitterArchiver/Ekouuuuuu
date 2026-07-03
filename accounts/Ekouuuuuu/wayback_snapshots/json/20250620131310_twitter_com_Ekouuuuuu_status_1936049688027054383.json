@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1935337111034675555",
+    "created_at": "2025-06-20T13:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T14:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936049688027054383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1535701819812462600",
+          "start": 0,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936049688027054383",
+    "in_reply_to_user_id": "1535701819812462600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935337111034675555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kenntnis22 老傳統了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1128,
+        "media_key": "3_1935337106374598657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtuy2CoXIAEeBHD.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1935337111034675555",
+        "created_at": "2025-06-20T13:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T14:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936049688027054383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936049688027054383",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935337111034675555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 老傳統了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935337106374598657"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "1935337111034675555",
+        "created_at": "2025-06-18T14:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T15:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935337111034675555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SMJ4aTv0fe",
+              "end": 34,
+              "expanded_url": "https://x.com/Kenntnis22/status/1935337111034675555/photo/1",
+              "media_key": "3_1935337106374598657",
+              "start": 11,
+              "url": "https://t.co/SMJ4aTv0fe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935337111034675555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 177691,
+          "like_count": 878,
+          "quote_count": 1,
+          "reply_count": 49,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "“把人扔下楼的传统” https://t.co/SMJ4aTv0fe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "☘️☘️☘️☘️//〔觉今是而昨非〕//☘️☘️☘️☘️☘️/不是一個有素質的人/打遊戲可以叫上我🥲",
+        "id": "1912063502782812160",
+        "location": "莫对故国思故人",
+        "name": "一根白菜梗🥬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933223087061024768/NHwQoVVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 39,
+          "like_count": 549,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 91
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "朋友们的小圈子。不严肃、谢谢😑",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "1935608465868632397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675314941966925824/0Sl6rg69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33240,
+          "following_count": 310,
+          "like_count": 26906,
+          "listed_count": 155,
+          "media_count": 5350,
+          "tweet_count": 8470
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

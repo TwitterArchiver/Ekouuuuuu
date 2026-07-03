@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020066005062672384",
+        "3_2020066005029134336",
+        "3_2020066005024927746",
+        "3_2020066005058560000"
+      ],
+      "media_source_tweet_id": [
+        "2020066019084251427",
+        "2020066019084251427",
+        "2020066019084251427",
+        "2020066019084251427"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2020331004481913187",
+    "created_at": "2026-02-08T02:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T03:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020331004481913187"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "てんちゃん",
+          "probability": 0.8641,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1739141125448077312",
+          "start": 3,
+          "username": "baburori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/slCiWHfnJX",
+          "end": 44,
+          "expanded_url": "https://x.com/baburori/status/2020066019084251427/photo/1",
+          "media_key": "3_2020066005062672384",
+          "start": 21,
+          "url": "https://t.co/slCiWHfnJX"
+        },
+        {
+          "display_url": "pic.x.com/slCiWHfnJX",
+          "end": 44,
+          "expanded_url": "https://x.com/baburori/status/2020066019084251427/photo/1",
+          "media_key": "3_2020066005029134336",
+          "start": 21,
+          "url": "https://t.co/slCiWHfnJX"
+        },
+        {
+          "display_url": "pic.x.com/slCiWHfnJX",
+          "end": 44,
+          "expanded_url": "https://x.com/baburori/status/2020066019084251427/photo/1",
+          "media_key": "3_2020066005024927746",
+          "start": 21,
+          "url": "https://t.co/slCiWHfnJX"
+        },
+        {
+          "display_url": "pic.x.com/slCiWHfnJX",
+          "end": 44,
+          "expanded_url": "https://x.com/baburori/status/2020066019084251427/photo/1",
+          "media_key": "3_2020066005058560000",
+          "start": 21,
+          "url": "https://t.co/slCiWHfnJX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020331004481913187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 169
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020066019084251427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @baburori: てんちゃん🎀 https://t.co/slCiWHfnJX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1446,
+        "media_key": "3_2020066005062672384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAi3VC6aYAAcpB2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020066005029134336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAi3VCyaoAA6QZO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020066005024927746",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAi3VCxacAIPhXh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020066005058560000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAi3VC5boAAMPfI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020066005062672384",
+            "3_2020066005029134336",
+            "3_2020066005024927746",
+            "3_2020066005058560000"
+          ],
+          "media_source_tweet_id": [
+            "2020066019084251427",
+            "2020066019084251427",
+            "2020066019084251427",
+            "2020066019084251427"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020331004481913187",
+        "created_at": "2026-02-08T02:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T03:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020331004481913187"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "てんちゃん",
+              "probability": 0.8641,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1739141125448077312",
+              "start": 3,
+              "username": "baburori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/slCiWHfnJX",
+              "end": 44,
+              "expanded_url": "https://x.com/baburori/status/2020066019084251427/photo/1",
+              "media_key": "3_2020066005062672384",
+              "start": 21,
+              "url": "https://t.co/slCiWHfnJX"
+            },
+            {
+              "display_url": "pic.x.com/slCiWHfnJX",
+              "end": 44,
+              "expanded_url": "https://x.com/baburori/status/2020066019084251427/photo/1",
+              "media_key": "3_2020066005029134336",
+              "start": 21,
+              "url": "https://t.co/slCiWHfnJX"
+            },
+            {
+              "display_url": "pic.x.com/slCiWHfnJX",
+              "end": 44,
+              "expanded_url": "https://x.com/baburori/status/2020066019084251427/photo/1",
+              "media_key": "3_2020066005024927746",
+              "start": 21,
+              "url": "https://t.co/slCiWHfnJX"
+            },
+            {
+              "display_url": "pic.x.com/slCiWHfnJX",
+              "end": 44,
+              "expanded_url": "https://x.com/baburori/status/2020066019084251427/photo/1",
+              "media_key": "3_2020066005058560000",
+              "start": 21,
+              "url": "https://t.co/slCiWHfnJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020331004481913187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 169
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020066019084251427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @baburori: てんちゃん🎀 https://t.co/slCiWHfnJX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020066005062672384",
+            "3_2020066005029134336",
+            "3_2020066005024927746",
+            "3_2020066005058560000"
+          ]
+        },
+        "author_id": "1739141125448077312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020066019084251427",
+        "created_at": "2026-02-07T09:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T10:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020066019084251427"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "てんちゃん",
+              "probability": 0.8619,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/slCiWHfnJX",
+              "end": 30,
+              "expanded_url": "https://x.com/baburori/status/2020066019084251427/photo/1",
+              "media_key": "3_2020066005062672384",
+              "start": 7,
+              "url": "https://t.co/slCiWHfnJX"
+            },
+            {
+              "display_url": "pic.x.com/slCiWHfnJX",
+              "end": 30,
+              "expanded_url": "https://x.com/baburori/status/2020066019084251427/photo/1",
+              "media_key": "3_2020066005029134336",
+              "start": 7,
+              "url": "https://t.co/slCiWHfnJX"
+            },
+            {
+              "display_url": "pic.x.com/slCiWHfnJX",
+              "end": 30,
+              "expanded_url": "https://x.com/baburori/status/2020066019084251427/photo/1",
+              "media_key": "3_2020066005024927746",
+              "start": 7,
+              "url": "https://t.co/slCiWHfnJX"
+            },
+            {
+              "display_url": "pic.x.com/slCiWHfnJX",
+              "end": 30,
+              "expanded_url": "https://x.com/baburori/status/2020066019084251427/photo/1",
+              "media_key": "3_2020066005058560000",
+              "start": 7,
+              "url": "https://t.co/slCiWHfnJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020066019084251427",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 13665,
+          "like_count": 1499,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 169
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "てんちゃん🎀 https://t.co/slCiWHfnJX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖同類互fo‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 247,
+          "like_count": 8225,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 2036
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T04:29:53.000Z",
+        "description": "たくさん絵を描きます🎀ご依頼やお仕事はDMからお願いいたします💖 https://t.co/l6FL7DdYtQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/baburori",
+                "end": 56,
+                "expanded_url": "https://lit.link/baburori",
+                "start": 33,
+                "url": "https://t.co/l6FL7DdYtQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@baburori",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@baburori",
+                "start": 0,
+                "url": "https://t.co/5kcuEFcOjo"
+              }
+            ]
+          }
+        },
+        "id": "1739141125448077312",
+        "name": "ばぶみろりこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017908022463578112/iIzt8joL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3488,
+          "following_count": 56,
+          "like_count": 1283,
+          "listed_count": 10,
+          "media_count": 102,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/5kcuEFcOjo",
+        "username": "baburori",
+        "verified": false
+      }
+    ]
+  }
+}

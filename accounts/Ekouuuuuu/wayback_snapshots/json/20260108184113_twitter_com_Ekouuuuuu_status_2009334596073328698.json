@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2009249267580583936"
+      ],
+      "media_source_tweet_id": [
+        "2009249378565828948"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2009334596073328698",
+    "created_at": "2026-01-08T18:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T19:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009334596073328698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778700125944381440",
+          "start": 3,
+          "username": "_adip0cere"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7XkKUIvUts",
+          "end": 44,
+          "expanded_url": "https://x.com/_adip0cere/status/2009249378565828948/video/1",
+          "media_key": "13_2009249267580583936",
+          "start": 21,
+          "url": "https://t.co/7XkKUIvUts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009334596073328698",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 628
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009249378565828948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_adip0cere: damn https://t.co/7XkKUIvUts"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6910,
+        "height": 750,
+        "media_key": "13_2009249267580583936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009249267580583936/img/C3FzqCuC0qbH81In.jpg",
+        "public_metrics": {
+          "view_count": 8747
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009249267580583936/vid/avc1/320x320/NsbM_T5JukMvImAn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009249267580583936/vid/avc1/540x540/serzcNaesfV3IHTS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009249267580583936/vid/avc1/720x720/VePOSHcY_RxXftfV.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009249267580583936/pl/lVc9qZaFsf6p1lH9.m3u8?tag=14"
+          }
+        ],
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009249267580583936"
+          ],
+          "media_source_tweet_id": [
+            "2009249378565828948"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2009334596073328698",
+        "created_at": "2026-01-08T18:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T19:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009334596073328698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778700125944381440",
+              "start": 3,
+              "username": "_adip0cere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7XkKUIvUts",
+              "end": 44,
+              "expanded_url": "https://x.com/_adip0cere/status/2009249378565828948/video/1",
+              "media_key": "13_2009249267580583936",
+              "start": 21,
+              "url": "https://t.co/7XkKUIvUts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009334596073328698",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 628
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009249378565828948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_adip0cere: damn https://t.co/7XkKUIvUts"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009249267580583936"
+          ]
+        },
+        "author_id": "1778700125944381440",
+        "conversation_id": "2009249378565828948",
+        "created_at": "2026-01-08T13:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T14:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009249378565828948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7XkKUIvUts",
+              "end": 28,
+              "expanded_url": "https://x.com/_adip0cere/status/2009249378565828948/video/1",
+              "media_key": "13_2009249267580583936",
+              "start": 5,
+              "url": "https://t.co/7XkKUIvUts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009249378565828948",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 461,
+          "impression_count": 22693,
+          "like_count": 3406,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 628
+        },
+        "reply_settings": "everyone",
+        "text": "damn https://t.co/7XkKUIvUts"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了w‖生理性別女‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 90,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 67,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2006059996145148295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 198,
+          "like_count": 5856,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1013
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:22:49.000Z",
+        "description": "FA▶︎ #リジ絵クト\n無断転載🚫AI学習🚫\n現在有償依頼を受け付けています。気になった方は気軽にDMやリプなどでお声がけください！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 5,
+                "tag": "リジ絵クト"
+              }
+            ]
+          }
+        },
+        "id": "1778700125944381440",
+        "location": "ヘッダーはかわるいのちちゃん作",
+        "name": "拒否ଳ ご依頼受付中",
+        "pinned_tweet_id": "2004148379857965188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820261973239754752/7rxYTk0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18718,
+          "following_count": 181,
+          "like_count": 12466,
+          "listed_count": 61,
+          "media_count": 260,
+          "tweet_count": 517
+        },
+        "username": "_adip0cere",
+        "verified": false
+      }
+    ]
+  }
+}

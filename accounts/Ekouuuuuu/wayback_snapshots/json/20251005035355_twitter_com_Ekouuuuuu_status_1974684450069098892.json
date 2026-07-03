@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1974684450069098892",
+    "created_at": "2025-10-05T03:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T04:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974684450069098892"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sanmiguelnoodl…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/sanmiguelnoodle/status/1961652934246023480",
+          "start": 10,
+          "url": "https://t.co/eRRZTQzu15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974684450069098892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961652934246023480",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這幾需要笑點解析嗎 https://t.co/eRRZTQzu15"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1961652929498435584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzkw8jNb0AAefT3.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1961652930488217600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzkw8m5asAA-PaT.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1974684450069098892",
+        "created_at": "2025-10-05T03:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T04:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974684450069098892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sanmiguelnoodl…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/sanmiguelnoodle/status/1961652934246023480",
+              "start": 10,
+              "url": "https://t.co/eRRZTQzu15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974684450069098892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961652934246023480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這幾需要笑點解析嗎 https://t.co/eRRZTQzu15"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961652929498435584",
+            "3_1961652930488217600"
+          ]
+        },
+        "author_id": "1756246342676979713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1961652934246023480",
+        "created_at": "2025-08-30T04:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T05:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961652934246023480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gmzbggWEgy",
+              "end": 32,
+              "expanded_url": "https://x.com/sanmiguelnoodle/status/1961652934246023480/photo/1",
+              "media_key": "3_1961652929498435584",
+              "start": 9,
+              "url": "https://t.co/gmzbggWEgy"
+            },
+            {
+              "display_url": "pic.x.com/gmzbggWEgy",
+              "end": 32,
+              "expanded_url": "https://x.com/sanmiguelnoodle/status/1961652934246023480/photo/1",
+              "media_key": "3_1961652930488217600",
+              "start": 9,
+              "url": "https://t.co/gmzbggWEgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961652934246023480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 117394,
+          "like_count": 1346,
+          "quote_count": 8,
+          "reply_count": 31,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "666還有合訂本 https://t.co/gmzbggWEgy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "年年歲歲花相似",
+        "id": "1912063502782812160",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974683142880665600/4D1J2k-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 81,
+          "like_count": 2128,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 291
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "自建政黨：@CTP_TW | 中華民國派🇹🇼❂​ | 🚪28.88r | MTX🏳️‍⚧️🍥 | MDD/GAD/OCD/ASD/BPD🤒 | 🥺🍜❤️對象@MTNEKO8964  | 🦡@mi_huan030 |🐈@CuteKittenO3O | 可愛AB @bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "CTP_TW"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "MTNEKO8964"
+              },
+              {
+                "end": 105,
+                "start": 94,
+                "username": "mi_huan030"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "CuteKittenO3O"
+              },
+              {
+                "end": 142,
+                "start": 130,
+                "username": "bolckAshley"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanmiguelnoodle.com.tw",
+                "end": 23,
+                "expanded_url": "https://www.sanmiguelnoodle.com.tw",
+                "start": 0,
+                "url": "https://t.co/2lbauKPbke"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "UTC+8",
+        "name": "生力麵🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1969153581300216285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971901240423690241/mjpoVVc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 570,
+          "like_count": 2487,
+          "listed_count": 0,
+          "media_count": 498,
+          "tweet_count": 5500
+        },
+        "url": "https://t.co/2lbauKPbke",
+        "username": "sanmiguelnoodle",
+        "verified": true
+      }
+    ]
+  }
+}

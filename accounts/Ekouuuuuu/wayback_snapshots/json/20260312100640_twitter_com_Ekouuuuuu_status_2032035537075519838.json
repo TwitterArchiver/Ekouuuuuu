@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031770312317325312"
+      ],
+      "media_source_tweet_id": [
+        "2031770632019685851"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032035537075519838",
+    "created_at": "2026-03-12T10:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T11:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032035537075519838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "768283613792051200",
+          "start": 3,
+          "username": "orval_jp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oq3dnTe3aY",
+          "end": 37,
+          "expanded_url": "https://x.com/orval_jp/status/2031770632019685851/photo/1",
+          "media_key": "3_2031770312317325312",
+          "start": 14,
+          "url": "https://t.co/oq3dnTe3aY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032035537075519838",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 896
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031770632019685851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @orval_jp: https://t.co/oq3dnTe3aY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2031770312317325312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDJMVZLb0AAlAay.jpg",
+        "width": 3398
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031770312317325312"
+          ],
+          "media_source_tweet_id": [
+            "2031770632019685851"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032035537075519838",
+        "created_at": "2026-03-12T10:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032035537075519838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "768283613792051200",
+              "start": 3,
+              "username": "orval_jp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oq3dnTe3aY",
+              "end": 37,
+              "expanded_url": "https://x.com/orval_jp/status/2031770632019685851/photo/1",
+              "media_key": "3_2031770312317325312",
+              "start": 14,
+              "url": "https://t.co/oq3dnTe3aY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032035537075519838",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 896
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031770632019685851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @orval_jp: https://t.co/oq3dnTe3aY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031770312317325312"
+          ]
+        },
+        "author_id": "768283613792051200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031770632019685851",
+        "created_at": "2026-03-11T16:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T17:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031770632019685851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oq3dnTe3aY",
+              "end": 23,
+              "expanded_url": "https://x.com/orval_jp/status/2031770632019685851/photo/1",
+              "media_key": "3_2031770312317325312",
+              "start": 0,
+              "url": "https://t.co/oq3dnTe3aY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031770632019685851",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 740,
+          "impression_count": 68398,
+          "like_count": 7983,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 896
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oq3dnTe3aY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2032007899732721877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 242,
+          "like_count": 9345,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 2416
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-24T03:07:42.000Z",
+        "description": "mail:giaorhpal18@gmail.com",
+        "id": "768283613792051200",
+        "name": "ORVAL",
+        "pinned_tweet_id": "2024148475425046793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1362421142112194564/9qFMfpFA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29531,
+          "following_count": 808,
+          "like_count": 42148,
+          "listed_count": 364,
+          "media_count": 484,
+          "tweet_count": 12340
+        },
+        "username": "orval_jp",
+        "verified": false
+      }
+    ]
+  }
+}

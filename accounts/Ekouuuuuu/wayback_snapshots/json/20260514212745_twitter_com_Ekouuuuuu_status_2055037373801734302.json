@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054969018810085376"
+      ],
+      "media_source_tweet_id": [
+        "2054969036673540373"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2055037373801734302",
+    "created_at": "2026-05-14T21:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T22:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055037373801734302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1643893959184515075",
+          "start": 3,
+          "username": "82Jhin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SbdSmS8bTW",
+          "end": 38,
+          "expanded_url": "https://x.com/82Jhin/status/2054969036673540373/photo/1",
+          "media_key": "3_2054969018810085376",
+          "start": 15,
+          "url": "https://t.co/SbdSmS8bTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055037373801734302",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054969036673540373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @82Jhin: 🤪🤪 https://t.co/SbdSmS8bTW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2054969018810085376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIS3b1absAA1zgG.jpg",
+        "width": 2867
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054969018810085376"
+          ],
+          "media_source_tweet_id": [
+            "2054969036673540373"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2055037373801734302",
+        "created_at": "2026-05-14T21:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T22:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055037373801734302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1643893959184515075",
+              "start": 3,
+              "username": "82Jhin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SbdSmS8bTW",
+              "end": 38,
+              "expanded_url": "https://x.com/82Jhin/status/2054969036673540373/photo/1",
+              "media_key": "3_2054969018810085376",
+              "start": 15,
+              "url": "https://t.co/SbdSmS8bTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055037373801734302",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054969036673540373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @82Jhin: 🤪🤪 https://t.co/SbdSmS8bTW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054969018810085376"
+          ]
+        },
+        "author_id": "1643893959184515075",
+        "conversation_id": "2054969036673540373",
+        "created_at": "2026-05-14T16:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054969036673540373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SbdSmS8bTW",
+              "end": 26,
+              "expanded_url": "https://x.com/82Jhin/status/2054969036673540373/photo/1",
+              "media_key": "3_2054969018810085376",
+              "start": 3,
+              "url": "https://t.co/SbdSmS8bTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054969036673540373",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 4272,
+          "like_count": 588,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "🤪🤪 https://t.co/SbdSmS8bTW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "她說她停不下這瘋狂‖閨蜜@seeFvn‖老公@Shiroko_Li‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 12,
+                "username": "seeFvn"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake flowers",
+        "pinned_tweet_id": "2054494874192195972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 296,
+          "like_count": 12511,
+          "listed_count": 1,
+          "media_count": 514,
+          "tweet_count": 3105
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T08:30:47.000Z",
+        "description": ":P\n외주받고있어요!!!!\n\n외주문의 -디스코드 82Jhin, 82jhin@gmail.com , DM\n\nhttps://t.co/HzSGPLResw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "artmug.kr/index.php?chan…",
+                "end": 81,
+                "expanded_url": "https://artmug.kr/index.php?channel=view&uid=30914",
+                "start": 58,
+                "url": "https://t.co/HzSGPLResw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/5319735",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/5319735",
+                "start": 0,
+                "url": "https://t.co/HrxTxL7rIW"
+              }
+            ]
+          }
+        },
+        "id": "1643893959184515075",
+        "name": "82Jhin/5일페/I14~16",
+        "pinned_tweet_id": "1998326561980752153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941895587844034560/Tfttg0gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16466,
+          "following_count": 3552,
+          "like_count": 8088,
+          "listed_count": 123,
+          "media_count": 855,
+          "tweet_count": 4008
+        },
+        "url": "https://t.co/HrxTxL7rIW",
+        "username": "82Jhin",
+        "verified": true
+      }
+    ]
+  }
+}

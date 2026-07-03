@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1957551209306370295",
+    "created_at": "2025-08-19T23:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T00:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957949446328840347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1722166624453861376",
+          "start": 0,
+          "username": "shzhnto289941"
+        },
+        {
+          "end": 30,
+          "id": "1260553941714186241",
+          "start": 15,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957949446328840347",
+    "in_reply_to_user_id": "1722166624453861376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957755059791691975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shzhnto289941 @whyyoutouzhele 換成什麼？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1957551209306370295",
+        "created_at": "2025-08-19T23:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T00:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957949446328840347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1722166624453861376",
+              "start": 0,
+              "username": "shzhnto289941"
+            },
+            {
+              "end": 30,
+              "id": "1260553941714186241",
+              "start": 15,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957949446328840347",
+        "in_reply_to_user_id": "1722166624453861376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957755059791691975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shzhnto289941 @whyyoutouzhele 換成什麼？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722166624453861376",
+        "conversation_id": "1957551209306370295",
+        "created_at": "2025-08-19T10:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T11:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957755059791691975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957755059791691975",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23230,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957551209306370295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 换成“这是棍母”可以吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "自尊常常將人拖著 把愛都走曲折",
+        "id": "1912063502782812160",
+        "name": "白菜_Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937599411460403200/XrYwRLKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 75,
+          "like_count": 1579,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 253
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-08T08:18:44.000Z",
+        "description": "阿米诺斯",
+        "id": "1722166624453861376",
+        "location": "平壤市",
+        "name": "孙吧驻X大使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722166750295523328/5HfBQVh4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 59,
+          "like_count": 3274,
+          "listed_count": 0,
+          "media_count": 371,
+          "tweet_count": 3550
+        },
+        "username": "shzhnto289941",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082813,
+          "following_count": 983,
+          "like_count": 7944,
+          "listed_count": 8271,
+          "media_count": 33687,
+          "tweet_count": 40440
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

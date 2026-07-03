@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000938088114139136"
+      ],
+      "media_source_tweet_id": [
+        "2000943716660600890"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2001325294062637490",
+    "created_at": "2025-12-17T16:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T17:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001325294062637490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2362434604",
+          "start": 3,
+          "username": "formosanafro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hWI1a8F3IP",
+          "end": 46,
+          "expanded_url": "https://x.com/formosanafro/status/2000943716660600890/photo/1",
+          "media_key": "3_2000938088114139136",
+          "start": 23,
+          "url": "https://t.co/hWI1a8F3IP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001325294062637490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000943716660600890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @formosanafro: 歷史事實 https://t.co/hWI1a8F3IP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 447,
+        "media_key": "3_2000938088114139136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8TClveXsAAXJY7.png",
+        "width": 447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000938088114139136"
+          ],
+          "media_source_tweet_id": [
+            "2000943716660600890"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2001325294062637490",
+        "created_at": "2025-12-17T16:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T17:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001325294062637490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2362434604",
+              "start": 3,
+              "username": "formosanafro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWI1a8F3IP",
+              "end": 46,
+              "expanded_url": "https://x.com/formosanafro/status/2000943716660600890/photo/1",
+              "media_key": "3_2000938088114139136",
+              "start": 23,
+              "url": "https://t.co/hWI1a8F3IP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001325294062637490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000943716660600890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @formosanafro: 歷史事實 https://t.co/hWI1a8F3IP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000938088114139136"
+          ]
+        },
+        "author_id": "2362434604",
+        "conversation_id": "2000943716660600890",
+        "created_at": "2025-12-16T14:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T15:58:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000943500150690241",
+          "2000943716660600890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWI1a8F3IP",
+              "end": 28,
+              "expanded_url": "https://x.com/formosanafro/status/2000943716660600890/photo/1",
+              "media_key": "3_2000938088114139136",
+              "start": 5,
+              "url": "https://t.co/hWI1a8F3IP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000943716660600890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 30839,
+          "like_count": 953,
+          "quote_count": 7,
+          "reply_count": 296,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "歷史事實 https://t.co/hWI1a8F3IP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 181,
+          "like_count": 4492,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 656
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-24T07:34:16.000Z",
+        "description": "阿忠仔=台獨倡議者\n\n台灣≠中華民國 \n\n建國派 🇳🇫｜保守派 🇺🇲\n\n認同台灣、深愛台灣、心繫台灣\n\n我對台灣的有無限忠誠，永不放棄\n\n我是不是我的我-阿輝伯\n\n獨立是台灣的唯一活路-鄭南榕\n\n北是北，對是對，即使僅你堅挺不畏-美國最高法院大法官托馬斯\n\n若法西斯主義出現在美國，它將以自由主義的名義出現-雷根",
+        "id": "2362434604",
+        "location": "513 🇺🇸 🦅↞ ✈️ ↠886 🇳🇫🧋",
+        "name": "a-tiong-á 🪷",
+        "pinned_tweet_id": "1625674238156832771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987290910623682560/Y56Z3NQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34161,
+          "following_count": 1995,
+          "like_count": 107840,
+          "listed_count": 43,
+          "media_count": 3643,
+          "tweet_count": 148416
+        },
+        "username": "formosanafro",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,547 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000212728754155522"
+      ],
+      "media_source_tweet_id": [
+        "2000214274522935535"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2000499091131003202",
+    "created_at": "2025-12-15T09:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T10:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000499091131003202"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "블루아카"
+        },
+        {
+          "end": 27,
+          "start": 22,
+          "tag": "ブルアカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1401035231713382401",
+          "start": 3,
+          "username": "donggang17"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KESzirjaMz",
+          "end": 62,
+          "expanded_url": "https://x.com/donggang17/status/2000214274522935535/photo/1",
+          "media_key": "3_2000212728754155522",
+          "start": 39,
+          "url": "https://t.co/KESzirjaMz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000499091131003202",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 316
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000214274522935535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @donggang17: #블루아카 #ブルアカ\n사복 프라나 아로나 https://t.co/KESzirjaMz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2000212728754155522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Iu4RSbMAIjHx4.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000212728754155522"
+          ],
+          "media_source_tweet_id": [
+            "2000214274522935535"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2000499091131003202",
+        "created_at": "2025-12-15T09:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T10:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000499091131003202"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "블루아카"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "ブルアカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1401035231713382401",
+              "start": 3,
+              "username": "donggang17"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KESzirjaMz",
+              "end": 62,
+              "expanded_url": "https://x.com/donggang17/status/2000214274522935535/photo/1",
+              "media_key": "3_2000212728754155522",
+              "start": 39,
+              "url": "https://t.co/KESzirjaMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000499091131003202",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 316
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000214274522935535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @donggang17: #블루아카 #ブルアカ\n사복 프라나 아로나 https://t.co/KESzirjaMz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000212728754155522"
+          ]
+        },
+        "author_id": "1401035231713382401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2000214274522935535",
+        "created_at": "2025-12-14T14:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T15:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000214274522935535"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "블루아카"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "ブルアカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KESzirjaMz",
+              "end": 46,
+              "expanded_url": "https://x.com/donggang17/status/2000214274522935535/photo/1",
+              "media_key": "3_2000212728754155522",
+              "start": 23,
+              "url": "https://t.co/KESzirjaMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000214274522935535",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 279,
+          "impression_count": 15280,
+          "like_count": 2216,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 316
+        },
+        "reply_settings": "everyone",
+        "text": "#블루아카 #ブルアカ\n사복 프라나 아로나 https://t.co/KESzirjaMz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 154,
+          "like_count": 3970,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 559
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-05T04:36:50.000Z",
+        "description": "그림그림\n✉️: donggang00@naver.com\n커미션, 외주 받습니다",
+        "id": "1401035231713382401",
+        "name": "donggang",
+        "pinned_tweet_id": "1998681266745381350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825726655383613442/7uYpurc7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6417,
+          "following_count": 1159,
+          "like_count": 4864,
+          "listed_count": 31,
+          "media_count": 143,
+          "tweet_count": 4762
+        },
+        "username": "donggang17",
+        "verified": true
+      }
+    ]
+  }
+}

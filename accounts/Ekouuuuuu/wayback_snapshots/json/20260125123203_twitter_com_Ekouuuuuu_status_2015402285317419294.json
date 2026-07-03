@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2015397843704647680"
+      ],
+      "media_source_tweet_id": [
+        "2015397917444747379"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2015402285317419294",
+    "created_at": "2026-01-25T12:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T13:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015402285317419294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894766619341336576",
+          "start": 3,
+          "username": "Chaushesuku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h0wWfqjzUx",
+          "end": 48,
+          "expanded_url": "https://x.com/Chaushesuku/status/2015397917444747379/video/1",
+          "media_key": "13_2015397843704647680",
+          "start": 25,
+          "url": "https://t.co/h0wWfqjzUx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015402285317419294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015397917444747379",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chaushesuku: 和包包大人约会 https://t.co/h0wWfqjzUx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21000,
+        "height": 720,
+        "media_key": "13_2015397843704647680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015397843704647680/img/Tbb8D9MY2Toc7UDP.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015397843704647680/vid/avc1/480x270/fYo-68MTtifmszZs.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015397843704647680/vid/avc1/640x360/nMU32x69twAemz19.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015397843704647680/vid/avc1/1280x720/NWKS8BoaUApUt8A7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015397843704647680/pl/O0cguIJlI9St0t1t.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015397843704647680"
+          ],
+          "media_source_tweet_id": [
+            "2015397917444747379"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015402285317419294",
+        "created_at": "2026-01-25T12:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T13:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015402285317419294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894766619341336576",
+              "start": 3,
+              "username": "Chaushesuku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h0wWfqjzUx",
+              "end": 48,
+              "expanded_url": "https://x.com/Chaushesuku/status/2015397917444747379/video/1",
+              "media_key": "13_2015397843704647680",
+              "start": 25,
+              "url": "https://t.co/h0wWfqjzUx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015402285317419294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015397917444747379",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chaushesuku: 和包包大人约会 https://t.co/h0wWfqjzUx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015397843704647680"
+          ]
+        },
+        "author_id": "1894766619341336576",
+        "conversation_id": "2015397917444747379",
+        "created_at": "2026-01-25T12:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T13:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015397917444747379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h0wWfqjzUx",
+              "end": 31,
+              "expanded_url": "https://x.com/Chaushesuku/status/2015397917444747379/video/1",
+              "media_key": "13_2015397843704647680",
+              "start": 8,
+              "url": "https://t.co/h0wWfqjzUx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015397917444747379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和包包大人约会 https://t.co/h0wWfqjzUx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "中共的走狗沒有一個是無辜的‖叫我白菜就好了捏‖cisgender‖養病中…‖友LGBT‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6U23",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 83,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 60,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 228,
+          "like_count": 7362,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 1540
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T15:09:25.000Z",
+        "description": "#民国右派 #自由民主  当你视奸我是就意味着你在视奸我🤔",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "民国右派"
+              },
+              {
+                "end": 11,
+                "start": 6,
+                "tag": "自由民主"
+              }
+            ]
+          }
+        },
+        "id": "1894766619341336576",
+        "location": "Republic of China ",
+        "name": "𝐶ℎ𝑎𝑢𝑠ℎ𝑒𝑠𝑢𝑘𝑢🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007113423000358913/GEK4Od4n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 144,
+          "like_count": 1974,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 356
+        },
+        "username": "Chaushesuku",
+        "verified": false
+      }
+    ]
+  }
+}

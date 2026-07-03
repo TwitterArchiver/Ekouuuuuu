@@ -1,0 +1,584 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004087022856941568"
+      ],
+      "media_source_tweet_id": [
+        "2004087030087885056"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "2004583511022571693",
+    "created_at": "2025-12-26T16:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T17:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004583511022571693"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 23,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1772834082768171008",
+          "start": 3,
+          "username": "nakataa_7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E9UGlVUY7L",
+          "end": 57,
+          "expanded_url": "https://x.com/nakataa_7/status/2004087030087885056/photo/1",
+          "media_key": "3_2004087022856941568",
+          "start": 34,
+          "url": "https://t.co/E9UGlVUY7L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004583511022571693",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 365
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004087030087885056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nakataa_7: メリクリ‼︎🎄　#NEEDY_pic https://t.co/E9UGlVUY7L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1464,
+        "media_key": "3_2004087022856941568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8_yh3hbsAAks6B.jpg",
+        "width": 1021
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004087022856941568"
+          ],
+          "media_source_tweet_id": [
+            "2004087030087885056"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2004583511022571693",
+        "created_at": "2025-12-26T16:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T17:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004583511022571693"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 23,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1772834082768171008",
+              "start": 3,
+              "username": "nakataa_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E9UGlVUY7L",
+              "end": 57,
+              "expanded_url": "https://x.com/nakataa_7/status/2004087030087885056/photo/1",
+              "media_key": "3_2004087022856941568",
+              "start": 34,
+              "url": "https://t.co/E9UGlVUY7L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004583511022571693",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 365
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004087030087885056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nakataa_7: メリクリ‼︎🎄　#NEEDY_pic https://t.co/E9UGlVUY7L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004087022856941568"
+          ]
+        },
+        "author_id": "1772834082768171008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2004087030087885056",
+        "created_at": "2025-12-25T07:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T08:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004087030087885056"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 8,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E9UGlVUY7L",
+              "end": 42,
+              "expanded_url": "https://x.com/nakataa_7/status/2004087030087885056/photo/1",
+              "media_key": "3_2004087022856941568",
+              "start": 19,
+              "url": "https://t.co/E9UGlVUY7L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004087030087885056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 18164,
+          "like_count": 2152,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 365
+        },
+        "reply_settings": "everyone",
+        "text": "メリクリ‼︎🎄　#NEEDY_pic https://t.co/E9UGlVUY7L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了w‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 187,
+          "like_count": 5082,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 815
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T03:54:09.000Z",
+        "description": "ニディガメインで色々描きます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@takataa_7?_t=…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@takataa_7?_t=8omS9ity2eA&_r=1",
+                "start": 0,
+                "url": "https://t.co/5IOKaeb2AR"
+              }
+            ]
+          }
+        },
+        "id": "1772834082768171008",
+        "location": "日本",
+        "name": "の塩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865267567595823104/8gqb8INH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 83,
+          "like_count": 1710,
+          "listed_count": 5,
+          "media_count": 32,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/5IOKaeb2AR",
+        "username": "nakataa_7",
+        "verified": false
+      }
+    ]
+  }
+}

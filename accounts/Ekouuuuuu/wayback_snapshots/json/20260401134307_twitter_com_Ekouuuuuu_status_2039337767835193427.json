@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "All conversation about the United States Federal Bureau of Investigation",
+          "id": "937710668706299904",
+          "name": "Federal Bureau of Investigation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "All conversation about the United States Federal Bureau of Investigation",
+          "id": "937710668706299904",
+          "name": "Federal Bureau of Investigation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2039337767835193427",
+    "created_at": "2026-04-01T13:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T14:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039337767835193427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1972505091543584769",
+          "start": 3,
+          "username": "actionaction64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039337767835193427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038795487415828549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @actionaction64: 【18楼大火：意外还是“销毁证据”？】\n\n🔴 一、关键时间点：逮捕当天发生火灾\n- 📅 2023年3月15日  \n- FBI逮捕郭先生后，独立控制其18层公寓  \n- 随后公寓发生火灾  \n- FDNY约2小时后扑灭，约半个公寓被烧毁…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 767,
+        "media_key": "3_2038795483867656192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtBsMmaMAAJJ8p.jpg",
+        "width": 1869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2039337767835193427",
+        "created_at": "2026-04-01T13:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039337767835193427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1972505091543584769",
+              "start": 3,
+              "username": "actionaction64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039337767835193427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038795487415828549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @actionaction64: 【18楼大火：意外还是“销毁证据”？】\n\n🔴 一、关键时间点：逮捕当天发生火灾\n- 📅 2023年3月15日  \n- FBI逮捕郭先生后，独立控制其18层公寓  \n- 随后公寓发生火灾  \n- FDNY约2小时后扑灭，约半个公寓被烧毁…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038795483867656192"
+          ]
+        },
+        "author_id": "1972505091543584769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2038795487415828549",
+        "created_at": "2026-03-31T01:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038795487415828549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1u1c99W2Jh",
+              "end": 193,
+              "expanded_url": "https://x.com/actionaction64/status/2038795487415828549/photo/1",
+              "media_key": "3_2038795483867656192",
+              "start": 170,
+              "url": "https://t.co/1u1c99W2Jh"
+            },
+            {
+              "display_url": "x.com/actionaction64…",
+              "end": 217,
+              "expanded_url": "https://twitter.com/actionaction64/status/2038792361069683050",
+              "start": 194,
+              "url": "https://t.co/dag1YET5Sv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038795487415828549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【18楼大火：意外还是“销毁证据”？】\n\n🔴 一、关键时间点：逮捕当天发生火灾\n- 📅 2023年3月15日  \n- FBI逮捕郭先生后，独立控制其18层公寓  \n- 随后公寓发生火灾  \n- FDNY约2小时后扑灭，约半个公寓被烧毁\n\n🔴 二、官方调查结论\n- ATF（烟酒枪炮局）认定：  \n  👉 起火原因无法根据现场材料确定\n\n- 政府在量刑文件中：\n  - 将此事件列为“加重情节之一”\n\n🔴 三、争议焦点：什么东西被火烧了？\n \n- 关键“盘古广场监控硬盘”失踪  \n- 拜登与习近平的私下接触记录  \n- 亨特·拜登与中共系统的业务往来  \n- 拜登家族涉及大规模金融问题的书面材料"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5215,
+          "like_count": 92,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038792361069683050",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【18楼大火：意外还是“销毁证据”？】\n\n🔴 一、关键时间点：逮捕当天发生火灾\n- 📅 2023年3月15日  \n- FBI逮捕郭先生后，独立控制其18层公寓  \n- 随后公寓发生火灾  \n- FDNY约2小时后扑灭，约半个公寓被烧毁\n\n🔴 二、官方调查结论\n- ATF（烟酒枪炮局）认定：  \n  👉 起火原因无法根据现场材料确定\n\n- https://t.co/1u1c99W2Jh https://t.co/dag1YET5Sv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖恆春最深情‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo‖陰暗逼od蛆互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2035365735460180096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 249,
+          "like_count": 9793,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 2581
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-29T03:34:12.000Z",
+        "description": "吃喝玩乐、衣食住行，用 TDCCP 消费，享优惠、拿奖励、支持加拿大TDCCP社区。",
+        "id": "1972505091543584769",
+        "name": "TDCCP加拿大社区",
+        "pinned_tweet_id": "2037721207575838828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999658321754685440/0XINTESy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 122,
+          "like_count": 4410,
+          "listed_count": 3,
+          "media_count": 454,
+          "tweet_count": 1957
+        },
+        "username": "actionaction64",
+        "verified": true
+      }
+    ]
+  }
+}

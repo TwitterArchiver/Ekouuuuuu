@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2070833773261009081",
+    "created_at": "2026-06-27T11:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070833773261009081"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lllazkiss7/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/lllazkiss7/status/2070636358260187602",
+          "start": 13,
+          "url": "https://t.co/nzG8yUJEgD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070833773261009081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070636358260187602",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你的喜歡價值不如兩斤雞屎 https://t.co/nzG8yUJEgD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2070833773261009081",
+        "created_at": "2026-06-27T11:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070833773261009081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lllazkiss7/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/lllazkiss7/status/2070636358260187602",
+              "start": 13,
+              "url": "https://t.co/nzG8yUJEgD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070833773261009081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070636358260187602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你的喜歡價值不如兩斤雞屎 https://t.co/nzG8yUJEgD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513932902089703426",
+        "conversation_id": "2070636358260187602",
+        "created_at": "2026-06-26T22:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T23:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070636358260187602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070636358260187602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3521,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "最烦的就是这种话“之前挺喜欢你的，你现在怎么这样啊”妈的你的喜欢值多少钱，你的喜欢真的特别廉价你知道吗。用这种恶心话来道德绑架别人，这种感觉就是即否定了现在还显得你这人特别高贵😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖LGBTQ+友好‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2064040950851404219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 376,
+          "like_count": 14363,
+          "listed_count": 1,
+          "media_count": 637,
+          "tweet_count": 3840
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T17:31:54.000Z",
+        "description": "得之我幸，失之我命/好运常在/ 提供整容建议/你点进我的主页找我的痕迹的那一刻你的能量已经被我窃取偷走了",
+        "id": "1513932902089703426",
+        "location": "离你0.1km",
+        "name": "县城女",
+        "pinned_tweet_id": "2064317031705661564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056938531801698304/lF79byOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 523,
+          "like_count": 4153,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 5962
+        },
+        "url": "",
+        "username": "lllazkiss7",
+        "verified": false
+      }
+    ]
+  }
+}

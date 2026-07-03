@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994295135937679858",
+    "created_at": "2025-11-28T06:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T07:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994295135937679858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1590939682568736769",
+          "start": 3,
+          "username": "ColesPerson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994295135937679858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994032348556320898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ColesPerson: 英雄学院不是辱华了吗？建议国家也出一部动漫叫我的孔子学院辱日本，来吧，强烈的反击"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994295135937679858",
+        "created_at": "2025-11-28T06:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994295135937679858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1590939682568736769",
+              "start": 3,
+              "username": "ColesPerson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994295135937679858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994032348556320898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ColesPerson: 英雄学院不是辱华了吗？建议国家也出一部动漫叫我的孔子学院辱日本，来吧，强烈的反击"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590939682568736769",
+        "conversation_id": "1994032348556320898",
+        "created_at": "2025-11-27T13:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994032348556320898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994032348556320898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 56804,
+          "like_count": 745,
+          "quote_count": 7,
+          "reply_count": 35,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "英雄学院不是辱华了吗？建议国家也出一部动漫叫我的孔子学院辱日本，来吧，强烈的反击"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994075383021637632/-0l5ucQS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 86,
+          "like_count": 2747,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 154
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "有本事你就来美国杀了我",
+        "id": "1590939682568736769",
+        "location": "Manhattan, NY",
+        "name": "幼女时代",
+        "pinned_tweet_id": "1980605611067756844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983668137922064384/aKdXx6yC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 1396,
+          "like_count": 26506,
+          "listed_count": 5,
+          "media_count": 891,
+          "tweet_count": 9681
+        },
+        "username": "ColesPerson",
+        "verified": false
+      }
+    ]
+  }
+}

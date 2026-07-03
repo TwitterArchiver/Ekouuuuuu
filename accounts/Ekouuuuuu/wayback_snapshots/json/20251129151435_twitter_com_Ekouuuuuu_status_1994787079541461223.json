@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993999864687136768"
+      ],
+      "media_source_tweet_id": [
+        "1993999870366241075"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994787079541461223",
+    "created_at": "2025-11-29T15:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T16:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994787079541461223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1737076324664287232",
+          "start": 3,
+          "username": "029pwp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oSZzZsC3v0",
+          "end": 35,
+          "expanded_url": "https://x.com/029pwp/status/1993999870366241075/photo/1",
+          "media_key": "3_1993999864687136768",
+          "start": 12,
+          "url": "https://t.co/oSZzZsC3v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994787079541461223",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 281
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993999870366241075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @029pwp: https://t.co/oSZzZsC3v0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2862,
+        "media_key": "3_1993999864687136768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wcT_DakAAAf45.jpg",
+        "width": 2147
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993999864687136768"
+          ],
+          "media_source_tweet_id": [
+            "1993999870366241075"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994787079541461223",
+        "created_at": "2025-11-29T15:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994787079541461223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1737076324664287232",
+              "start": 3,
+              "username": "029pwp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oSZzZsC3v0",
+              "end": 35,
+              "expanded_url": "https://x.com/029pwp/status/1993999870366241075/photo/1",
+              "media_key": "3_1993999864687136768",
+              "start": 12,
+              "url": "https://t.co/oSZzZsC3v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994787079541461223",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 281
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993999870366241075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @029pwp: https://t.co/oSZzZsC3v0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993999864687136768"
+          ]
+        },
+        "author_id": "1737076324664287232",
+        "conversation_id": "1993999870366241075",
+        "created_at": "2025-11-27T11:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T12:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993999870366241075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oSZzZsC3v0",
+              "end": 23,
+              "expanded_url": "https://x.com/029pwp/status/1993999870366241075/photo/1",
+              "media_key": "3_1993999864687136768",
+              "start": 0,
+              "url": "https://t.co/oSZzZsC3v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993999870366241075",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 512,
+          "impression_count": 146590,
+          "like_count": 10355,
+          "quote_count": 12,
+          "reply_count": 2,
+          "retweet_count": 281
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oSZzZsC3v0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 112,
+          "like_count": 3036,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 308
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T11:44:36.000Z",
+        "description": "@YAKO_SHOJOで会えます➡️@DCANDY_MIKOTO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "YAKO_SHOJO"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "DCANDY_MIKOTO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/candyrooso?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/candyrooso?igsh=MWphdWFhOTBrN21laQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/VIUvxk9XHE"
+              }
+            ]
+          }
+        },
+        "id": "1737076324664287232",
+        "location": "28 ミナミ",
+        "name": "らがんちゃん",
+        "pinned_tweet_id": "1923737652253360375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940353514166726656/u0iOOGuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7174,
+          "following_count": 225,
+          "like_count": 4604,
+          "listed_count": 41,
+          "media_count": 163,
+          "tweet_count": 656
+        },
+        "url": "https://t.co/VIUvxk9XHE",
+        "username": "029pwp",
+        "verified": false
+      }
+    ]
+  }
+}

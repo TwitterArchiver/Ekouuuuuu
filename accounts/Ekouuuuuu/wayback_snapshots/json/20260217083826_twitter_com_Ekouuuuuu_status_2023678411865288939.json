@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023591927103504384"
+      ],
+      "media_source_tweet_id": [
+        "2023591930744217646"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2023678411865288939",
+    "created_at": "2026-02-17T08:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T09:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023678411865288939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512261155850719234",
+          "start": 3,
+          "username": "Dormicumproject"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tdJvC1xW3Z",
+          "end": 47,
+          "expanded_url": "https://x.com/Dormicumproject/status/2023591930744217646/photo/1",
+          "media_key": "3_2023591927103504384",
+          "start": 24,
+          "url": "https://t.co/tdJvC1xW3Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023678411865288939",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023591930744217646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dormicumproject: 延命 https://t.co/tdJvC1xW3Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023591927103504384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBU-IuFaQAANPmc.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023591927103504384"
+          ],
+          "media_source_tweet_id": [
+            "2023591930744217646"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2023678411865288939",
+        "created_at": "2026-02-17T08:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023678411865288939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512261155850719234",
+              "start": 3,
+              "username": "Dormicumproject"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tdJvC1xW3Z",
+              "end": 47,
+              "expanded_url": "https://x.com/Dormicumproject/status/2023591930744217646/photo/1",
+              "media_key": "3_2023591927103504384",
+              "start": 24,
+              "url": "https://t.co/tdJvC1xW3Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023678411865288939",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023591930744217646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dormicumproject: 延命 https://t.co/tdJvC1xW3Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023591927103504384"
+          ]
+        },
+        "author_id": "1512261155850719234",
+        "conversation_id": "2023591930744217646",
+        "created_at": "2026-02-17T02:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T03:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023591930744217646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tdJvC1xW3Z",
+              "end": 26,
+              "expanded_url": "https://x.com/Dormicumproject/status/2023591930744217646/photo/1",
+              "media_key": "3_2023591927103504384",
+              "start": 3,
+              "url": "https://t.co/tdJvC1xW3Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023591930744217646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 13518,
+          "like_count": 670,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "延命 https://t.co/tdJvC1xW3Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 248,
+          "like_count": 8514,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 2204
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T02:48:58.000Z",
+        "description": "心中デートしよ\n\n漫画はここから読めますhttps://t.co/SB66qxPOdk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/dormicum",
+                "end": 43,
+                "expanded_url": "https://lit.link/dormicum",
+                "start": 20,
+                "url": "https://t.co/SB66qxPOdk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dormicum2os",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dormicum2os",
+                "start": 0,
+                "url": "https://t.co/CtEGqQLjTn"
+              }
+            ]
+          }
+        },
+        "id": "1512261155850719234",
+        "name": "ドルミカム（Dormicum）",
+        "pinned_tweet_id": "2021119429040628104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761010277162864640/PGZHn1CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141639,
+          "following_count": 0,
+          "like_count": 2229,
+          "listed_count": 612,
+          "media_count": 908,
+          "tweet_count": 1470
+        },
+        "url": "https://t.co/CtEGqQLjTn",
+        "username": "Dormicumproject",
+        "verified": true
+      }
+    ]
+  }
+}

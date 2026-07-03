@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996533870523822080"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1996533872985854057",
+    "created_at": "2025-12-04T10:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T11:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996533872985854057"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d8WDfLTUt2",
+          "end": 23,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1996533872985854057/photo/1",
+          "media_key": "3_1996533870523822080",
+          "start": 0,
+          "url": "https://t.co/d8WDfLTUt2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996533872985854057",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/d8WDfLTUt2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1215,
+        "media_key": "3_1996533870523822080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Uc-iabsAAgR0U.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996533870523822080"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1996533872985854057",
+        "created_at": "2025-12-04T10:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T11:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996533872985854057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d8WDfLTUt2",
+              "end": 23,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1996533872985854057/photo/1",
+              "media_key": "3_1996533870523822080",
+              "start": 0,
+              "url": "https://t.co/d8WDfLTUt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996533872985854057",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/d8WDfLTUt2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖Aru是一切！‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 126,
+          "like_count": 3281,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 258
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

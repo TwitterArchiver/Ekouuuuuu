@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1974049972309143607",
+    "created_at": "2025-10-08T06:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T07:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975810398285881530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596798310785978369",
+          "start": 0,
+          "username": "maybeanormalppl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975810398285881530",
+    "in_reply_to_user_id": "1596798310785978369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974049972309143607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maybeanormalppl 咋讓醫生給我開這個😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1974049972309143607",
+        "created_at": "2025-10-08T06:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T07:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975810398285881530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596798310785978369",
+              "start": 0,
+              "username": "maybeanormalppl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975810398285881530",
+        "in_reply_to_user_id": "1596798310785978369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974049972309143607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maybeanormalppl 咋讓醫生給我開這個😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596798310785978369",
+        "conversation_id": "1974049972309143607",
+        "created_at": "2025-10-03T09:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T10:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974049972309143607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose_six/s…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/overdose_six/status/1973994181178630567",
+              "start": 71,
+              "url": "https://t.co/L1MJLo8mDQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974049972309143607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 14329,
+          "like_count": 128,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973994181178630567",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "od的小朋友们，你们好呀\n我不是来劝你们别od的，我是说，要不试试戒掉你手上的pr80、优米这些烂药，去医院选择合法又便宜的苯二氮卓之类的呢 https://t.co/L1MJLo8mDQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "年年歲歲花相似",
+        "id": "1912063502782812160",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974683142880665600/4D1J2k-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 81,
+          "like_count": 2177,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 326
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T09:29:34.000Z",
+        "description": "顺直男，休学啃老",
+        "id": "1596798310785978369",
+        "name": "一只只只只人",
+        "pinned_tweet_id": "1969968711852564947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829944306302976/I1pin9Zp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 705,
+          "like_count": 15826,
+          "listed_count": 9,
+          "media_count": 893,
+          "tweet_count": 19463
+        },
+        "username": "maybeanormalppl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030047767977172992"
+      ],
+      "media_source_tweet_id": [
+        "2030047773219824117"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2030470602273022384",
+    "created_at": "2026-03-08T02:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T03:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030470602273022384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2020007766098608130",
+          "start": 3,
+          "username": "dollnotie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SwVM0ZXeQg",
+          "end": 38,
+          "expanded_url": "https://x.com/dollnotie/status/2030047773219824117/photo/1",
+          "media_key": "3_2030047767977172992",
+          "start": 15,
+          "url": "https://t.co/SwVM0ZXeQg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030470602273022384",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 772
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030047773219824117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dollnotie: https://t.co/SwVM0ZXeQg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2030047767977172992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCwtsHdaoAAKscC.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030047767977172992"
+          ],
+          "media_source_tweet_id": [
+            "2030047773219824117"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2030470602273022384",
+        "created_at": "2026-03-08T02:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T03:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030470602273022384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2020007766098608130",
+              "start": 3,
+              "username": "dollnotie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SwVM0ZXeQg",
+              "end": 38,
+              "expanded_url": "https://x.com/dollnotie/status/2030047773219824117/photo/1",
+              "media_key": "3_2030047767977172992",
+              "start": 15,
+              "url": "https://t.co/SwVM0ZXeQg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030470602273022384",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 772
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030047773219824117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dollnotie: https://t.co/SwVM0ZXeQg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030047767977172992"
+          ]
+        },
+        "author_id": "2020007766098608130",
+        "conversation_id": "2030047773219824117",
+        "created_at": "2026-03-06T22:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T23:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030047773219824117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SwVM0ZXeQg",
+              "end": 23,
+              "expanded_url": "https://x.com/dollnotie/status/2030047773219824117/photo/1",
+              "media_key": "3_2030047767977172992",
+              "start": 0,
+              "url": "https://t.co/SwVM0ZXeQg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030047773219824117",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 312,
+          "impression_count": 46442,
+          "like_count": 5183,
+          "quote_count": 25,
+          "reply_count": 7,
+          "retweet_count": 772
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SwVM0ZXeQg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 244,
+          "like_count": 9237,
+          "listed_count": 1,
+          "media_count": 379,
+          "tweet_count": 2347
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T05:37:14.000Z",
+        "description": "lonely girl",
+        "id": "2020007766098608130",
+        "location": "19",
+        "name": "ᨳ𐔌՞҂ ˕ ֊՞𐦯ᜊ",
+        "pinned_tweet_id": "2020012871078523137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020012384614551552/I3KR4_Fs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 232,
+          "like_count": 2674,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 821
+        },
+        "username": "dollnotie",
+        "verified": false
+      }
+    ]
+  }
+}

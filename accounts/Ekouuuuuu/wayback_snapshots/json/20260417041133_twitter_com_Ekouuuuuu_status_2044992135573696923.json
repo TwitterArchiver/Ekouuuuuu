@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2044749960131002368"
+      ],
+      "media_source_tweet_id": [
+        "2044749982260240832"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044992135573696923",
+    "created_at": "2026-04-17T04:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T05:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044992135573696923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2019289944771223552",
+          "start": 3,
+          "username": "Notsu311406"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FRsabaHuir",
+          "end": 75,
+          "expanded_url": "https://x.com/Notsu311406/status/2044749982260240832/video/1",
+          "media_key": "7_2044749960131002368",
+          "start": 52,
+          "url": "https://t.co/FRsabaHuir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044992135573696923",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 300
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044749982260240832",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Notsu311406: Thank you for 10,000 followers !!! https://t.co/FRsabaHuir"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16812,
+        "height": 576,
+        "media_key": "7_2044749960131002368",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044749960131002368/pu/img/d1Vk_nkYr1LPe1Ch.jpg",
+        "public_metrics": {
+          "view_count": 18397
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044749960131002368/pu/vid/avc1/360x270/gy6zw4vv7hm37BSY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044749960131002368/pu/vid/avc1/480x360/bFa86JFPIF-lUoy5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044749960131002368/pu/vid/avc1/768x576/jv_ogvGGxkh_PiuD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044749960131002368/pu/pl/347xi0EoomYx09aR.m3u8?v=595"
+          }
+        ],
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044749960131002368"
+          ],
+          "media_source_tweet_id": [
+            "2044749982260240832"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044992135573696923",
+        "created_at": "2026-04-17T04:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T05:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044992135573696923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2019289944771223552",
+              "start": 3,
+              "username": "Notsu311406"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRsabaHuir",
+              "end": 75,
+              "expanded_url": "https://x.com/Notsu311406/status/2044749982260240832/video/1",
+              "media_key": "7_2044749960131002368",
+              "start": 52,
+              "url": "https://t.co/FRsabaHuir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044992135573696923",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 300
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044749982260240832",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Notsu311406: Thank you for 10,000 followers !!! https://t.co/FRsabaHuir"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044749960131002368"
+          ]
+        },
+        "author_id": "2019289944771223552",
+        "conversation_id": "2044749982260240832",
+        "created_at": "2026-04-16T12:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T13:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044749982260240832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRsabaHuir",
+              "end": 58,
+              "expanded_url": "https://x.com/Notsu311406/status/2044749982260240832/video/1",
+              "media_key": "7_2044749960131002368",
+              "start": 35,
+              "url": "https://t.co/FRsabaHuir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044749982260240832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 563,
+          "impression_count": 43373,
+          "like_count": 3348,
+          "quote_count": 2,
+          "reply_count": 30,
+          "retweet_count": 300
+        },
+        "reply_settings": "everyone",
+        "text": "Thank you for 10,000 followers !!! https://t.co/FRsabaHuir"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "Don't you let me go‖男友@Shiroko_Li‖叫我白菜就好‖日本語がわからない‖台獨‖🚪2778收錢我就跑路‖查主頁成分我會回fo‖陰暗逼od蛆互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2042383810571223190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 256,
+          "like_count": 10855,
+          "listed_count": 1,
+          "media_count": 433,
+          "tweet_count": 2711
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T06:00:18.000Z",
+        "description": "",
+        "id": "2019289944771223552",
+        "name": "Notsu",
+        "pinned_tweet_id": "2042955195525795932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033944595915329536/J5AC6Qet_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9456,
+          "following_count": 916,
+          "like_count": 16144,
+          "listed_count": 40,
+          "media_count": 1181,
+          "tweet_count": 4347
+        },
+        "username": "Notsu311406",
+        "verified": true
+      }
+    ]
+  }
+}

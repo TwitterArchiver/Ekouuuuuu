@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042210062547210240",
+        "3_2042210062471659520",
+        "3_2042210062492667905",
+        "3_2042210062530379776"
+      ],
+      "media_source_tweet_id": [
+        "2042210077105705064",
+        "2042210077105705064",
+        "2042210077105705064",
+        "2042210077105705064"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2042475959451046200",
+    "created_at": "2026-04-10T05:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T06:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042475959451046200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1565912505200693248",
+          "start": 3,
+          "username": "sabanose_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yBfluon8Im",
+          "end": 45,
+          "expanded_url": "https://x.com/sabanose_/status/2042210077105705064/photo/1",
+          "media_key": "3_2042210062547210240",
+          "start": 22,
+          "url": "https://t.co/yBfluon8Im"
+        },
+        {
+          "display_url": "pic.x.com/yBfluon8Im",
+          "end": 45,
+          "expanded_url": "https://x.com/sabanose_/status/2042210077105705064/photo/1",
+          "media_key": "3_2042210062471659520",
+          "start": 22,
+          "url": "https://t.co/yBfluon8Im"
+        },
+        {
+          "display_url": "pic.x.com/yBfluon8Im",
+          "end": 45,
+          "expanded_url": "https://x.com/sabanose_/status/2042210077105705064/photo/1",
+          "media_key": "3_2042210062492667905",
+          "start": 22,
+          "url": "https://t.co/yBfluon8Im"
+        },
+        {
+          "display_url": "pic.x.com/yBfluon8Im",
+          "end": 45,
+          "expanded_url": "https://x.com/sabanose_/status/2042210077105705064/photo/1",
+          "media_key": "3_2042210062530379776",
+          "start": 22,
+          "url": "https://t.co/yBfluon8Im"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042475959451046200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042210077105705064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sabanose_: 🐟 ♬.*ﾟ https://t.co/yBfluon8Im"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 383,
+        "media_key": "3_2042210062547210240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdjO1ba0AASLoU.jpg",
+        "width": 680
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2042210062471659520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdjO1JaAAAeciU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 510,
+        "media_key": "3_2042210062492667905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdjO1OakAE49YO.jpg",
+        "width": 680
+      },
+      {
+        "height": 768,
+        "media_key": "3_2042210062530379776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdjO1XaAAA22OT.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042210062547210240",
+            "3_2042210062471659520",
+            "3_2042210062492667905",
+            "3_2042210062530379776"
+          ],
+          "media_source_tweet_id": [
+            "2042210077105705064",
+            "2042210077105705064",
+            "2042210077105705064",
+            "2042210077105705064"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2042475959451046200",
+        "created_at": "2026-04-10T05:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042475959451046200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1565912505200693248",
+              "start": 3,
+              "username": "sabanose_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yBfluon8Im",
+              "end": 45,
+              "expanded_url": "https://x.com/sabanose_/status/2042210077105705064/photo/1",
+              "media_key": "3_2042210062547210240",
+              "start": 22,
+              "url": "https://t.co/yBfluon8Im"
+            },
+            {
+              "display_url": "pic.x.com/yBfluon8Im",
+              "end": 45,
+              "expanded_url": "https://x.com/sabanose_/status/2042210077105705064/photo/1",
+              "media_key": "3_2042210062471659520",
+              "start": 22,
+              "url": "https://t.co/yBfluon8Im"
+            },
+            {
+              "display_url": "pic.x.com/yBfluon8Im",
+              "end": 45,
+              "expanded_url": "https://x.com/sabanose_/status/2042210077105705064/photo/1",
+              "media_key": "3_2042210062492667905",
+              "start": 22,
+              "url": "https://t.co/yBfluon8Im"
+            },
+            {
+              "display_url": "pic.x.com/yBfluon8Im",
+              "end": 45,
+              "expanded_url": "https://x.com/sabanose_/status/2042210077105705064/photo/1",
+              "media_key": "3_2042210062530379776",
+              "start": 22,
+              "url": "https://t.co/yBfluon8Im"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042475959451046200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042210077105705064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sabanose_: 🐟 ♬.*ﾟ https://t.co/yBfluon8Im"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042210062547210240",
+            "3_2042210062471659520",
+            "3_2042210062492667905",
+            "3_2042210062530379776"
+          ]
+        },
+        "author_id": "1565912505200693248",
+        "conversation_id": "2042210077105705064",
+        "created_at": "2026-04-09T11:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042210077105705064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yBfluon8Im",
+              "end": 30,
+              "expanded_url": "https://x.com/sabanose_/status/2042210077105705064/photo/1",
+              "media_key": "3_2042210062547210240",
+              "start": 7,
+              "url": "https://t.co/yBfluon8Im"
+            },
+            {
+              "display_url": "pic.x.com/yBfluon8Im",
+              "end": 30,
+              "expanded_url": "https://x.com/sabanose_/status/2042210077105705064/photo/1",
+              "media_key": "3_2042210062471659520",
+              "start": 7,
+              "url": "https://t.co/yBfluon8Im"
+            },
+            {
+              "display_url": "pic.x.com/yBfluon8Im",
+              "end": 30,
+              "expanded_url": "https://x.com/sabanose_/status/2042210077105705064/photo/1",
+              "media_key": "3_2042210062492667905",
+              "start": 7,
+              "url": "https://t.co/yBfluon8Im"
+            },
+            {
+              "display_url": "pic.x.com/yBfluon8Im",
+              "end": 30,
+              "expanded_url": "https://x.com/sabanose_/status/2042210077105705064/photo/1",
+              "media_key": "3_2042210062530379776",
+              "start": 7,
+              "url": "https://t.co/yBfluon8Im"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042210077105705064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 8113,
+          "like_count": 887,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "🐟 ♬.*ﾟ https://t.co/yBfluon8Im"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "Don't you let me go‖男友@Shiroko_Li‖叫我執偏就好‖屏東最深情‖🚪2778收錢我就跑路‖我只是一個可愛的割手od笑氣依賴者呀🥹‖查主頁成分我會回fo‖陰暗逼od蛆互fo💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "執偏Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2035365735460180096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 252,
+          "like_count": 10627,
+          "listed_count": 1,
+          "media_count": 428,
+          "tweet_count": 2666
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T04:00:48.000Z",
+        "description": "｜ﾌｧﾝﾏ【🌐🐟】｜ FA ｸﾞｯｽﾞ #𓆜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 20,
+                "tag": "𓆜"
+              }
+            ]
+          }
+        },
+        "id": "1565912505200693248",
+        "location": "無断転載 無断使用 ✖️",
+        "name": "鯖ノ瀬",
+        "pinned_tweet_id": "1897233269751742957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922660405882552320/SgrPyW5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14702,
+          "following_count": 70,
+          "like_count": 11143,
+          "listed_count": 82,
+          "media_count": 298,
+          "tweet_count": 11919
+        },
+        "username": "sabanose_",
+        "verified": false
+      }
+    ]
+  }
+}

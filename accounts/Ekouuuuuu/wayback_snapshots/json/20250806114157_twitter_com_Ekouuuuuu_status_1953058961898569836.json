@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953058932785860608",
+        "3_1953058959440658433"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1953058961898569836",
+    "created_at": "2025-08-06T11:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T12:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953058961898569836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RxBYVKLWSv",
+          "end": 69,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1953058961898569836/photo/1",
+          "media_key": "3_1953058932785860608",
+          "start": 46,
+          "url": "https://t.co/RxBYVKLWSv"
+        },
+        {
+          "display_url": "pic.x.com/RxBYVKLWSv",
+          "end": 69,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1953058961898569836/photo/1",
+          "media_key": "3_1953058959440658433",
+          "start": 46,
+          "url": "https://t.co/RxBYVKLWSv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953058961898569836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一發作品你就跟著舔上來了？！\n衣服假髮全借我的拍照姿勢和文案音樂全部照搬你到底要怎麼樣？ https://t.co/RxBYVKLWSv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953058932785860608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqowGoa0AAnJwQ.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953058959440658433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxqoxp7awAEYTD5.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953058932785860608",
+            "3_1953058959440658433"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1953058961898569836",
+        "created_at": "2025-08-06T11:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T12:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953058961898569836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RxBYVKLWSv",
+              "end": 69,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1953058961898569836/photo/1",
+              "media_key": "3_1953058932785860608",
+              "start": 46,
+              "url": "https://t.co/RxBYVKLWSv"
+            },
+            {
+              "display_url": "pic.x.com/RxBYVKLWSv",
+              "end": 69,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1953058961898569836/photo/1",
+              "media_key": "3_1953058959440658433",
+              "start": 46,
+              "url": "https://t.co/RxBYVKLWSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953058961898569836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一發作品你就跟著舔上來了？！\n衣服假髮全借我的拍照姿勢和文案音樂全部照搬你到底要怎麼樣？ https://t.co/RxBYVKLWSv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "🥲",
+        "id": "1912063502782812160",
+        "name": "白菜喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937599411460403200/XrYwRLKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 46,
+          "like_count": 1373,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 213
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

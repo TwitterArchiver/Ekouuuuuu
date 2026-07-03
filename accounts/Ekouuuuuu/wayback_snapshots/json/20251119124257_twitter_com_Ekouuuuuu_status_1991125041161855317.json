@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1538607121129869313",
+          "name": "Honor of Kings"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900552308949006",
+          "name": "MOBAs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1538607121129869313",
+          "name": "Honor of Kings"
+        }
+      }
+    ],
+    "conversation_id": "1991125041161855317",
+    "created_at": "2025-11-19T12:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T13:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991125041161855317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1989664685046505529",
+          "start": 5,
+          "url": "https://t.co/rHvtvfciVk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991125041161855317",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989664685046505529",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "粉紅死了 https://t.co/rHvtvfciVk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32043,
+        "height": 1280,
+        "media_key": "13_1989594577368748034",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989594577368748034/img/XDoHYuKl1jsG1hJi.jpg",
+        "public_metrics": {
+          "view_count": 571913
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989594577368748034/vid/avc1/320x568/68jIyyIMWcGsDou4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989594577368748034/vid/avc1/480x852/IU0UydZ_22_DyNMC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989594577368748034/vid/avc1/720x1280/iNM13rCYvqvEpJaM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989594577368748034/pl/TMOexks1e1Jc3YtT.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "1991125041161855317",
+        "created_at": "2025-11-19T12:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T13:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991125041161855317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1989664685046505529",
+              "start": 5,
+              "url": "https://t.co/rHvtvfciVk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991125041161855317",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989664685046505529",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "粉紅死了 https://t.co/rHvtvfciVk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989594577368748034"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "1989664685046505529",
+        "created_at": "2025-11-15T12:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989664685046505529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lPsyWz0FDV",
+              "end": 143,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1989664685046505529/video/1",
+              "media_key": "13_1989594577368748034",
+              "start": 120,
+              "url": "https://t.co/lPsyWz0FDV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989664685046505529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 335,
+          "impression_count": 888173,
+          "like_count": 2028,
+          "quote_count": 66,
+          "reply_count": 359,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿：11月15日，江苏省无锡市三阳广场，两名精心打扮的我的英雄学院coser遭路人恶意扯拽假发，其中一人竟嚣张叫嚷“我王者荣耀都不打了，就喜欢看扯鬼子”话音未落，双方扭打成一团。受害女生情急之下，只得挥起手机砸向对方，奋力反击自保。 https://t.co/lPsyWz0FDV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "還要多久 我才能在你身邊",
+        "id": "1912063502782812160",
+        "location": "我最想選的肩膀又是否願意與我同心",
+        "name": "白菜_Satsuki🍏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979464074787246080/49ypr-ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 42,
+          "like_count": 2590,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 110
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1757195077619691725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2145263,
+          "following_count": 979,
+          "like_count": 8338,
+          "listed_count": 8410,
+          "media_count": 37436,
+          "tweet_count": 44299
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

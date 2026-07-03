@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041513356780314624"
+      ],
+      "media_source_tweet_id": [
+        "2041513414649151946"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2041800621570060424",
+    "created_at": "2026-04-08T08:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T09:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041800621570060424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "397175818",
+          "start": 3,
+          "username": "Huku_Taku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xLxNr5q7MF",
+          "end": 38,
+          "expanded_url": "https://x.com/Huku_Taku/status/2041513414649151946/photo/1",
+          "media_key": "3_2041513356780314624",
+          "start": 15,
+          "url": "https://t.co/xLxNr5q7MF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041800621570060424",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041513414649151946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Huku_Taku: https://t.co/xLxNr5q7MF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1855,
+        "media_key": "3_2041513356780314624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTplOMbIAA2B_X.jpg",
+        "width": 1273
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041513356780314624"
+          ],
+          "media_source_tweet_id": [
+            "2041513414649151946"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2041800621570060424",
+        "created_at": "2026-04-08T08:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041800621570060424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "397175818",
+              "start": 3,
+              "username": "Huku_Taku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xLxNr5q7MF",
+              "end": 38,
+              "expanded_url": "https://x.com/Huku_Taku/status/2041513414649151946/photo/1",
+              "media_key": "3_2041513356780314624",
+              "start": 15,
+              "url": "https://t.co/xLxNr5q7MF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041800621570060424",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041513414649151946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Huku_Taku: https://t.co/xLxNr5q7MF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041513356780314624"
+          ]
+        },
+        "author_id": "397175818",
+        "conversation_id": "2041513414649151946",
+        "created_at": "2026-04-07T13:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041513414649151946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xLxNr5q7MF",
+              "end": 23,
+              "expanded_url": "https://x.com/Huku_Taku/status/2041513414649151946/photo/1",
+              "media_key": "3_2041513356780314624",
+              "start": 0,
+              "url": "https://t.co/xLxNr5q7MF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041513414649151946",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 10936,
+          "like_count": 1229,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xLxNr5q7MF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖恆春最深情‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo‖陰暗逼od蛆互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2035365735460180096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 251,
+          "like_count": 10424,
+          "listed_count": 1,
+          "media_count": 424,
+          "tweet_count": 2649
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-24T10:30:24.000Z",
+        "description": "フクリタックス 生活 / 絵 / 音楽",
+        "id": "397175818",
+        "location": "gm_bigcity",
+        "name": "HUKRiTAX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681685137900318723/ghUoYKFz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3926,
+          "following_count": 474,
+          "like_count": 24950,
+          "listed_count": 74,
+          "media_count": 11537,
+          "tweet_count": 83669
+        },
+        "username": "Huku_Taku",
+        "verified": false
+      }
+    ]
+  }
+}

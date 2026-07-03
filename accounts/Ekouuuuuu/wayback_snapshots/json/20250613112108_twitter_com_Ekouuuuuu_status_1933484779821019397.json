@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1933484779821019397",
+    "created_at": "2025-06-13T11:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T12:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933484779821019397"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1933484779821019397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "学校一群傻子我操你妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1933484779821019397",
+        "created_at": "2025-06-13T11:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T12:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933484779821019397"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933484779821019397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校一群傻子我操你妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "觉今是而昨非",
+        "id": "1912063502782812160",
+        "location": "Nara-ken, Japan",
+        "name": "Ekou白菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933223087061024768/NHwQoVVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 41,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 28
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

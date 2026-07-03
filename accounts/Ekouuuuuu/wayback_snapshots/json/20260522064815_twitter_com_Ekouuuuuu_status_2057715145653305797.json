@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057521041996447744",
+        "3_2057521041988042752"
+      ],
+      "media_source_tweet_id": [
+        "2057521057796366551",
+        "2057521057796366551"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2057715145653305797",
+    "created_at": "2026-05-22T06:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T07:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057715145653305797"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 18,
+          "tag": "shtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1799826778753523712",
+          "start": 3,
+          "username": "xxxlll186125"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fMc4agDtG1",
+          "end": 48,
+          "expanded_url": "https://x.com/xxxlll186125/status/2057521057796366551/photo/1",
+          "media_key": "3_2057521041996447744",
+          "start": 25,
+          "url": "https://t.co/fMc4agDtG1"
+        },
+        {
+          "display_url": "pic.x.com/fMc4agDtG1",
+          "end": 48,
+          "expanded_url": "https://x.com/xxxlll186125/status/2057521057796366551/photo/1",
+          "media_key": "3_2057521041988042752",
+          "start": 25,
+          "url": "https://t.co/fMc4agDtG1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057715145653305797",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057521057796366551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxxlll186125: #shtwt https://t.co/fMc4agDtG1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2057715145653305797].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2057715145653305797",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2057715145653305797"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2057521041996447744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3IfIoXAAAbBpa.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2057521041988042752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3IfImWwAAWofA.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057521041996447744",
+            "3_2057521041988042752"
+          ]
+        },
+        "author_id": "1799826778753523712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057521057796366551",
+        "created_at": "2026-05-21T17:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057521057796366551"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fMc4agDtG1",
+              "end": 30,
+              "expanded_url": "https://x.com/xxxlll186125/status/2057521057796366551/photo/1",
+              "media_key": "3_2057521041996447744",
+              "start": 7,
+              "url": "https://t.co/fMc4agDtG1"
+            },
+            {
+              "display_url": "pic.x.com/fMc4agDtG1",
+              "end": 30,
+              "expanded_url": "https://x.com/xxxlll186125/status/2057521057796366551/photo/1",
+              "media_key": "3_2057521041988042752",
+              "start": 7,
+              "url": "https://t.co/fMc4agDtG1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057521057796366551",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 104,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "#shtwt https://t.co/fMc4agDtG1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖老公@Shiroko_Li‖支畜別他媽來惡心我了‖找我要色圖的你媽死了‖順男加我請附帶絕育證明‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2054494874192195972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 304,
+          "like_count": 13157,
+          "listed_count": 1,
+          "media_count": 567,
+          "tweet_count": 3397
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T15:32:20.000Z",
+        "description": "",
+        "id": "1799826778753523712",
+        "name": "xxxlll",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057517375407128576/7y_tk4hQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 825,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "xxxlll186125",
+        "verified": false
+      }
+    ]
+  }
+}

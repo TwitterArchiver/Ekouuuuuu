@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016430709729329153"
+      ],
+      "media_source_tweet_id": [
+        "2016430716662501716"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2016521263012004014",
+    "created_at": "2026-01-28T14:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T15:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016521263012004014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1856312570187264000",
+          "start": 3,
+          "username": "xx99__sg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1MSCW2LtY5",
+          "end": 41,
+          "expanded_url": "https://x.com/xx99__sg/status/2016430716662501716/photo/1",
+          "media_key": "3_2016430709729329153",
+          "start": 18,
+          "url": "https://t.co/1MSCW2LtY5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016521263012004014",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016430716662501716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xx99__sg: wip https://t.co/1MSCW2LtY5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016430709729329153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vNDAebAAE3X97.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016430709729329153"
+          ],
+          "media_source_tweet_id": [
+            "2016430716662501716"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2016521263012004014",
+        "created_at": "2026-01-28T14:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016521263012004014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1856312570187264000",
+              "start": 3,
+              "username": "xx99__sg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1MSCW2LtY5",
+              "end": 41,
+              "expanded_url": "https://x.com/xx99__sg/status/2016430716662501716/photo/1",
+              "media_key": "3_2016430709729329153",
+              "start": 18,
+              "url": "https://t.co/1MSCW2LtY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016521263012004014",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016430716662501716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xx99__sg: wip https://t.co/1MSCW2LtY5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016430709729329153"
+          ]
+        },
+        "author_id": "1856312570187264000",
+        "conversation_id": "2016430716662501716",
+        "created_at": "2026-01-28T08:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T09:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016430716662501716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1MSCW2LtY5",
+              "end": 27,
+              "expanded_url": "https://x.com/xx99__sg/status/2016430716662501716/photo/1",
+              "media_key": "3_2016430709729329153",
+              "start": 4,
+              "url": "https://t.co/1MSCW2LtY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016430716662501716",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 6344,
+          "like_count": 784,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "wip https://t.co/1MSCW2LtY5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "同一片天為何好久不見‖叫我白菜就好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 234,
+          "like_count": 7620,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 1691
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T12:26:33.000Z",
+        "description": "愛と呪いは紙一重 タバコと女を量産しています。 ×無断転載AI学習禁止× フォロー非推奨",
+        "id": "1856312570187264000",
+        "location": "雑多 ヘッダーよふけの",
+        "name": "氏餓",
+        "pinned_tweet_id": "2015889586531266649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959637176985305088/BIqPD7yi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 13,
+          "like_count": 3059,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1123
+        },
+        "username": "xx99__sg",
+        "verified": false
+      }
+    ]
+  }
+}

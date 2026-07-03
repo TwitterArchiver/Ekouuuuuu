@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055602902790733824"
+      ],
+      "media_source_tweet_id": [
+        "2055602908646043901"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2055650444484182225",
+    "created_at": "2026-05-16T14:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055650444484182225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1737076324664287232",
+          "start": 3,
+          "username": "029pwp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wTuPip09rD",
+          "end": 35,
+          "expanded_url": "https://x.com/029pwp/status/2055602908646043901/photo/1",
+          "media_key": "3_2055602902790733824",
+          "start": 12,
+          "url": "https://t.co/wTuPip09rD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055650444484182225",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055602908646043901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @029pwp: https://t.co/wTuPip09rD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2730,
+        "media_key": "3_2055602902790733824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIb38vQagAAnRgC.jpg",
+        "width": 2047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055602902790733824"
+          ],
+          "media_source_tweet_id": [
+            "2055602908646043901"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2055650444484182225",
+        "created_at": "2026-05-16T14:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055650444484182225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1737076324664287232",
+              "start": 3,
+              "username": "029pwp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wTuPip09rD",
+              "end": 35,
+              "expanded_url": "https://x.com/029pwp/status/2055602908646043901/photo/1",
+              "media_key": "3_2055602902790733824",
+              "start": 12,
+              "url": "https://t.co/wTuPip09rD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055650444484182225",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055602908646043901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @029pwp: https://t.co/wTuPip09rD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055602902790733824"
+          ]
+        },
+        "author_id": "1737076324664287232",
+        "conversation_id": "2055602908646043901",
+        "created_at": "2026-05-16T10:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055602908646043901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wTuPip09rD",
+              "end": 23,
+              "expanded_url": "https://x.com/029pwp/status/2055602908646043901/photo/1",
+              "media_key": "3_2055602902790733824",
+              "start": 0,
+              "url": "https://t.co/wTuPip09rD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055602908646043901",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1576,
+          "like_count": 142,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wTuPip09rD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "她說她停不下這瘋狂‖閨蜜@seeFvn‖老公@Shiroko_Li‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 12,
+                "username": "seeFvn"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake flowers",
+        "pinned_tweet_id": "2054494874192195972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 295,
+          "like_count": 12630,
+          "listed_count": 1,
+          "media_count": 521,
+          "tweet_count": 3171
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T11:44:36.000Z",
+        "description": "@YAKO_SHOJO ♡♡超高校級ねむねむ➡️@DCANDY_MIKOTO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "YAKO_SHOJO"
+              },
+              {
+                "end": 38,
+                "start": 24,
+                "username": "DCANDY_MIKOTO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/candyrooso?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/candyrooso?igsh=MWphdWFhOTBrN21laQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/VIUvxk9XHE"
+              }
+            ]
+          }
+        },
+        "id": "1737076324664287232",
+        "name": "らがんちゃん",
+        "pinned_tweet_id": "1923737652253360375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940353514166726656/u0iOOGuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7265,
+          "following_count": 225,
+          "like_count": 5337,
+          "listed_count": 42,
+          "media_count": 223,
+          "tweet_count": 891
+        },
+        "url": "https://t.co/VIUvxk9XHE",
+        "username": "029pwp",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044841402241093632"
+      ],
+      "media_source_tweet_id": [
+        "2044841404355035500"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2045122323221451192",
+    "created_at": "2026-04-17T12:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045122323221451192"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 93,
+          "start": 73,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2027543101120909313",
+          "start": 3,
+          "username": "egomaiid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZUXhMmJ4ok",
+          "end": 117,
+          "expanded_url": "https://x.com/egomaiid/status/2044841404355035500/photo/1",
+          "media_key": "3_2044841402241093632",
+          "start": 94,
+          "url": "https://t.co/ZUXhMmJ4ok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045122323221451192",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 182
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044841404355035500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @egomaiid: ❤︎♱𓂃 𓈒 ˖ Ame in the anime ˚₊·—̳͟͞͞🖤°•\nCan't wait for ep. 3\n#NEEDY_GIRL_OVERDOSE https://t.co/ZUXhMmJ4ok"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044841402241093632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGC8a9qXkAAv_C_.jpg",
+        "width": 1629
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044841402241093632"
+          ],
+          "media_source_tweet_id": [
+            "2044841404355035500"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2045122323221451192",
+        "created_at": "2026-04-17T12:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045122323221451192"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 73,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2027543101120909313",
+              "start": 3,
+              "username": "egomaiid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZUXhMmJ4ok",
+              "end": 117,
+              "expanded_url": "https://x.com/egomaiid/status/2044841404355035500/photo/1",
+              "media_key": "3_2044841402241093632",
+              "start": 94,
+              "url": "https://t.co/ZUXhMmJ4ok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045122323221451192",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 182
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044841404355035500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @egomaiid: ❤︎♱𓂃 𓈒 ˖ Ame in the anime ˚₊·—̳͟͞͞🖤°•\nCan't wait for ep. 3\n#NEEDY_GIRL_OVERDOSE https://t.co/ZUXhMmJ4ok"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044841402241093632"
+          ]
+        },
+        "author_id": "2027543101120909313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2044841404355035500",
+        "created_at": "2026-04-16T18:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T19:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044841404355035500"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 59,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZUXhMmJ4ok",
+              "end": 103,
+              "expanded_url": "https://x.com/egomaiid/status/2044841404355035500/photo/1",
+              "media_key": "3_2044841402241093632",
+              "start": 80,
+              "url": "https://t.co/ZUXhMmJ4ok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044841404355035500",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 10550,
+          "like_count": 1773,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "❤︎♱𓂃 𓈒 ˖ Ame in the anime ˚₊·—̳͟͞͞🖤°•\nCan't wait for ep. 3\n#NEEDY_GIRL_OVERDOSE https://t.co/ZUXhMmJ4ok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "Don't you let me go‖男友@Shiroko_Li‖叫我白菜就好‖日本語がわからない‖台獨‖🚪2778收錢我就跑路‖查主頁成分我會回fo‖陰暗逼od蛆互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2042383810571223190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 256,
+          "like_count": 10930,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 2719
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T00:35:38.000Z",
+        "description": "⋆.𐙚 𝒊𝒏𝒕𝒆𝒓𝒏𝒆𝒕 𝒂𝒏𝒈𝒆𝒍\n\n↪ art shop (ngo drop) below",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "acggoods.com/store/egomaid",
+                "end": 23,
+                "expanded_url": "https://acggoods.com/store/egomaid",
+                "start": 0,
+                "url": "https://t.co/lcMRlifsMj"
+              }
+            ]
+          }
+        },
+        "id": "2027543101120909313",
+        "name": "꒰ა egomaid ໒꒱",
+        "pinned_tweet_id": "2043011863160541413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038273261130162176/8rESeLnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 117,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 161
+        },
+        "url": "https://t.co/lcMRlifsMj",
+        "username": "egomaiid",
+        "verified": false
+      }
+    ]
+  }
+}

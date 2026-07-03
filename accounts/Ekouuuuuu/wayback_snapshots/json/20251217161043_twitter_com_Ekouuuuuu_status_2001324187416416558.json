@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2001324187416416558",
+    "created_at": "2025-12-17T16:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T17:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001324187416416558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1864468641305251844",
+          "start": 3,
+          "username": "AkaNpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001324187416416558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001247044317667369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AkaNpc: 被人拿着一大束花告白到底啥感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2001324187416416558",
+        "created_at": "2025-12-17T16:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T17:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001324187416416558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1864468641305251844",
+              "start": 3,
+              "username": "AkaNpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001324187416416558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001247044317667369",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AkaNpc: 被人拿着一大束花告白到底啥感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864468641305251844",
+        "conversation_id": "2001247044317667369",
+        "created_at": "2025-12-17T11:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T12:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001247044317667369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001247044317667369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 28400,
+          "like_count": 279,
+          "quote_count": 10,
+          "reply_count": 57,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "被人拿着一大束花告白到底啥感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 181,
+          "like_count": 4465,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 655
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️全是网上段子&日常美食🍽️ 唯一大号｜小号@AkaNpc2｜仅此两号慎防受骗 ☺︎｜｜粤/国｜叫我小曼就好🗿｜📸｜🎧｜保持禮貌 唔該 ｜‼️置顶锁评推广自行分辨‼️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "AkaNpc2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/album/4m5WJ461…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/album/4m5WJ461G2KsDfjTwKarF8?si=qFKUWWJ2TSe-tNV_ELwQtQ",
+                "start": 0,
+                "url": "https://t.co/Oy9GMmbvRm"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "CK律師樓｜置顶锁评推广请自辨🤖｜🚪77",
+        "name": "曼醬⋆౨ৎ˚⟡˖ ࣪",
+        "pinned_tweet_id": "2001196080944251034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996281484987265024/qwEt6czg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11743,
+          "following_count": 133,
+          "like_count": 10434,
+          "listed_count": 17,
+          "media_count": 154,
+          "tweet_count": 2931
+        },
+        "url": "https://t.co/Oy9GMmbvRm",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}

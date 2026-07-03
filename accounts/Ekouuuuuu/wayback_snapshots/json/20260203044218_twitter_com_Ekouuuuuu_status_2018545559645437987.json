@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2018545381001560529",
+    "created_at": "2026-02-03T04:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T05:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018545559645437987"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2018545559645437987",
+    "in_reply_to_user_id": "1912063502782812160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018545381001560529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是說車厘子降價了嗎為什麼我買還是一箱158"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2018545381001560529",
+        "created_at": "2026-02-03T04:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T05:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018545559645437987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018545559645437987",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018545381001560529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是說車厘子降價了嗎為什麼我買還是一箱158"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2018545381001560529",
+        "created_at": "2026-02-03T04:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T05:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018545381001560529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ekouuuuuu/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Ekouuuuuu/status/2018527575954575602",
+              "start": 15,
+              "url": "https://t.co/Tp8a8FT0Tp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018545381001560529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018527575954575602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抽了兩根白利，吃了半盤車厘子 https://t.co/Tp8a8FT0Tp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "同一片天為何好久不見‖叫我白菜就好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 240,
+          "like_count": 8044,
+          "listed_count": 1,
+          "media_count": 304,
+          "tweet_count": 1909
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

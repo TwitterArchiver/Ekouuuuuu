@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052691676012167168"
+      ],
+      "media_source_tweet_id": [
+        "2052691680705515894"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2052713908029567076",
+    "created_at": "2026-05-08T11:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052713908029567076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1241290468513566720",
+          "start": 3,
+          "username": "sakiika010513"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fftEJCpS3R",
+          "end": 42,
+          "expanded_url": "https://x.com/sakiika010513/status/2052691680705515894/photo/1",
+          "media_key": "3_2052691676012167168",
+          "start": 19,
+          "url": "https://t.co/fftEJCpS3R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052713908029567076",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052691680705515894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakiika010513: https://t.co/fftEJCpS3R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052691676012167168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHygNCYbQAA_llW.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052691676012167168"
+          ],
+          "media_source_tweet_id": [
+            "2052691680705515894"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2052713908029567076",
+        "created_at": "2026-05-08T11:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052713908029567076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1241290468513566720",
+              "start": 3,
+              "username": "sakiika010513"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fftEJCpS3R",
+              "end": 42,
+              "expanded_url": "https://x.com/sakiika010513/status/2052691680705515894/photo/1",
+              "media_key": "3_2052691676012167168",
+              "start": 19,
+              "url": "https://t.co/fftEJCpS3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052713908029567076",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052691680705515894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakiika010513: https://t.co/fftEJCpS3R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052691676012167168"
+          ]
+        },
+        "author_id": "1241290468513566720",
+        "conversation_id": "2052691680705515894",
+        "created_at": "2026-05-08T10:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052691680705515894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fftEJCpS3R",
+              "end": 23,
+              "expanded_url": "https://x.com/sakiika010513/status/2052691680705515894/photo/1",
+              "media_key": "3_2052691676012167168",
+              "start": 0,
+              "url": "https://t.co/fftEJCpS3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052691680705515894",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 7114,
+          "like_count": 883,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fftEJCpS3R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "我還想和你談論宇宙和天空‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2051776082542825551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 297,
+          "like_count": 11834,
+          "listed_count": 1,
+          "media_count": 483,
+          "tweet_count": 2922
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-21T09:08:16.000Z",
+        "description": "イラストレーター ご依頼募集しております！✉️sakiika010513@gmail.com skeb https://t.co/I1xGULUpT4 ポートフォリオ↓",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@sakiika0513",
+                "end": 75,
+                "expanded_url": "https://skeb.jp/@sakiika0513",
+                "start": 52,
+                "url": "https://t.co/I1xGULUpT4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/saki…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/sakiika010513",
+                "start": 0,
+                "url": "https://t.co/J8ufEjUURv"
+              }
+            ]
+          }
+        },
+        "id": "1241290468513566720",
+        "name": "さきいか",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827634069016092672/iHqkaeRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65218,
+          "following_count": 916,
+          "like_count": 11254,
+          "listed_count": 432,
+          "media_count": 457,
+          "tweet_count": 4724
+        },
+        "url": "https://t.co/J8ufEjUURv",
+        "username": "sakiika010513",
+        "verified": false
+      }
+    ]
+  }
+}

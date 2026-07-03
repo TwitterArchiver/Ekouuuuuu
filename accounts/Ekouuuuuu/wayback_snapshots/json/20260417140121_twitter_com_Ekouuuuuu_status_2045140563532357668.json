@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045140545144598528"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2045140563532357668",
+    "created_at": "2026-04-17T14:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045140563532357668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VvnKM4sSuM",
+          "end": 41,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2045140563532357668/photo/1",
+          "media_key": "3_2045140545144598528",
+          "start": 18,
+          "url": "https://t.co/VvnKM4sSuM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045140563532357668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那些曾經下着雨淋溼所有思念你的情緒 https://t.co/VvnKM4sSuM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045140545144598528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHMfX0XsAAt0rD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045140545144598528"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2045140563532357668",
+        "created_at": "2026-04-17T14:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045140563532357668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VvnKM4sSuM",
+              "end": 41,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2045140563532357668/photo/1",
+              "media_key": "3_2045140545144598528",
+              "start": 18,
+              "url": "https://t.co/VvnKM4sSuM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045140563532357668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那些曾經下着雨淋溼所有思念你的情緒 https://t.co/VvnKM4sSuM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "Don't you let me go‖男友@Shiroko_Li‖叫我白菜就好‖日本語がわからない‖台獨‖🚪2778收錢我就跑路‖查主頁成分我會回fo‖陰暗逼od蛆互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2042383810571223190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 256,
+          "like_count": 10944,
+          "listed_count": 1,
+          "media_count": 437,
+          "tweet_count": 2725
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

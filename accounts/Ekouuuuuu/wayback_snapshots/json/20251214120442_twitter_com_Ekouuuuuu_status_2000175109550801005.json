@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000138419310112772"
+      ],
+      "media_source_tweet_id": [
+        "2000138424083165599"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000175109550801005",
+    "created_at": "2025-12-14T12:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T13:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000175109550801005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1653726569553358849",
+          "start": 3,
+          "username": "MinazukiNya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AKyNOK9P2h",
+          "end": 73,
+          "expanded_url": "https://x.com/MinazukiNya/status/2000138424083165599/photo/1",
+          "media_key": "3_2000138419310112772",
+          "start": 50,
+          "url": "https://t.co/AKyNOK9P2h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000175109550801005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000138424083165599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MinazukiNya: 月初我是小蛋糕，月末我做小蛋糕，有钱我变小蛋糕，没钱我当小蛋糕（ https://t.co/AKyNOK9P2h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000138419310112772",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8HrS5CXMAQDPqy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000138419310112772"
+          ],
+          "media_source_tweet_id": [
+            "2000138424083165599"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000175109550801005",
+        "created_at": "2025-12-14T12:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T13:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000175109550801005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1653726569553358849",
+              "start": 3,
+              "username": "MinazukiNya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AKyNOK9P2h",
+              "end": 73,
+              "expanded_url": "https://x.com/MinazukiNya/status/2000138424083165599/photo/1",
+              "media_key": "3_2000138419310112772",
+              "start": 50,
+              "url": "https://t.co/AKyNOK9P2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000175109550801005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000138424083165599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MinazukiNya: 月初我是小蛋糕，月末我做小蛋糕，有钱我变小蛋糕，没钱我当小蛋糕（ https://t.co/AKyNOK9P2h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000138419310112772"
+          ]
+        },
+        "author_id": "1653726569553358849",
+        "conversation_id": "2000138424083165599",
+        "created_at": "2025-12-14T09:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T10:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000138424083165599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AKyNOK9P2h",
+              "end": 56,
+              "expanded_url": "https://x.com/MinazukiNya/status/2000138424083165599/photo/1",
+              "media_key": "3_2000138419310112772",
+              "start": 33,
+              "url": "https://t.co/AKyNOK9P2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000138424083165599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 973,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "月初我是小蛋糕，月末我做小蛋糕，有钱我变小蛋糕，没钱我当小蛋糕（ https://t.co/AKyNOK9P2h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 153,
+          "like_count": 3892,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 505
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T11:42:03.000Z",
+        "description": "男孩子，清水，随便发发，没什么好看的图，随缘更新。",
+        "id": "1653726569553358849",
+        "location": "星ノ谷",
+        "name": "MinazukiNya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973295516378071040/qD7KXg5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6580,
+          "following_count": 212,
+          "like_count": 10589,
+          "listed_count": 31,
+          "media_count": 159,
+          "tweet_count": 334
+        },
+        "username": "MinazukiNya",
+        "verified": false
+      }
+    ]
+  }
+}

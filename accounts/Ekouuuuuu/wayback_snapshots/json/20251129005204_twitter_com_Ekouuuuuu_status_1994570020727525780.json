@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993381531398946817"
+      ],
+      "media_source_tweet_id": [
+        "1994345533335544293"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994570020727525780",
+    "created_at": "2025-11-29T00:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T01:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994570020727525780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703055404937424896",
+          "start": 3,
+          "username": "chamma_r"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lyonhvyb7g",
+          "end": 47,
+          "expanded_url": "https://x.com/chamma_r/status/1994345533335544293/photo/1",
+          "media_key": "3_1993381531398946817",
+          "start": 24,
+          "url": "https://t.co/lyonhvyb7g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994570020727525780",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1112
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994345533335544293",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chamma_r: 水着ティーパーティ https://t.co/lyonhvyb7g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3541,
+        "media_key": "3_1993381531398946817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6np8QDbwAEWT9D.jpg",
+        "width": 2508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993381531398946817"
+          ],
+          "media_source_tweet_id": [
+            "1994345533335544293"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994570020727525780",
+        "created_at": "2025-11-29T00:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T01:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994570020727525780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703055404937424896",
+              "start": 3,
+              "username": "chamma_r"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lyonhvyb7g",
+              "end": 47,
+              "expanded_url": "https://x.com/chamma_r/status/1994345533335544293/photo/1",
+              "media_key": "3_1993381531398946817",
+              "start": 24,
+              "url": "https://t.co/lyonhvyb7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994570020727525780",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1112
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994345533335544293",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chamma_r: 水着ティーパーティ https://t.co/lyonhvyb7g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993381531398946817"
+          ]
+        },
+        "author_id": "1703055404937424896",
+        "conversation_id": "1994345533335544293",
+        "created_at": "2025-11-28T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994345533335544293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lyonhvyb7g",
+              "end": 33,
+              "expanded_url": "https://x.com/chamma_r/status/1994345533335544293/photo/1",
+              "media_key": "3_1993381531398946817",
+              "start": 10,
+              "url": "https://t.co/lyonhvyb7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994345533335544293",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1132,
+          "impression_count": 83603,
+          "like_count": 10706,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 1112
+        },
+        "reply_settings": "everyone",
+        "text": "水着ティーパーティ https://t.co/lyonhvyb7g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 2822,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 195
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T14:37:15.000Z",
+        "description": "絵を描いてます。ご依頼募集中。DMかSkebまで!! 【Pixiv】https://t.co/K6Ak5Vs6Ft 【Booth】https://t.co/Brl6Bov0Pv 【Melonbooks】https://t.co/PKDQF0M2Wk AI学習/無断転載❌",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/104881018",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/104881018",
+                "start": 34,
+                "url": "https://t.co/K6Ak5Vs6Ft"
+              },
+              {
+                "display_url": "chmr1130.booth.pm",
+                "end": 88,
+                "expanded_url": "https://chmr1130.booth.pm/",
+                "start": 65,
+                "url": "https://t.co/Brl6Bov0Pv"
+              },
+              {
+                "display_url": "x.gd/T9HCic",
+                "end": 124,
+                "expanded_url": "https://x.gd/T9HCic",
+                "start": 101,
+                "url": "https://t.co/PKDQF0M2Wk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@chamma_r",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@chamma_r",
+                "start": 0,
+                "url": "https://t.co/wqip4s2v8e"
+              }
+            ]
+          }
+        },
+        "id": "1703055404937424896",
+        "name": "ちゃま。@C107(火)東ホ‐05b",
+        "pinned_tweet_id": "1986711247350644845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941074525539778560/DdfoWNjU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2559,
+          "following_count": 346,
+          "like_count": 10773,
+          "listed_count": 20,
+          "media_count": 191,
+          "tweet_count": 6021
+        },
+        "url": "https://t.co/wqip4s2v8e",
+        "username": "chamma_r",
+        "verified": true
+      }
+    ]
+  }
+}

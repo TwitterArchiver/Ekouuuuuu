@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067547093380505600"
+      ],
+      "media_source_tweet_id": [
+        "2067547873642790947"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2067891288385765410",
+    "created_at": "2026-06-19T08:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067891288385765410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g0kkPtXu8h",
+          "end": 79,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2067547873642790947/photo/1",
+          "media_key": "3_2067547093380505600",
+          "start": 56,
+          "url": "https://t.co/g0kkPtXu8h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067891288385765410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067547873642790947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 6月17日，镇镇的彩虹（彩虹暴力终结所公众号）被微信公众号平台封禁。… https://t.co/g0kkPtXu8h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 403,
+        "media_key": "3_2067547093380505600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFnIIlWIAA3Aw6.jpg",
+        "width": 584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067547093380505600"
+          ],
+          "media_source_tweet_id": [
+            "2067547873642790947"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2067891288385765410",
+        "created_at": "2026-06-19T08:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067891288385765410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g0kkPtXu8h",
+              "end": 79,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2067547873642790947/photo/1",
+              "media_key": "3_2067547093380505600",
+              "start": 56,
+              "url": "https://t.co/g0kkPtXu8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067891288385765410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067547873642790947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 6月17日，镇镇的彩虹（彩虹暴力终结所公众号）被微信公众号平台封禁。… https://t.co/g0kkPtXu8h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067547093380505600"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2067547873642790947",
+        "created_at": "2026-06-18T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067547873642790947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g0kkPtXu8h",
+              "end": 58,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2067547873642790947/photo/1",
+              "media_key": "3_2067547093380505600",
+              "start": 35,
+              "url": "https://t.co/g0kkPtXu8h"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2055974108777877712",
+              "start": 59,
+              "url": "https://t.co/L2cQPeqr6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067547873642790947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "6月17日，镇镇的彩虹（彩虹暴力终结所公众号）被微信公众号平台封禁。\n\n这个账号背后是“彩虹暴力终结所”，中国第一家专门为性和性别少数群体提供性别暴力直接干预服务的机构，2016年6月25日在北京成立，旨在《反家庭暴力法》框架下为性与性别少数群体提供针对性倾向、性别认同和性别表达的暴力和歧视的直接干预服务。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 68636,
+          "like_count": 288,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055974108777877712",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6月17日，镇镇的彩虹（彩虹暴力终结所公众号）被微信公众号平台封禁。 https://t.co/g0kkPtXu8h https://t.co/L2cQPeqr6y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖LGBTQ+友好‖查主頁成分回fo‖1/7/2026 DXM事變永遠懷念",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2064040950851404219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 351,
+          "like_count": 14034,
+          "listed_count": 1,
+          "media_count": 623,
+          "tweet_count": 3750
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2237104,
+          "following_count": 1071,
+          "like_count": 9716,
+          "listed_count": 8797,
+          "media_count": 48872,
+          "tweet_count": 56040
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

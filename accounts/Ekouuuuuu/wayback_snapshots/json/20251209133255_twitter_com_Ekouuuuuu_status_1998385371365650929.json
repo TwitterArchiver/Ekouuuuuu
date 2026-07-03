@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998363081102266369",
+        "3_1998363081123176448"
+      ],
+      "media_source_tweet_id": [
+        "1998363088870093124",
+        "1998363088870093124"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1998385371365650929",
+    "created_at": "2025-12-09T13:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T14:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998385371365650929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1533285336800866307",
+          "start": 3,
+          "username": "Miya_xxx_38"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vz2mZ57B5c",
+          "end": 47,
+          "expanded_url": "https://x.com/Miya_xxx_38/status/1998363088870093124/photo/1",
+          "media_key": "3_1998363081102266369",
+          "start": 24,
+          "url": "https://t.co/Vz2mZ57B5c"
+        },
+        {
+          "display_url": "pic.x.com/Vz2mZ57B5c",
+          "end": 47,
+          "expanded_url": "https://x.com/Miya_xxx_38/status/1998363088870093124/photo/1",
+          "media_key": "3_1998363081123176448",
+          "start": 24,
+          "url": "https://t.co/Vz2mZ57B5c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998385371365650929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998363088870093124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miya_xxx_38: たべちゃった https://t.co/Vz2mZ57B5c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1857,
+        "media_key": "3_1998363081102266369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ucom1bEAE3sjb.jpg",
+        "width": 1486
+      },
+      {
+        "height": 1502,
+        "media_key": "3_1998363081123176448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ucom6aIAAg62k.jpg",
+        "width": 1502
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998363081102266369",
+            "3_1998363081123176448"
+          ],
+          "media_source_tweet_id": [
+            "1998363088870093124",
+            "1998363088870093124"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1998385371365650929",
+        "created_at": "2025-12-09T13:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998385371365650929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1533285336800866307",
+              "start": 3,
+              "username": "Miya_xxx_38"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vz2mZ57B5c",
+              "end": 47,
+              "expanded_url": "https://x.com/Miya_xxx_38/status/1998363088870093124/photo/1",
+              "media_key": "3_1998363081102266369",
+              "start": 24,
+              "url": "https://t.co/Vz2mZ57B5c"
+            },
+            {
+              "display_url": "pic.x.com/Vz2mZ57B5c",
+              "end": 47,
+              "expanded_url": "https://x.com/Miya_xxx_38/status/1998363088870093124/photo/1",
+              "media_key": "3_1998363081123176448",
+              "start": 24,
+              "url": "https://t.co/Vz2mZ57B5c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998385371365650929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998363088870093124",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miya_xxx_38: たべちゃった https://t.co/Vz2mZ57B5c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998363081102266369",
+            "3_1998363081123176448"
+          ]
+        },
+        "author_id": "1533285336800866307",
+        "conversation_id": "1998363088870093124",
+        "created_at": "2025-12-09T12:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T13:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998363088870093124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vz2mZ57B5c",
+              "end": 30,
+              "expanded_url": "https://x.com/Miya_xxx_38/status/1998363088870093124/photo/1",
+              "media_key": "3_1998363081102266369",
+              "start": 7,
+              "url": "https://t.co/Vz2mZ57B5c"
+            },
+            {
+              "display_url": "pic.x.com/Vz2mZ57B5c",
+              "end": 30,
+              "expanded_url": "https://x.com/Miya_xxx_38/status/1998363088870093124/photo/1",
+              "media_key": "3_1998363081123176448",
+              "start": 7,
+              "url": "https://t.co/Vz2mZ57B5c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998363088870093124",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 16562,
+          "like_count": 1535,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "たべちゃった https://t.co/Vz2mZ57B5c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖近日研究笑氣提純收集中‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997890323276816384/2Kk3argv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 132,
+          "like_count": 3355,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 222
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T03:11:41.000Z",
+        "description": "𝙞𝙡𝙡𝙪𝙨𝙩𝙧𝙖𝙩𝙞𝙤𝙣💌📮￤女の子とうさぎさんの 漫画を描いてます 【skeb受付中】https://t.co/0sN0BDpVrC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Miya_xxx_38",
+                "end": 67,
+                "expanded_url": "https://skeb.jp/@Miya_xxx_38",
+                "start": 44,
+                "url": "https://t.co/0sN0BDpVrC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/71183609",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/71183609",
+                "start": 0,
+                "url": "https://t.co/sQRbkOFkey"
+              }
+            ]
+          }
+        },
+        "id": "1533285336800866307",
+        "location": "ご依頼はskebのみ承っております(skeb only)",
+        "name": "みんとぴあ",
+        "pinned_tweet_id": "1982780544003031225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971199086654345216/MmLuUiJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11158,
+          "following_count": 390,
+          "like_count": 16440,
+          "listed_count": 51,
+          "media_count": 56,
+          "tweet_count": 3811
+        },
+        "url": "https://t.co/sQRbkOFkey",
+        "username": "Miya_xxx_38",
+        "verified": false
+      }
+    ]
+  }
+}

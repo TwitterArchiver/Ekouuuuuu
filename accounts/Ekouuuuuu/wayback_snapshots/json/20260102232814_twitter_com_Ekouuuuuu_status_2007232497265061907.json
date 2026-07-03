@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2007232497265061907",
+    "created_at": "2026-01-02T23:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T00:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007232497265061907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883157644711796736",
+          "start": 3,
+          "username": "TvTbreak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007232497265061907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007114159725695287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TvTbreak: 我只想要一段 两个人谁都离不开谁的关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2007232497265061907",
+        "created_at": "2026-01-02T23:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T00:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007232497265061907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883157644711796736",
+              "start": 3,
+              "username": "TvTbreak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007232497265061907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007114159725695287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TvTbreak: 我只想要一段 两个人谁都离不开谁的关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883157644711796736",
+        "conversation_id": "2007114159725695287",
+        "created_at": "2026-01-02T15:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007114159725695287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007114159725695287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2206,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我只想要一段 两个人谁都离不开谁的关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了w‖生理性別女‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2006059996145148295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 188,
+          "like_count": 5615,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 944
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T14:19:15.000Z",
+        "description": "不加联系方式 看黄男公狗给我发私信评论默认4000+",
+        "id": "1883157644711796736",
+        "location": "请埋葬我所有的痛和悲",
+        "name": "不要跟我说话",
+        "pinned_tweet_id": "1999854566792425683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001913263039410176/ojENXF_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6082,
+          "following_count": 111,
+          "like_count": 8815,
+          "listed_count": 20,
+          "media_count": 110,
+          "tweet_count": 3820
+        },
+        "username": "TvTbreak",
+        "verified": false
+      }
+    ]
+  }
+}

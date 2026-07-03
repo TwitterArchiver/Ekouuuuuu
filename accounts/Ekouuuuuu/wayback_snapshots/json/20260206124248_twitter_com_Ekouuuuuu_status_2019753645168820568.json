@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2019753645168820568",
+    "created_at": "2026-02-06T12:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T13:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019753645168820568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Krktmk_8964/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/Krktmk_8964/status/2019685241833812085",
+          "start": 17,
+          "url": "https://t.co/mflHDXfkqH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019753645168820568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019685241833812085",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我們自殘吧我們吞藥吧我們一躍而下 https://t.co/mflHDXfkqH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2019753645168820568",
+        "created_at": "2026-02-06T12:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T13:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019753645168820568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Krktmk_8964/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Krktmk_8964/status/2019685241833812085",
+              "start": 17,
+              "url": "https://t.co/mflHDXfkqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019753645168820568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019685241833812085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我們自殘吧我們吞藥吧我們一躍而下 https://t.co/mflHDXfkqH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2019685241833812085",
+        "created_at": "2026-02-06T08:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019685241833812085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/peipeimao/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/peipeimao/status/2019381578531827831",
+              "start": 17,
+              "url": "https://t.co/pflHUWaNbV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019685241833812085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 457,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019381578531827831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们自残吧我们吞药吧我们一跃而下 https://t.co/pflHUWaNbV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖同類互fo‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 247,
+          "like_count": 8165,
+          "listed_count": 1,
+          "media_count": 320,
+          "tweet_count": 1994
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2016628139888431137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016867499816693760/cgM-POhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1472,
+          "like_count": 25839,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 2759
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      }
+    ]
+  }
+}

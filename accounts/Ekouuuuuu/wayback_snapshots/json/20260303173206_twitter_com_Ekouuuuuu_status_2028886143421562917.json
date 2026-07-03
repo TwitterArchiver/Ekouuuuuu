@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028825161148059648"
+      ],
+      "media_source_tweet_id": [
+        "2028825166374146117"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1201641937502998528",
+          "name": "Arcade gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1201641937502998528",
+          "name": "Arcade gaming"
+        }
+      }
+    ],
+    "conversation_id": "2028886143421562917",
+    "created_at": "2026-03-03T17:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T18:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028886143421562917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1496532710528929792",
+          "start": 3,
+          "username": "DNDN_kotatumuri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sFcAUKcG1R",
+          "end": 71,
+          "expanded_url": "https://x.com/DNDN_kotatumuri/status/2028825166374146117/photo/1",
+          "media_key": "3_2028825161148059648",
+          "start": 48,
+          "url": "https://t.co/sFcAUKcG1R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028886143421562917",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028825166374146117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DNDN_kotatumuri: そういえばゲーセンでいいのがあったので取ってきました https://t.co/sFcAUKcG1R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028825161148059648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfVvCGa0AA1Kvt.jpg",
+        "width": 1529
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028825161148059648"
+          ],
+          "media_source_tweet_id": [
+            "2028825166374146117"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          }
+        ],
+        "conversation_id": "2028886143421562917",
+        "created_at": "2026-03-03T17:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028886143421562917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1496532710528929792",
+              "start": 3,
+              "username": "DNDN_kotatumuri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sFcAUKcG1R",
+              "end": 71,
+              "expanded_url": "https://x.com/DNDN_kotatumuri/status/2028825166374146117/photo/1",
+              "media_key": "3_2028825161148059648",
+              "start": 48,
+              "url": "https://t.co/sFcAUKcG1R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028886143421562917",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028825166374146117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DNDN_kotatumuri: そういえばゲーセンでいいのがあったので取ってきました https://t.co/sFcAUKcG1R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028825161148059648"
+          ]
+        },
+        "author_id": "1496532710528929792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          }
+        ],
+        "conversation_id": "2028825166374146117",
+        "created_at": "2026-03-03T13:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028825166374146117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sFcAUKcG1R",
+              "end": 50,
+              "expanded_url": "https://x.com/DNDN_kotatumuri/status/2028825166374146117/photo/1",
+              "media_key": "3_2028825161148059648",
+              "start": 27,
+              "url": "https://t.co/sFcAUKcG1R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028825166374146117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 3007,
+          "like_count": 305,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "そういえばゲーセンでいいのがあったので取ってきました https://t.co/sFcAUKcG1R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 247,
+          "like_count": 8965,
+          "listed_count": 1,
+          "media_count": 371,
+          "tweet_count": 2291
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-23T17:09:50.000Z",
+        "description": "何にもしてないよ(笑) pixiv→https://t.co/7R12Er8rhA BOOTH→https://t.co/tANaJZGJYc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/57714492",
+                "end": 41,
+                "expanded_url": "https://www.pixiv.net/users/57714492",
+                "start": 18,
+                "url": "https://t.co/7R12Er8rhA"
+              },
+              {
+                "display_url": "dndn-kotatumuri.booth.pm",
+                "end": 71,
+                "expanded_url": "http://dndn-kotatumuri.booth.pm",
+                "start": 48,
+                "url": "https://t.co/tANaJZGJYc"
+              }
+            ]
+          }
+        },
+        "id": "1496532710528929792",
+        "name": "でんでん",
+        "pinned_tweet_id": "2025495788118302764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025601498525409281/L6ZnjY1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3634,
+          "following_count": 429,
+          "like_count": 6723,
+          "listed_count": 29,
+          "media_count": 574,
+          "tweet_count": 7211
+        },
+        "username": "DNDN_kotatumuri",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000211966078714170",
+    "created_at": "2025-12-14T14:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T15:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000211966078714170"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ekouuuuuu/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Ekouuuuuu/status/1998546905526317201",
+          "start": 18,
+          "url": "https://t.co/e3tqfVJ5ga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000211966078714170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998546905526317201",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我還真是預言家，現在pr確實管製了 https://t.co/e3tqfVJ5ga"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000211966078714170",
+        "created_at": "2025-12-14T14:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T15:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000211966078714170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ekouuuuuu/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Ekouuuuuu/status/1998546905526317201",
+              "start": 18,
+              "url": "https://t.co/e3tqfVJ5ga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000211966078714170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998546905526317201",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我還真是預言家，現在pr確實管製了 https://t.co/e3tqfVJ5ga"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1998546905526317201",
+        "created_at": "2025-12-10T00:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T01:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998546905526317201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998546905526317201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "後面pr和玉米應該會被管制吧（？）\n先屯點藥🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 153,
+          "like_count": 3928,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 519
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2004142659905138852",
+    "created_at": "2025-12-25T10:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T11:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004142659905138852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1550358687062994946",
+          "start": 3,
+          "username": "wenqing18973238"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004142659905138852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004025373705883767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wenqing18973238: 您的期末成绩出来了\n辱华+150\n辱女+150\n辱男+150\n地域歧视+100\n嫌贫爱富+100\n崇洋媚外+100\n总分750\n恭喜您考入我的英雄学院"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2004142659905138852",
+        "created_at": "2025-12-25T10:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T11:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004142659905138852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1550358687062994946",
+              "start": 3,
+              "username": "wenqing18973238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004142659905138852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004025373705883767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wenqing18973238: 您的期末成绩出来了\n辱华+150\n辱女+150\n辱男+150\n地域歧视+100\n嫌贫爱富+100\n崇洋媚外+100\n总分750\n恭喜您考入我的英雄学院"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550358687062994946",
+        "conversation_id": "2004025373705883767",
+        "created_at": "2025-12-25T03:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T04:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004025373705883767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004025373705883767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6295,
+          "like_count": 199,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "您的期末成绩出来了\n辱华+150\n辱女+150\n辱男+150\n地域歧视+100\n嫌贫爱富+100\n崇洋媚外+100\n总分750\n恭喜您考入我的英雄学院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了w‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2002371651392929813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 186,
+          "like_count": 4975,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 791
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T05:55:01.000Z",
+        "description": "新世界並不很新，舊世界並不很旧。20歲/法學在讀/mtf",
+        "id": "1550358687062994946",
+        "name": "Naka（埃迪卡拉紀水母幽靈）",
+        "pinned_tweet_id": "1987420222849229222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973425672623468544/i_bHcaYY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 2395,
+          "like_count": 15196,
+          "listed_count": 5,
+          "media_count": 168,
+          "tweet_count": 2643
+        },
+        "username": "wenqing18973238",
+        "verified": false
+      }
+    ]
+  }
+}

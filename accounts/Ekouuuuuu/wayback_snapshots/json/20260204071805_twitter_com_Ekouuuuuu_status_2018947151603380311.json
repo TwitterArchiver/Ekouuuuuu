@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2018882373841240348",
+    "created_at": "2026-02-04T07:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T08:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018947151603380311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1504630614578073600",
+          "start": 0,
+          "username": "yunxvan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018947151603380311",
+    "in_reply_to_user_id": "1504630614578073600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018882373841240348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunxvan1 救命我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2018882373841240348",
+        "created_at": "2026-02-04T07:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T08:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018947151603380311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1504630614578073600",
+              "start": 0,
+              "username": "yunxvan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018947151603380311",
+        "in_reply_to_user_id": "1504630614578073600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018882373841240348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunxvan1 救命我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504630614578073600",
+        "conversation_id": "2018882373841240348",
+        "created_at": "2026-02-04T03:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018882373841240348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018882373841240348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我害怕和别人开视频，我有视频恐惧症"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "同一片天為何好久不見‖叫我白菜就好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 243,
+          "like_count": 8110,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 1944
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T01:27:56.000Z",
+        "description": "我是圣诞帽 查成分互fo 性格很烂 想交朋友 喜欢挂人 好友位66",
+        "id": "1504630614578073600",
+        "location": "冰岛",
+        "name": "谢谢",
+        "pinned_tweet_id": "2015092568854515750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003097612799598592/tpc5iV9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 692,
+          "like_count": 7443,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 902
+        },
+        "username": "yunxvan1",
+        "verified": false
+      }
+    ]
+  }
+}

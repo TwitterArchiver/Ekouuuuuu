@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066374730362597376"
+      ],
+      "media_source_tweet_id": [
+        "2066374741066493970"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2066703141324947507",
+    "created_at": "2026-06-16T02:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T03:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066703141324947507"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 56,
+          "tag": "逆统战烽火"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1292518508215992322",
+          "start": 3,
+          "username": "ReversedFrontTW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O9ytblUNiD",
+          "end": 118,
+          "expanded_url": "https://x.com/ReversedFrontTW/status/2066374741066493970/photo/1",
+          "media_key": "3_2066374730362597376",
+          "start": 95,
+          "url": "https://t.co/O9ytblUNiD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066703141324947507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066374741066493970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ReversedFrontTW: 习近平生日快乐，谢谢你爸把你带来这个世界上，下周推出的卡池就是你爸\n\n#逆统战烽火 6月21日SSR习仲勋推出\n别忘了6月15日登录游戏拿生日蛋糕 https://t.co/O9ytblUNiD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 881,
+        "media_key": "3_2066374730362597376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK083oAbMAAX-VO.jpg",
+        "width": 881
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066374730362597376"
+          ],
+          "media_source_tweet_id": [
+            "2066374741066493970"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2066703141324947507",
+        "created_at": "2026-06-16T02:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066703141324947507"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 56,
+              "tag": "逆统战烽火"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1292518508215992322",
+              "start": 3,
+              "username": "ReversedFrontTW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O9ytblUNiD",
+              "end": 118,
+              "expanded_url": "https://x.com/ReversedFrontTW/status/2066374741066493970/photo/1",
+              "media_key": "3_2066374730362597376",
+              "start": 95,
+              "url": "https://t.co/O9ytblUNiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066703141324947507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066374741066493970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ReversedFrontTW: 习近平生日快乐，谢谢你爸把你带来这个世界上，下周推出的卡池就是你爸\n\n#逆统战烽火 6月21日SSR习仲勋推出\n别忘了6月15日登录游戏拿生日蛋糕 https://t.co/O9ytblUNiD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066374730362597376"
+          ]
+        },
+        "author_id": "1292518508215992322",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2066374741066493970",
+        "created_at": "2026-06-15T04:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066374741066493970"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 35,
+              "tag": "逆统战烽火"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O9ytblUNiD",
+              "end": 97,
+              "expanded_url": "https://x.com/ReversedFrontTW/status/2066374741066493970/photo/1",
+              "media_key": "3_2066374730362597376",
+              "start": 74,
+              "url": "https://t.co/O9ytblUNiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066374741066493970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 8805,
+          "like_count": 155,
+          "quote_count": 2,
+          "reply_count": 36,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "习近平生日快乐，谢谢你爸把你带来这个世界上，下周推出的卡池就是你爸\n\n#逆统战烽火 6月21日SSR习仲勋推出\n别忘了6月15日登录游戏拿生日蛋糕 https://t.co/O9ytblUNiD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖LGBTQ+友好‖查主頁成分回fo‖1/7/2026 DXM事變永遠懷念",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2064040950851404219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 344,
+          "like_count": 13920,
+          "listed_count": 1,
+          "media_count": 608,
+          "tweet_count": 3696
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-09T17:50:11.000Z",
+        "description": "现代东亚国战与探索《逆统战：烽火》苹果、谷歌商店请挂VPN跨外区",
+        "id": "1292518508215992322",
+        "name": "逆统战：烽火 Reversed Front: Bonfire",
+        "pinned_tweet_id": "2042829026906247454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679048240510160897/YXcxgshb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16381,
+          "following_count": 364,
+          "like_count": 2355,
+          "listed_count": 50,
+          "media_count": 828,
+          "tweet_count": 3478
+        },
+        "username": "ReversedFrontTW",
+        "verified": true
+      }
+    ]
+  }
+}

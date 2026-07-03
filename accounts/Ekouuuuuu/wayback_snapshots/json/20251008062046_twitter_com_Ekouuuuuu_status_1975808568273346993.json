@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1975808568273346993",
+    "created_at": "2025-10-08T06:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T07:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975808568273346993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/muxinggeyidwim…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/muxinggeyidwimu/status/1974347502150377750",
+          "start": 15,
+          "url": "https://t.co/q0DryjXH3X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975808568273346993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974347502150377750",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不可能告訴你任何事情啊啊啊 https://t.co/q0DryjXH3X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1530,
+        "media_key": "3_1974347494264840192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ZKleLWoAAICHW.jpg",
+        "width": 646
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1975808568273346993",
+        "created_at": "2025-10-08T06:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T07:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975808568273346993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/muxinggeyidwim…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/muxinggeyidwimu/status/1974347502150377750",
+              "start": 15,
+              "url": "https://t.co/q0DryjXH3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975808568273346993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974347502150377750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不可能告訴你任何事情啊啊啊 https://t.co/q0DryjXH3X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974347494264840192"
+          ]
+        },
+        "author_id": "1808051447193628673",
+        "conversation_id": "1974347502150377750",
+        "created_at": "2025-10-04T05:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T06:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974347502150377750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xhLm9pl8bA",
+              "end": 23,
+              "expanded_url": "https://x.com/muxinggeyidwimu/status/1974347502150377750/photo/1",
+              "media_key": "3_1974347494264840192",
+              "start": 0,
+              "url": "https://t.co/xhLm9pl8bA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974347502150377750",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 487,
+          "impression_count": 690884,
+          "like_count": 4173,
+          "quote_count": 8,
+          "reply_count": 110,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xhLm9pl8bA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "年年歲歲花相似",
+        "id": "1912063502782812160",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974683142880665600/4D1J2k-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 81,
+          "like_count": 2176,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 325
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T08:14:00.000Z",
+        "description": "乱发",
+        "id": "1808051447193628673",
+        "location": "文兰",
+        "name": "幕星格.一代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972516840015364096/GQ3SyPPK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5167,
+          "following_count": 95,
+          "like_count": 4160,
+          "listed_count": 19,
+          "media_count": 686,
+          "tweet_count": 1556
+        },
+        "username": "muxinggeyidwimu",
+        "verified": false
+      }
+    ]
+  }
+}

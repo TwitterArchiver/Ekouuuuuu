@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024503659414114305",
+        "3_2024503659376324608",
+        "3_2024503659397337094"
+      ],
+      "media_source_tweet_id": [
+        "2024503671774687354",
+        "2024503671774687354",
+        "2024503671774687354"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2024891940559605880",
+    "created_at": "2026-02-20T17:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T18:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024891940559605880"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 29,
+          "tag": "わたしはこんな絵を描いています"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1437550223501389824",
+          "start": 3,
+          "username": "simazarashi_le_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R6eXHALpgC",
+          "end": 69,
+          "expanded_url": "https://x.com/simazarashi_le_/status/2024503671774687354/photo/1",
+          "media_key": "3_2024503659414114305",
+          "start": 46,
+          "url": "https://t.co/R6eXHALpgC"
+        },
+        {
+          "display_url": "pic.x.com/R6eXHALpgC",
+          "end": 69,
+          "expanded_url": "https://x.com/simazarashi_le_/status/2024503671774687354/photo/1",
+          "media_key": "3_2024503659376324608",
+          "start": 46,
+          "url": "https://t.co/R6eXHALpgC"
+        },
+        {
+          "display_url": "pic.x.com/R6eXHALpgC",
+          "end": 69,
+          "expanded_url": "https://x.com/simazarashi_le_/status/2024503671774687354/photo/1",
+          "media_key": "3_2024503659397337094",
+          "start": 46,
+          "url": "https://t.co/R6eXHALpgC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024891940559605880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024503671774687354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @simazarashi_le_: 歪なあの子\n\n #わたしはこんな絵を描いています https://t.co/R6eXHALpgC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024503659414114305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBh7WhnbUAEq7uN.jpg",
+        "width": 1308
+      },
+      {
+        "height": 828,
+        "media_key": "3_2024503659376324608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBh7WheasAAiRe-.jpg",
+        "width": 1472
+      },
+      {
+        "height": 828,
+        "media_key": "3_2024503659397337094",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBh7WhjbUAYwB9O.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024503659414114305",
+            "3_2024503659376324608",
+            "3_2024503659397337094"
+          ],
+          "media_source_tweet_id": [
+            "2024503671774687354",
+            "2024503671774687354",
+            "2024503671774687354"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2024891940559605880",
+        "created_at": "2026-02-20T17:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024891940559605880"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 29,
+              "tag": "わたしはこんな絵を描いています"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1437550223501389824",
+              "start": 3,
+              "username": "simazarashi_le_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R6eXHALpgC",
+              "end": 69,
+              "expanded_url": "https://x.com/simazarashi_le_/status/2024503671774687354/photo/1",
+              "media_key": "3_2024503659414114305",
+              "start": 46,
+              "url": "https://t.co/R6eXHALpgC"
+            },
+            {
+              "display_url": "pic.x.com/R6eXHALpgC",
+              "end": 69,
+              "expanded_url": "https://x.com/simazarashi_le_/status/2024503671774687354/photo/1",
+              "media_key": "3_2024503659376324608",
+              "start": 46,
+              "url": "https://t.co/R6eXHALpgC"
+            },
+            {
+              "display_url": "pic.x.com/R6eXHALpgC",
+              "end": 69,
+              "expanded_url": "https://x.com/simazarashi_le_/status/2024503671774687354/photo/1",
+              "media_key": "3_2024503659397337094",
+              "start": 46,
+              "url": "https://t.co/R6eXHALpgC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024891940559605880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024503671774687354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @simazarashi_le_: 歪なあの子\n\n #わたしはこんな絵を描いています https://t.co/R6eXHALpgC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024503659414114305",
+            "3_2024503659376324608",
+            "3_2024503659397337094"
+          ]
+        },
+        "author_id": "1437550223501389824",
+        "conversation_id": "2024503671774687354",
+        "created_at": "2026-02-19T15:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024503671774687354"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 8,
+              "tag": "わたしはこんな絵を描いています"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R6eXHALpgC",
+              "end": 48,
+              "expanded_url": "https://x.com/simazarashi_le_/status/2024503671774687354/photo/1",
+              "media_key": "3_2024503659414114305",
+              "start": 25,
+              "url": "https://t.co/R6eXHALpgC"
+            },
+            {
+              "display_url": "pic.x.com/R6eXHALpgC",
+              "end": 48,
+              "expanded_url": "https://x.com/simazarashi_le_/status/2024503671774687354/photo/1",
+              "media_key": "3_2024503659376324608",
+              "start": 25,
+              "url": "https://t.co/R6eXHALpgC"
+            },
+            {
+              "display_url": "pic.x.com/R6eXHALpgC",
+              "end": 48,
+              "expanded_url": "https://x.com/simazarashi_le_/status/2024503671774687354/photo/1",
+              "media_key": "3_2024503659397337094",
+              "start": 25,
+              "url": "https://t.co/R6eXHALpgC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024503671774687354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 11913,
+          "like_count": 1366,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "歪なあの子\n\n #わたしはこんな絵を描いています https://t.co/R6eXHALpgC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 249,
+          "like_count": 8682,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 2228
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-13T22:54:52.000Z",
+        "description": "お絵描き：いろんな絵を描きます：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/87134506",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/87134506",
+                "start": 0,
+                "url": "https://t.co/dQ75bb25u1"
+              }
+            ]
+          }
+        },
+        "id": "1437550223501389824",
+        "name": "小瀬あじ",
+        "pinned_tweet_id": "1994794935221194882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010802058308521984/dKndoTQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7133,
+          "following_count": 358,
+          "like_count": 5292,
+          "listed_count": 44,
+          "media_count": 95,
+          "tweet_count": 420
+        },
+        "url": "https://t.co/dQ75bb25u1",
+        "username": "simazarashi_le_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022998322869641217"
+      ],
+      "media_source_tweet_id": [
+        "2022998327546237008"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2023678471319523622",
+    "created_at": "2026-02-17T08:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T09:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023678471319523622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1666698819898327040",
+          "start": 3,
+          "username": "nika226511"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2SgbIPSVvy",
+          "end": 39,
+          "expanded_url": "https://x.com/nika226511/status/2022998327546237008/photo/1",
+          "media_key": "3_2022998322869641217",
+          "start": 16,
+          "url": "https://t.co/2SgbIPSVvy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023678471319523622",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022998327546237008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nika226511: https://t.co/2SgbIPSVvy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022998322869641217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMiQZ_bIAEJdFQ.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022998322869641217"
+          ],
+          "media_source_tweet_id": [
+            "2022998327546237008"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2023678471319523622",
+        "created_at": "2026-02-17T08:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023678471319523622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1666698819898327040",
+              "start": 3,
+              "username": "nika226511"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2SgbIPSVvy",
+              "end": 39,
+              "expanded_url": "https://x.com/nika226511/status/2022998327546237008/photo/1",
+              "media_key": "3_2022998322869641217",
+              "start": 16,
+              "url": "https://t.co/2SgbIPSVvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023678471319523622",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022998327546237008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nika226511: https://t.co/2SgbIPSVvy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022998322869641217"
+          ]
+        },
+        "author_id": "1666698819898327040",
+        "conversation_id": "2022998327546237008",
+        "created_at": "2026-02-15T11:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022998327546237008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2SgbIPSVvy",
+              "end": 23,
+              "expanded_url": "https://x.com/nika226511/status/2022998327546237008/photo/1",
+              "media_key": "3_2022998322869641217",
+              "start": 0,
+              "url": "https://t.co/2SgbIPSVvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022998327546237008",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 4061,
+          "like_count": 476,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2SgbIPSVvy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 248,
+          "like_count": 8514,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 2205
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T06:49:52.000Z",
+        "description": "絵を描いてるよ skeb https://t.co/aphmgPKxzy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@nika226511",
+                "end": 36,
+                "expanded_url": "https://skeb.jp/@nika226511",
+                "start": 13,
+                "url": "https://t.co/aphmgPKxzy"
+              }
+            ]
+          }
+        },
+        "id": "1666698819898327040",
+        "name": "にーか",
+        "pinned_tweet_id": "2018868508701151516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018155957126336512/FjEK2NHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 103,
+          "like_count": 157,
+          "listed_count": 13,
+          "media_count": 77,
+          "tweet_count": 114
+        },
+        "username": "nika226511",
+        "verified": false
+      }
+    ]
+  }
+}

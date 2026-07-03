@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028804932795793408"
+      ],
+      "media_source_tweet_id": [
+        "2028804941373182427"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2029067857380929821",
+    "created_at": "2026-03-04T05:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T06:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029067857380929821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804798191940124673",
+          "start": 3,
+          "username": "Rin1732996"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3FesT9YQej",
+          "end": 59,
+          "expanded_url": "https://x.com/Rin1732996/status/2028804941373182427/photo/1",
+          "media_key": "3_2028804932795793408",
+          "start": 36,
+          "url": "https://t.co/3FesT9YQej"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029067857380929821",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 181
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028804941373182427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rin1732996: ｢ねぇ、どうして笑ってくれないの？📸｣ https://t.co/3FesT9YQej"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "AI Illust",
+        "height": 2464,
+        "media_key": "3_2028804932795793408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfDVlnagAA-kt5.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028804932795793408"
+          ],
+          "media_source_tweet_id": [
+            "2028804941373182427"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029067857380929821",
+        "created_at": "2026-03-04T05:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T06:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029067857380929821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1804798191940124673",
+              "start": 3,
+              "username": "Rin1732996"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3FesT9YQej",
+              "end": 59,
+              "expanded_url": "https://x.com/Rin1732996/status/2028804941373182427/photo/1",
+              "media_key": "3_2028804932795793408",
+              "start": 36,
+              "url": "https://t.co/3FesT9YQej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029067857380929821",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 181
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028804941373182427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rin1732996: ｢ねぇ、どうして笑ってくれないの？📸｣ https://t.co/3FesT9YQej"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028804932795793408"
+          ]
+        },
+        "author_id": "1804798191940124673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028804941373182427",
+        "created_at": "2026-03-03T12:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028804941373182427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3FesT9YQej",
+              "end": 43,
+              "expanded_url": "https://x.com/Rin1732996/status/2028804941373182427/photo/1",
+              "media_key": "3_2028804932795793408",
+              "start": 20,
+              "url": "https://t.co/3FesT9YQej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028804941373182427",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 246,
+          "impression_count": 19415,
+          "like_count": 2173,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "｢ねぇ、どうして笑ってくれないの？📸｣ https://t.co/3FesT9YQej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 247,
+          "like_count": 8984,
+          "listed_count": 1,
+          "media_count": 373,
+          "tweet_count": 2298
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T08:47:01.000Z",
+        "description": "趣味でAIイラストを載せてるただの病み散らかしてる人。│H▶八朔さん  @tiksca2299 │弟子▶ふじ○さん  @fujimaru_niji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "tiksca2299"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "fujimaru_niji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/RinAiIllust",
+                "end": 23,
+                "expanded_url": "https://lit.link/RinAiIllust",
+                "start": 0,
+                "url": "https://t.co/RkWva4KWVT"
+              }
+            ]
+          }
+        },
+        "id": "1804798191940124673",
+        "location": "-143",
+        "name": "Rin_981",
+        "pinned_tweet_id": "2027324517325197749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027176610399657984/Ha8W8WFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60350,
+          "following_count": 296,
+          "like_count": 115437,
+          "listed_count": 219,
+          "media_count": 3579,
+          "tweet_count": 37511
+        },
+        "url": "https://t.co/RkWva4KWVT",
+        "username": "Rin1732996",
+        "verified": true
+      }
+    ]
+  }
+}

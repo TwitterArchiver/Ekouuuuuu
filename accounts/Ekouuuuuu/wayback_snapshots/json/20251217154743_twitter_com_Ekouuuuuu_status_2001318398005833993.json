@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2001318398005833993",
+    "created_at": "2025-12-17T15:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T16:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001318398005833993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1634793712302604289",
+          "start": 3,
+          "username": "10onatic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001318398005833993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 143
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000797615378850065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @10onatic: 今年再当最后16天傻逼就不当了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2001318398005833993",
+        "created_at": "2025-12-17T15:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T16:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001318398005833993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634793712302604289",
+              "start": 3,
+              "username": "10onatic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001318398005833993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 143
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000797615378850065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @10onatic: 今年再当最后16天傻逼就不当了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634793712302604289",
+        "conversation_id": "2000797615378850065",
+        "created_at": "2025-12-16T05:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T06:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000797615378850065"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000797615378850065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 105854,
+          "like_count": 907,
+          "quote_count": 15,
+          "reply_count": 38,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "今年再当最后16天傻逼就不当了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 181,
+          "like_count": 4392,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 647
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T05:49:44.000Z",
+        "description": "@1oonatism",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "1oonatism"
+              }
+            ]
+          }
+        },
+        "id": "1634793712302604289",
+        "name": "່",
+        "pinned_tweet_id": "2001236252843237774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964662123575021568/LUa11yGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9439,
+          "following_count": 98,
+          "like_count": 1318,
+          "listed_count": 14,
+          "media_count": 260,
+          "tweet_count": 1034
+        },
+        "username": "10onatic",
+        "verified": false
+      }
+    ]
+  }
+}

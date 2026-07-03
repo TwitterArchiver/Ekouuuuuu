@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022918607530053632"
+      ],
+      "media_source_tweet_id": [
+        "2022918615880896920"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2023105460124164101",
+    "created_at": "2026-02-15T18:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T19:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023105460124164101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1795074260513533952",
+          "start": 3,
+          "username": "ru1111113737"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rSyasu3V2o",
+          "end": 41,
+          "expanded_url": "https://x.com/ru1111113737/status/2022918615880896920/photo/1",
+          "media_key": "3_2022918607530053632",
+          "start": 18,
+          "url": "https://t.co/rSyasu3V2o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023105460124164101",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022918615880896920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ru1111113737: https://t.co/rSyasu3V2o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022918607530053632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLZwXNbUAA2eUq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022918607530053632"
+          ],
+          "media_source_tweet_id": [
+            "2022918615880896920"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2023105460124164101",
+        "created_at": "2026-02-15T18:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T19:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023105460124164101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1795074260513533952",
+              "start": 3,
+              "username": "ru1111113737"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rSyasu3V2o",
+              "end": 41,
+              "expanded_url": "https://x.com/ru1111113737/status/2022918615880896920/photo/1",
+              "media_key": "3_2022918607530053632",
+              "start": 18,
+              "url": "https://t.co/rSyasu3V2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023105460124164101",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022918615880896920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ru1111113737: https://t.co/rSyasu3V2o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022918607530053632"
+          ]
+        },
+        "author_id": "1795074260513533952",
+        "conversation_id": "2022918615880896920",
+        "created_at": "2026-02-15T06:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T07:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022918615880896920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rSyasu3V2o",
+              "end": 23,
+              "expanded_url": "https://x.com/ru1111113737/status/2022918615880896920/photo/1",
+              "media_key": "3_2022918607530053632",
+              "start": 0,
+              "url": "https://t.co/rSyasu3V2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022918615880896920",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 950,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rSyasu3V2o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 247,
+          "like_count": 8486,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 2176
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:47:29.000Z",
+        "description": "依頼受付中 自我→@goJuuNoTouu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "goJuuNoTouu"
+              }
+            ]
+          }
+        },
+        "id": "1795074260513533952",
+        "name": "八重歯侍",
+        "pinned_tweet_id": "1899993733019689276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799059067698307072/JJLoAjYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 184,
+          "like_count": 3301,
+          "listed_count": 4,
+          "media_count": 354,
+          "tweet_count": 409
+        },
+        "username": "ru1111113737",
+        "verified": false
+      }
+    ]
+  }
+}

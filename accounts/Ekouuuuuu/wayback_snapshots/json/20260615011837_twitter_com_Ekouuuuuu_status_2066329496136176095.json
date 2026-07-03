@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2066329496136176095",
+    "created_at": "2026-06-15T01:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T02:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066329496136176095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1599377355503726592",
+          "start": 3,
+          "username": "meiiiTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066329496136176095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066090793262309468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meiiiTvT: 抱歉女士，你因为手上有疤，这边判定你为没有抗压能力且情绪极端，社会已经不需要你了，进厂都没门，你去跳楼吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2066329496136176095",
+        "created_at": "2026-06-15T01:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T02:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066329496136176095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599377355503726592",
+              "start": 3,
+              "username": "meiiiTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066329496136176095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066090793262309468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meiiiTvT: 抱歉女士，你因为手上有疤，这边判定你为没有抗压能力且情绪极端，社会已经不需要你了，进厂都没门，你去跳楼吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599377355503726592",
+        "conversation_id": "2066090793262309468",
+        "created_at": "2026-06-14T09:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066090793262309468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066090793262309468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 7373,
+          "like_count": 366,
+          "quote_count": 8,
+          "reply_count": 30,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉女士，你因为手上有疤，这边判定你为没有抗压能力且情绪极端，社会已经不需要你了，进厂都没门，你去跳楼吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖化 學 極 樂‖支畜別他媽來惡心我了‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2064040950851404219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 341,
+          "like_count": 13824,
+          "listed_count": 1,
+          "media_count": 599,
+          "tweet_count": 3658
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T12:17:45.000Z",
+        "description": "我是小莓｜07重抑中焦神经性贪食｜o割餐券｜互fo欢迎 @Denyoffshshsh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Denyoffshshsh"
+              }
+            ]
+          }
+        },
+        "id": "1599377355503726592",
+        "name": "meiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060007971237904384/XKElbklj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 442,
+          "like_count": 1733,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 2454
+        },
+        "username": "meiiiTvT",
+        "verified": false
+      }
+    ]
+  }
+}

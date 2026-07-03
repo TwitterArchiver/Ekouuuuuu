@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933925762098401280",
+        "3_1933925764350791680"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1933925792200950133",
+    "created_at": "2025-06-14T16:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T17:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933925792200950133"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hcIOA6eznJ",
+          "end": 26,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1933925792200950133/photo/1",
+          "media_key": "3_1933925762098401280",
+          "start": 3,
+          "url": "https://t.co/hcIOA6eznJ"
+        },
+        {
+          "display_url": "pic.x.com/hcIOA6eznJ",
+          "end": 26,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1933925792200950133/photo/1",
+          "media_key": "3_1933925764350791680",
+          "start": 3,
+          "url": "https://t.co/hcIOA6eznJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933925792200950133",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚安 https://t.co/hcIOA6eznJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933925762098401280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtavO_faEAA31Lf.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1933925764350791680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtavPH4a0AAB7H4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933925762098401280",
+            "3_1933925764350791680"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1933925792200950133",
+        "created_at": "2025-06-14T16:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T17:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933925792200950133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hcIOA6eznJ",
+              "end": 26,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1933925792200950133/photo/1",
+              "media_key": "3_1933925762098401280",
+              "start": 3,
+              "url": "https://t.co/hcIOA6eznJ"
+            },
+            {
+              "display_url": "pic.x.com/hcIOA6eznJ",
+              "end": 26,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1933925792200950133/photo/1",
+              "media_key": "3_1933925764350791680",
+              "start": 3,
+              "url": "https://t.co/hcIOA6eznJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933925792200950133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安 https://t.co/hcIOA6eznJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "觉今是而昨非/互fo私信我喵",
+        "id": "1912063502782812160",
+        "location": "Nara-ken, Japan",
+        "name": "Ekou白菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933223087061024768/NHwQoVVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 47,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 36
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

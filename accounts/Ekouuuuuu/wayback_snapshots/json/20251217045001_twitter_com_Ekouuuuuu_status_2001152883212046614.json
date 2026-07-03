@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000848070880477568",
+    "created_at": "2025-12-17T04:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T05:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001152883212046614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1950548412140494848",
+          "start": 0,
+          "username": "K7qWcfzcdAPW5Y9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001152883212046614",
+    "in_reply_to_user_id": "1950548412140494848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000848070880477568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K7qWcfzcdAPW5Y9 怎麼沒有愛吃火鍋的川渝人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000848070880477568",
+        "created_at": "2025-12-17T04:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T05:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001152883212046614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1950548412140494848",
+              "start": 0,
+              "username": "K7qWcfzcdAPW5Y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001152883212046614",
+        "in_reply_to_user_id": "1950548412140494848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000848070880477568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K7qWcfzcdAPW5Y9 怎麼沒有愛吃火鍋的川渝人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950548412140494848",
+        "conversation_id": "2000848070880477568",
+        "created_at": "2025-12-16T08:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T09:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000848070880477568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000848070880477568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9189,
+          "like_count": 121,
+          "quote_count": 2,
+          "reply_count": 49,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "早上好！\n爱偷井盖的河南人\n爱吃桌饺的东北人\n爱舔尿蛋的浙江人\n爱啃大葱的山东人\n爱吃蘑菇的云南人\n爱喝豆汁的北京人\n爱放烟花的天津人\n爱养蟑螂的广东人\n爱吃狗肉的广西人\n爱嚼槟榔的湖南人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2000500587956187160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 178,
+          "like_count": 4339,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 617
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "晚风依旧很温柔，有你陪就足够",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/eL54RSHsuy"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 50,
+          "like_count": 92,
+          "listed_count": 8,
+          "media_count": 23,
+          "tweet_count": 40
+        },
+        "url": "https://t.co/eL54RSHsuy",
+        "username": "K7qWcfzcdAPW5Y9",
+        "verified": false
+      }
+    ]
+  }
+}

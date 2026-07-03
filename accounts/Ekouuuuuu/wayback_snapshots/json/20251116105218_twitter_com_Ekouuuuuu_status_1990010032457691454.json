@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990009911858843648",
+        "3_1990009912542609408"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1990010032457691454",
+    "created_at": "2025-11-16T10:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T11:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990010032457691454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mZpPWlBzdC",
+          "end": 23,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1990010032457691454/photo/1",
+          "media_key": "3_1990009911858843648",
+          "start": 0,
+          "url": "https://t.co/mZpPWlBzdC"
+        },
+        {
+          "display_url": "pic.x.com/mZpPWlBzdC",
+          "end": 23,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1990010032457691454/photo/1",
+          "media_key": "3_1990009912542609408",
+          "start": 0,
+          "url": "https://t.co/mZpPWlBzdC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990010032457691454",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/mZpPWlBzdC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990009911858843648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G53veKfaUAAaTXG.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990009912542609408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G53veNCbwAAzvBi.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990009911858843648",
+            "3_1990009912542609408"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1990010032457691454",
+        "created_at": "2025-11-16T10:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T11:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990010032457691454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mZpPWlBzdC",
+              "end": 23,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1990010032457691454/photo/1",
+              "media_key": "3_1990009911858843648",
+              "start": 0,
+              "url": "https://t.co/mZpPWlBzdC"
+            },
+            {
+              "display_url": "pic.x.com/mZpPWlBzdC",
+              "end": 23,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1990010032457691454/photo/1",
+              "media_key": "3_1990009912542609408",
+              "start": 0,
+              "url": "https://t.co/mZpPWlBzdC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990010032457691454",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mZpPWlBzdC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "還要多久 我才能在你身邊",
+        "id": "1912063502782812160",
+        "location": "我最想選的肩膀又是否願意與我同心",
+        "name": "我珍惜你的方式錯了嗎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979464074787246080/49ypr-ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 41,
+          "like_count": 2552,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 103
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

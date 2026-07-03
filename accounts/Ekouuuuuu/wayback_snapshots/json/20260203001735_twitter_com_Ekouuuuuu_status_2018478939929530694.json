@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018246456898150400"
+      ],
+      "media_source_tweet_id": [
+        "2018246459007885535"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2018478939929530694",
+    "created_at": "2026-02-03T00:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T01:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018478939929530694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512261155850719234",
+          "start": 3,
+          "username": "Dormicumproject"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4488MetnjR",
+          "end": 49,
+          "expanded_url": "https://x.com/Dormicumproject/status/2018246459007885535/photo/1",
+          "media_key": "3_2018246456898150400",
+          "start": 26,
+          "url": "https://t.co/4488MetnjR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018478939929530694",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018246459007885535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dormicumproject: 百合心中 https://t.co/4488MetnjR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 912,
+        "media_key": "3_2018246456898150400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJAdZya4AAqtJO.jpg",
+        "width": 869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018246456898150400"
+          ],
+          "media_source_tweet_id": [
+            "2018246459007885535"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2018478939929530694",
+        "created_at": "2026-02-03T00:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018478939929530694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512261155850719234",
+              "start": 3,
+              "username": "Dormicumproject"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4488MetnjR",
+              "end": 49,
+              "expanded_url": "https://x.com/Dormicumproject/status/2018246459007885535/photo/1",
+              "media_key": "3_2018246456898150400",
+              "start": 26,
+              "url": "https://t.co/4488MetnjR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018478939929530694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018246459007885535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dormicumproject: 百合心中 https://t.co/4488MetnjR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018246456898150400"
+          ]
+        },
+        "author_id": "1512261155850719234",
+        "conversation_id": "2018246459007885535",
+        "created_at": "2026-02-02T08:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018246459007885535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4488MetnjR",
+              "end": 28,
+              "expanded_url": "https://x.com/Dormicumproject/status/2018246459007885535/photo/1",
+              "media_key": "3_2018246456898150400",
+              "start": 5,
+              "url": "https://t.co/4488MetnjR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018246459007885535",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 28935,
+          "like_count": 1298,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "百合心中 https://t.co/4488MetnjR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "同一片天為何好久不見‖叫我白菜就好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 235,
+          "like_count": 7844,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 1869
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T02:48:58.000Z",
+        "description": "心中デートしよ\n\n漫画はここから読めますhttps://t.co/SB66qxPOdk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/dormicum",
+                "end": 43,
+                "expanded_url": "https://lit.link/dormicum",
+                "start": 20,
+                "url": "https://t.co/SB66qxPOdk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dormicum2os",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dormicum2os",
+                "start": 0,
+                "url": "https://t.co/CtEGqQLjTn"
+              }
+            ]
+          }
+        },
+        "id": "1512261155850719234",
+        "name": "ドルミカム（Dormicum）",
+        "pinned_tweet_id": "1974042612412948503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761010277162864640/PGZHn1CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139657,
+          "following_count": 0,
+          "like_count": 2093,
+          "listed_count": 602,
+          "media_count": 883,
+          "tweet_count": 1391
+        },
+        "url": "https://t.co/CtEGqQLjTn",
+        "username": "Dormicumproject",
+        "verified": true
+      }
+    ]
+  }
+}

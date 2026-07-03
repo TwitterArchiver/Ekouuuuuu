@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009819477412851717"
+      ],
+      "media_source_tweet_id": [
+        "2009819547986210864"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2010085549521224011",
+    "created_at": "2026-01-10T20:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T21:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010085549521224011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1846188581905485828",
+          "start": 3,
+          "username": "aaaa____dry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/14BBm13qJw",
+          "end": 56,
+          "expanded_url": "https://x.com/aaaa____dry/status/2009819547986210864/photo/1",
+          "media_key": "3_2009819477412851717",
+          "start": 33,
+          "url": "https://t.co/14BBm13qJw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010085549521224011",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009819547986210864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaaa____dry: まどろっこしいなイライラする。 https://t.co/14BBm13qJw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2009819477412851717",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-RQKo3asAUsqJY.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009819477412851717"
+          ],
+          "media_source_tweet_id": [
+            "2009819547986210864"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2010085549521224011",
+        "created_at": "2026-01-10T20:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T21:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010085549521224011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1846188581905485828",
+              "start": 3,
+              "username": "aaaa____dry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/14BBm13qJw",
+              "end": 56,
+              "expanded_url": "https://x.com/aaaa____dry/status/2009819547986210864/photo/1",
+              "media_key": "3_2009819477412851717",
+              "start": 33,
+              "url": "https://t.co/14BBm13qJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010085549521224011",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009819547986210864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaaa____dry: まどろっこしいなイライラする。 https://t.co/14BBm13qJw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009819477412851717"
+          ]
+        },
+        "author_id": "1846188581905485828",
+        "conversation_id": "2009819547986210864",
+        "created_at": "2026-01-10T02:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T03:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009819547986210864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/14BBm13qJw",
+              "end": 39,
+              "expanded_url": "https://x.com/aaaa____dry/status/2009819547986210864/photo/1",
+              "media_key": "3_2009819477412851717",
+              "start": 16,
+              "url": "https://t.co/14BBm13qJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009819547986210864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2399,
+          "like_count": 321,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "まどろっこしいなイライラする。 https://t.co/14BBm13qJw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖藥物依賴‖尼古丁依賴‖N₂O依賴‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 111,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 88,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2009328654938198483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 201,
+          "like_count": 6108,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1100
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T13:57:35.000Z",
+        "description": "🐇⋆✴︎˚｡⋆感情と子供たちの絵*･ﾟ❤︎ 𝐡_ @9_Un_ya__ ❤︎.*･ﾟ┆日常アカウント@mosohk_sub┊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "9_Un_ya__"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "mosohk_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aaaa_dry",
+                "end": 23,
+                "expanded_url": "https://lit.link/aaaa_dry",
+                "start": 0,
+                "url": "https://t.co/t6kH1MBSF1"
+              }
+            ]
+          }
+        },
+        "id": "1846188581905485828",
+        "name": "妄想癖　phantom展→@COMITIA155 B26b",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928593953114435584/vsRqgJsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4634,
+          "following_count": 118,
+          "like_count": 10418,
+          "listed_count": 26,
+          "media_count": 1112,
+          "tweet_count": 2632
+        },
+        "url": "https://t.co/t6kH1MBSF1",
+        "username": "aaaa____dry",
+        "verified": true
+      }
+    ]
+  }
+}

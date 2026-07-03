@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042588423656214537"
+      ],
+      "media_source_tweet_id": [
+        "2042588433999364186"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2042872362367094892",
+    "created_at": "2026-04-11T07:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T08:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042872362367094892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2839185379",
+          "start": 3,
+          "username": "Jackal_Taiwan"
+        },
+        {
+          "end": 34,
+          "id": "1260553941714186241",
+          "start": 19,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OnKsarGYVi",
+          "end": 58,
+          "expanded_url": "https://x.com/Jackal_Taiwan/status/2042588433999364186/photo/1",
+          "media_key": "3_2042588423656214537",
+          "start": 35,
+          "url": "https://t.co/OnKsarGYVi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042872362367094892",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042588433999364186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jackal_Taiwan: @whyyoutouzhele https://t.co/OnKsarGYVi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 788,
+        "media_key": "3_2042588423656214537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFi7WWZakAkdUVh.jpg",
+        "width": 563
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042588423656214537"
+          ],
+          "media_source_tweet_id": [
+            "2042588433999364186"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2042872362367094892",
+        "created_at": "2026-04-11T07:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042872362367094892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2839185379",
+              "start": 3,
+              "username": "Jackal_Taiwan"
+            },
+            {
+              "end": 34,
+              "id": "1260553941714186241",
+              "start": 19,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OnKsarGYVi",
+              "end": 58,
+              "expanded_url": "https://x.com/Jackal_Taiwan/status/2042588433999364186/photo/1",
+              "media_key": "3_2042588423656214537",
+              "start": 35,
+              "url": "https://t.co/OnKsarGYVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042872362367094892",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042588433999364186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jackal_Taiwan: @whyyoutouzhele https://t.co/OnKsarGYVi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042588423656214537"
+          ]
+        },
+        "author_id": "2839185379",
+        "conversation_id": "2042523123673936032",
+        "created_at": "2026-04-10T13:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042588433999364186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OnKsarGYVi",
+              "end": 39,
+              "expanded_url": "https://x.com/Jackal_Taiwan/status/2042588433999364186/photo/1",
+              "media_key": "3_2042588423656214537",
+              "start": 16,
+              "url": "https://t.co/OnKsarGYVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042588433999364186",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1913,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042523123673936032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele https://t.co/OnKsarGYVi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "Don't you let me go‖男友@Shiroko_Li‖叫我執偏就好‖屏東最深情‖🚪2778收錢我就跑路‖我只是一個可愛的割手od笑氣依賴者呀🥹‖查主頁成分我會回fo‖陰暗逼od蛆互fo💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "執偏Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2042383810571223190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042476120852049920/3Txf9Moz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 252,
+          "like_count": 10684,
+          "listed_count": 1,
+          "media_count": 428,
+          "tweet_count": 2675
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-03T14:57:54.000Z",
+        "description": "Taiwanese",
+        "id": "2839185379",
+        "location": "Tainan City, Taiwan",
+        "name": "jackal",
+        "pinned_tweet_id": "1539982923943686144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/944998725004304384/l5zEN8g0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 298,
+          "like_count": 127,
+          "listed_count": 9,
+          "media_count": 962,
+          "tweet_count": 3759
+        },
+        "username": "Jackal_Taiwan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2041858598054064378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193522,
+          "following_count": 1027,
+          "like_count": 9401,
+          "listed_count": 8615,
+          "media_count": 45067,
+          "tweet_count": 52147
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

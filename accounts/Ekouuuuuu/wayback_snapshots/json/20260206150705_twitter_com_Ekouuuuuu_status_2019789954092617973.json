@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019680138942885888"
+      ],
+      "media_source_tweet_id": [
+        "2019680144001233121"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2019789954092617973",
+    "created_at": "2026-02-06T15:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T16:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019789954092617973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1890763322481577984",
+          "start": 3,
+          "username": "ll52ya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uchzfnEAeI",
+          "end": 35,
+          "expanded_url": "https://x.com/ll52ya/status/2019680144001233121/photo/1",
+          "media_key": "3_2019680138942885888",
+          "start": 12,
+          "url": "https://t.co/uchzfnEAeI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019789954092617973",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019680144001233121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ll52ya: https://t.co/uchzfnEAeI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2019789954092617973].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2019789954092617973",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2019789954092617973"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1049,
+        "media_key": "3_2019680138942885888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAdYYrmaMAA_KlW.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019680138942885888"
+          ]
+        },
+        "author_id": "1890763322481577984",
+        "conversation_id": "2019680144001233121",
+        "created_at": "2026-02-06T07:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T08:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019680144001233121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uchzfnEAeI",
+              "end": 23,
+              "expanded_url": "https://x.com/ll52ya/status/2019680144001233121/photo/1",
+              "media_key": "3_2019680138942885888",
+              "start": 0,
+              "url": "https://t.co/uchzfnEAeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019680144001233121",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 612,
+          "like_count": 89,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uchzfnEAeI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖同類互fo‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 247,
+          "like_count": 8181,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 2007
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T14:01:30.000Z",
+        "description": "自傷 １6さい",
+        "id": "1890763322481577984",
+        "location": "躁鬱･ボーダー",
+        "name": "115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968923192896143361/Nn17lgNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 159,
+          "like_count": 4519,
+          "listed_count": 6,
+          "media_count": 39,
+          "tweet_count": 172
+        },
+        "username": "ll52ya",
+        "verified": false
+      }
+    ]
+  }
+}

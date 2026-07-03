@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021264835699408898"
+      ],
+      "media_source_tweet_id": [
+        "2021264849204855062"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2021360535741268264",
+    "created_at": "2026-02-10T23:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T00:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021360535741268264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1534758434427502592",
+          "start": 3,
+          "username": "39flr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UbXFYi8HT3",
+          "end": 34,
+          "expanded_url": "https://x.com/39flr/status/2021264849204855062/photo/1",
+          "media_key": "3_2021264835699408898",
+          "start": 11,
+          "url": "https://t.co/UbXFYi8HT3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021360535741268264",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021264849204855062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @39flr: https://t.co/UbXFYi8HT3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2021264835699408898",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAz5qLDaAAI1ZUX.jpg",
+        "width": 798
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021264835699408898"
+          ],
+          "media_source_tweet_id": [
+            "2021264849204855062"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2021360535741268264",
+        "created_at": "2026-02-10T23:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T00:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021360535741268264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1534758434427502592",
+              "start": 3,
+              "username": "39flr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UbXFYi8HT3",
+              "end": 34,
+              "expanded_url": "https://x.com/39flr/status/2021264849204855062/photo/1",
+              "media_key": "3_2021264835699408898",
+              "start": 11,
+              "url": "https://t.co/UbXFYi8HT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021360535741268264",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021264849204855062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @39flr: https://t.co/UbXFYi8HT3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021264835699408898"
+          ]
+        },
+        "author_id": "1534758434427502592",
+        "conversation_id": "2021264849204855062",
+        "created_at": "2026-02-10T16:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T17:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021264849204855062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UbXFYi8HT3",
+              "end": 23,
+              "expanded_url": "https://x.com/39flr/status/2021264849204855062/photo/1",
+              "media_key": "3_2021264835699408898",
+              "start": 0,
+              "url": "https://t.co/UbXFYi8HT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021264849204855062",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 6527,
+          "like_count": 717,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UbXFYi8HT3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 248,
+          "like_count": 8302,
+          "listed_count": 1,
+          "media_count": 340,
+          "tweet_count": 2085
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-09T04:45:17.000Z",
+        "description": "",
+        "id": "1534758434427502592",
+        "name": "lien",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972918153350156288/xh0hGE28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9227,
+          "following_count": 359,
+          "like_count": 4598,
+          "listed_count": 53,
+          "media_count": 296,
+          "tweet_count": 1143
+        },
+        "username": "39flr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959021990096011264"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1959021993015353471",
+    "created_at": "2025-08-22T22:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T23:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959021993015353471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OfBNS4nqyt",
+          "end": 46,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1959021993015353471/photo/1",
+          "media_key": "3_1959021990096011264",
+          "start": 23,
+          "url": "https://t.co/OfBNS4nqyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959021993015353471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操兄弟我再也不罵你了😭你永遠是我的好厚米😭 https://t.co/OfBNS4nqyt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959021990096011264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy_YHuLaAAARtXA.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959021990096011264"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1959021993015353471",
+        "created_at": "2025-08-22T22:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T23:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959021993015353471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OfBNS4nqyt",
+              "end": 46,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1959021993015353471/photo/1",
+              "media_key": "3_1959021990096011264",
+              "start": 23,
+              "url": "https://t.co/OfBNS4nqyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959021993015353471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操兄弟我再也不罵你了😭你永遠是我的好厚米😭 https://t.co/OfBNS4nqyt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "一個生理女的負能精神病",
+        "id": "1912063502782812160",
+        "name": "白菜_Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958369871634612224/WJLvJs86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 74,
+          "like_count": 1777,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 243
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

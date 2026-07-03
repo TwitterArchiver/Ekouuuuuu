@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2028340173696852454",
+    "created_at": "2026-03-02T05:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028340173696852454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1966106364901740544",
+          "start": 3,
+          "username": "AgNo3_XQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028340173696852454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028143641945084030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AgNo3_XQ: 坐标上海\n因为缺钱所以来当门槛妹了喵🥺\n🚪52/88/188/288/520/1314……\n从88开始有图包更新咪 钱越多我越热情 288以上有特殊福利哦💖\n希望爸爸妈妈们可以来约我线下\n我会以最好的方式来满足您\n天使爸爸妈妈们入一下我的🚪叭\n爱你们…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2028340173696852454].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2028340173696852454",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2028340173696852454"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028143634168844288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCVp48QakAAX2OP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1746,
+        "media_key": "3_2028143634185699328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCVp48UbwAA_VNH.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028143634168844288",
+            "3_2028143634185699328"
+          ]
+        },
+        "author_id": "1966106364901740544",
+        "conversation_id": "2028143641945084030",
+        "created_at": "2026-03-01T16:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T17:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028143641945084030"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 146,
+              "start": 141,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 151,
+              "start": 147,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZy0pZq9tN",
+              "end": 175,
+              "expanded_url": "https://x.com/AgNo3_XQ/status/2028143641945084030/photo/1",
+              "media_key": "3_2028143634168844288",
+              "start": 152,
+              "url": "https://t.co/KZy0pZq9tN"
+            },
+            {
+              "display_url": "pic.x.com/KZy0pZq9tN",
+              "end": 175,
+              "expanded_url": "https://x.com/AgNo3_XQ/status/2028143641945084030/photo/1",
+              "media_key": "3_2028143634185699328",
+              "start": 152,
+              "url": "https://t.co/KZy0pZq9tN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028143641945084030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2610,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "坐标上海\n因为缺钱所以来当门槛妹了喵🥺\n🚪52/88/188/288/520/1314……\n从88开始有图包更新咪 钱越多我越热情 288以上有特殊福利哦💖\n希望爸爸妈妈们可以来约我线下\n我会以最好的方式来满足您\n天使爸爸妈妈们入一下我的🚪叭\n爱你们 女孩子互fo互转呀\n#门槛妹 #金主爸爸 #爸爸活 https://t.co/KZy0pZq9tN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 248,
+          "like_count": 8963,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 2283
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T11:47:50.000Z",
+        "description": "09｜双相｜istp-t｜巨蟹座｜日常频繁od｜目前已戒割｜顺女双性恋｜欢迎互fo｜精神无国籍｜骂我的人都是傻逼支那猪我就是个刻薄的人｜坐标上海带口令问问题谢谢",
+        "id": "1966106364901740544",
+        "location": "上海",
+        "name": "硝酸银#浅",
+        "pinned_tweet_id": "2028143641945084030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028180017004658688/3MlDGFl7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1411,
+          "following_count": 760,
+          "like_count": 2674,
+          "listed_count": 3,
+          "media_count": 193,
+          "tweet_count": 2375
+        },
+        "username": "AgNo3_XQ",
+        "verified": false
+      }
+    ]
+  }
+}

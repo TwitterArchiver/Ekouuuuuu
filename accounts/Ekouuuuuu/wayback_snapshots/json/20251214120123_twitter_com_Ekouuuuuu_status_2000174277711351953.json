@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000174196626989056"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2000174277711351953",
+    "created_at": "2025-12-14T12:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T13:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000174277711351953"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CpsBvSxZ3H",
+          "end": 35,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2000174277711351953/photo/1",
+          "media_key": "3_2000174196626989056",
+          "start": 12,
+          "url": "https://t.co/CpsBvSxZ3H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000174277711351953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "等你下課一起走好嗎🥺🥺 https://t.co/CpsBvSxZ3H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000174196626989056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8IL1Z7aoAAx4GI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000174196626989056"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2000174277711351953",
+        "created_at": "2025-12-14T12:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T13:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000174277711351953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CpsBvSxZ3H",
+              "end": 35,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2000174277711351953/photo/1",
+              "media_key": "3_2000174196626989056",
+              "start": 12,
+              "url": "https://t.co/CpsBvSxZ3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000174277711351953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等你下課一起走好嗎🥺🥺 https://t.co/CpsBvSxZ3H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 153,
+          "like_count": 3881,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 501
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

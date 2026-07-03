@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1957444834769211792",
+    "created_at": "2025-08-18T16:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T17:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957485791099449687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1795828482057940992",
+          "start": 0,
+          "username": "ygxdst"
+        },
+        {
+          "end": 23,
+          "id": "1477342523555135490",
+          "start": 8,
+          "username": "torontobigface"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957485791099449687",
+    "in_reply_to_user_id": "1795828482057940992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957445468784316581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ygxdst @torontobigface 笑死我了媽的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1132,
+        "media_key": "3_1957445465697607680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyo-R7Ia4AA-zWh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1957444834769211792",
+        "created_at": "2025-08-18T16:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T17:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957485791099449687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1795828482057940992",
+              "start": 0,
+              "username": "ygxdst"
+            },
+            {
+              "end": 23,
+              "id": "1477342523555135490",
+              "start": 8,
+              "username": "torontobigface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957485791099449687",
+        "in_reply_to_user_id": "1795828482057940992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957445468784316581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ygxdst @torontobigface 笑死我了媽的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957445465697607680"
+          ]
+        },
+        "author_id": "1795828482057940992",
+        "conversation_id": "1957444834769211792",
+        "created_at": "2025-08-18T14:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T15:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957445468784316581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1477342523555135490",
+              "start": 0,
+              "username": "torontobigface"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tYfRtrJkgT",
+              "end": 39,
+              "expanded_url": "https://x.com/ygxdst/status/1957445468784316581/photo/1",
+              "media_key": "3_1957445465697607680",
+              "start": 16,
+              "url": "https://t.co/tYfRtrJkgT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957445468784316581",
+        "in_reply_to_user_id": "1477342523555135490",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8047,
+          "like_count": 143,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957444834769211792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@torontobigface https://t.co/tYfRtrJkgT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "自尊常常將人拖著 把愛都走曲折",
+        "id": "1912063502782812160",
+        "name": "白菜_Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937599411460403200/XrYwRLKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 68,
+          "like_count": 1454,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 235
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T14:45:26.000Z",
+        "description": "抛弃一切希望与绝望，只是向前走",
+        "id": "1795828482057940992",
+        "name": "阳光下的尸体",
+        "pinned_tweet_id": "1946824498063261887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915089232592564227/RI2PHdjj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 462,
+          "like_count": 2017,
+          "listed_count": 2,
+          "media_count": 405,
+          "tweet_count": 2890
+        },
+        "username": "ygxdst",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNc63o 投稿邮箱:Torontosquareface@gmail.com 粉丝群：https://t.co/7fI2Xsn7l9 李币社区群：https://t.co/Uao93nfZ79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNc63o"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 92,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 69,
+                "url": "https://t.co/7fI2Xsn7l9"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 122,
+                "expanded_url": "https://t.me/whyyoutouzhele_memecoin",
+                "start": 99,
+                "url": "https://t.co/Uao93nfZ79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrmZImQ"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "location": "乌鲁木齐中路，多伦多",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "1955226688075280448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581508796845019137/iNF3fAIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726215,
+          "following_count": 231,
+          "like_count": 4180,
+          "listed_count": 2206,
+          "media_count": 5688,
+          "tweet_count": 17575
+        },
+        "url": "https://t.co/t3lSrmZImQ",
+        "username": "torontobigface",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2066103851166634464",
+    "created_at": "2026-06-15T19:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T20:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066605440155505034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957509667787325440",
+          "start": 0,
+          "username": "_yuki_owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066605440155505034",
+    "in_reply_to_user_id": "1957509667787325440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066103851166634464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yuki_owo 這個人以前也罵過我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 555,
+        "media_key": "3_2066103844485120000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxGf_eawAAYVdj.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2066103851166634464",
+        "created_at": "2026-06-15T19:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T20:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066605440155505034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066605440155505034",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066103851166634464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 這個人以前也罵過我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066103844485120000"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2066103851166634464",
+        "created_at": "2026-06-14T10:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066103851166634464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ijoIUlZrxK",
+              "end": 138,
+              "expanded_url": "https://x.com/_yuki_owo/status/2066103851166634464/photo/1",
+              "media_key": "3_2066103844485120000",
+              "start": 115,
+              "url": "https://t.co/ijoIUlZrxK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066103851166634464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1786,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傲慢健全逼我操你妈😂以为自己老清醒老善良了对不对是不是 闹麻了 老子走投无路嗑药你拿什么配对我的生活指指点点 有得选的话我他妈也要当个幸福健全的傻逼 谁他妈想过成我这个吊样 老子真不后悔活下来我他妈要活得很久活到你们死掉然后庆祝 https://t.co/ijoIUlZrxK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖化 學 極 樂‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2064040950851404219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 342,
+          "like_count": 13843,
+          "listed_count": 1,
+          "media_count": 605,
+          "tweet_count": 3674
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "下水道里的呕吐物一般肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "自由",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060679419988148224/Zh_vTvc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 689,
+          "like_count": 3540,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1744
+        },
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

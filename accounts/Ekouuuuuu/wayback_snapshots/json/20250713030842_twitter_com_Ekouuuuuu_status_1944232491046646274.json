@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1943623188795056436",
+    "created_at": "2025-07-13T03:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T04:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944232491046646274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1702336370025615360",
+          "start": 0,
+          "username": "h963KUTfpG1w6"
+        },
+        {
+          "end": 24,
+          "id": "1795072631169044480",
+          "start": 15,
+          "username": "8964Ximo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944232491046646274",
+    "in_reply_to_user_id": "1702336370025615360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943738091073929534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h963KUTfpG1w6 @8964Ximo 少羽牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1943623188795056436",
+        "created_at": "2025-07-13T03:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T04:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944232491046646274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1702336370025615360",
+              "start": 0,
+              "username": "h963KUTfpG1w6"
+            },
+            {
+              "end": 24,
+              "id": "1795072631169044480",
+              "start": 15,
+              "username": "8964Ximo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944232491046646274",
+        "in_reply_to_user_id": "1702336370025615360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943738091073929534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h963KUTfpG1w6 @8964Ximo 少羽牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702336370025615360",
+        "conversation_id": "1943623188795056436",
+        "created_at": "2025-07-11T18:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T19:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943738091073929534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "8964Ximo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943738091073929534",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 20953,
+          "like_count": 706,
+          "quote_count": 2,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943623188795056436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964Ximo 我直接就是拿俩肛塞给你和你妈一人一颗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "🥲",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937599411460403200/XrYwRLKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 49,
+          "like_count": 1205,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 190
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T14:59:59.000Z",
+        "description": "",
+        "id": "1702336370025615360",
+        "name": "少羽牛逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943737080632528896/AGQ3anof_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 46,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "h963KUTfpG1w6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "# 愛？ # 唉！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "时行扛200斤麦子十里路不换肩",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943205610419314688/1jbcj6Zu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6289,
+          "following_count": 253,
+          "like_count": 28974,
+          "listed_count": 14,
+          "media_count": 159,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "8964Ximo",
+        "verified": false
+      }
+    ]
+  }
+}

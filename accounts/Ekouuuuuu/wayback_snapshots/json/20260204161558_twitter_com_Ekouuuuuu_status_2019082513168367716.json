@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1228375267833450498",
+    "created_at": "2026-02-04T16:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T17:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019082513168367716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1015641251742302208",
+          "start": 0,
+          "username": "KoWeilai"
+        },
+        {
+          "end": 21,
+          "id": "1313043888",
+          "start": 10,
+          "username": "nextsimple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019082513168367716",
+    "in_reply_to_user_id": "1015641251742302208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1276534435815452673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KoWeilai @nextsimple 還活著嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1228375267833450498",
+        "created_at": "2026-02-04T16:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019082513168367716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1015641251742302208",
+              "start": 0,
+              "username": "KoWeilai"
+            },
+            {
+              "end": 21,
+              "id": "1313043888",
+              "start": 10,
+              "username": "nextsimple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019082513168367716",
+        "in_reply_to_user_id": "1015641251742302208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1276534435815452673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KoWeilai @nextsimple 還活著嗎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1015641251742302208",
+        "conversation_id": "1228375267833450498",
+        "created_at": "2020-06-26T15:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2020-06-26T15:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1276534435815452673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1313043888",
+              "start": 0,
+              "username": "nextsimple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1276534435815452673",
+        "in_reply_to_user_id": "1313043888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1229006320251981824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nextsimple 谢谢你们的口罩！觉得日本疫情严重的话欢迎你们来中国避难😃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "同一片天為何好久不見‖叫我白菜就好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 245,
+          "like_count": 8137,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 1962
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-07T16:58:38.000Z",
+        "description": "中国人ｗ!日本語勉強している!!!頑張る!!ʕ•̀ω•́ʔ✧",
+        "id": "1015641251742302208",
+        "name": "川井未来🇨🇳",
+        "pinned_tweet_id": "1076817556717985793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1060553954663194624/LG0RMdOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 19,
+          "like_count": 102,
+          "listed_count": 5,
+          "media_count": 16,
+          "tweet_count": 162
+        },
+        "username": "KoWeilai",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-29T08:26:59.000Z",
+        "description": "ご覧いただきありがとうございます🙇✨",
+        "id": "1313043888",
+        "name": "しょうた",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819322248630763520/91oQ-Nyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 892,
+          "like_count": 129127,
+          "listed_count": 4,
+          "media_count": 84,
+          "tweet_count": 817
+        },
+        "username": "nextsimple",
+        "verified": false
+      }
+    ]
+  }
+}

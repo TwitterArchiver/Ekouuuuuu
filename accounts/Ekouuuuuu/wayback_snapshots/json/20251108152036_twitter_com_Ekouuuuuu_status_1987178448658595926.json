@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1986851196234310035",
+    "created_at": "2025-11-08T15:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T16:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987178448658595926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1652561530532032512",
+          "start": 0,
+          "username": "ruanwenjie60089"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987178448658595926",
+    "in_reply_to_user_id": "1652561530532032512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987103843017236893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruanwenjie60089 並沒有。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1986851196234310035",
+        "created_at": "2025-11-08T15:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T16:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987178448658595926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1652561530532032512",
+              "start": 0,
+              "username": "ruanwenjie60089"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987178448658595926",
+        "in_reply_to_user_id": "1652561530532032512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987103843017236893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruanwenjie60089 並沒有。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652561530532032512",
+        "conversation_id": "1986851196234310035",
+        "created_at": "2025-11-08T10:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987103843017236893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987103843017236893",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986851196234310035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu 咋感觉你。。。好emo。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "還要多久 我才能在你身邊",
+        "id": "1912063502782812160",
+        "name": "我珍惜你的方式錯了嗎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979464074787246080/49ypr-ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 39,
+          "like_count": 2373,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 376
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T06:32:38.000Z",
+        "description": "想操你的才会惯着你，我一个撸管的可不会",
+        "id": "1652561530532032512",
+        "name": "青书",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473545087332353/F3fTcYJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 13
+        },
+        "username": "ruanwenjie60089",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046274988471398400"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2046274991029899775",
+    "created_at": "2026-04-20T17:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T18:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046274991029899775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/roxXtdtnw6",
+          "end": 59,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2046274991029899775/photo/1",
+          "media_key": "3_2046274988471398400",
+          "start": 36,
+          "url": "https://t.co/roxXtdtnw6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046274991029899775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃過的苦 走過的路 看錯的人 好壞都算數 但是我沒錯因為結局都是我買單 https://t.co/roxXtdtnw6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046274988471398400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXUQqiasAAPHB-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046274988471398400"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2046274991029899775",
+        "created_at": "2026-04-20T17:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T18:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046274991029899775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/roxXtdtnw6",
+              "end": 59,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2046274991029899775/photo/1",
+              "media_key": "3_2046274988471398400",
+              "start": 36,
+              "url": "https://t.co/roxXtdtnw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046274991029899775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃過的苦 走過的路 看錯的人 好壞都算數 但是我沒錯因為結局都是我買單 https://t.co/roxXtdtnw6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "Don't you let me go‖男友@Shiroko_Li‖叫我白菜就好‖三民主義‖🚪2778收錢我就跑路‖查主頁成分我會回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2045267383476945131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 270,
+          "like_count": 11090,
+          "listed_count": 1,
+          "media_count": 448,
+          "tweet_count": 2731
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

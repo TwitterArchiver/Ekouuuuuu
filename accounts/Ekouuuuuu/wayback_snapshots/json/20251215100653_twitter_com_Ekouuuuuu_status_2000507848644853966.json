@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000507848644853966",
+    "created_at": "2025-12-15T10:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T11:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000507848644853966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangjupaian/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/wangjupaian/status/2000451154321506387",
+          "start": 13,
+          "url": "https://t.co/PxFt0GRjlA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000507848644853966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000451154321506387",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "確實是「獨裁者按鈕」🤣🤣 https://t.co/PxFt0GRjlA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41557,
+        "height": 2796,
+        "media_key": "13_2000450762871382017",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000450762871382017/img/K2SLS9kjbluWWFZ0.jpg",
+        "public_metrics": {
+          "view_count": 16643
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000450762871382017/vid/avc1/1290x2796/6_QXlUJDYJq5PqUX.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000450762871382017/vid/avc1/320x692/bKj1dCOGOSaCD0-f.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000450762871382017/pl/2W45JzQ8oqBogAlo.m3u8?v=f95"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000450762871382017/vid/avc1/720x1560/c482iByy5-R7LEiN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000450762871382017/vid/avc1/480x1040/7VKSZO0YWVO78Djp.mp4"
+          }
+        ],
+        "width": 1290
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2000450762879754240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MHXrgbYAA3fwB.jpg",
+        "width": 1038
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000507848644853966",
+        "created_at": "2025-12-15T10:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T11:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000507848644853966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangjupaian/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/wangjupaian/status/2000451154321506387",
+              "start": 13,
+              "url": "https://t.co/PxFt0GRjlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000507848644853966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000451154321506387",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "確實是「獨裁者按鈕」🤣🤣 https://t.co/PxFt0GRjlA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000450762871382017",
+            "3_2000450762879754240"
+          ]
+        },
+        "author_id": "1574516663935901696",
+        "conversation_id": "2000451154321506387",
+        "created_at": "2025-12-15T06:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T07:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000451154321506387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A7PQZ0oYxL",
+              "end": 167,
+              "expanded_url": "https://x.com/wangjupaian/status/2000451154321506387/video/1",
+              "media_key": "13_2000450762871382017",
+              "start": 144,
+              "url": "https://t.co/A7PQZ0oYxL"
+            },
+            {
+              "display_url": "pic.x.com/A7PQZ0oYxL",
+              "end": 167,
+              "expanded_url": "https://x.com/wangjupaian/status/2000451154321506387/video/1",
+              "media_key": "3_2000450762879754240",
+              "start": 144,
+              "url": "https://t.co/A7PQZ0oYxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000451154321506387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 35402,
+          "like_count": 359,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "【哆啦A梦“独裁者按钮”片段消失】\n\n12月15日，\n网友发布一段哆啦A梦片段，\n介绍“独裁者按钮”。\n\n哆啦A梦说：\n独裁者就是以为全世界都绕着他转，\n很自我中心又自以为是的人，\n独裁者会用这个按钮，\n让所有和他意见不合的人彻底消失，\n不留一点痕迹。\n\n目前，\n该视频及评论已经消失。 https://t.co/A7PQZ0oYxL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 155,
+          "like_count": 4006,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 571
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jWWoT"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "name": "王局拍案",
+        "pinned_tweet_id": "2000401611139822009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110117,
+          "following_count": 141,
+          "like_count": 43,
+          "listed_count": 295,
+          "media_count": 2607,
+          "tweet_count": 2973
+        },
+        "url": "https://t.co/FWdZ3jWWoT",
+        "username": "wangjupaian",
+        "verified": true
+      }
+    ]
+  }
+}

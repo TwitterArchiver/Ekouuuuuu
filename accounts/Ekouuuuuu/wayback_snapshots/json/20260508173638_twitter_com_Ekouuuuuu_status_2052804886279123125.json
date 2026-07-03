@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2052765882854850918",
+    "created_at": "2026-05-08T17:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052804886279123125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052804886279123125",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052765882854850918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 白子可愛捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2052764494355640320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzibn2aMAAMcSd.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2052765882854850918",
+        "created_at": "2026-05-08T17:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052804886279123125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052804886279123125",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052765882854850918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 白子可愛捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052764494355640320"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "conversation_id": "2052765882854850918",
+        "created_at": "2026-05-08T15:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052765882854850918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOxyp6pTpK",
+              "end": 30,
+              "expanded_url": "https://x.com/yu_huacs/status/2052765882854850918/photo/1",
+              "media_key": "3_2052764494355640320",
+              "start": 7,
+              "url": "https://t.co/FOxyp6pTpK"
+            },
+            {
+              "display_url": "x.com/silentbleeding…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/silentbleeding1/status/2052761201269149801",
+              "start": 31,
+              "url": "https://t.co/avAWD11UAh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052765882854850918",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052761201269149801",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像草我自己 https://t.co/FOxyp6pTpK https://t.co/avAWD11UAh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "我還想和你談論宇宙和天空‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2051776082542825551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 298,
+          "like_count": 11849,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 2931
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "公路车技师 路边可见的乡下宅家男娘 一型双相重焦患者 公路车手 自伤 od 抽烟 ACG 异父异母的哥哥@silentbleeding1  另一个我 @yuhuacs5570 我超级可爱的姐姐@aczizo82my",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "silentbleeding1"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "aczizo82my"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "寻心而去",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2029682364067238377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036470524784910336/m6ce5LZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 1335,
+          "like_count": 110523,
+          "listed_count": 8,
+          "media_count": 2036,
+          "tweet_count": 18898
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

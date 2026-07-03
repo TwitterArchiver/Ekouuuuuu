@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958646806189154308"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1958646808215003236",
+    "created_at": "2025-08-21T21:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T22:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958646808215003236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dRi1swqXvt",
+          "end": 37,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1958646808215003236/photo/1",
+          "media_key": "3_1958646806189154308",
+          "start": 14,
+          "url": "https://t.co/dRi1swqXvt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958646808215003236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這個妹子很喜歡聽歌哦🥰💖💅 https://t.co/dRi1swqXvt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 352,
+        "media_key": "3_1958646806189154308",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy6C5JNboAQO-Y6.jpg",
+        "width": 808
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958646806189154308"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1958646808215003236",
+        "created_at": "2025-08-21T21:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T22:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958646808215003236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dRi1swqXvt",
+              "end": 37,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1958646808215003236/photo/1",
+              "media_key": "3_1958646806189154308",
+              "start": 14,
+              "url": "https://t.co/dRi1swqXvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958646808215003236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這個妹子很喜歡聽歌哦🥰💖💅 https://t.co/dRi1swqXvt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "一個生理女的負能精神病",
+        "id": "1912063502782812160",
+        "name": "白菜_Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958369871634612224/WJLvJs86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 73,
+          "like_count": 1776,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 241
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

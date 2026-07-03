@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1944010208335831363",
+    "created_at": "2025-07-13T03:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T04:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944233570249454019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1710284301806510080",
+          "start": 0,
+          "username": "CafuuCoco"
+        },
+        {
+          "end": 26,
+          "id": "1691385929968062464",
+          "start": 11,
+          "username": "zhou1919456789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944233570249454019",
+    "in_reply_to_user_id": "1710284301806510080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944034764010533089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CafuuCoco @zhou1919456789 不要搞得我們沒有三角洲玩😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 209,
+        "media_key": "3_1944034761900515328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvqZUOYXYAAEv-M.jpg",
+        "width": 218
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1944010208335831363",
+        "created_at": "2025-07-13T03:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T04:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944233570249454019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1710284301806510080",
+              "start": 0,
+              "username": "CafuuCoco"
+            },
+            {
+              "end": 26,
+              "id": "1691385929968062464",
+              "start": 11,
+              "username": "zhou1919456789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944233570249454019",
+        "in_reply_to_user_id": "1710284301806510080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944034764010533089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CafuuCoco @zhou1919456789 不要搞得我們沒有三角洲玩😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944034761900515328"
+          ]
+        },
+        "author_id": "1710284301806510080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1944010208335831363",
+        "created_at": "2025-07-12T14:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T15:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944034764010533089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691385929968062464",
+              "start": 0,
+              "username": "zhou1919456789"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l84SfShE6b",
+              "end": 39,
+              "expanded_url": "https://x.com/CafuuCoco/status/1944034764010533089/photo/1",
+              "media_key": "3_1944034761900515328",
+              "start": 16,
+              "url": "https://t.co/l84SfShE6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944034764010533089",
+        "in_reply_to_user_id": "1691385929968062464",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1233,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944010208335831363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhou1919456789 https://t.co/l84SfShE6b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "🥲",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937599411460403200/XrYwRLKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 49,
+          "like_count": 1211,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 192
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T13:22:20.000Z",
+        "description": "明天会更好",
+        "id": "1710284301806510080",
+        "location": "航天 总裁",
+        "name": "咯啦咯啦咯",
+        "pinned_tweet_id": "1936700748517257463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830832474634756098/EgQXf-hr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 1263,
+          "like_count": 2332,
+          "listed_count": 0,
+          "media_count": 388,
+          "tweet_count": 875
+        },
+        "username": "CafuuCoco",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T09:47:02.000Z",
+        "description": "you can call me in your favour way/高中生/可互fo",
+        "id": "1691385929968062464",
+        "location": "Shanghai ",
+        "name": "明日美",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923343824744747008/2zTVcKUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 897,
+          "like_count": 1655,
+          "listed_count": 1,
+          "media_count": 308,
+          "tweet_count": 732
+        },
+        "username": "zhou1919456789",
+        "verified": false
+      }
+    ]
+  }
+}

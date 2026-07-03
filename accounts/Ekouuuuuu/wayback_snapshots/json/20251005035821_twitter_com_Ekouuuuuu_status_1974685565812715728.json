@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1974033597318524942",
+    "created_at": "2025-10-05T03:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T04:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974685565812715728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "622036546",
+          "start": 0,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974685565812715728",
+    "in_reply_to_user_id": "622036546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974033597318524942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_six 以為這是奶片呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26633,
+        "height": 1280,
+        "media_key": "7_1974033554352029696",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1974033554352029696/pu/img/enxzGWEB5f7gtHOA.jpg",
+        "public_metrics": {
+          "view_count": 7579
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974033554352029696/pu/vid/avc1/320x568/REekf6PHZq2oSGjP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974033554352029696/pu/vid/avc1/480x852/wchZHXUtv3oGVi9e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974033554352029696/pu/vid/avc1/720x1280/K_40PqObPDN9QMBV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1974033554352029696/pu/pl/OI0V78JTOAu6FNCF.m3u8?tag=12&v=169"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1974033597318524942",
+        "created_at": "2025-10-05T03:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T04:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974685565812715728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974685565812715728",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974033597318524942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 以為這是奶片呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1974033554352029696"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "1974033597318524942",
+        "created_at": "2025-10-03T08:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T09:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974033597318524942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gjw0agLJ5s",
+              "end": 34,
+              "expanded_url": "https://x.com/overdose_six/status/1974033597318524942/video/1",
+              "media_key": "7_1974033554352029696",
+              "start": 11,
+              "url": "https://t.co/gjw0agLJ5s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974033597318524942",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 17378,
+          "like_count": 155,
+          "quote_count": 13,
+          "reply_count": 61,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "精神小伙干嚼愈美片😹 https://t.co/gjw0agLJ5s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "年年歲歲花相似",
+        "id": "1912063502782812160",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974683142880665600/4D1J2k-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 81,
+          "like_count": 2129,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 299
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "化学极乐百科:https://t.co/BlAoDIjZjK 提问箱:https://t.co/b5c8bbntR6 里推:@fuck_8964 药物代购可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 30,
+                "expanded_url": "http://overdose.day",
+                "start": 7,
+                "url": "https://t.co/BlAoDIjZjK"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 58,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 35,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjZjK"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968299927244775424/_No7YTKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 188,
+          "like_count": 8964,
+          "listed_count": 4,
+          "media_count": 285,
+          "tweet_count": 2588
+        },
+        "url": "https://t.co/BlAoDIjZjK",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

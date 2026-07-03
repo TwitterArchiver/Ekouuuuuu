@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999859927855304753",
+    "created_at": "2025-12-14T05:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T06:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000069907363565831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1773002173619802112",
+          "start": 0,
+          "username": "xiaoxuan2009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000069907363565831",
+    "in_reply_to_user_id": "1773002173619802112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999859927855304753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxuan2009 OS：你好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1999859873895641088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Dt9agbcAAGlL2.jpg",
+        "width": 786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999859927855304753",
+        "created_at": "2025-12-14T05:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000069907363565831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1773002173619802112",
+              "start": 0,
+              "username": "xiaoxuan2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000069907363565831",
+        "in_reply_to_user_id": "1773002173619802112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999859927855304753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxuan2009 OS：你好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999859873895641088"
+          ]
+        },
+        "author_id": "1773002173619802112",
+        "conversation_id": "1999859927855304753",
+        "created_at": "2025-12-13T15:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999859927855304753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/snoodcoWr3",
+              "end": 27,
+              "expanded_url": "https://x.com/xiaoxuan2009/status/1999859927855304753/photo/1",
+              "media_key": "3_1999859873895641088",
+              "start": 4,
+              "url": "https://t.co/snoodcoWr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999859927855304753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 10950,
+          "like_count": 258,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "卖萌。 https://t.co/snoodcoWr3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了ww‖化學極樂‖養病中……‖🇯🇵🤝🇹🇼‖overdose是吸毒所以我是毒蟲🥺‖亚硝‖支畜滾‖陰暗逼（？）‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 155,
+          "like_count": 3731,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 436
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T15:00:43.000Z",
+        "description": "88｜假期更新不卖号 不咋看推 ｜enfj天蝎高一｜置顶是推广不是本人",
+        "id": "1773002173619802112",
+        "location": ".",
+        "name": "小萱大王",
+        "pinned_tweet_id": "1998036456502341772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879889890621652992/_hkzZjFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12326,
+          "following_count": 60,
+          "like_count": 1544,
+          "listed_count": 21,
+          "media_count": 16,
+          "tweet_count": 399
+        },
+        "username": "xiaoxuan2009",
+        "verified": false
+      }
+    ]
+  }
+}

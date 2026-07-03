@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014050202643030016"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2014050205780373940",
+    "created_at": "2026-01-21T18:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T19:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014050205780373940"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "Sol",
+          "probability": 0.4609,
+          "start": 45,
+          "type": "Other"
+        },
+        {
+          "end": 93,
+          "normalized_text": "Sol",
+          "probability": 0.4564,
+          "start": 91,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qW5MFyrEit",
+          "end": 118,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2014050205780373940/photo/1",
+          "media_key": "3_2014050202643030016",
+          "start": 95,
+          "url": "https://t.co/qW5MFyrEit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014050205780373940",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Vem\nVem brilhar mais ser uma estrela sobre o Sol\nEstrelar mais ser mais brilhante do que o Sol https://t.co/qW5MFyrEit"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2014050202643030016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_NX_QhXYAA-3DF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014050202643030016"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2014050205780373940",
+        "created_at": "2026-01-21T18:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T19:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014050205780373940"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "Sol",
+              "probability": 0.4609,
+              "start": 45,
+              "type": "Other"
+            },
+            {
+              "end": 93,
+              "normalized_text": "Sol",
+              "probability": 0.4564,
+              "start": 91,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qW5MFyrEit",
+              "end": 118,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2014050205780373940/photo/1",
+              "media_key": "3_2014050202643030016",
+              "start": 95,
+              "url": "https://t.co/qW5MFyrEit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014050205780373940",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Vem\nVem brilhar mais ser uma estrela sobre o Sol\nEstrelar mais ser mais brilhante do que o Sol https://t.co/qW5MFyrEit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 74,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 51,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 227,
+          "like_count": 6703,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 1361
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

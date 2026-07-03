@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999512864646922242"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999512867674972606",
+    "created_at": "2025-12-12T16:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T17:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999512867674972606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HJWrwgh0TS",
+          "end": 42,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1999512867674972606/photo/1",
+          "media_key": "3_1999512864646922242",
+          "start": 19,
+          "url": "https://t.co/HJWrwgh0TS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999512867674972606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是多想再給你機會 多想問你究竟愛誰 https://t.co/HJWrwgh0TS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999512864646922242",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-yW0UagAIFGqS.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999512864646922242"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999512867674972606",
+        "created_at": "2025-12-12T16:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T17:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999512867674972606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJWrwgh0TS",
+              "end": 42,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1999512867674972606/photo/1",
+              "media_key": "3_1999512864646922242",
+              "start": 19,
+              "url": "https://t.co/HJWrwgh0TS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999512867674972606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是多想再給你機會 多想問你究竟愛誰 https://t.co/HJWrwgh0TS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998740626599456769/Z9snoakz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 134,
+          "like_count": 3396,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 205
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

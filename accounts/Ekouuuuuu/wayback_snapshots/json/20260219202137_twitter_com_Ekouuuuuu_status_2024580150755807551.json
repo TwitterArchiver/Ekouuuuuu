@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024132394467684352"
+      ],
+      "media_source_tweet_id": [
+        "2024132633182310695"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2024580150755807551",
+    "created_at": "2026-02-19T20:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T21:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024580150755807551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "842278046748966912",
+          "start": 3,
+          "username": "rnatataki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Q4zi3b9Dv",
+          "end": 41,
+          "expanded_url": "https://x.com/rnatataki/status/2024132633182310695/photo/1",
+          "media_key": "3_2024132394467684352",
+          "start": 18,
+          "url": "https://t.co/8Q4zi3b9Dv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024580150755807551",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1128
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024132633182310695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rnatataki: 再掲 https://t.co/8Q4zi3b9Dv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2024132394467684352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcpsD6bcAAV-0X.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024132394467684352"
+          ],
+          "media_source_tweet_id": [
+            "2024132633182310695"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2024580150755807551",
+        "created_at": "2026-02-19T20:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T21:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024580150755807551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "842278046748966912",
+              "start": 3,
+              "username": "rnatataki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Q4zi3b9Dv",
+              "end": 41,
+              "expanded_url": "https://x.com/rnatataki/status/2024132633182310695/photo/1",
+              "media_key": "3_2024132394467684352",
+              "start": 18,
+              "url": "https://t.co/8Q4zi3b9Dv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024580150755807551",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024132633182310695",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rnatataki: 再掲 https://t.co/8Q4zi3b9Dv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024132394467684352"
+          ]
+        },
+        "author_id": "842278046748966912",
+        "conversation_id": "2024132633182310695",
+        "created_at": "2026-02-18T14:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024132633182310695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Q4zi3b9Dv",
+              "end": 26,
+              "expanded_url": "https://x.com/rnatataki/status/2024132633182310695/photo/1",
+              "media_key": "3_2024132394467684352",
+              "start": 3,
+              "url": "https://t.co/8Q4zi3b9Dv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024132633182310695",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1196,
+          "impression_count": 106149,
+          "like_count": 12938,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 1128
+        },
+        "reply_settings": "everyone",
+        "text": "再掲 https://t.co/8Q4zi3b9Dv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 250,
+          "like_count": 8666,
+          "listed_count": 1,
+          "media_count": 356,
+          "tweet_count": 2218
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-16T07:35:09.000Z",
+        "description": "渦になる / skeb https://t.co/z7gZVwaSqq / FANBOX https://t.co/o3E3qVVfFZ / FA等 #のろたんあーと",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 75,
+                "tag": "のろたんあーと"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@rnatataki",
+                "end": 35,
+                "expanded_url": "https://skeb.jp/@rnatataki",
+                "start": 12,
+                "url": "https://t.co/z7gZVwaSqq"
+              },
+              {
+                "display_url": "rnatataki.fanbox.cc",
+                "end": 68,
+                "expanded_url": "https://rnatataki.fanbox.cc/",
+                "start": 45,
+                "url": "https://t.co/o3E3qVVfFZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rnatataki",
+                "end": 23,
+                "expanded_url": "https://lit.link/rnatataki",
+                "start": 0,
+                "url": "https://t.co/Of0neav5p8"
+              }
+            ]
+          }
+        },
+        "id": "842278046748966912",
+        "location": "お仕事 ▶︎ rnatataki.exe@gmail.com",
+        "name": "のろヰ",
+        "pinned_tweet_id": "2012457196961857915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1137491982404603906/iRcXCVNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64984,
+          "following_count": 89,
+          "like_count": 1225,
+          "listed_count": 433,
+          "media_count": 606,
+          "tweet_count": 2792
+        },
+        "url": "https://t.co/Of0neav5p8",
+        "username": "rnatataki",
+        "verified": false
+      }
+    ]
+  }
+}

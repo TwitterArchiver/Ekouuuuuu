@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062387437976842240"
+      ],
+      "media_source_tweet_id": [
+        "2062387611671351581"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063061884828561722",
+    "created_at": "2026-06-06T00:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T01:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063061884828561722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "147476095",
+          "start": 3,
+          "username": "ukinchina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lu91xKq3iQ",
+          "end": 38,
+          "expanded_url": "https://x.com/ukinchina/status/2062387611671351581/video/1",
+          "media_key": "13_2062387437976842240",
+          "start": 15,
+          "url": "https://t.co/Lu91xKq3iQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063061884828561722",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1562
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062387611671351581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ukinchina: https://t.co/Lu91xKq3iQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15615,
+        "height": 720,
+        "media_key": "13_2062387437976842240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062387437976842240/img/S711wlG1zm9bMz47.jpg",
+        "public_metrics": {
+          "view_count": 267760
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062387437976842240/vid/avc1/360x270/DLlPa8HwsSAm5ki9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062387437976842240/vid/avc1/480x360/T8iCxEVg8s57fjig.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062387437976842240/vid/avc1/960x720/UJY1lMj_wwW2Spl9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062387437976842240/pl/M6rv0CgpnkGtH8Ly.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062387437976842240"
+          ],
+          "media_source_tweet_id": [
+            "2062387611671351581"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063061884828561722",
+        "created_at": "2026-06-06T00:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T01:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063061884828561722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "147476095",
+              "start": 3,
+              "username": "ukinchina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lu91xKq3iQ",
+              "end": 38,
+              "expanded_url": "https://x.com/ukinchina/status/2062387611671351581/video/1",
+              "media_key": "13_2062387437976842240",
+              "start": 15,
+              "url": "https://t.co/Lu91xKq3iQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063061884828561722",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1562
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062387611671351581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ukinchina: https://t.co/Lu91xKq3iQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062387437976842240"
+          ]
+        },
+        "author_id": "147476095",
+        "conversation_id": "2062387611671351581",
+        "created_at": "2026-06-04T04:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062387611671351581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lu91xKq3iQ",
+              "end": 23,
+              "expanded_url": "https://x.com/ukinchina/status/2062387611671351581/video/1",
+              "media_key": "13_2062387437976842240",
+              "start": 0,
+              "url": "https://t.co/Lu91xKq3iQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062387611671351581",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1554,
+          "impression_count": 824960,
+          "like_count": 11399,
+          "quote_count": 177,
+          "reply_count": 287,
+          "retweet_count": 1562
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Lu91xKq3iQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖化 學 極 樂‖支畜別他媽來惡心我了‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2058947003573579910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 328,
+          "like_count": 13406,
+          "listed_count": 1,
+          "media_count": 550,
+          "tweet_count": 3517
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-24T07:00:32.000Z",
+        "description": "英国驻华使馆官方推特账号. The official Twitter channel for the British Embassy Beijing.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.uk/world/china",
+                "end": 23,
+                "expanded_url": "http://gov.uk/world/china",
+                "start": 0,
+                "url": "https://t.co/EbH8UsF29y"
+              }
+            ]
+          }
+        },
+        "id": "147476095",
+        "location": "Beijing",
+        "name": "UK in China 🇬🇧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592411142793592833/pVA7pwob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60056,
+          "following_count": 204,
+          "like_count": 234,
+          "listed_count": 489,
+          "media_count": 676,
+          "tweet_count": 4315
+        },
+        "url": "https://t.co/EbH8UsF29y",
+        "username": "ukinchina",
+        "verified": true
+      }
+    ]
+  }
+}

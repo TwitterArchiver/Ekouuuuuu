@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020861154579603456"
+      ],
+      "media_source_tweet_id": [
+        "2020861158685577452"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2021360703190467041",
+    "created_at": "2026-02-10T23:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T00:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021360703190467041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1979249184499994625",
+          "start": 3,
+          "username": "ReRelove77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/43O08x9IRQ",
+          "end": 39,
+          "expanded_url": "https://x.com/ReRelove77/status/2020861158685577452/photo/1",
+          "media_key": "3_2020861154579603456",
+          "start": 16,
+          "url": "https://t.co/43O08x9IRQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021360703190467041",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1359
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020861158685577452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ReRelove77: https://t.co/43O08x9IRQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 567,
+        "media_key": "3_2020861154579603456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuKg1saYAAOwVg.jpg",
+        "width": 362
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020861154579603456"
+          ],
+          "media_source_tweet_id": [
+            "2020861158685577452"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2021360703190467041",
+        "created_at": "2026-02-10T23:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T00:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021360703190467041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1979249184499994625",
+              "start": 3,
+              "username": "ReRelove77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/43O08x9IRQ",
+              "end": 39,
+              "expanded_url": "https://x.com/ReRelove77/status/2020861158685577452/photo/1",
+              "media_key": "3_2020861154579603456",
+              "start": 16,
+              "url": "https://t.co/43O08x9IRQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021360703190467041",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1359
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020861158685577452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ReRelove77: https://t.co/43O08x9IRQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020861154579603456"
+          ]
+        },
+        "author_id": "1979249184499994625",
+        "conversation_id": "2020861158685577452",
+        "created_at": "2026-02-09T14:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020861158685577452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/43O08x9IRQ",
+              "end": 23,
+              "expanded_url": "https://x.com/ReRelove77/status/2020861158685577452/photo/1",
+              "media_key": "3_2020861154579603456",
+              "start": 0,
+              "url": "https://t.co/43O08x9IRQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020861158685577452",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1613,
+          "impression_count": 205872,
+          "like_count": 13062,
+          "quote_count": 138,
+          "reply_count": 8,
+          "retweet_count": 1359
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/43O08x9IRQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 248,
+          "like_count": 8303,
+          "listed_count": 1,
+          "media_count": 340,
+          "tweet_count": 2086
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T18:12:42.000Z",
+        "description": "絵を描きます　@nyo111nyan(生活アカウント)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "nyo111nyan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/2ln41ryrfahgl9…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/2ln41ryrfahgl9n?t=BaGIfg&utm_medium=url_text&utm_source=promoti",
+                "start": 0,
+                "url": "https://t.co/SYCAhOJAXe"
+              }
+            ]
+          }
+        },
+        "id": "1979249184499994625",
+        "location": "ヨウコ・ヒナコ",
+        "name": "陽子",
+        "pinned_tweet_id": "2020861158685577452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021040528775839744/HVNFfqc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 148,
+          "like_count": 20822,
+          "listed_count": 8,
+          "media_count": 159,
+          "tweet_count": 3852
+        },
+        "url": "https://t.co/SYCAhOJAXe",
+        "username": "ReRelove77",
+        "verified": false
+      }
+    ]
+  }
+}

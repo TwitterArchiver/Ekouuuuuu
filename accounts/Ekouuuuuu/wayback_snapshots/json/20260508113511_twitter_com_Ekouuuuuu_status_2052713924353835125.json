@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052660422726336512"
+      ],
+      "media_source_tweet_id": [
+        "2052660485879955485"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2052713924353835125",
+    "created_at": "2026-05-08T11:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052713924353835125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1649352789544534016",
+          "start": 3,
+          "username": "4kill_n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D1ijc5nJpZ",
+          "end": 36,
+          "expanded_url": "https://x.com/4kill_n/status/2052660485879955485/video/1",
+          "media_key": "13_2052660422726336512",
+          "start": 13,
+          "url": "https://t.co/D1ijc5nJpZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052713924353835125",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052660485879955485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4kill_n: https://t.co/D1ijc5nJpZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18466,
+        "height": 960,
+        "media_key": "13_2052660422726336512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052660422726336512/img/lf1y1qOBZGNbIxcU.jpg",
+        "public_metrics": {
+          "view_count": 667
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052660422726336512/vid/avc1/320x426/msHzaemGAEibvsnC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052660422726336512/vid/avc1/480x640/h14pgw4Xfitp9hay.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052660422726336512/vid/avc1/720x960/0vjFoOnKAckcamw9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052660422726336512/pl/7Gk9gevt2_8NCDkI.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052660422726336512"
+          ],
+          "media_source_tweet_id": [
+            "2052660485879955485"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052713924353835125",
+        "created_at": "2026-05-08T11:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052713924353835125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1649352789544534016",
+              "start": 3,
+              "username": "4kill_n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D1ijc5nJpZ",
+              "end": 36,
+              "expanded_url": "https://x.com/4kill_n/status/2052660485879955485/video/1",
+              "media_key": "13_2052660422726336512",
+              "start": 13,
+              "url": "https://t.co/D1ijc5nJpZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052713924353835125",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052660485879955485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4kill_n: https://t.co/D1ijc5nJpZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052660422726336512"
+          ]
+        },
+        "author_id": "1649352789544534016",
+        "conversation_id": "2052660485879955485",
+        "created_at": "2026-05-08T08:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052660485879955485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D1ijc5nJpZ",
+              "end": 23,
+              "expanded_url": "https://x.com/4kill_n/status/2052660485879955485/video/1",
+              "media_key": "13_2052660422726336512",
+              "start": 0,
+              "url": "https://t.co/D1ijc5nJpZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052660485879955485",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2832,
+          "like_count": 285,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/D1ijc5nJpZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "我還想和你談論宇宙和天空‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2051776082542825551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 297,
+          "like_count": 11834,
+          "listed_count": 1,
+          "media_count": 483,
+          "tweet_count": 2922
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T10:02:12.000Z",
+        "description": "@44jester",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "44jester"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/HT5Z5BBD2SD5?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/jOmjExX5Tj"
+              }
+            ]
+          }
+        },
+        "id": "1649352789544534016",
+        "name": "⁴𝔨𝔦𝔩𝔩",
+        "pinned_tweet_id": "2008491992549126609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017252273949458432/13hmKH95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4842,
+          "following_count": 0,
+          "like_count": 6823,
+          "listed_count": 21,
+          "media_count": 270,
+          "tweet_count": 719
+        },
+        "url": "https://t.co/jOmjExX5Tj",
+        "username": "4kill_n",
+        "verified": false
+      }
+    ]
+  }
+}

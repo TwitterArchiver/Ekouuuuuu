@@ -1,0 +1,583 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2002726242945253544",
+    "created_at": "2025-12-21T13:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T14:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002726242945253544"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "大野ツクヨ",
+          "probability": 0.7553,
+          "start": 41,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "後藤彩佐"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1237586987969687555",
+          "start": 3,
+          "username": "Blue_ArchiveJP"
+        },
+        {
+          "end": 104,
+          "id": "1237586987969687555",
+          "start": 89,
+          "username": "Blue_ArchiveJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002726242945253544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15357
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002650581496934419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Blue_ArchiveJP: 💎ブルアカプレゼントキャンペーン💎\n\n大野ツクヨ(ドレス)役 #後藤彩佐 さんのサイン入り色紙を抽選で1名様にプレゼント！\n\n🔹応募方法\n@Blue_ArchiveJP をフォロー！\nこのポストをRP🔁で応募！\n\n🔹締め切り\n12月28日…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_2002650564279365632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8rYE-UbcAAmODW.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2002726242945253544",
+        "created_at": "2025-12-21T13:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T14:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002726242945253544"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "大野ツクヨ",
+              "probability": 0.7553,
+              "start": 41,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "後藤彩佐"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1237586987969687555",
+              "start": 3,
+              "username": "Blue_ArchiveJP"
+            },
+            {
+              "end": 104,
+              "id": "1237586987969687555",
+              "start": 89,
+              "username": "Blue_ArchiveJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002726242945253544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15357
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002650581496934419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Blue_ArchiveJP: 💎ブルアカプレゼントキャンペーン💎\n\n大野ツクヨ(ドレス)役 #後藤彩佐 さんのサイン入り色紙を抽選で1名様にプレゼント！\n\n🔹応募方法\n@Blue_ArchiveJP をフォロー！\nこのポストをRP🔁で応募！\n\n🔹締め切り\n12月28日…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002650564279365632"
+          ]
+        },
+        "author_id": "1237586987969687555",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2002650581496934419",
+        "created_at": "2025-12-21T08:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T09:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002650581496934419"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "大野ツクヨ",
+              "probability": 0.7968,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "後藤彩佐"
+            },
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "ブルアカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 84,
+              "id": "1237586987969687555",
+              "start": 69,
+              "username": "Blue_ArchiveJP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dzXrtnfLwY",
+              "end": 160,
+              "expanded_url": "https://x.com/Blue_ArchiveJP/status/2002650581496934419/photo/1",
+              "media_key": "3_2002650564279365632",
+              "start": 137,
+              "url": "https://t.co/dzXrtnfLwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002650581496934419",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 221,
+          "impression_count": 302172,
+          "like_count": 9148,
+          "quote_count": 22,
+          "reply_count": 85,
+          "retweet_count": 15357
+        },
+        "reply_settings": "everyone",
+        "text": "💎ブルアカプレゼントキャンペーン💎\n\n大野ツクヨ(ドレス)役 #後藤彩佐 さんのサイン入り色紙を抽選で1名様にプレゼント！\n\n🔹応募方法\n@Blue_ArchiveJP をフォロー！\nこのポストをRP🔁で応募！\n\n🔹締め切り\n12月28日(日)23:59まで\n\n#ブルアカ https://t.co/dzXrtnfLwY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2002371651392929813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 186,
+          "like_count": 4795,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 757
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-11T03:51:59.000Z",
+        "description": "Yostar&NEXON Gamesが贈る学園×青春×物語RPGアプリ『ブルーアーカイブ 』公式X (旧Twitter)です。 ゲーム内最新情報やキヴォトスの出来事などを、私、アロナがお届けします！お問い合わせ・ご要望はこちら：https://t.co/Q6PjW5shFw #ブルアカ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 143,
+                "start": 138,
+                "tag": "ブルアカ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/3t88nyr",
+                "end": 137,
+                "expanded_url": "http://bit.ly/3t88nyr",
+                "start": 114,
+                "url": "https://t.co/Q6PjW5shFw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluearchive.jp",
+                "end": 23,
+                "expanded_url": "https://bluearchive.jp/",
+                "start": 0,
+                "url": "https://t.co/q9A85kccSv"
+              }
+            ]
+          }
+        },
+        "id": "1237586987969687555",
+        "location": "シッテムの箱",
+        "name": "ブルーアーカイブ公式",
+        "pinned_tweet_id": "2002334033167212792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686315947550965760/9JfkH8rT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341076,
+          "following_count": 185,
+          "like_count": 663,
+          "listed_count": 6977,
+          "media_count": 4571,
+          "tweet_count": 7061
+        },
+        "url": "https://t.co/q9A85kccSv",
+        "username": "Blue_ArchiveJP",
+        "verified": true
+      }
+    ]
+  }
+}

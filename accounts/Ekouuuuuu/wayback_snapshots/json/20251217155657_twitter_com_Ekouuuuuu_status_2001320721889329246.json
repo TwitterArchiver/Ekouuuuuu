@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2001320721889329246",
+    "created_at": "2025-12-17T15:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T16:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001320721889329246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1960187829687885824",
+          "start": 3,
+          "username": "huaxuejilebaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001320721889329246",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001122641072263440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huaxuejilebaike: 你能拿得出手的幸福也就一堆沒用的聊天截图了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2001320721889329246",
+        "created_at": "2025-12-17T15:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T16:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001320721889329246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1960187829687885824",
+              "start": 3,
+              "username": "huaxuejilebaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001320721889329246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001122641072263440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huaxuejilebaike: 你能拿得出手的幸福也就一堆沒用的聊天截图了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960187829687885824",
+        "conversation_id": "2001122641072263440",
+        "created_at": "2025-12-17T02:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T03:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001122641072263440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001122641072263440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1632,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你能拿得出手的幸福也就一堆沒用的聊天截图了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 181,
+          "like_count": 4421,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 651
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/ZQnAUQt63U\n交流群:https://t.co/FvFWw9Jk8E\nDC交流群：https://t.co/JtSA2uwb28\n社区:https://t.co/JwQ9mOTHUy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/ZQnAUQt63U"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/FvFWw9Jk8E"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/JtSA2uwb28"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 113,
+                "expanded_url": "https://pr80.bid/",
+                "start": 90,
+                "url": "https://t.co/JwQ9mOTHUy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/DM4fmdhdkn"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "化学极乐百科🍥",
+        "pinned_tweet_id": "1996947939554648081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995690033203003393/TErFGW0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4679,
+          "following_count": 1474,
+          "like_count": 948,
+          "listed_count": 3,
+          "media_count": 269,
+          "tweet_count": 1641
+        },
+        "url": "https://t.co/DM4fmdhdkn",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

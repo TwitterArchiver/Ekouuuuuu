@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2023059332481617920"
+      ],
+      "media_source_tweet_id": [
+        "2023059343692939719"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2023261583250690195",
+    "created_at": "2026-02-16T05:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T06:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023261583250690195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "349054800",
+          "start": 3,
+          "username": "nyalra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iPincCYgdP",
+          "end": 35,
+          "expanded_url": "https://x.com/nyalra/status/2023059343692939719/photo/1",
+          "media_key": "16_2023059332481617920",
+          "start": 12,
+          "url": "https://t.co/iPincCYgdP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023261583250690195",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 891
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023059343692939719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyalra: https://t.co/iPincCYgdP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "16_2023059332481617920",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBNZvogbEAALptW.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBNZvogbEAALptW.mp4"
+          }
+        ],
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2023059332481617920"
+          ],
+          "media_source_tweet_id": [
+            "2023059343692939719"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2023261583250690195",
+        "created_at": "2026-02-16T05:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023261583250690195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "349054800",
+              "start": 3,
+              "username": "nyalra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iPincCYgdP",
+              "end": 35,
+              "expanded_url": "https://x.com/nyalra/status/2023059343692939719/photo/1",
+              "media_key": "16_2023059332481617920",
+              "start": 12,
+              "url": "https://t.co/iPincCYgdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023261583250690195",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 891
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023059343692939719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyalra: https://t.co/iPincCYgdP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2023059332481617920"
+          ]
+        },
+        "author_id": "349054800",
+        "conversation_id": "2023059343692939719",
+        "created_at": "2026-02-15T15:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023059343692939719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iPincCYgdP",
+              "end": 23,
+              "expanded_url": "https://x.com/nyalra/status/2023059343692939719/photo/1",
+              "media_key": "16_2023059332481617920",
+              "start": 0,
+              "url": "https://t.co/iPincCYgdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023059343692939719",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 40345,
+          "like_count": 4523,
+          "quote_count": 17,
+          "reply_count": 17,
+          "retweet_count": 891
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iPincCYgdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 247,
+          "like_count": 8499,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 2193
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-05T13:27:45.000Z",
+        "description": "・English Discord: https://t.co/fJc4u1ozhY ・JP Discord: https://t.co/NcOBRGMgpH ・English blog: https://t.co/gjbksg56Kf ・Game: https://t.co/X1H8te4zM9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/3NtruU94pt",
+                "end": 41,
+                "expanded_url": "http://discord.gg/3NtruU94pt",
+                "start": 18,
+                "url": "https://t.co/fJc4u1ozhY"
+              },
+              {
+                "display_url": "discord.gg/gqtE3qT2N5",
+                "end": 78,
+                "expanded_url": "http://discord.gg/gqtE3qT2N5",
+                "start": 55,
+                "url": "https://t.co/NcOBRGMgpH"
+              },
+              {
+                "display_url": "hazedenki.net",
+                "end": 117,
+                "expanded_url": "http://hazedenki.net",
+                "start": 94,
+                "url": "https://t.co/gjbksg56Kf"
+              },
+              {
+                "display_url": "store.steampowered.com/app/4240150/_/",
+                "end": 148,
+                "expanded_url": "http://store.steampowered.com/app/4240150/_/",
+                "start": 125,
+                "url": "https://t.co/X1H8te4zM9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyalra.net",
+                "end": 23,
+                "expanded_url": "https://nyalra.net",
+                "start": 0,
+                "url": "https://t.co/2RlDkCVQ1o"
+              }
+            ]
+          }
+        },
+        "id": "349054800",
+        "name": "nyalra",
+        "pinned_tweet_id": "2005988774371864634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806370210762657792/GjnpN4qn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158588,
+          "following_count": 666,
+          "like_count": 384968,
+          "listed_count": 1109,
+          "media_count": 4095,
+          "tweet_count": 42611
+        },
+        "url": "https://t.co/2RlDkCVQ1o",
+        "username": "nyalra",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991773784215568384",
+        "3_1991773791949844484"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1991773794898436278",
+    "created_at": "2025-11-21T07:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T08:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991773794898436278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8tan3BhHQ8",
+          "end": 29,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1991773794898436278/photo/1",
+          "media_key": "3_1991773784215568384",
+          "start": 6,
+          "url": "https://t.co/8tan3BhHQ8"
+        },
+        {
+          "display_url": "pic.x.com/8tan3BhHQ8",
+          "end": 29,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1991773794898436278/photo/1",
+          "media_key": "3_1991773791949844484",
+          "start": 6,
+          "url": "https://t.co/8tan3BhHQ8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991773794898436278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "給大佬點煙 https://t.co/8tan3BhHQ8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 324,
+        "media_key": "3_1991773784215568384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6QztDEawAAeMl8.jpg",
+        "width": 488
+      },
+      {
+        "height": 1367,
+        "media_key": "3_1991773791949844484",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Qztf4acAQLyGK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991773784215568384",
+            "3_1991773791949844484"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1991773794898436278",
+        "created_at": "2025-11-21T07:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T08:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991773794898436278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8tan3BhHQ8",
+              "end": 29,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1991773794898436278/photo/1",
+              "media_key": "3_1991773784215568384",
+              "start": 6,
+              "url": "https://t.co/8tan3BhHQ8"
+            },
+            {
+              "display_url": "pic.x.com/8tan3BhHQ8",
+              "end": 29,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1991773794898436278/photo/1",
+              "media_key": "3_1991773791949844484",
+              "start": 6,
+              "url": "https://t.co/8tan3BhHQ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991773794898436278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "給大佬點煙 https://t.co/8tan3BhHQ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "還要多久 我才能在你身邊",
+        "id": "1912063502782812160",
+        "location": "我最想選的肩膀又是否願意與我同心",
+        "name": "白菜_Satsuki🍏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991377630818627588/tGgmPGTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 44,
+          "like_count": 2667,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 115
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009993404676272128"
+      ],
+      "media_source_tweet_id": [
+        "2009993410414027232"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2010341469664706848",
+    "created_at": "2026-01-11T13:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T14:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010341469664706848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1370002126445834240",
+          "start": 3,
+          "username": "8quuu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZFdcd9AaKn",
+          "end": 41,
+          "expanded_url": "https://x.com/8quuu_/status/2009993410414027232/photo/1",
+          "media_key": "3_2009993404676272128",
+          "start": 18,
+          "url": "https://t.co/ZFdcd9AaKn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010341469664706848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 877
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009993410414027232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8quuu_: メイドさん https://t.co/ZFdcd9AaKn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009993404676272128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-TuWiabcAAt8bs.jpg",
+        "width": 1450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009993404676272128"
+          ],
+          "media_source_tweet_id": [
+            "2009993410414027232"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2010341469664706848",
+        "created_at": "2026-01-11T13:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010341469664706848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1370002126445834240",
+              "start": 3,
+              "username": "8quuu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZFdcd9AaKn",
+              "end": 41,
+              "expanded_url": "https://x.com/8quuu_/status/2009993410414027232/photo/1",
+              "media_key": "3_2009993404676272128",
+              "start": 18,
+              "url": "https://t.co/ZFdcd9AaKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010341469664706848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 877
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009993410414027232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8quuu_: メイドさん https://t.co/ZFdcd9AaKn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009993404676272128"
+          ]
+        },
+        "author_id": "1370002126445834240",
+        "conversation_id": "2009993410414027232",
+        "created_at": "2026-01-10T14:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T15:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009993410414027232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZFdcd9AaKn",
+              "end": 29,
+              "expanded_url": "https://x.com/8quuu_/status/2009993410414027232/photo/1",
+              "media_key": "3_2009993404676272128",
+              "start": 6,
+              "url": "https://t.co/ZFdcd9AaKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009993410414027232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 928,
+          "impression_count": 111931,
+          "like_count": 11726,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 877
+        },
+        "reply_settings": "everyone",
+        "text": "メイドさん https://t.co/ZFdcd9AaKn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖藥物依賴‖尼古丁依賴‖N₂O依賴‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 111,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 88,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 209,
+          "like_count": 6166,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1148
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-11T13:22:25.000Z",
+        "description": "illust  ⵂ はねるⵂ名前を呼ばれるとしっぽをふります",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hanerudayo.booth.pm",
+                "end": 23,
+                "expanded_url": "https://hanerudayo.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/tetnI4ztqV"
+              }
+            ]
+          }
+        },
+        "id": "1370002126445834240",
+        "location": "通知OFF🔕Thank you✉️  HEIM",
+        "name": "HQu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006929482595364864/AXp14iYj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92268,
+          "following_count": 20,
+          "like_count": 1306,
+          "listed_count": 595,
+          "media_count": 158,
+          "tweet_count": 1240
+        },
+        "url": "https://t.co/tetnI4ztqV",
+        "username": "8quuu_",
+        "verified": true
+      }
+    ]
+  }
+}

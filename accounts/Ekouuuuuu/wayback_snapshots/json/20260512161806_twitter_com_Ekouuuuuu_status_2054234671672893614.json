@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2054145947391922443",
+    "created_at": "2026-05-12T16:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054234671672893614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1914611702747779072",
+          "start": 0,
+          "username": "nox8964"
+        },
+        {
+          "end": 20,
+          "id": "1153970326604144640",
+          "start": 9,
+          "username": "Ruters0615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054234671672893614",
+    "in_reply_to_user_id": "1914611702747779072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054192930496077973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nox8964 @Ruters0615 這期神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2054145947391922443",
+        "created_at": "2026-05-12T16:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054234671672893614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1914611702747779072",
+              "start": 0,
+              "username": "nox8964"
+            },
+            {
+              "end": 20,
+              "id": "1153970326604144640",
+              "start": 9,
+              "username": "Ruters0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054234671672893614",
+        "in_reply_to_user_id": "1914611702747779072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054192930496077973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nox8964 @Ruters0615 這期神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914611702747779072",
+        "conversation_id": "2054145947391922443",
+        "created_at": "2026-05-12T13:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054192930496077973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1153970326604144640",
+              "start": 0,
+              "username": "Ruters0615"
+            },
+            {
+              "end": 22,
+              "id": "1912063502782812160",
+              "start": 12,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054192930496077973",
+        "in_reply_to_user_id": "1153970326604144640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054145947391922443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruters0615 @Ekouuuuuu 怎么还搞阴阳两隔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "她說她停不下這瘋狂‖最好的閨蜜@seeFvn‖最愛的男友@Shiroko_Li‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "seeFvn"
+              },
+              {
+                "end": 39,
+                "start": 28,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼8964",
+        "pinned_tweet_id": "2051776082542825551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 295,
+          "like_count": 12248,
+          "listed_count": 1,
+          "media_count": 507,
+          "tweet_count": 3053
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T09:26:32.000Z",
+        "description": "Ost von Berlin｜enby｜Social liberalism｜德语🇩🇪学习中｜Liberté, égalité, fraternité🇫🇷｜你喜欢我＝我喜欢你｜逃避现实通道：@saki8964\n叫我小夜就可以了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "saki8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asukayeyezi",
+                "end": 23,
+                "expanded_url": "http://t.me/asukayeyezi",
+                "start": 0,
+                "url": "https://t.co/wdpxB4gr7A"
+              }
+            ]
+          }
+        },
+        "id": "1914611702747779072",
+        "location": "夜深寂靜之時",
+        "name": "⁺✞ʚNachtɞ✟₊🌹🏳️‍⚧️🇩🇪🇪🇺#bot",
+        "pinned_tweet_id": "2039820910442471655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051671133934505989/nMv3aHBL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 658,
+          "like_count": 9398,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 2218
+        },
+        "url": "https://t.co/wdpxB4gr7A",
+        "username": "nox8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T10:09:00.000Z",
+        "description": "官方X账户，国安部最高通缉，专注于乳包反共鬼畜作品，投稿请私信or邮箱投稿：Ruters0615@gmail.com\nTelegram：https://t.co/p6qoFVZxgy\nYouTube：小反旗&小池塘（被国安橄榄过三回啊三回）\nRumble / Spotify：Ruters乳透社",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruters0615",
+                "end": 91,
+                "expanded_url": "http://t.me/Ruters0615",
+                "start": 68,
+                "url": "https://t.co/p6qoFVZxgy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@RutersXiaoFan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@RutersXiaoFanQi",
+                "start": 0,
+                "url": "https://t.co/fxNkDBFEkL"
+              }
+            ]
+          }
+        },
+        "id": "1153970326604144640",
+        "location": "IP属地：梁家河",
+        "name": "Ruters乳透社",
+        "pinned_tweet_id": "2013472422435983458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520784344280748032/gHq_Pfaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297091,
+          "following_count": 2394,
+          "like_count": 2388,
+          "listed_count": 943,
+          "media_count": 2403,
+          "tweet_count": 3200
+        },
+        "url": "https://t.co/fxNkDBFEkL",
+        "username": "Ruters0615",
+        "verified": true
+      }
+    ]
+  }
+}

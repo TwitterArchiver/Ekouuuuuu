@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2032035692583497825",
+    "created_at": "2026-03-12T10:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T11:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032035692583497825"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "Aru",
+          "probability": 0.5612,
+          "start": 41,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1606990689987923968",
+          "start": 3,
+          "username": "KingTheGalaxy28"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032035692583497825",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031809063084855592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KingTheGalaxy28: I actually do think Aru is quite intelligent. However she is stuck on her LARP and makes bad decisions for it.\n\nOf cou…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2031809014632218624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDJviKiXAAAROpF.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2032035692583497825",
+        "created_at": "2026-03-12T10:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032035692583497825"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "Aru",
+              "probability": 0.5612,
+              "start": 41,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1606990689987923968",
+              "start": 3,
+              "username": "KingTheGalaxy28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032035692583497825",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031809063084855592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KingTheGalaxy28: I actually do think Aru is quite intelligent. However she is stuck on her LARP and makes bad decisions for it.\n\nOf cou…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031809014632218624"
+          ]
+        },
+        "author_id": "1606990689987923968",
+        "conversation_id": "2031809063084855592",
+        "created_at": "2026-03-11T19:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T20:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031809063084855592"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Aru",
+              "probability": 0.574,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 124,
+              "normalized_text": "Aru",
+              "probability": 0.7033,
+              "start": 122,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AJHiSChm8j",
+              "end": 304,
+              "expanded_url": "https://x.com/KingTheGalaxy28/status/2031809063084855592/photo/1",
+              "media_key": "3_2031809014632218624",
+              "start": 281,
+              "url": "https://t.co/AJHiSChm8j"
+            },
+            {
+              "display_url": "x.com/BrandonRStream…",
+              "end": 328,
+              "expanded_url": "https://twitter.com/BrandonRStreams/status/2031592765482733981",
+              "start": 305,
+              "url": "https://t.co/Kv705mK2gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031809063084855592",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 11484,
+          "like_count": 555,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031592765482733981",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I actually do think Aru is quite intelligent. However she is stuck on her LARP and makes bad decisions for it.\n\nOf course Aru's most amazing trait is that she found three different girls that weren't living up to their full potential and almost casually drew the best out of them! https://t.co/AJHiSChm8j https://t.co/Kv705mK2gu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2032007899732721877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 242,
+          "like_count": 9345,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 2421
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-25T12:30:32.000Z",
+        "description": "King of masochism, anarcho monarchist, handshake enjoyer, Problem Causer 68 and magical girl irl. Kink as my entire personality. I have no pronouns.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KTG28",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KTG28",
+                "start": 0,
+                "url": "https://t.co/V8AEsR7PRy"
+              }
+            ]
+          }
+        },
+        "id": "1606990689987923968",
+        "location": "Chao Garden",
+        "name": "King of The Galaxy",
+        "pinned_tweet_id": "1654084393567125505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017562297380593665/QprRVDhD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 989,
+          "like_count": 142529,
+          "listed_count": 4,
+          "media_count": 16588,
+          "tweet_count": 110653
+        },
+        "url": "https://t.co/V8AEsR7PRy",
+        "username": "KingTheGalaxy28",
+        "verified": false
+      }
+    ]
+  }
+}

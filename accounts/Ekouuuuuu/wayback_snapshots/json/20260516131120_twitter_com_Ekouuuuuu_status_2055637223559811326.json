@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055385074573725696"
+      ],
+      "media_source_tweet_id": [
+        "2055385080189931753"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2055637223559811326",
+    "created_at": "2026-05-16T13:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055637223559811326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1735096464089776128",
+          "start": 3,
+          "username": "xzlqv__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gS5EzOgcZ5",
+          "end": 53,
+          "expanded_url": "https://x.com/xzlqv__/status/2055385080189931753/photo/1",
+          "media_key": "3_2055385074573725696",
+          "start": 30,
+          "url": "https://t.co/gS5EzOgcZ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055637223559811326",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 276
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055385080189931753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xzlqv__: 高校2年生、初テレビデビューした https://t.co/gS5EzOgcZ5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2055385074573725696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYx1d6bUAAchwP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055385074573725696"
+          ],
+          "media_source_tweet_id": [
+            "2055385080189931753"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2055637223559811326",
+        "created_at": "2026-05-16T13:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055637223559811326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1735096464089776128",
+              "start": 3,
+              "username": "xzlqv__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gS5EzOgcZ5",
+              "end": 53,
+              "expanded_url": "https://x.com/xzlqv__/status/2055385080189931753/photo/1",
+              "media_key": "3_2055385074573725696",
+              "start": 30,
+              "url": "https://t.co/gS5EzOgcZ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055637223559811326",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 276
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055385080189931753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xzlqv__: 高校2年生、初テレビデビューした https://t.co/gS5EzOgcZ5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055385074573725696"
+          ]
+        },
+        "author_id": "1735096464089776128",
+        "conversation_id": "2055385080189931753",
+        "created_at": "2026-05-15T20:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T21:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055385080189931753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gS5EzOgcZ5",
+              "end": 40,
+              "expanded_url": "https://x.com/xzlqv__/status/2055385080189931753/photo/1",
+              "media_key": "3_2055385074573725696",
+              "start": 17,
+              "url": "https://t.co/gS5EzOgcZ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055385080189931753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 950,
+          "impression_count": 630727,
+          "like_count": 11692,
+          "quote_count": 97,
+          "reply_count": 68,
+          "retweet_count": 276
+        },
+        "reply_settings": "everyone",
+        "text": "高校2年生、初テレビデビューした https://t.co/gS5EzOgcZ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "她說她停不下這瘋狂‖閨蜜@seeFvn‖老公@Shiroko_Li‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 12,
+                "username": "seeFvn"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake flowers",
+        "pinned_tweet_id": "2054494874192195972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 295,
+          "like_count": 12602,
+          "listed_count": 1,
+          "media_count": 520,
+          "tweet_count": 3162
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-14T00:37:02.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/uawau__?igsh=a…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/uawau__?igsh=aXY3N2x3bHB1MjQy&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/Kgq2yumxdI"
+              }
+            ]
+          }
+        },
+        "id": "1735096464089776128",
+        "name": "苺味塩むすび半額",
+        "pinned_tweet_id": "2046289687988621383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895835912199659520/_G6nDB7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2992,
+          "following_count": 35,
+          "like_count": 913,
+          "listed_count": 12,
+          "media_count": 29,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/Kgq2yumxdI",
+        "username": "xzlqv__",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,573 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994284269385207810"
+      ],
+      "media_source_tweet_id": [
+        "1994315324339216540"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1994582055351681415",
+    "created_at": "2025-11-29T01:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T02:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994582055351681415"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "ヤクモちゃん",
+          "probability": 0.6671,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "ブルアカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "919200308441464832",
+          "start": 3,
+          "username": "Hosinonana7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fJeeSUhF0L",
+          "end": 56,
+          "expanded_url": "https://x.com/Hosinonana7/status/1994315324339216540/photo/1",
+          "media_key": "3_1994284269385207810",
+          "start": 33,
+          "url": "https://t.co/fJeeSUhF0L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994582055351681415",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 368
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994315324339216540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hosinonana7: ヤクモちゃん⚙️\n #ブルアカ https://t.co/fJeeSUhF0L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_1994284269385207810",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60e-hHa0AIjVgz.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994284269385207810"
+          ],
+          "media_source_tweet_id": [
+            "1994315324339216540"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1994582055351681415",
+        "created_at": "2025-11-29T01:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994582055351681415"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "ヤクモちゃん",
+              "probability": 0.6671,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "ブルアカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "919200308441464832",
+              "start": 3,
+              "username": "Hosinonana7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJeeSUhF0L",
+              "end": 56,
+              "expanded_url": "https://x.com/Hosinonana7/status/1994315324339216540/photo/1",
+              "media_key": "3_1994284269385207810",
+              "start": 33,
+              "url": "https://t.co/fJeeSUhF0L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994582055351681415",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 368
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994315324339216540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hosinonana7: ヤクモちゃん⚙️\n #ブルアカ https://t.co/fJeeSUhF0L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994284269385207810"
+          ]
+        },
+        "author_id": "919200308441464832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1994315324339216540",
+        "created_at": "2025-11-28T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994315324339216540"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "ヤクモちゃん",
+              "probability": 0.7349,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "ブルアカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJeeSUhF0L",
+              "end": 39,
+              "expanded_url": "https://x.com/Hosinonana7/status/1994315324339216540/photo/1",
+              "media_key": "3_1994284269385207810",
+              "start": 16,
+              "url": "https://t.co/fJeeSUhF0L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994315324339216540",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 25331,
+          "like_count": 2984,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 368
+        },
+        "reply_settings": "everyone",
+        "text": "ヤクモちゃん⚙️\n #ブルアカ https://t.co/fJeeSUhF0L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 2938,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 260
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-14T13:56:46.000Z",
+        "description": "🖊ご依頼受付中🖊イラストレーター、様々なキャラ姿を描いてます。最近、お絵かきVTuberも始めました♫毎日楽しく投稿頑張ってるので応援してね！よろしくお願いなのです🙏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/hoshinonana7",
+                "end": 23,
+                "expanded_url": "https://lit.link/hoshinonana7",
+                "start": 0,
+                "url": "https://t.co/5lBQOvFNYe"
+              }
+            ]
+          }
+        },
+        "id": "919200308441464832",
+        "location": "日本",
+        "name": "ホシノナナ（くん)🚹",
+        "pinned_tweet_id": "1984514913444970529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784744674563174400/sB3MXapl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15805,
+          "following_count": 1897,
+          "like_count": 61224,
+          "listed_count": 133,
+          "media_count": 2515,
+          "tweet_count": 32456
+        },
+        "url": "https://t.co/5lBQOvFNYe",
+        "username": "Hosinonana7",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,524 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021148683836788738",
+        "3_2021148692049203200"
+      ],
+      "media_source_tweet_id": [
+        "2021148970920104316",
+        "2021148970920104316"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "2021361500603183491",
+    "created_at": "2026-02-10T23:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T00:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021361500603183491"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "AME CHAN",
+          "probability": 0.5656,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1282221662704992256",
+          "start": 3,
+          "username": "Yokkishai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M4TP7hZQgb",
+          "end": 88,
+          "expanded_url": "https://x.com/Yokkishai/status/2021148970920104316/photo/1",
+          "media_key": "3_2021148683836788738",
+          "start": 65,
+          "url": "https://t.co/M4TP7hZQgb"
+        },
+        {
+          "display_url": "pic.x.com/M4TP7hZQgb",
+          "end": 88,
+          "expanded_url": "https://x.com/Yokkishai/status/2021148970920104316/photo/1",
+          "media_key": "3_2021148692049203200",
+          "start": 65,
+          "url": "https://t.co/M4TP7hZQgb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021361500603183491",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 756
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021148970920104316",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yokkishai: AME CHAN'S MOM?!? Are we getting a origin story?! https://t.co/M4TP7hZQgb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 980,
+        "media_key": "3_2021148683836788738",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAyQBPpXEAIagJQ.jpg",
+        "width": 1434
+      },
+      {
+        "height": 709,
+        "media_key": "3_2021148692049203200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAyQBuPWkAAc_jc.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021148683836788738",
+            "3_2021148692049203200"
+          ],
+          "media_source_tweet_id": [
+            "2021148970920104316",
+            "2021148970920104316"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2021361500603183491",
+        "created_at": "2026-02-10T23:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T00:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021361500603183491"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "AME CHAN",
+              "probability": 0.5656,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1282221662704992256",
+              "start": 3,
+              "username": "Yokkishai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M4TP7hZQgb",
+              "end": 88,
+              "expanded_url": "https://x.com/Yokkishai/status/2021148970920104316/photo/1",
+              "media_key": "3_2021148683836788738",
+              "start": 65,
+              "url": "https://t.co/M4TP7hZQgb"
+            },
+            {
+              "display_url": "pic.x.com/M4TP7hZQgb",
+              "end": 88,
+              "expanded_url": "https://x.com/Yokkishai/status/2021148970920104316/photo/1",
+              "media_key": "3_2021148692049203200",
+              "start": 65,
+              "url": "https://t.co/M4TP7hZQgb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021361500603183491",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 756
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021148970920104316",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yokkishai: AME CHAN'S MOM?!? Are we getting a origin story?! https://t.co/M4TP7hZQgb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021148683836788738",
+            "3_2021148692049203200"
+          ]
+        },
+        "author_id": "1282221662704992256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2021148970920104316",
+        "created_at": "2026-02-10T09:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T10:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021148970920104316"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "AME CHAN",
+              "probability": 0.9005,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M4TP7hZQgb",
+              "end": 73,
+              "expanded_url": "https://x.com/Yokkishai/status/2021148970920104316/photo/1",
+              "media_key": "3_2021148683836788738",
+              "start": 50,
+              "url": "https://t.co/M4TP7hZQgb"
+            },
+            {
+              "display_url": "pic.x.com/M4TP7hZQgb",
+              "end": 73,
+              "expanded_url": "https://x.com/Yokkishai/status/2021148970920104316/photo/1",
+              "media_key": "3_2021148692049203200",
+              "start": 50,
+              "url": "https://t.co/M4TP7hZQgb"
+            },
+            {
+              "display_url": "x.com/needygirl_anim…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/needygirl_anime/status/2021147127074742695",
+              "start": 74,
+              "url": "https://t.co/AAMOCjUko0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021148970920104316",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 569,
+          "impression_count": 102473,
+          "like_count": 6250,
+          "quote_count": 63,
+          "reply_count": 6,
+          "retweet_count": 756
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021147127074742695",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AME CHAN'S MOM?!? Are we getting a origin story?! https://t.co/M4TP7hZQgb https://t.co/AAMOCjUko0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 248,
+          "like_count": 8313,
+          "listed_count": 1,
+          "media_count": 341,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-12T07:54:08.000Z",
+        "description": "Menhera internet angel vtuber thingy with the mental baggage and anxiety of a mountain 💜🪽 |  18+ 🔞 | Loves NGO, horror, and old internet | 🎨 #yokkiart",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 150,
+                "start": 141,
+                "tag": "yokkiart"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/h43vh5B",
+                "end": 23,
+                "expanded_url": "https://discord.gg/h43vh5B",
+                "start": 0,
+                "url": "https://t.co/GgS5Di0Bvm"
+              }
+            ]
+          }
+        },
+        "id": "1282221662704992256",
+        "location": "The Wired",
+        "name": "Yokkishai 💜💊",
+        "pinned_tweet_id": "1990735906089676979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011364425912254464/gvcuLN7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6290,
+          "following_count": 699,
+          "like_count": 28367,
+          "listed_count": 5,
+          "media_count": 2240,
+          "tweet_count": 11404
+        },
+        "url": "https://t.co/GgS5Di0Bvm",
+        "username": "Yokkishai",
+        "verified": true
+      }
+    ]
+  }
+}

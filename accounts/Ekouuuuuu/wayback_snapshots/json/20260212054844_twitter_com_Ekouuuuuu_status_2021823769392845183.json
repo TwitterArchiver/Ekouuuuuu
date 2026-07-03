@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021583248904843264"
+      ],
+      "media_source_tweet_id": [
+        "2021583254751437197"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2021823769392845183",
+    "created_at": "2026-02-12T05:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T06:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021823769392845183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1261285141197885440",
+          "start": 3,
+          "username": "strong__neco"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CSZHAxDLgv",
+          "end": 44,
+          "expanded_url": "https://x.com/strong__neco/status/2021583254751437197/photo/1",
+          "media_key": "3_2021583248904843264",
+          "start": 21,
+          "url": "https://t.co/CSZHAxDLgv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021823769392845183",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021583254751437197",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @strong__neco: ໒꒱ https://t.co/CSZHAxDLgv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021583248904843264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4bQQracAA4yJa.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021583248904843264"
+          ],
+          "media_source_tweet_id": [
+            "2021583254751437197"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2021823769392845183",
+        "created_at": "2026-02-12T05:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T06:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021823769392845183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1261285141197885440",
+              "start": 3,
+              "username": "strong__neco"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CSZHAxDLgv",
+              "end": 44,
+              "expanded_url": "https://x.com/strong__neco/status/2021583254751437197/photo/1",
+              "media_key": "3_2021583248904843264",
+              "start": 21,
+              "url": "https://t.co/CSZHAxDLgv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021823769392845183",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021583254751437197",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @strong__neco: ໒꒱ https://t.co/CSZHAxDLgv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021583248904843264"
+          ]
+        },
+        "author_id": "1261285141197885440",
+        "conversation_id": "2021583254751437197",
+        "created_at": "2026-02-11T13:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T14:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021583254751437197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CSZHAxDLgv",
+              "end": 26,
+              "expanded_url": "https://x.com/strong__neco/status/2021583254751437197/photo/1",
+              "media_key": "3_2021583248904843264",
+              "start": 3,
+              "url": "https://t.co/CSZHAxDLgv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021583254751437197",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2390,
+          "like_count": 239,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "໒꒱ https://t.co/CSZHAxDLgv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 249,
+          "like_count": 8397,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 2123
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T13:19:54.000Z",
+        "description": "ねこ吸う！囧（ご依頼受付中！）https://t.co/APvpGC4QD8 / https://t.co/9euJJydik2 /サブ！@XNOYG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 69,
+                "username": "XNOYG"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@strong__neco",
+                "end": 38,
+                "expanded_url": "https://skeb.jp/@strong__neco",
+                "start": 15,
+                "url": "https://t.co/APvpGC4QD8"
+              },
+              {
+                "display_url": "lit.link/XNOYG",
+                "end": 64,
+                "expanded_url": "https://lit.link/XNOYG",
+                "start": 41,
+                "url": "https://t.co/9euJJydik2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/3d5il7tju8uvx5…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/3d5il7tju8uvx50?t=Cd3xLj&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/ERoMZAA6wJ"
+              }
+            ]
+          }
+        },
+        "id": "1261285141197885440",
+        "name": "総長",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926233536291311617/mf2fVVb8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5971,
+          "following_count": 96,
+          "like_count": 15680,
+          "listed_count": 28,
+          "media_count": 75,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/ERoMZAA6wJ",
+        "username": "strong__neco",
+        "verified": false
+      }
+    ]
+  }
+}

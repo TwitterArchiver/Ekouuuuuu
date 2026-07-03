@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2014382813743874110",
+    "created_at": "2026-01-22T17:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T18:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014389500437528648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1504630614578073600",
+          "start": 0,
+          "username": "yunxvan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014389500437528648",
+    "in_reply_to_user_id": "1504630614578073600",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014382813743874110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunxvan1 💞💞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2014382813743874110",
+        "created_at": "2026-01-22T17:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T18:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014389500437528648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1504630614578073600",
+              "start": 0,
+              "username": "yunxvan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014389500437528648",
+        "in_reply_to_user_id": "1504630614578073600",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014382813743874110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunxvan1 💞💞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504630614578073600",
+        "conversation_id": "2014382813743874110",
+        "created_at": "2026-01-22T17:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T18:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014382813743874110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014382813743874110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😭😭😭😭谢谢小U宝宝谢谢白菜宝宝呜呜呜呜😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖友LGBT‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6U23",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 80,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 57,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 226,
+          "like_count": 6825,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1465
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T01:27:56.000Z",
+        "description": "我是圣诞帽 查成分互fo 性格很烂 想交朋友 喜欢挂人",
+        "id": "1504630614578073600",
+        "location": "冰岛",
+        "name": "萌过奶龙的女孩",
+        "pinned_tweet_id": "2002250159384899692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003097612799598592/tpc5iV9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 674,
+          "like_count": 6121,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 721
+        },
+        "username": "yunxvan1",
+        "verified": false
+      }
+    ]
+  }
+}

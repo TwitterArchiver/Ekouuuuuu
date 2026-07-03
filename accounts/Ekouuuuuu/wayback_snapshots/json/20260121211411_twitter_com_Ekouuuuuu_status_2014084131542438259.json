@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014084128707137536"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2014084131542438259",
+    "created_at": "2026-01-21T21:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T22:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014084131542438259"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MwKRcynn51",
+          "end": 31,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2014084131542438259/photo/1",
+          "media_key": "3_2014084128707137536",
+          "start": 8,
+          "url": "https://t.co/MwKRcynn51"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014084131542438259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "煙 抽不完的煙 https://t.co/MwKRcynn51"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014084128707137536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_N22A9XUAAFZGq.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014084128707137536"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2014084131542438259",
+        "created_at": "2026-01-21T21:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T22:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014084131542438259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MwKRcynn51",
+              "end": 31,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2014084131542438259/photo/1",
+              "media_key": "3_2014084128707137536",
+              "start": 8,
+              "url": "https://t.co/MwKRcynn51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014084131542438259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "煙 抽不完的煙 https://t.co/MwKRcynn51"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 74,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 51,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 227,
+          "like_count": 6707,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 1372
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

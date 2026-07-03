@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1998385526253249002",
+    "created_at": "2025-12-09T13:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T14:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998385526253249002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600287222183661568",
+          "start": 3,
+          "username": "502_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998385526253249002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998221700648083901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @502_8964: 操你妈的一群傻逼天天喊自己没钱然后隔两天出个cos大全套出来，每天喝八块钱一罐的魔爪穿一套几百块的地雷女衣服用着几百上千的化妆品，这没钱在哪了我真请问"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1998385526253249002",
+        "created_at": "2025-12-09T13:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998385526253249002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600287222183661568",
+              "start": 3,
+              "username": "502_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998385526253249002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998221700648083901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @502_8964: 操你妈的一群傻逼天天喊自己没钱然后隔两天出个cos大全套出来，每天喝八块钱一罐的魔爪穿一套几百块的地雷女衣服用着几百上千的化妆品，这没钱在哪了我真请问"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600287222183661568",
+        "conversation_id": "1998221700648083901",
+        "created_at": "2025-12-09T02:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T03:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998221700648083901"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998221700648083901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 14430,
+          "like_count": 292,
+          "quote_count": 5,
+          "reply_count": 27,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈的一群傻逼天天喊自己没钱然后隔两天出个cos大全套出来，每天喝八块钱一罐的魔爪穿一套几百块的地雷女衣服用着几百上千的化妆品，这没钱在哪了我真请问"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖近日研究笑氣提純收集中‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997890323276816384/2Kk3argv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 132,
+          "like_count": 3360,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 223
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T00:33:14.000Z",
+        "description": "わからない",
+        "id": "1600287222183661568",
+        "name": "Ai",
+        "pinned_tweet_id": "1993481341468656119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998218928737370112/rNWRgcSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5307,
+          "following_count": 356,
+          "like_count": 13317,
+          "listed_count": 10,
+          "media_count": 567,
+          "tweet_count": 3406
+        },
+        "username": "502_8964",
+        "verified": false
+      }
+    ]
+  }
+}

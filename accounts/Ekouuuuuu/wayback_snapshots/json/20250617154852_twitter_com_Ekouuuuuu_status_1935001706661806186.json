@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935001702937268226"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1935001706661806186",
+    "created_at": "2025-06-17T15:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T16:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935001706661806186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UNYgF1V0F5",
+          "end": 34,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1935001706661806186/photo/1",
+          "media_key": "3_1935001702937268226",
+          "start": 11,
+          "url": "https://t.co/UNYgF1V0F5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935001706661806186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "理发店你赢了（😭😭） https://t.co/UNYgF1V0F5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2024,
+        "media_key": "3_1935001702937268226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtqBy_daEAI2JBr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935001702937268226"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1935001706661806186",
+        "created_at": "2025-06-17T15:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T16:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935001706661806186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UNYgF1V0F5",
+              "end": 34,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1935001706661806186/photo/1",
+              "media_key": "3_1935001702937268226",
+              "start": 11,
+              "url": "https://t.co/UNYgF1V0F5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935001706661806186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "理发店你赢了（😭😭） https://t.co/UNYgF1V0F5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "☘️☘️☘️☘️//〔觉今是而昨非〕//☘️☘️☘️☘️☘️/一想到有錢人過得這麼好就不自覺的挺直了腰捏/打遊戲可以叫上我🥲",
+        "id": "1912063502782812160",
+        "location": "🚪52就能解鎖一根白菜的日常生活）",
+        "name": "一根白菜梗🥬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933223087061024768/NHwQoVVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 32,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 55
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

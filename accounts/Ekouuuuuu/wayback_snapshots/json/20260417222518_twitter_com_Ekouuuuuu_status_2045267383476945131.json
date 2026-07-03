@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2045267383476945131",
+    "created_at": "2026-04-17T22:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T23:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045267383476945131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 35,
+          "id": "1980612830824132609",
+          "start": 28,
+          "username": "seeFvn"
+        },
+        {
+          "end": 49,
+          "id": "2009945300723740673",
+          "start": 38,
+          "username": "Shiroko_Li"
+        }
+      ],
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/ekou_uuuuu",
+          "end": 159,
+          "expanded_url": "https://ngl.link/ekou_uuuuu",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2042383874425307136/dp6XrPGx?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2042383874425307136/dp6XrPGx?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 136,
+          "status": 200,
+          "title": "@ekou_uuuuu: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/ekou_uuuuu",
+          "url": "https://t.co/ZhIvrFlFTg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045267383476945131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "歡迎來到我的主頁！\n叫我白菜就好啦=ᗜωᗜ=\n最好的閨蜜@seefVn、男友@Shiroko_Li\n討厭雪圖/負能量/cosplay的可以直接封鎖我囉◍˃ᵕ˂◍\n我是地雷女\n友OD蛆/LGBTQ+\n我主頁負能量/割腕/cosplay內容超多，我超愛OD，介意的話自行封鎖喔https://t.co/ZhIvrFlFTg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2045267383476945131",
+        "created_at": "2026-04-17T22:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T23:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045267383476945131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1980612830824132609",
+              "start": 28,
+              "username": "seeFvn"
+            },
+            {
+              "end": 49,
+              "id": "2009945300723740673",
+              "start": 38,
+              "username": "Shiroko_Li"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/ekou_uuuuu",
+              "end": 159,
+              "expanded_url": "https://ngl.link/ekou_uuuuu",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2042383874425307136/dp6XrPGx?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2042383874425307136/dp6XrPGx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 136,
+              "status": 200,
+              "title": "@ekou_uuuuu: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/ekou_uuuuu",
+              "url": "https://t.co/ZhIvrFlFTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045267383476945131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歡迎來到我的主頁！\n叫我白菜就好啦=ᗜωᗜ=\n最好的閨蜜@seefVn、男友@Shiroko_Li\n討厭雪圖/負能量/cosplay的可以直接封鎖我囉◍˃ᵕ˂◍\n我是地雷女\n友OD蛆/LGBTQ+\n我主頁負能量/割腕/cosplay內容超多，我超愛OD，介意的話自行封鎖喔https://t.co/ZhIvrFlFTg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "Don't you let me go‖男友@Shiroko_Li‖叫我白菜就好‖日本語がわからない‖三民主義‖🚪2778收錢我就跑路‖查主頁成分我會回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2045267131562860893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 259,
+          "like_count": 10955,
+          "listed_count": 1,
+          "media_count": 440,
+          "tweet_count": 2703
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 469,
+          "like_count": 3156,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1110
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T11:08:17.000Z",
+        "description": "天空没有边界（The sky has no boundaries.）",
+        "id": "2009945300723740673",
+        "location": "平流层",
+        "name": "Shiroko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009958235156164613/l1f0mR6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "Shiroko_Li",
+        "verified": false
+      }
+    ]
+  }
+}

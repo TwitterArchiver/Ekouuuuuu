@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009080883383554050"
+      ],
+      "media_source_tweet_id": [
+        "2009080892715880568"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2009404719027114149",
+    "created_at": "2026-01-08T23:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T00:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009404719027114149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1936471338698596352",
+          "start": 3,
+          "username": "s_u_0_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cugtETACsH",
+          "end": 35,
+          "expanded_url": "https://x.com/s_u_0_/status/2009080892715880568/photo/1",
+          "media_key": "3_2009080883383554050",
+          "start": 12,
+          "url": "https://t.co/cugtETACsH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009404719027114149",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 342
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009080892715880568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @s_u_0_: https://t.co/cugtETACsH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2009080883383554050",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Gwazsa0AI60lx.jpg",
+        "width": 2047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009080883383554050"
+          ],
+          "media_source_tweet_id": [
+            "2009080892715880568"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2009404719027114149",
+        "created_at": "2026-01-08T23:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T00:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009404719027114149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1936471338698596352",
+              "start": 3,
+              "username": "s_u_0_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cugtETACsH",
+              "end": 35,
+              "expanded_url": "https://x.com/s_u_0_/status/2009080892715880568/photo/1",
+              "media_key": "3_2009080883383554050",
+              "start": 12,
+              "url": "https://t.co/cugtETACsH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009404719027114149",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 342
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009080892715880568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @s_u_0_: https://t.co/cugtETACsH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009080883383554050"
+          ]
+        },
+        "author_id": "1936471338698596352",
+        "conversation_id": "2009080892715880568",
+        "created_at": "2026-01-08T01:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T02:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009080892715880568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cugtETACsH",
+              "end": 23,
+              "expanded_url": "https://x.com/s_u_0_/status/2009080892715880568/photo/1",
+              "media_key": "3_2009080883383554050",
+              "start": 0,
+              "url": "https://t.co/cugtETACsH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009080892715880568",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 17264,
+          "like_count": 3067,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 342
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cugtETACsH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了w‖生理性別女‖藥物依賴‖尼古丁依賴‖N₂O依賴‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 107,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 84,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2004134740719538263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 195,
+          "like_count": 5891,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1040
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T17:08:48.000Z",
+        "description": "@__r_r_1 だれでも自我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "__r_r_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/wermd0ervmpxw4…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/wermd0ervmpxw4r?t=F8F49U&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/aEGKM3dOOs"
+              }
+            ]
+          }
+        },
+        "id": "1936471338698596352",
+        "location": "FAタグ  おもちにおくすりあげるっ＆おもちに愛あげるっ",
+        "name": "︎︎狂う",
+        "pinned_tweet_id": "2008397289241350545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997625261475627008/zFMvOyhl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2203,
+          "following_count": 63,
+          "like_count": 951,
+          "listed_count": 4,
+          "media_count": 72,
+          "tweet_count": 213
+        },
+        "url": "https://t.co/aEGKM3dOOs",
+        "username": "s_u_0_",
+        "verified": false
+      }
+    ]
+  }
+}

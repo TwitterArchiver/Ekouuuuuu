@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1974130513612054801",
+    "created_at": "2025-10-05T04:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T05:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974697491754086439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1758434520829931520",
+          "start": 0,
+          "username": "xcmjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974697491754086439",
+    "in_reply_to_user_id": "1758434520829931520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974130513612054801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xcmjiang 十月雅俗共賞中……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 470,
+        "media_key": "3_1974130508524367877",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2WFPPTbMAUBpYO.jpg",
+        "width": 358
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1974130513612054801",
+        "created_at": "2025-10-05T04:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T05:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974697491754086439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1758434520829931520",
+              "start": 0,
+              "username": "xcmjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974697491754086439",
+        "in_reply_to_user_id": "1758434520829931520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974130513612054801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcmjiang 十月雅俗共賞中……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974130508524367877"
+          ]
+        },
+        "author_id": "1758434520829931520",
+        "conversation_id": "1974130513612054801",
+        "created_at": "2025-10-03T15:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974130513612054801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8qkAx0kDbf",
+              "end": 34,
+              "expanded_url": "https://x.com/xcmjiang/status/1974130513612054801/photo/1",
+              "media_key": "3_1974130508524367877",
+              "start": 11,
+              "url": "https://t.co/8qkAx0kDbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974130513612054801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 313,
+          "impression_count": 368464,
+          "like_count": 3717,
+          "quote_count": 8,
+          "reply_count": 69,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "这表情包好欠 我喜欢 https://t.co/8qkAx0kDbf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "年年歲歲花相似",
+        "id": "1912063502782812160",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974683142880665600/4D1J2k-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 81,
+          "like_count": 2154,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 310
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T10:14:03.000Z",
+        "description": "随时都会消失哦 到时候补药想我哦🥹👉👈（头像萌萌的优先^ ^）小号：@xcmtiantiande",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 34,
+                "username": "xcmtiantiande"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%96%B5%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%96%B5%E5%96%B5%E8%8D%89%E8%8E%93",
+                "start": 0,
+                "url": "https://t.co/UALApBxBnk"
+              }
+            ]
+          }
+        },
+        "id": "1758434520829931520",
+        "location": "匿名问答👀👉",
+        "name": "小草莓",
+        "pinned_tweet_id": "1928889586513563974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949532296396341248/ZlmUHDjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12996,
+          "following_count": 158,
+          "like_count": 3330,
+          "listed_count": 18,
+          "media_count": 94,
+          "tweet_count": 1631
+        },
+        "url": "https://t.co/UALApBxBnk",
+        "username": "xcmjiang",
+        "verified": false
+      }
+    ]
+  }
+}

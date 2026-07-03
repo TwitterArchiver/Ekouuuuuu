@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993861718372700162"
+      ],
+      "media_source_tweet_id": [
+        "1993861733501603851"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994074318116929690",
+    "created_at": "2025-11-27T16:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T17:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994074318116929690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1759029979009204225",
+          "start": 3,
+          "username": "atatakai556"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZtZWhlCury",
+          "end": 47,
+          "expanded_url": "https://x.com/atatakai556/status/1993861733501603851/photo/1",
+          "media_key": "3_1993861718372700162",
+          "start": 24,
+          "url": "https://t.co/ZtZWhlCury"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994074318116929690",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3955
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993861733501603851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @atatakai556: モーモーモー https://t.co/ZtZWhlCury"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 319,
+        "media_key": "3_1993861718372700162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ueqz7a0AIrli0.jpg",
+        "width": 450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993861718372700162"
+          ],
+          "media_source_tweet_id": [
+            "1993861733501603851"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994074318116929690",
+        "created_at": "2025-11-27T16:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T17:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994074318116929690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1759029979009204225",
+              "start": 3,
+              "username": "atatakai556"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZtZWhlCury",
+              "end": 47,
+              "expanded_url": "https://x.com/atatakai556/status/1993861733501603851/photo/1",
+              "media_key": "3_1993861718372700162",
+              "start": 24,
+              "url": "https://t.co/ZtZWhlCury"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994074318116929690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3955
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993861733501603851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @atatakai556: モーモーモー https://t.co/ZtZWhlCury"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993861718372700162"
+          ]
+        },
+        "author_id": "1759029979009204225",
+        "conversation_id": "1993861733501603851",
+        "created_at": "2025-11-27T01:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T02:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993861733501603851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZtZWhlCury",
+              "end": 30,
+              "expanded_url": "https://x.com/atatakai556/status/1993861733501603851/photo/1",
+              "media_key": "3_1993861718372700162",
+              "start": 7,
+              "url": "https://t.co/ZtZWhlCury"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993861733501603851",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1301,
+          "impression_count": 475087,
+          "like_count": 34182,
+          "quote_count": 263,
+          "reply_count": 13,
+          "retweet_count": 3955
+        },
+        "reply_settings": "everyone",
+        "text": "モーモーモー https://t.co/ZtZWhlCury"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991377630818627588/tGgmPGTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 86,
+          "like_count": 2745,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 150
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T01:40:16.000Z",
+        "description": "男です。\n40歳を過ぎてしまった〜。\n相変わらず疲れてる。\n優しくしたい病。\n\nハトが好きです。\nアバウトに生きる。\n優しさとは。\n\n無断フォローお許しください。",
+        "id": "1759029979009204225",
+        "location": "関東🗼",
+        "name": "お布団",
+        "pinned_tweet_id": "1759078315942658051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759030709040418816/8CRwSfpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 385,
+          "like_count": 43893,
+          "listed_count": 5,
+          "media_count": 1646,
+          "tweet_count": 16948
+        },
+        "username": "atatakai556",
+        "verified": false
+      }
+    ]
+  }
+}

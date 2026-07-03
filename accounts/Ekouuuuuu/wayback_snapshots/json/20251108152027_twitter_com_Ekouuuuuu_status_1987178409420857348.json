@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1987178409420857348",
+    "created_at": "2025-11-08T15:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T16:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987178409420857348"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987178409420857348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "為什麼你不要我了。你不是許需要錢嗎。你總是說氣話。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1987178409420857348",
+        "created_at": "2025-11-08T15:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T16:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987178409420857348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987178409420857348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "為什麼你不要我了。你不是許需要錢嗎。你總是說氣話。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "還要多久 我才能在你身邊",
+        "id": "1912063502782812160",
+        "name": "我珍惜你的方式錯了嗎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979464074787246080/49ypr-ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 39,
+          "like_count": 2373,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 375
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

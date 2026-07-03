@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991253723834630144"
+      ],
+      "media_source_tweet_id": [
+        "1994089837302042763"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994401832656068686",
+    "created_at": "2025-11-28T13:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T14:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994401832656068686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1221441944267653120",
+          "start": 3,
+          "username": "CigsMake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uK2b1KicUJ",
+          "end": 55,
+          "expanded_url": "https://x.com/CigsMake/status/1994089837302042763/photo/1",
+          "media_key": "3_1991253723834630144",
+          "start": 32,
+          "url": "https://t.co/uK2b1KicUJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994401832656068686",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10598
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994089837302042763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CigsMake: This goes hard af https://t.co/uK2b1KicUJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1991253723834630144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6JatjLWQAAAKV3.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991253723834630144"
+          ],
+          "media_source_tweet_id": [
+            "1994089837302042763"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994401832656068686",
+        "created_at": "2025-11-28T13:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T14:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994401832656068686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1221441944267653120",
+              "start": 3,
+              "username": "CigsMake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uK2b1KicUJ",
+              "end": 55,
+              "expanded_url": "https://x.com/CigsMake/status/1994089837302042763/photo/1",
+              "media_key": "3_1991253723834630144",
+              "start": 32,
+              "url": "https://t.co/uK2b1KicUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994401832656068686",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10598
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994089837302042763",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CigsMake: This goes hard af https://t.co/uK2b1KicUJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991253723834630144"
+          ]
+        },
+        "author_id": "1221441944267653120",
+        "conversation_id": "1994089837302042763",
+        "created_at": "2025-11-27T17:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T18:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994089837302042763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uK2b1KicUJ",
+              "end": 41,
+              "expanded_url": "https://x.com/CigsMake/status/1994089837302042763/photo/1",
+              "media_key": "3_1991253723834630144",
+              "start": 18,
+              "url": "https://t.co/uK2b1KicUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994089837302042763",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3669,
+          "impression_count": 906713,
+          "like_count": 60776,
+          "quote_count": 475,
+          "reply_count": 253,
+          "retweet_count": 10598
+        },
+        "reply_settings": "everyone",
+        "text": "This goes hard af https://t.co/uK2b1KicUJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994075383021637632/-0l5ucQS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 86,
+          "like_count": 2753,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 156
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-26T14:37:19.000Z",
+        "description": "Cigarettes and Cultural Things From The Past",
+        "id": "1221441944267653120",
+        "location": "United States",
+        "name": "Cigarette Nostalgia",
+        "pinned_tweet_id": "1320363512087171072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1226870747395743744/PDCqoH7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199211,
+          "following_count": 403,
+          "like_count": 39840,
+          "listed_count": 329,
+          "media_count": 2173,
+          "tweet_count": 2705
+        },
+        "username": "CigsMake",
+        "verified": true
+      }
+    ]
+  }
+}

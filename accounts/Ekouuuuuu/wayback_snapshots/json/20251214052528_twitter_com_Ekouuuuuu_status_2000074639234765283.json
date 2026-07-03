@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999999351406682390",
+    "created_at": "2025-12-14T05:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T06:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000074639234765283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "917534084313735168",
+          "start": 0,
+          "username": "lingchuanqian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000074639234765283",
+    "in_reply_to_user_id": "917534084313735168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999999351406682390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingchuanqian 好萌ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999999348785209345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Fsz69a4AEH8L5.jpg",
+        "width": 1173
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999999351406682390",
+        "created_at": "2025-12-14T05:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000074639234765283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "917534084313735168",
+              "start": 0,
+              "username": "lingchuanqian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000074639234765283",
+        "in_reply_to_user_id": "917534084313735168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999999351406682390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingchuanqian 好萌ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999999348785209345"
+          ]
+        },
+        "author_id": "917534084313735168",
+        "conversation_id": "1999999351406682390",
+        "created_at": "2025-12-14T00:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T01:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999999351406682390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3RR4lQpwA",
+              "end": 37,
+              "expanded_url": "https://x.com/lingchuanqian/status/1999999351406682390/photo/1",
+              "media_key": "3_1999999348785209345",
+              "start": 14,
+              "url": "https://t.co/L3RR4lQpwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999999351406682390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 8789,
+          "like_count": 726,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "别限我流啊 妹妹这么可爱的 https://t.co/L3RR4lQpwA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了ww‖買笑氣請加我tg‖化學極樂‖養病中……‖🇯🇵🤝🇹🇼‖overdose是吸毒所以我是毒蟲🥺‖N₂O重度依賴‖支畜滾‖陰暗逼（？）‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 156,
+          "like_count": 3736,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 455
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-09T23:35:47.000Z",
+        "description": "这里是茜茜哦 不是福利姬 不卖图包 不卖原味  不聊骚 不接推广 不接广告 不会指使任何粉丝进行引战或者赚钱行为 如果发现请立刻告诉我  随缘发图（目前只在X偶尔B站其他均为盗图） 能让大家觉得可爱就很满足了哦 图可以随便转发不要冒充我 不要给我贴奇怪的标签注明出处就行 不约线下哦",
+        "id": "917534084313735168",
+        "name": "玲川茜",
+        "pinned_tweet_id": "1923562653794041931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913471292780797952/wIvLvzFC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100558,
+          "following_count": 60,
+          "like_count": 2009,
+          "listed_count": 393,
+          "media_count": 464,
+          "tweet_count": 983
+        },
+        "username": "lingchuanqian",
+        "verified": false
+      }
+    ]
+  }
+}

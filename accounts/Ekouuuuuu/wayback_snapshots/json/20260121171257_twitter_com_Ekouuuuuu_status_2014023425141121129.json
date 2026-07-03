@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013540025573462017",
+        "3_2013540023958671360",
+        "3_2013540023946088448"
+      ],
+      "media_source_tweet_id": [
+        "2013540034025050190",
+        "2013540034025050190",
+        "2013540034025050190"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2014023425141121129",
+    "created_at": "2026-01-21T17:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T18:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014023425141121129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1426753435806756866",
+          "start": 3,
+          "username": "hosikage4040"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3w5ewFtDPp",
+          "end": 47,
+          "expanded_url": "https://x.com/hosikage4040/status/2013540034025050190/photo/1",
+          "media_key": "3_2013540025573462017",
+          "start": 24,
+          "url": "https://t.co/3w5ewFtDPp"
+        },
+        {
+          "display_url": "pic.x.com/3w5ewFtDPp",
+          "end": 47,
+          "expanded_url": "https://x.com/hosikage4040/status/2013540034025050190/photo/1",
+          "media_key": "3_2013540023958671360",
+          "start": 24,
+          "url": "https://t.co/3w5ewFtDPp"
+        },
+        {
+          "display_url": "pic.x.com/3w5ewFtDPp",
+          "end": 47,
+          "expanded_url": "https://x.com/hosikage4040/status/2013540034025050190/photo/1",
+          "media_key": "3_2013540023946088448",
+          "start": 24,
+          "url": "https://t.co/3w5ewFtDPp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014023425141121129",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 206
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013540034025050190",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hosikage4040: 💔𓂃⟡.· https://t.co/3w5ewFtDPp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2013540025573462017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_GH_C1WUAEyMSn.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2013540023958671360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_GH-80WkAADuls.jpg",
+        "width": 1800
+      },
+      {
+        "height": 1800,
+        "media_key": "3_2013540023946088448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_GH-8xWkAAS498.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013540025573462017",
+            "3_2013540023958671360",
+            "3_2013540023946088448"
+          ],
+          "media_source_tweet_id": [
+            "2013540034025050190",
+            "2013540034025050190",
+            "2013540034025050190"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2014023425141121129",
+        "created_at": "2026-01-21T17:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T18:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014023425141121129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1426753435806756866",
+              "start": 3,
+              "username": "hosikage4040"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3w5ewFtDPp",
+              "end": 47,
+              "expanded_url": "https://x.com/hosikage4040/status/2013540034025050190/photo/1",
+              "media_key": "3_2013540025573462017",
+              "start": 24,
+              "url": "https://t.co/3w5ewFtDPp"
+            },
+            {
+              "display_url": "pic.x.com/3w5ewFtDPp",
+              "end": 47,
+              "expanded_url": "https://x.com/hosikage4040/status/2013540034025050190/photo/1",
+              "media_key": "3_2013540023958671360",
+              "start": 24,
+              "url": "https://t.co/3w5ewFtDPp"
+            },
+            {
+              "display_url": "pic.x.com/3w5ewFtDPp",
+              "end": 47,
+              "expanded_url": "https://x.com/hosikage4040/status/2013540034025050190/photo/1",
+              "media_key": "3_2013540023946088448",
+              "start": 24,
+              "url": "https://t.co/3w5ewFtDPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014023425141121129",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013540034025050190",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hosikage4040: 💔𓂃⟡.· https://t.co/3w5ewFtDPp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013540025573462017",
+            "3_2013540023958671360",
+            "3_2013540023946088448"
+          ]
+        },
+        "author_id": "1426753435806756866",
+        "conversation_id": "2013540034025050190",
+        "created_at": "2026-01-20T09:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T10:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013540034025050190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3w5ewFtDPp",
+              "end": 29,
+              "expanded_url": "https://x.com/hosikage4040/status/2013540034025050190/photo/1",
+              "media_key": "3_2013540025573462017",
+              "start": 6,
+              "url": "https://t.co/3w5ewFtDPp"
+            },
+            {
+              "display_url": "pic.x.com/3w5ewFtDPp",
+              "end": 29,
+              "expanded_url": "https://x.com/hosikage4040/status/2013540034025050190/photo/1",
+              "media_key": "3_2013540023958671360",
+              "start": 6,
+              "url": "https://t.co/3w5ewFtDPp"
+            },
+            {
+              "display_url": "pic.x.com/3w5ewFtDPp",
+              "end": 29,
+              "expanded_url": "https://x.com/hosikage4040/status/2013540034025050190/photo/1",
+              "media_key": "3_2013540023946088448",
+              "start": 6,
+              "url": "https://t.co/3w5ewFtDPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013540034025050190",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 19497,
+          "like_count": 2389,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 206
+        },
+        "reply_settings": "everyone",
+        "text": "💔𓂃⟡.· https://t.co/3w5ewFtDPp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 74,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 51,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 227,
+          "like_count": 6669,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 1335
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T03:52:08.000Z",
+        "description": "⟡.·꒰ঌ𝒾𝓁𝓁𝓊𝓈𝓉𝓇𝒶𝓉𝒾ℴ𝓃໒꒱┋創作/不穏/3L┋FA #星ぽすと┋⋆✦ご依頼･ 𝐒𝐤𝐞𝐛(募集中)⇒https://t.co/1rwrtUOCO2┋ ✉️▶hosi0404bosi@gmail.com┋",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 32,
+                "tag": "星ぽすと"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/4hosi",
+                "end": 78,
+                "expanded_url": "https://lit.link/4hosi",
+                "start": 55,
+                "url": "https://t.co/1rwrtUOCO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@hosikage4040",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@hosikage4040",
+                "start": 0,
+                "url": "https://t.co/xluLIaVkM0"
+              }
+            ]
+          }
+        },
+        "id": "1426753435806756866",
+        "location": "絵柄参考­­･AI学習­­･無断転載使用­­­­･トレス禁止",
+        "name": "星影",
+        "pinned_tweet_id": "1884526923042509235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945768339269181440/lsOZHqpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30669,
+          "following_count": 290,
+          "like_count": 39810,
+          "listed_count": 99,
+          "media_count": 989,
+          "tweet_count": 22861
+        },
+        "url": "https://t.co/xluLIaVkM0",
+        "username": "hosikage4040",
+        "verified": false
+      }
+    ]
+  }
+}

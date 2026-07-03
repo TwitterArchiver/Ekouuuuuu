@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993697245309685760"
+      ],
+      "media_source_tweet_id": [
+        "1993697250082721877"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994572703223996603",
+    "created_at": "2025-11-29T01:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T02:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994572703223996603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1628243471021789184",
+          "start": 3,
+          "username": "HdRy_7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v779fFyXJN",
+          "end": 37,
+          "expanded_url": "https://x.com/HdRy_7/status/1993697250082721877/photo/1",
+          "media_key": "3_1993697245309685760",
+          "start": 14,
+          "url": "https://t.co/v779fFyXJN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994572703223996603",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 786
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993697250082721877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HdRy_7: 🩹 https://t.co/v779fFyXJN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1393,
+        "media_key": "3_1993697245309685760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6sJFOBb0AAE76f.jpg",
+        "width": 1241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993697245309685760"
+          ],
+          "media_source_tweet_id": [
+            "1993697250082721877"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994572703223996603",
+        "created_at": "2025-11-29T01:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994572703223996603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1628243471021789184",
+              "start": 3,
+              "username": "HdRy_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v779fFyXJN",
+              "end": 37,
+              "expanded_url": "https://x.com/HdRy_7/status/1993697250082721877/photo/1",
+              "media_key": "3_1993697245309685760",
+              "start": 14,
+              "url": "https://t.co/v779fFyXJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994572703223996603",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 786
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993697250082721877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HdRy_7: 🩹 https://t.co/v779fFyXJN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993697245309685760"
+          ]
+        },
+        "author_id": "1628243471021789184",
+        "conversation_id": "1993697250082721877",
+        "created_at": "2025-11-26T15:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T16:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993697250082721877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v779fFyXJN",
+              "end": 25,
+              "expanded_url": "https://x.com/HdRy_7/status/1993697250082721877/photo/1",
+              "media_key": "3_1993697245309685760",
+              "start": 2,
+              "url": "https://t.co/v779fFyXJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993697250082721877",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 352,
+          "impression_count": 39511,
+          "like_count": 5482,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 786
+        },
+        "reply_settings": "everyone",
+        "text": "🩹 https://t.co/v779fFyXJN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 2852,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 216
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T04:01:19.000Z",
+        "description": "12月中納品可能◎  Artist♡̴⟡. サークル名崇拝病棟 /ご安全に！(ブルアカ) 🆕sub→@hdry_397 担当vtuber 咲城こべに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "hdry_397"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@HdRy_7",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@HdRy_7",
+                "start": 0,
+                "url": "https://t.co/WZXQoju4Vw"
+              }
+            ]
+          }
+        },
+        "id": "1628243471021789184",
+        "location": "comission(有償依頼)→Skeb かDM✉️",
+        "name": "内出血過多 C107 1日目東ノ-35a",
+        "pinned_tweet_id": "1905479397626577077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834262982697910273/hhqLNiGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10877,
+          "following_count": 61,
+          "like_count": 7153,
+          "listed_count": 37,
+          "media_count": 709,
+          "tweet_count": 2669
+        },
+        "url": "https://t.co/WZXQoju4Vw",
+        "username": "HdRy_7",
+        "verified": false
+      }
+    ]
+  }
+}

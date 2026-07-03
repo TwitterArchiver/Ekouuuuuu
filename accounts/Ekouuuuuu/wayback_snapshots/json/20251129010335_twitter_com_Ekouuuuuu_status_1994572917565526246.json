@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994335099224219648"
+      ],
+      "media_source_tweet_id": [
+        "1994335112821944424"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994572917565526246",
+    "created_at": "2025-11-29T01:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T02:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994572917565526246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "761213418082701313",
+          "start": 3,
+          "username": "Kerno_kr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yMXAxQLyzQ",
+          "end": 37,
+          "expanded_url": "https://x.com/Kerno_kr/status/1994335112821944424/photo/1",
+          "media_key": "3_1994335099224219648",
+          "start": 14,
+          "url": "https://t.co/yMXAxQLyzQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994572917565526246",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1400
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994335112821944424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kerno_kr: https://t.co/yMXAxQLyzQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1994335099224219648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61NNNBaYAAn-kf.jpg",
+        "width": 2121
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994335099224219648"
+          ],
+          "media_source_tweet_id": [
+            "1994335112821944424"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994572917565526246",
+        "created_at": "2025-11-29T01:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994572917565526246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "761213418082701313",
+              "start": 3,
+              "username": "Kerno_kr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yMXAxQLyzQ",
+              "end": 37,
+              "expanded_url": "https://x.com/Kerno_kr/status/1994335112821944424/photo/1",
+              "media_key": "3_1994335099224219648",
+              "start": 14,
+              "url": "https://t.co/yMXAxQLyzQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994572917565526246",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1400
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994335112821944424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kerno_kr: https://t.co/yMXAxQLyzQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994335099224219648"
+          ]
+        },
+        "author_id": "761213418082701313",
+        "conversation_id": "1994335112821944424",
+        "created_at": "2025-11-28T09:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T10:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994335112821944424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yMXAxQLyzQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Kerno_kr/status/1994335112821944424/photo/1",
+              "media_key": "3_1994335099224219648",
+              "start": 0,
+              "url": "https://t.co/yMXAxQLyzQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994335112821944424",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2770,
+          "impression_count": 149967,
+          "like_count": 14869,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 1400
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yMXAxQLyzQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 2857,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 221
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-04T14:53:16.000Z",
+        "description": "Business ✉ : mgnnew12@gmail.com \nFANBOX : https://t.co/drgUcmFh33 \n과외 : https://t.co/7vCzlsx8RW\n패스트캠퍼스 : https://t.co/oCMNTBeld6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kerno.fanbox.cc",
+                "end": 65,
+                "expanded_url": "http://kerno.fanbox.cc",
+                "start": 42,
+                "url": "https://t.co/drgUcmFh33"
+              },
+              {
+                "display_url": "blog.naver.com/junno1212",
+                "end": 95,
+                "expanded_url": "https://blog.naver.com/junno1212",
+                "start": 72,
+                "url": "https://t.co/7vCzlsx8RW"
+              },
+              {
+                "display_url": "fastcampus.co.kr/dgn_online_ker…",
+                "end": 128,
+                "expanded_url": "https://fastcampus.co.kr/dgn_online_kerno",
+                "start": 105,
+                "url": "https://t.co/oCMNTBeld6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/19600013",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/19600013",
+                "start": 0,
+                "url": "https://t.co/gfy7zQQr5H"
+              }
+            ]
+          }
+        },
+        "id": "761213418082701313",
+        "location": "대한민국",
+        "name": "Kerno",
+        "pinned_tweet_id": "1994335112821944424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1516080541887787011/srgh4wwP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212223,
+          "following_count": 1200,
+          "like_count": 7378,
+          "listed_count": 1473,
+          "media_count": 225,
+          "tweet_count": 3159
+        },
+        "url": "https://t.co/gfy7zQQr5H",
+        "username": "Kerno_kr",
+        "verified": true
+      }
+    ]
+  }
+}

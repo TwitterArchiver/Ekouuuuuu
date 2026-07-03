@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995071316035272704"
+      ],
+      "media_source_tweet_id": [
+        "1995071444733349962"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1996155370642042965",
+    "created_at": "2025-12-03T09:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T10:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996155370642042965"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 12,
+          "tag": "Needy_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1711780068605976576",
+          "start": 3,
+          "username": "MlepQ_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MecE5uXbnP",
+          "end": 46,
+          "expanded_url": "https://x.com/MlepQ_/status/1995071444733349962/photo/1",
+          "media_key": "3_1995071316035272704",
+          "start": 23,
+          "url": "https://t.co/MecE5uXbnP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996155370642042965",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1252
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995071444733349962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MlepQ_: #Needy_pic https://t.co/MecE5uXbnP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1995071316035272704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_qyqXagAAE_EY.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995071316035272704"
+          ],
+          "media_source_tweet_id": [
+            "1995071444733349962"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1996155370642042965",
+        "created_at": "2025-12-03T09:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996155370642042965"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 12,
+              "tag": "Needy_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1711780068605976576",
+              "start": 3,
+              "username": "MlepQ_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MecE5uXbnP",
+              "end": 46,
+              "expanded_url": "https://x.com/MlepQ_/status/1995071444733349962/photo/1",
+              "media_key": "3_1995071316035272704",
+              "start": 23,
+              "url": "https://t.co/MecE5uXbnP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996155370642042965",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1252
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995071444733349962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MlepQ_: #Needy_pic https://t.co/MecE5uXbnP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995071316035272704"
+          ]
+        },
+        "author_id": "1711780068605976576",
+        "conversation_id": "1995071444733349962",
+        "created_at": "2025-11-30T10:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T11:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995071444733349962"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "Needy_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MecE5uXbnP",
+              "end": 34,
+              "expanded_url": "https://x.com/MlepQ_/status/1995071444733349962/photo/1",
+              "media_key": "3_1995071316035272704",
+              "start": 11,
+              "url": "https://t.co/MecE5uXbnP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995071444733349962",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 447,
+          "impression_count": 60874,
+          "like_count": 7537,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 1252
+        },
+        "reply_settings": "everyone",
+        "text": "#Needy_pic https://t.co/MecE5uXbnP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 122,
+          "like_count": 3187,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 216
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T16:25:59.000Z",
+        "description": "自衛おねがいします 無断転載 使用禁止 依頼終了後DM削除",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/MlepQ0",
+                "end": 23,
+                "expanded_url": "https://lit.link/MlepQ0",
+                "start": 0,
+                "url": "https://t.co/GW6qPkAdIV"
+              }
+            ]
+          }
+        },
+        "id": "1711780068605976576",
+        "location": "版権 @MlepQ2 サブ@P3lop めめです",
+        "name": "MlepQ",
+        "pinned_tweet_id": "1882355912159244719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895021852415926275/hikXzQ_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2517,
+          "following_count": 10,
+          "like_count": 5221,
+          "listed_count": 7,
+          "media_count": 97,
+          "tweet_count": 145
+        },
+        "url": "https://t.co/GW6qPkAdIV",
+        "username": "MlepQ_",
+        "verified": false
+      }
+    ]
+  }
+}

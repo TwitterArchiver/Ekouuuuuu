@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1974694926920384739",
+    "created_at": "2025-10-05T04:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T05:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974694926920384739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1923424244823941120",
+          "start": 3,
+          "username": "kannimane_SB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974694926920384739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 339
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974284752938258632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kannimane_SB: 我的淫商已经高到稍微沾一点黄的我都能秒懂 但同时我的智商也低到了不可思议的地步"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1974694926920384739",
+        "created_at": "2025-10-05T04:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T05:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974694926920384739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1923424244823941120",
+              "start": 3,
+              "username": "kannimane_SB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974694926920384739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 339
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974284752938258632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kannimane_SB: 我的淫商已经高到稍微沾一点黄的我都能秒懂 但同时我的智商也低到了不可思议的地步"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923424244823941120",
+        "conversation_id": "1974284752938258632",
+        "created_at": "2025-10-04T01:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T02:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974284752938258632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974284752938258632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 188318,
+          "like_count": 2990,
+          "quote_count": 37,
+          "reply_count": 82,
+          "retweet_count": 339
+        },
+        "reply_settings": "everyone",
+        "text": "我的淫商已经高到稍微沾一点黄的我都能秒懂 但同时我的智商也低到了不可思议的地步"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "年年歲歲花相似",
+        "id": "1912063502782812160",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974683142880665600/4D1J2k-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 81,
+          "like_count": 2145,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 306
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T17:04:18.000Z",
+        "description": "我只是个爱上网的坚果🚬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kannimane_sb",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kannimane_sb",
+                "start": 0,
+                "url": "https://t.co/C8kxXhBNhU"
+              }
+            ]
+          }
+        },
+        "id": "1923424244823941120",
+        "location": "戴夫的后花园",
+        "name": "高建国",
+        "pinned_tweet_id": "1973289717392376288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953160100560166912/v_TmQc6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 460,
+          "like_count": 8060,
+          "listed_count": 1,
+          "media_count": 691,
+          "tweet_count": 7254
+        },
+        "url": "https://t.co/C8kxXhBNhU",
+        "username": "kannimane_SB",
+        "verified": false
+      }
+    ]
+  }
+}

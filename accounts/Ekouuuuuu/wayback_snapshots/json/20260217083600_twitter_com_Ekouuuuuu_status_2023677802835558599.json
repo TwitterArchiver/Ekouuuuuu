@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023312495365230592",
+        "3_2023312495306559488",
+        "3_2023312495319109632",
+        "3_2023312495285534720"
+      ],
+      "media_source_tweet_id": [
+        "2023312531541066233",
+        "2023312531541066233",
+        "2023312531541066233",
+        "2023312531541066233"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2023677802835558599",
+    "created_at": "2026-02-17T08:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T09:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023677802835558599"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 16,
+          "tag": "私はこういう絵を描いています"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1739141125448077312",
+          "start": 3,
+          "username": "baburori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ABkKBPTUor",
+          "end": 55,
+          "expanded_url": "https://x.com/baburori/status/2023312531541066233/photo/1",
+          "media_key": "3_2023312495365230592",
+          "start": 32,
+          "url": "https://t.co/ABkKBPTUor"
+        },
+        {
+          "display_url": "pic.x.com/ABkKBPTUor",
+          "end": 55,
+          "expanded_url": "https://x.com/baburori/status/2023312531541066233/photo/1",
+          "media_key": "3_2023312495306559488",
+          "start": 32,
+          "url": "https://t.co/ABkKBPTUor"
+        },
+        {
+          "display_url": "pic.x.com/ABkKBPTUor",
+          "end": 55,
+          "expanded_url": "https://x.com/baburori/status/2023312531541066233/photo/1",
+          "media_key": "3_2023312495319109632",
+          "start": 32,
+          "url": "https://t.co/ABkKBPTUor"
+        },
+        {
+          "display_url": "pic.x.com/ABkKBPTUor",
+          "end": 55,
+          "expanded_url": "https://x.com/baburori/status/2023312531541066233/photo/1",
+          "media_key": "3_2023312495285534720",
+          "start": 32,
+          "url": "https://t.co/ABkKBPTUor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023677802835558599",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 312
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023312531541066233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @baburori: 💖 #私はこういう絵を描いています https://t.co/ABkKBPTUor"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023312495365230592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQ__pvakAAGtL9.jpg",
+        "width": 1446
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023312495306559488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQ__phbUAASNkE.jpg",
+        "width": 1310
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023312495319109632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQ__pka0AAr3UA.jpg",
+        "width": 1446
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023312495285534720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQ__pcagAA0b3f.jpg",
+        "width": 1446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023312495365230592",
+            "3_2023312495306559488",
+            "3_2023312495319109632",
+            "3_2023312495285534720"
+          ],
+          "media_source_tweet_id": [
+            "2023312531541066233",
+            "2023312531541066233",
+            "2023312531541066233",
+            "2023312531541066233"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2023677802835558599",
+        "created_at": "2026-02-17T08:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023677802835558599"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 16,
+              "tag": "私はこういう絵を描いています"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1739141125448077312",
+              "start": 3,
+              "username": "baburori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ABkKBPTUor",
+              "end": 55,
+              "expanded_url": "https://x.com/baburori/status/2023312531541066233/photo/1",
+              "media_key": "3_2023312495365230592",
+              "start": 32,
+              "url": "https://t.co/ABkKBPTUor"
+            },
+            {
+              "display_url": "pic.x.com/ABkKBPTUor",
+              "end": 55,
+              "expanded_url": "https://x.com/baburori/status/2023312531541066233/photo/1",
+              "media_key": "3_2023312495306559488",
+              "start": 32,
+              "url": "https://t.co/ABkKBPTUor"
+            },
+            {
+              "display_url": "pic.x.com/ABkKBPTUor",
+              "end": 55,
+              "expanded_url": "https://x.com/baburori/status/2023312531541066233/photo/1",
+              "media_key": "3_2023312495319109632",
+              "start": 32,
+              "url": "https://t.co/ABkKBPTUor"
+            },
+            {
+              "display_url": "pic.x.com/ABkKBPTUor",
+              "end": 55,
+              "expanded_url": "https://x.com/baburori/status/2023312531541066233/photo/1",
+              "media_key": "3_2023312495285534720",
+              "start": 32,
+              "url": "https://t.co/ABkKBPTUor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023677802835558599",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 312
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023312531541066233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @baburori: 💖 #私はこういう絵を描いています https://t.co/ABkKBPTUor"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023312495365230592",
+            "3_2023312495306559488",
+            "3_2023312495319109632",
+            "3_2023312495285534720"
+          ]
+        },
+        "author_id": "1739141125448077312",
+        "conversation_id": "2023312531541066233",
+        "created_at": "2026-02-16T08:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023312531541066233"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 2,
+              "tag": "私はこういう絵を描いています"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ABkKBPTUor",
+              "end": 41,
+              "expanded_url": "https://x.com/baburori/status/2023312531541066233/photo/1",
+              "media_key": "3_2023312495365230592",
+              "start": 18,
+              "url": "https://t.co/ABkKBPTUor"
+            },
+            {
+              "display_url": "pic.x.com/ABkKBPTUor",
+              "end": 41,
+              "expanded_url": "https://x.com/baburori/status/2023312531541066233/photo/1",
+              "media_key": "3_2023312495306559488",
+              "start": 18,
+              "url": "https://t.co/ABkKBPTUor"
+            },
+            {
+              "display_url": "pic.x.com/ABkKBPTUor",
+              "end": 41,
+              "expanded_url": "https://x.com/baburori/status/2023312531541066233/photo/1",
+              "media_key": "3_2023312495319109632",
+              "start": 18,
+              "url": "https://t.co/ABkKBPTUor"
+            },
+            {
+              "display_url": "pic.x.com/ABkKBPTUor",
+              "end": 41,
+              "expanded_url": "https://x.com/baburori/status/2023312531541066233/photo/1",
+              "media_key": "3_2023312495285534720",
+              "start": 18,
+              "url": "https://t.co/ABkKBPTUor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023312531541066233",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 323,
+          "impression_count": 48709,
+          "like_count": 2577,
+          "quote_count": 15,
+          "reply_count": 0,
+          "retweet_count": 312
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "💖 #私はこういう絵を描いています https://t.co/ABkKBPTUor"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 248,
+          "like_count": 8511,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 2203
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T04:29:53.000Z",
+        "description": "たくさん絵を描きます🎀ご依頼やお仕事はDMからお願いいたします💖 https://t.co/l6FL7DdYtQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/baburori",
+                "end": 56,
+                "expanded_url": "https://lit.link/baburori",
+                "start": 33,
+                "url": "https://t.co/l6FL7DdYtQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@baburori",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@baburori",
+                "start": 0,
+                "url": "https://t.co/5kcuEFcOjo"
+              }
+            ]
+          }
+        },
+        "id": "1739141125448077312",
+        "name": "ばぶみろりこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017908022463578112/iIzt8joL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4073,
+          "following_count": 60,
+          "like_count": 1358,
+          "listed_count": 11,
+          "media_count": 117,
+          "tweet_count": 190
+        },
+        "url": "https://t.co/5kcuEFcOjo",
+        "username": "baburori",
+        "verified": false
+      }
+    ]
+  }
+}

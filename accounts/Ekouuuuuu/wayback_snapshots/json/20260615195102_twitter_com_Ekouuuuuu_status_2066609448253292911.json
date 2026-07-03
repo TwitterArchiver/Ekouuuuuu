@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066469466968657920"
+      ],
+      "media_source_tweet_id": [
+        "2066469471527874806"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2066609448253292911",
+    "created_at": "2026-06-15T19:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T20:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066609448253292911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1667706701439721472",
+          "start": 3,
+          "username": "ky0zetsu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IgGTNAvweW",
+          "end": 37,
+          "expanded_url": "https://x.com/ky0zetsu/status/2066469471527874806/photo/1",
+          "media_key": "3_2066469466968657920",
+          "start": 14,
+          "url": "https://t.co/IgGTNAvweW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066609448253292911",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066469471527874806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ky0zetsu: https://t.co/IgGTNAvweW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066469466968657920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2TCBXbkAAS-G_.jpg",
+        "width": 1666
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066469466968657920"
+          ],
+          "media_source_tweet_id": [
+            "2066469471527874806"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2066609448253292911",
+        "created_at": "2026-06-15T19:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T20:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066609448253292911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667706701439721472",
+              "start": 3,
+              "username": "ky0zetsu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IgGTNAvweW",
+              "end": 37,
+              "expanded_url": "https://x.com/ky0zetsu/status/2066469471527874806/photo/1",
+              "media_key": "3_2066469466968657920",
+              "start": 14,
+              "url": "https://t.co/IgGTNAvweW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066609448253292911",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066469471527874806",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ky0zetsu: https://t.co/IgGTNAvweW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066469466968657920"
+          ]
+        },
+        "author_id": "1667706701439721472",
+        "conversation_id": "2066469471527874806",
+        "created_at": "2026-06-15T10:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066469471527874806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IgGTNAvweW",
+              "end": 23,
+              "expanded_url": "https://x.com/ky0zetsu/status/2066469471527874806/photo/1",
+              "media_key": "3_2066469466968657920",
+              "start": 0,
+              "url": "https://t.co/IgGTNAvweW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066469471527874806",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 3360,
+          "like_count": 465,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IgGTNAvweW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖化 學 極 樂‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2064040950851404219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 342,
+          "like_count": 13872,
+          "listed_count": 1,
+          "media_count": 605,
+          "tweet_count": 3680
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T01:34:07.000Z",
+        "description": "@4kir4dayo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "4kir4dayo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ky0zetsu",
+                "end": 23,
+                "expanded_url": "https://lit.link/ky0zetsu",
+                "start": 0,
+                "url": "https://t.co/Gg93bhPoYx"
+              }
+            ]
+          }
+        },
+        "id": "1667706701439721472",
+        "name": "ْ",
+        "pinned_tweet_id": "2065047182554910905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066382339744337921/Ne0jGSAq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5732,
+          "following_count": 115,
+          "like_count": 22674,
+          "listed_count": 28,
+          "media_count": 3,
+          "tweet_count": 9
+        },
+        "url": "https://t.co/Gg93bhPoYx",
+        "username": "ky0zetsu",
+        "verified": false
+      }
+    ]
+  }
+}

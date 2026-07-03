@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993482795835179012"
+      ],
+      "media_source_tweet_id": [
+        "1993482801161945142"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994007295416819950",
+    "created_at": "2025-11-27T11:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T12:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994007295416819950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1461262194717630465",
+          "start": 3,
+          "username": "kiss_xoxokiss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xXekvbBOLT",
+          "end": 42,
+          "expanded_url": "https://x.com/kiss_xoxokiss/status/1993482801161945142/photo/1",
+          "media_key": "3_1993482795835179012",
+          "start": 19,
+          "url": "https://t.co/xXekvbBOLT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994007295416819950",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6576
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993482801161945142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiss_xoxokiss: https://t.co/xXekvbBOLT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_1993482795835179012",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6pGCnebwAQ4Xpu.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993482795835179012"
+          ],
+          "media_source_tweet_id": [
+            "1993482801161945142"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994007295416819950",
+        "created_at": "2025-11-27T11:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T12:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994007295416819950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1461262194717630465",
+              "start": 3,
+              "username": "kiss_xoxokiss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xXekvbBOLT",
+              "end": 42,
+              "expanded_url": "https://x.com/kiss_xoxokiss/status/1993482801161945142/photo/1",
+              "media_key": "3_1993482795835179012",
+              "start": 19,
+              "url": "https://t.co/xXekvbBOLT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994007295416819950",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6576
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993482801161945142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiss_xoxokiss: https://t.co/xXekvbBOLT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993482795835179012"
+          ]
+        },
+        "author_id": "1461262194717630465",
+        "conversation_id": "1993482801161945142",
+        "created_at": "2025-11-26T00:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T01:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993482801161945142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xXekvbBOLT",
+              "end": 23,
+              "expanded_url": "https://x.com/kiss_xoxokiss/status/1993482801161945142/photo/1",
+              "media_key": "3_1993482795835179012",
+              "start": 0,
+              "url": "https://t.co/xXekvbBOLT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993482801161945142",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8039,
+          "impression_count": 2357602,
+          "like_count": 83841,
+          "quote_count": 268,
+          "reply_count": 122,
+          "retweet_count": 6576
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xXekvbBOLT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了🥬‖COSER‖互聯網樂子人‖可以來找我互fo聊天喵",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991377630818627588/tGgmPGTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 54,
+          "like_count": 2695,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 137
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-18T09:17:21.000Z",
+        "description": "𝐐𝐮𝐢𝐞𝐭 𝐲𝐨𝐮𝐫 𝐧𝐨𝐢𝐬𝐲 𝐦𝐨𝐮𝐭𝐡 𝐰𝐢𝐭𝐡 𝐚 𝐤𝐢𝐬𝐬.  https://t.co/pMHsrtMO5Z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtu.be/7Y04RsUALyA",
+                "end": 60,
+                "expanded_url": "https://youtu.be/7Y04RsUALyA",
+                "start": 37,
+                "url": "https://t.co/pMHsrtMO5Z"
+              }
+            ]
+          }
+        },
+        "id": "1461262194717630465",
+        "name": "𝐊𝐢𝐬𝐬𝐊𝐢𝐬𝐬𝐊𝐢𝐬𝐬",
+        "pinned_tweet_id": "1818690060294013089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1461262796981964800/WAVhI8V9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260526,
+          "following_count": 0,
+          "like_count": 4,
+          "listed_count": 694,
+          "media_count": 1421,
+          "tweet_count": 1423
+        },
+        "username": "kiss_xoxokiss",
+        "verified": true
+      }
+    ]
+  }
+}

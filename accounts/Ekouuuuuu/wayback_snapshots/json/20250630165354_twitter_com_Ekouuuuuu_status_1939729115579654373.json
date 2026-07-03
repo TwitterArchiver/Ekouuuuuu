@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1939233033141235875",
+    "created_at": "2025-06-30T16:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T17:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939729115579654373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1535701819812462600",
+          "start": 0,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939729115579654373",
+    "in_reply_to_user_id": "1535701819812462600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 21,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939233033141235875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kenntnis22 兩個炒作的罷了😥😥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1391,
+        "media_key": "3_1939233028523298817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GumKKjnWEAE6Ore.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1939233033141235875",
+        "created_at": "2025-06-30T16:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T17:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939729115579654373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939729115579654373",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939233033141235875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 兩個炒作的罷了😥😥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939233028523298817"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "1939233033141235875",
+        "created_at": "2025-06-29T08:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T09:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939233033141235875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xwqy8r7WdK",
+              "end": 36,
+              "expanded_url": "https://x.com/Kenntnis22/status/1939233033141235875/photo/1",
+              "media_key": "3_1939233028523298817",
+              "start": 13,
+              "url": "https://t.co/Xwqy8r7WdK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939233033141235875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 610777,
+          "like_count": 1516,
+          "quote_count": 16,
+          "reply_count": 299,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "雷军不模仿别人活不了是吧 https://t.co/Xwqy8r7WdK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "不是一個有素質的人/打遊戲可以叫上我🥲",
+        "id": "1912063502782812160",
+        "location": "莫对故国思故人",
+        "name": "白菜喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937599411460403200/XrYwRLKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 43,
+          "like_count": 947,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 159
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "朋友们的小圈子。不严肃、谢谢😑",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "1935608465868632397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675314941966925824/0Sl6rg69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33439,
+          "following_count": 313,
+          "like_count": 27281,
+          "listed_count": 154,
+          "media_count": 5419,
+          "tweet_count": 8585
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

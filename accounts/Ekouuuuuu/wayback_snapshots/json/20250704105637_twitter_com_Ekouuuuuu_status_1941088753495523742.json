@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1941050638185779419",
+    "created_at": "2025-07-04T10:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T11:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941088753495523742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1783525770243063808",
+          "start": 0,
+          "username": "pengpengdrsss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941088753495523742",
+    "in_reply_to_user_id": "1783525770243063808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941050638185779419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pengpengdrsss 媽媽就是媽媽啊、、"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941050621936959488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu__QauagAAHPZJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1941050622104510464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu__QbWXIAAMhhV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1941050638185779419",
+        "created_at": "2025-07-04T10:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T11:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941088753495523742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1783525770243063808",
+              "start": 0,
+              "username": "pengpengdrsss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941088753495523742",
+        "in_reply_to_user_id": "1783525770243063808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941050638185779419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pengpengdrsss 媽媽就是媽媽啊、、"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941050621936959488",
+            "3_1941050622104510464"
+          ]
+        },
+        "author_id": "1783525770243063808",
+        "conversation_id": "1941050638185779419",
+        "created_at": "2025-07-04T08:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T09:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941050638185779419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GjJl1PkXMM",
+              "end": 30,
+              "expanded_url": "https://x.com/pengpengdrsss/status/1941050638185779419/photo/1",
+              "media_key": "3_1941050621936959488",
+              "start": 7,
+              "url": "https://t.co/GjJl1PkXMM"
+            },
+            {
+              "display_url": "pic.x.com/GjJl1PkXMM",
+              "end": 30,
+              "expanded_url": "https://x.com/pengpengdrsss/status/1941050638185779419/photo/1",
+              "media_key": "3_1941050622104510464",
+              "start": 7,
+              "url": "https://t.co/GjJl1PkXMM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941050638185779419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 17089,
+          "like_count": 288,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "自拍也发一发 https://t.co/GjJl1PkXMM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "不是一個有素質的人/打遊戲可以叫上我🥲",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937599411460403200/XrYwRLKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 45,
+          "like_count": 1005,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 171
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T15:57:45.000Z",
+        "description": "S/第一视角@ppdr004 🚪小号138/私v520，口令🧧 带姓氏 /坐脸/🐢/🦶等…更多精彩视频/贱狗订阅👉@ppdrppdr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "ppdr004"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "ppdrppdr"
+              }
+            ]
+          }
+        },
+        "id": "1783525770243063808",
+        "name": "芃芃大人",
+        "pinned_tweet_id": "1814964123924627908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783526089983213568/GkHOaV2c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158851,
+          "following_count": 20,
+          "like_count": 36,
+          "listed_count": 281,
+          "media_count": 138,
+          "tweet_count": 175
+        },
+        "username": "pengpengdrsss",
+        "verified": false
+      }
+    ]
+  }
+}

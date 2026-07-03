@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1932469173164380343",
+    "created_at": "2025-06-12T17:53:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T18:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933221153197490203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933221153197490203",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932469173164380343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop 💎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1338,
+        "media_key": "3_1932469164649881600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtGCd3JaIAA_RX7.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1932469173164380343",
+        "created_at": "2025-06-12T17:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T18:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933221153197490203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933221153197490203",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932469173164380343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 💎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932469164649881600"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1932469173164380343",
+        "created_at": "2025-06-10T16:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T17:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932469173164380343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u8uGU8hBG0",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/1932469173164380343/photo/1",
+              "media_key": "3_1932469164649881600",
+              "start": 0,
+              "url": "https://t.co/u8uGU8hBG0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932469173164380343",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 20345,
+          "like_count": 493,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/u8uGU8hBG0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "这个世界 性在繁殖 爱在消失",
+        "id": "1912063502782812160",
+        "location": "Nara-ken, Japan",
+        "name": "悯菓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931725408283799552/jhn11osa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 31,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1931998566563869071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68049,
+          "following_count": 564,
+          "like_count": 29330,
+          "listed_count": 228,
+          "media_count": 10374,
+          "tweet_count": 14623
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

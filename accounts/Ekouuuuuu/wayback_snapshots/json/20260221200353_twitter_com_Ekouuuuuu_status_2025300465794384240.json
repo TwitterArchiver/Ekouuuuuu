@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2025128029857714234",
+    "created_at": "2026-02-21T20:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T21:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025300465794384240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1291704894211186689",
+          "start": 0,
+          "username": "AZLXY1"
+        },
+        {
+          "end": 18,
+          "id": "1982449259774656512",
+          "start": 8,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025300465794384240",
+    "in_reply_to_user_id": "1291704894211186689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025151250279657770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AZLXY1 @smiroyama 會"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2025128029857714234",
+        "created_at": "2026-02-21T20:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T21:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025300465794384240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1291704894211186689",
+              "start": 0,
+              "username": "AZLXY1"
+            },
+            {
+              "end": 18,
+              "id": "1982449259774656512",
+              "start": 8,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025300465794384240",
+        "in_reply_to_user_id": "1291704894211186689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025151250279657770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AZLXY1 @smiroyama 會"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1291704894211186689",
+        "conversation_id": "2025128029857714234",
+        "created_at": "2026-02-21T10:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T11:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025151250279657770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025151250279657770",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5093,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025128029857714234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 买亚硝酸钠会被盯上吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 252,
+          "like_count": 8812,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 2244
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T11:57:12.000Z",
+        "description": "Chinese,like playing video games and watching Japanese animeゲームとアニメが好きです、よろしく\n想要积极生活但发现自己是烂人，总之尽力在积极生活了\n自伤od存在，无性恋倾向，不约",
+        "id": "1291704894211186689",
+        "name": "Arin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023257481158524929/zAqGcXHH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 155,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 247
+        },
+        "username": "AZLXY1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student | ADHDer |Developer of @HRTtracker |  User | 🐱 Lover | Friends 🥰: @Huang_Yut1ng @fukui_p26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "fukui_p26"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mahiro.uk",
+                "end": 23,
+                "expanded_url": "https://mahiro.uk/",
+                "start": 0,
+                "url": "https://t.co/PpgQBsPRn6"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "🍀🍥Smirnova🍥🍀",
+        "pinned_tweet_id": "2024485030097981609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024876346745442304/Qs-W4T6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 701,
+          "like_count": 3264,
+          "listed_count": 1,
+          "media_count": 408,
+          "tweet_count": 2378
+        },
+        "url": "https://t.co/PpgQBsPRn6",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2039007377907986432"
+      ],
+      "media_source_tweet_id": [
+        "2039007425676927145"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2039332422911926535",
+    "created_at": "2026-04-01T13:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T14:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039332422911926535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908828125548546",
+          "start": 3,
+          "username": "bui_tu46916"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kps5JzvRze",
+          "end": 60,
+          "expanded_url": "https://x.com/bui_tu46916/status/2039007425676927145/video/1",
+          "media_key": "7_2039007377907986432",
+          "start": 37,
+          "url": "https://t.co/Kps5JzvRze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039332422911926535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039007425676927145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bui_tu46916: The overdose  愚人节快乐 https://t.co/Kps5JzvRze"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35015,
+        "height": 720,
+        "media_key": "7_2039007377907986432",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2039007377907986432/pu/img/9TuY6dnjjktXvJcO.jpg",
+        "public_metrics": {
+          "view_count": 3253
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039007377907986432/pu/vid/avc1/480x270/PGS1MSjFmVViNo5n.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039007377907986432/pu/vid/avc1/640x360/4QhyF26yPTQr9Pss.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039007377907986432/pu/vid/avc1/1280x720/-EphIjWL9wgxcDOG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2039007377907986432/pu/pl/gXlYPIkwoHBWUMp7.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2039007377907986432"
+          ],
+          "media_source_tweet_id": [
+            "2039007425676927145"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2039332422911926535",
+        "created_at": "2026-04-01T13:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039332422911926535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908828125548546",
+              "start": 3,
+              "username": "bui_tu46916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kps5JzvRze",
+              "end": 60,
+              "expanded_url": "https://x.com/bui_tu46916/status/2039007425676927145/video/1",
+              "media_key": "7_2039007377907986432",
+              "start": 37,
+              "url": "https://t.co/Kps5JzvRze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039332422911926535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039007425676927145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bui_tu46916: The overdose  愚人节快乐 https://t.co/Kps5JzvRze"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2039007377907986432"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2039007425676927145",
+        "created_at": "2026-03-31T15:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039007425676927145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kps5JzvRze",
+              "end": 43,
+              "expanded_url": "https://x.com/bui_tu46916/status/2039007425676927145/video/1",
+              "media_key": "7_2039007377907986432",
+              "start": 20,
+              "url": "https://t.co/Kps5JzvRze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039007425676927145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 7729,
+          "like_count": 380,
+          "quote_count": 8,
+          "reply_count": 5,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "The overdose  愚人节快乐 https://t.co/Kps5JzvRze"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖恆春最深情‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo‖陰暗逼od蛆互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2035365735460180096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 249,
+          "like_count": 9779,
+          "listed_count": 1,
+          "media_count": 412,
+          "tweet_count": 2565
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2037056043453432137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 146,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 353
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

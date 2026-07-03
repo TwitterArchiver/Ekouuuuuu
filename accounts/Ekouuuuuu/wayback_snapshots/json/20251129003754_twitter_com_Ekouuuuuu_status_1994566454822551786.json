@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994200184256143360"
+      ],
+      "media_source_tweet_id": [
+        "1994200193256866231"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994566454822551786",
+    "created_at": "2025-11-29T00:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T01:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994566454822551786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "787683383807619072",
+          "start": 3,
+          "username": "jasonbrod3"
+        }
+      ],
+      "urls": [
+        {
+          "description": "지금, 스트리밍이 시작됩니다. 치지직-",
+          "display_url": "chzzk.naver.com/4064e082140b83…",
+          "end": 39,
+          "expanded_url": "https://chzzk.naver.com/4064e082140b83787fe24382efaefeab",
+          "images": [
+            {
+              "height": 120,
+              "url": "https://pbs.twimg.com/news_img/1992631827274899457/RalQPqsQ?format=jpg&name=orig",
+              "width": 120
+            },
+            {
+              "height": 120,
+              "url": "https://pbs.twimg.com/news_img/1992631827274899457/RalQPqsQ?format=jpg&name=150x150",
+              "width": 120
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "샵 샵 샵 채널 - CHZZK",
+          "unwound_url": "https://chzzk.naver.com/4064e082140b83787fe24382efaefeab",
+          "url": "https://t.co/weTTUoGuPr"
+        },
+        {
+          "display_url": "pic.x.com/PlgIdXkiUZ",
+          "end": 82,
+          "expanded_url": "https://x.com/jasonbrod3/status/1994200193256866231/photo/1",
+          "media_key": "3_1994200184256143360",
+          "start": 59,
+          "url": "https://t.co/PlgIdXkiUZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994566454822551786",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2628
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994200193256866231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jasonbrod3: https://t.co/weTTUoGuPr\n\nlive   ! (no mic) https://t.co/PlgIdXkiUZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1994200184256143360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6zSgHmbIAAFVQg.jpg",
+        "width": 2900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994200184256143360"
+          ],
+          "media_source_tweet_id": [
+            "1994200193256866231"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994566454822551786",
+        "created_at": "2025-11-29T00:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T01:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994566454822551786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "787683383807619072",
+              "start": 3,
+              "username": "jasonbrod3"
+            }
+          ],
+          "urls": [
+            {
+              "description": "지금, 스트리밍이 시작됩니다. 치지직-",
+              "display_url": "chzzk.naver.com/4064e082140b83…",
+              "end": 39,
+              "expanded_url": "https://chzzk.naver.com/4064e082140b83787fe24382efaefeab",
+              "images": [
+                {
+                  "height": 120,
+                  "url": "https://pbs.twimg.com/news_img/1992631827274899457/RalQPqsQ?format=jpg&name=orig",
+                  "width": 120
+                },
+                {
+                  "height": 120,
+                  "url": "https://pbs.twimg.com/news_img/1992631827274899457/RalQPqsQ?format=jpg&name=150x150",
+                  "width": 120
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "샵 샵 샵 채널 - CHZZK",
+              "unwound_url": "https://chzzk.naver.com/4064e082140b83787fe24382efaefeab",
+              "url": "https://t.co/weTTUoGuPr"
+            },
+            {
+              "display_url": "pic.x.com/PlgIdXkiUZ",
+              "end": 82,
+              "expanded_url": "https://x.com/jasonbrod3/status/1994200193256866231/photo/1",
+              "media_key": "3_1994200184256143360",
+              "start": 59,
+              "url": "https://t.co/PlgIdXkiUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994566454822551786",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2628
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994200193256866231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jasonbrod3: https://t.co/weTTUoGuPr\n\nlive   ! (no mic) https://t.co/PlgIdXkiUZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994200184256143360"
+          ]
+        },
+        "author_id": "787683383807619072",
+        "conversation_id": "1994200193256866231",
+        "created_at": "2025-11-28T00:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T01:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994200193256866231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "지금, 스트리밍이 시작됩니다. 치지직-",
+              "display_url": "chzzk.naver.com/4064e082140b83…",
+              "end": 23,
+              "expanded_url": "https://chzzk.naver.com/4064e082140b83787fe24382efaefeab",
+              "images": [
+                {
+                  "height": 120,
+                  "url": "https://pbs.twimg.com/news_img/1992631827274899457/RalQPqsQ?format=jpg&name=orig",
+                  "width": 120
+                },
+                {
+                  "height": 120,
+                  "url": "https://pbs.twimg.com/news_img/1992631827274899457/RalQPqsQ?format=jpg&name=150x150",
+                  "width": 120
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "샵 샵 샵 채널 - CHZZK",
+              "unwound_url": "https://chzzk.naver.com/4064e082140b83787fe24382efaefeab",
+              "url": "https://t.co/weTTUoGuPr"
+            },
+            {
+              "display_url": "pic.x.com/PlgIdXkiUZ",
+              "end": 66,
+              "expanded_url": "https://x.com/jasonbrod3/status/1994200193256866231/photo/1",
+              "media_key": "3_1994200184256143360",
+              "start": 43,
+              "url": "https://t.co/PlgIdXkiUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994200193256866231",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4401,
+          "impression_count": 287060,
+          "like_count": 38725,
+          "quote_count": 9,
+          "reply_count": 13,
+          "retweet_count": 2628
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/weTTUoGuPr\n\nlive   ! (no mic) https://t.co/PlgIdXkiUZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 91,
+          "like_count": 2789,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 175
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-16T15:55:28.000Z",
+        "description": "Contact : jasonbrody000530@gmail.com\n\nhttps://t.co/fLg3sJWfjR ←  (fanbox-like)\n\nhttps://t.co/ixs3lq4jTR -live",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shoulder.fan/@sharptosharp",
+                "end": 61,
+                "expanded_url": "https://shoulder.fan/@sharptosharp",
+                "start": 38,
+                "url": "https://t.co/fLg3sJWfjR"
+              },
+              {
+                "display_url": "buly.kr/1tzB9a",
+                "end": 103,
+                "expanded_url": "https://buly.kr/1tzB9a",
+                "start": 80,
+                "url": "https://t.co/ixs3lq4jTR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/12683635",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/12683635",
+                "start": 0,
+                "url": "https://t.co/ostF97iQoN"
+              }
+            ]
+          }
+        },
+        "id": "787683383807619072",
+        "name": "##🎨 C107 東４ メ－06b",
+        "pinned_tweet_id": "1990704961760735427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816277568703848448/Euw1wy64_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64483,
+          "following_count": 1428,
+          "like_count": 83889,
+          "listed_count": 285,
+          "media_count": 4993,
+          "tweet_count": 95743
+        },
+        "url": "https://t.co/ostF97iQoN",
+        "username": "jasonbrod3",
+        "verified": true
+      }
+    ]
+  }
+}

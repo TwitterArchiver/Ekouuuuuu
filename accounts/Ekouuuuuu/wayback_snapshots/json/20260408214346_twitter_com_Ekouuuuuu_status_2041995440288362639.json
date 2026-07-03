@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041849828251201536"
+      ],
+      "media_source_tweet_id": [
+        "2041849836094550157"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2041995440288362639",
+    "created_at": "2026-04-08T21:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T22:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041995440288362639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1935420089186336768",
+          "start": 3,
+          "username": "ASplendour15"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TaghNI9teG",
+          "end": 63,
+          "expanded_url": "https://x.com/ASplendour15/status/2041849836094550157/photo/1",
+          "media_key": "3_2041849828251201536",
+          "start": 40,
+          "url": "https://t.co/TaghNI9teG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041995440288362639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041849836094550157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ASplendour15: 「那你为何如饥似渴地咽下」\n\n结局系列重发 https://t.co/TaghNI9teG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2041849828251201536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYbmcGa8AAWYlc.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041849828251201536"
+          ],
+          "media_source_tweet_id": [
+            "2041849836094550157"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2041995440288362639",
+        "created_at": "2026-04-08T21:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T22:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041995440288362639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1935420089186336768",
+              "start": 3,
+              "username": "ASplendour15"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TaghNI9teG",
+              "end": 63,
+              "expanded_url": "https://x.com/ASplendour15/status/2041849836094550157/photo/1",
+              "media_key": "3_2041849828251201536",
+              "start": 40,
+              "url": "https://t.co/TaghNI9teG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041995440288362639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041849836094550157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ASplendour15: 「那你为何如饥似渴地咽下」\n\n结局系列重发 https://t.co/TaghNI9teG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041849828251201536"
+          ]
+        },
+        "author_id": "1935420089186336768",
+        "conversation_id": "2041849836094550157",
+        "created_at": "2026-04-08T12:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041849836094550157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TaghNI9teG",
+              "end": 45,
+              "expanded_url": "https://x.com/ASplendour15/status/2041849836094550157/photo/1",
+              "media_key": "3_2041849828251201536",
+              "start": 22,
+              "url": "https://t.co/TaghNI9teG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041849836094550157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 5259,
+          "like_count": 314,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "「那你为何如饥似渴地咽下」\n\n结局系列重发 https://t.co/TaghNI9teG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖恆春最深情‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo‖陰暗逼od蛆互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2035365735460180096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 252,
+          "like_count": 10575,
+          "listed_count": 1,
+          "media_count": 424,
+          "tweet_count": 2651
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "前世@AnIncandescence\n我会一直恨平台不公的判决和举报的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AnIncandescence"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescenc…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "start": 0,
+                "url": "https://t.co/exk0RhRMOb"
+              }
+            ]
+          }
+        },
+        "id": "1935420089186336768",
+        "location": "夜航忒修斯",
+        "name": "炽烈已极 到此为止吧。",
+        "pinned_tweet_id": "2041092518423753008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 103,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/exk0RhRMOb",
+        "username": "ASplendour15",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1998710094163488768"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1998710832528765063",
+    "created_at": "2025-12-10T11:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T12:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998710832528765063"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WvdwrfhQUK",
+          "end": 32,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1998710832528765063/video/1",
+          "media_key": "7_1998710094163488768",
+          "start": 9,
+          "url": "https://t.co/WvdwrfhQUK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998710832528765063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真想永遠活在秋天 https://t.co/WvdwrfhQUK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15533,
+        "height": 720,
+        "media_key": "7_1998710094163488768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1998710094163488768/pu/img/8fFVYbgrNMMk9ivj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998710094163488768/pu/vid/avc1/480x270/cZq3D4GyZYs-2Xsh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998710094163488768/pu/vid/avc1/640x360/EC4HkWSTnEYzZPMW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998710094163488768/pu/vid/avc1/1280x720/h_jxNA_-JApF1u52.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1998710094163488768/pu/pl/QJKJOJ8ggHyAaaDH.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1998710094163488768"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1998710832528765063",
+        "created_at": "2025-12-10T11:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T12:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998710832528765063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WvdwrfhQUK",
+              "end": 32,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1998710832528765063/video/1",
+              "media_key": "7_1998710094163488768",
+              "start": 9,
+              "url": "https://t.co/WvdwrfhQUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998710832528765063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真想永遠活在秋天 https://t.co/WvdwrfhQUK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997890323276816384/2Kk3argv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 132,
+          "like_count": 3378,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 215
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

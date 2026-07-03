@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013131041544790017"
+      ],
+      "media_source_tweet_id": [
+        "2013929579975422115"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2014459204401295750",
+    "created_at": "2026-01-22T22:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T23:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014459204401295750"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 28,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1215268226",
+          "start": 3,
+          "username": "ArikanRobo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0FqkRxVKbe",
+          "end": 62,
+          "expanded_url": "https://x.com/ArikanRobo/status/2013929579975422115/photo/1",
+          "media_key": "3_2013131041544790017",
+          "start": 39,
+          "url": "https://t.co/0FqkRxVKbe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014459204401295750",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 567
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013929579975422115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ArikanRobo: 📒🖋️🖤/fanart #NEEDY_pic https://t.co/0FqkRxVKbe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1700,
+        "media_key": "3_2013131041544790017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_AUBCmW4AED6yW.jpg",
+        "width": 1275
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013131041544790017"
+          ],
+          "media_source_tweet_id": [
+            "2013929579975422115"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2014459204401295750",
+        "created_at": "2026-01-22T22:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T23:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014459204401295750"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 28,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1215268226",
+              "start": 3,
+              "username": "ArikanRobo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0FqkRxVKbe",
+              "end": 62,
+              "expanded_url": "https://x.com/ArikanRobo/status/2013929579975422115/photo/1",
+              "media_key": "3_2013131041544790017",
+              "start": 39,
+              "url": "https://t.co/0FqkRxVKbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014459204401295750",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 567
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013929579975422115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ArikanRobo: 📒🖋️🖤/fanart #NEEDY_pic https://t.co/0FqkRxVKbe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013131041544790017"
+          ]
+        },
+        "author_id": "1215268226",
+        "conversation_id": "2013929579975422115",
+        "created_at": "2026-01-21T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013929579975422115"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 12,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0FqkRxVKbe",
+              "end": 46,
+              "expanded_url": "https://x.com/ArikanRobo/status/2013929579975422115/photo/1",
+              "media_key": "3_2013131041544790017",
+              "start": 23,
+              "url": "https://t.co/0FqkRxVKbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013929579975422115",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 516,
+          "impression_count": 64059,
+          "like_count": 6248,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 567
+        },
+        "reply_settings": "everyone",
+        "text": "📒🖋️🖤/fanart #NEEDY_pic https://t.co/0FqkRxVKbe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖友LGBT‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6U23",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 80,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 57,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2014018792066535498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 228,
+          "like_count": 6868,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 1497
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-24T11:48:35.000Z",
+        "description": "漫画家／イラストレーター｜KADOKAWA「漫画版 なぜ僕の世界を誰も覚えていないのか？」全14巻｜ご用命がございましたら｢arikanrobo@yahoo.co.jp｣までお願いします｜Please don't use&edit my work without permission.",
+        "id": "1215268226",
+        "name": "ありかん",
+        "pinned_tweet_id": "2013929579975422115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007822405033697280/VwwzP33p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17824,
+          "following_count": 996,
+          "like_count": 6350,
+          "listed_count": 245,
+          "media_count": 719,
+          "tweet_count": 16030
+        },
+        "username": "ArikanRobo",
+        "verified": false
+      }
+    ]
+  }
+}

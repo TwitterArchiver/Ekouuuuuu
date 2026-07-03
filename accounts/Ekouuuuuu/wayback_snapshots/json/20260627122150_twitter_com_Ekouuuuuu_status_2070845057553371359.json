@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070769309039898624"
+      ],
+      "media_source_tweet_id": [
+        "2070769378547867747"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2070845057553371359",
+    "created_at": "2026-06-27T12:21:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070845057553371359"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "tw"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1426576940450914311",
+          "start": 3,
+          "username": "jitiantiantian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UtIJtxC8Jz",
+          "end": 47,
+          "expanded_url": "https://x.com/jitiantiantian/status/2070769378547867747/video/1",
+          "media_key": "13_2070769309039898624",
+          "start": 24,
+          "url": "https://t.co/UtIJtxC8Jz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070845057553371359",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070769378547867747",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jitiantiantian: #tw https://t.co/UtIJtxC8Jz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6866,
+        "height": 720,
+        "media_key": "13_2070769309039898624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070769309039898624/img/FRAhEksyWrq_4OaT.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070769309039898624/vid/avc1/374x270/vOxNWSc2Xfv7VfAr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070769309039898624/vid/avc1/498x360/dwu33_jVRf_pD7Yx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070769309039898624/vid/avc1/998x720/jY7FDCAolutbBZFo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070769309039898624/pl/qdASHgH6GasF49ut.m3u8"
+          }
+        ],
+        "width": 998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070769309039898624"
+          ],
+          "media_source_tweet_id": [
+            "2070769378547867747"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070845057553371359",
+        "created_at": "2026-06-27T12:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070845057553371359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "tw"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1426576940450914311",
+              "start": 3,
+              "username": "jitiantiantian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UtIJtxC8Jz",
+              "end": 47,
+              "expanded_url": "https://x.com/jitiantiantian/status/2070769378547867747/video/1",
+              "media_key": "13_2070769309039898624",
+              "start": 24,
+              "url": "https://t.co/UtIJtxC8Jz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070845057553371359",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070769378547867747",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jitiantiantian: #tw https://t.co/UtIJtxC8Jz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070769309039898624"
+          ]
+        },
+        "author_id": "1426576940450914311",
+        "conversation_id": "2070769378547867747",
+        "created_at": "2026-06-27T07:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070769378547867747"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "tw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UtIJtxC8Jz",
+              "end": 27,
+              "expanded_url": "https://x.com/jitiantiantian/status/2070769378547867747/video/1",
+              "media_key": "13_2070769309039898624",
+              "start": 4,
+              "url": "https://t.co/UtIJtxC8Jz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070769378547867747",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#tw https://t.co/UtIJtxC8Jz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖LGBTQ+友好‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2064040950851404219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 378,
+          "like_count": 14406,
+          "listed_count": 1,
+          "media_count": 637,
+          "tweet_count": 3849
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T16:15:25.000Z",
+        "description": "日记本｜自伤｜od",
+        "id": "1426576940450914311",
+        "name": "ちてんすず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065515886019264512/2sq-zEc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 130,
+          "like_count": 1091,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 303
+        },
+        "url": "",
+        "username": "jitiantiantian",
+        "verified": false
+      }
+    ]
+  }
+}

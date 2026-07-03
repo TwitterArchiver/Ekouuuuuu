@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989138788510232577"
+      ],
+      "media_source_tweet_id": [
+        "1989138796064178543"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1989690677077131437",
+    "created_at": "2025-11-15T13:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T14:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989690677077131437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1565988119941627905",
+          "start": 3,
+          "username": "badgalkohakurin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bBQgZq3wy4",
+          "end": 53,
+          "expanded_url": "https://x.com/badgalkohakurin/status/1989138796064178543/photo/1",
+          "media_key": "3_1989138788510232577",
+          "start": 30,
+          "url": "https://t.co/bBQgZq3wy4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989690677077131437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989138796064178543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @badgalkohakurin: 国际共运陷入低潮 https://t.co/bBQgZq3wy4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1212,
+        "media_key": "3_1989138788510232577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5rXMHIacAE27r6.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989138788510232577"
+          ],
+          "media_source_tweet_id": [
+            "1989138796064178543"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1989690677077131437",
+        "created_at": "2025-11-15T13:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T14:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989690677077131437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1565988119941627905",
+              "start": 3,
+              "username": "badgalkohakurin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBQgZq3wy4",
+              "end": 53,
+              "expanded_url": "https://x.com/badgalkohakurin/status/1989138796064178543/photo/1",
+              "media_key": "3_1989138788510232577",
+              "start": 30,
+              "url": "https://t.co/bBQgZq3wy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989690677077131437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989138796064178543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @badgalkohakurin: 国际共运陷入低潮 https://t.co/bBQgZq3wy4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989138788510232577"
+          ]
+        },
+        "author_id": "1565988119941627905",
+        "conversation_id": "1989138796064178543",
+        "created_at": "2025-11-14T01:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T02:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989138796064178543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBQgZq3wy4",
+              "end": 32,
+              "expanded_url": "https://x.com/badgalkohakurin/status/1989138796064178543/photo/1",
+              "media_key": "3_1989138788510232577",
+              "start": 9,
+              "url": "https://t.co/bBQgZq3wy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989138796064178543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 194919,
+          "like_count": 2011,
+          "quote_count": 7,
+          "reply_count": 53,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "国际共运陷入低潮 https://t.co/bBQgZq3wy4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "還要多久 我才能在你身邊",
+        "id": "1912063502782812160",
+        "location": "我最想選的肩膀又是否願意與我同心",
+        "name": "我珍惜你的方式錯了嗎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979464074787246080/49ypr-ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 39,
+          "like_count": 2507,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 104
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T09:00:46.000Z",
+        "description": "视奸我好玩吗",
+        "id": "1565988119941627905",
+        "name": "空拉罗拉罗 🌈☁️",
+        "pinned_tweet_id": "1887461828441350461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915366936554463235/QgBuhg9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17221,
+          "following_count": 1652,
+          "like_count": 42326,
+          "listed_count": 28,
+          "media_count": 3286,
+          "tweet_count": 15477
+        },
+        "username": "badgalkohakurin",
+        "verified": false
+      }
+    ]
+  }
+}

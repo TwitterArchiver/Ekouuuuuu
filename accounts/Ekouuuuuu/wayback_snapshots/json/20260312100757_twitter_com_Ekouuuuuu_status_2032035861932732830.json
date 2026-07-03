@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031958311080534016"
+      ],
+      "media_source_tweet_id": [
+        "2031958588814746071"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2032035861932732830",
+    "created_at": "2026-03-12T10:07:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T11:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032035861932732830"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "アルちゃん",
+          "probability": 0.547,
+          "start": 22,
+          "type": "Person"
+        },
+        {
+          "end": 39,
+          "normalized_text": "アルちゃん",
+          "probability": 0.7633,
+          "start": 35,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1814180431765667840",
+          "start": 3,
+          "username": "y_ganman3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5yrVSj4B33",
+          "end": 75,
+          "expanded_url": "https://x.com/y_ganman3/status/2031958588814746071/photo/1",
+          "media_key": "3_2031958311080534016",
+          "start": 52,
+          "url": "https://t.co/5yrVSj4B33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032035861932732830",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 333
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031958588814746071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y_ganman3: いっぱい食べるアルちゃんを眺めていたい\nアルちゃん、誕生日おめでとう！！ https://t.co/5yrVSj4B33"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1680,
+        "media_key": "3_2031958311080534016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDL3UXJboAAtDyw.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031958311080534016"
+          ],
+          "media_source_tweet_id": [
+            "2031958588814746071"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2032035861932732830",
+        "created_at": "2026-03-12T10:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032035861932732830"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "アルちゃん",
+              "probability": 0.547,
+              "start": 22,
+              "type": "Person"
+            },
+            {
+              "end": 39,
+              "normalized_text": "アルちゃん",
+              "probability": 0.7633,
+              "start": 35,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1814180431765667840",
+              "start": 3,
+              "username": "y_ganman3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5yrVSj4B33",
+              "end": 75,
+              "expanded_url": "https://x.com/y_ganman3/status/2031958588814746071/photo/1",
+              "media_key": "3_2031958311080534016",
+              "start": 52,
+              "url": "https://t.co/5yrVSj4B33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032035861932732830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 333
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031958588814746071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y_ganman3: いっぱい食べるアルちゃんを眺めていたい\nアルちゃん、誕生日おめでとう！！ https://t.co/5yrVSj4B33"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031958311080534016"
+          ]
+        },
+        "author_id": "1814180431765667840",
+        "conversation_id": "2031958588814746071",
+        "created_at": "2026-03-12T05:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031958588814746071"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "アルちゃん",
+              "probability": 0.4631,
+              "start": 7,
+              "type": "Person"
+            },
+            {
+              "end": 24,
+              "normalized_text": "アルちゃん",
+              "probability": 0.7342,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5yrVSj4B33",
+              "end": 60,
+              "expanded_url": "https://x.com/y_ganman3/status/2031958588814746071/photo/1",
+              "media_key": "3_2031958311080534016",
+              "start": 37,
+              "url": "https://t.co/5yrVSj4B33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031958588814746071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 305,
+          "impression_count": 26665,
+          "like_count": 3190,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 333
+        },
+        "reply_settings": "everyone",
+        "text": "いっぱい食べるアルちゃんを眺めていたい\nアルちゃん、誕生日おめでとう！！ https://t.co/5yrVSj4B33"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2032007899732721877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 242,
+          "like_count": 9345,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 2427
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T06:08:32.000Z",
+        "description": "ジャンプ系や、アクションやミリタリー系、ブルアカのイラストを描いています。 ホシノとｱﾙﾁｬが激推しです。漫画家志望です。【FANBOX】https://t.co/vSwSNfMPXO 【skeb】https://t.co/1itaiWXus6 V垢 @y_ganman2 コス垢@y_ganman4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "y_ganman2"
+              },
+              {
+                "end": 150,
+                "start": 140,
+                "username": "y_ganman4"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "r-ganma.fanbox.cc",
+                "end": 92,
+                "expanded_url": "https://r-ganma.fanbox.cc/",
+                "start": 69,
+                "url": "https://t.co/vSwSNfMPXO"
+              },
+              {
+                "display_url": "skeb.jp/@y_ganman2",
+                "end": 122,
+                "expanded_url": "https://skeb.jp/@y_ganman2",
+                "start": 99,
+                "url": "https://t.co/1itaiWXus6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/19696367",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/19696367",
+                "start": 0,
+                "url": "https://t.co/pVxizh1yFF"
+              }
+            ]
+          }
+        },
+        "id": "1814180431765667840",
+        "location": "FANBOX毎週更新してます！！",
+        "name": "ガンマ_絵垢 @skeb募集中",
+        "pinned_tweet_id": "2007420236736475258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024822134808465408/PfPLE-WS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45582,
+          "following_count": 666,
+          "like_count": 6179,
+          "listed_count": 158,
+          "media_count": 1209,
+          "tweet_count": 6181
+        },
+        "url": "https://t.co/pVxizh1yFF",
+        "username": "y_ganman3",
+        "verified": true
+      }
+    ]
+  }
+}

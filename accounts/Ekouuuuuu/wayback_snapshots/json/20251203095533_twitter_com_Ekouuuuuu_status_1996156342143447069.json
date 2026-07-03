@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995414155374047232",
+        "3_1995414155361497088"
+      ],
+      "media_source_tweet_id": [
+        "1995414163917869344",
+        "1995414163917869344"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1996156342143447069",
+    "created_at": "2025-12-03T09:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T10:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996156342143447069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1396294567977095171",
+          "start": 3,
+          "username": "T_Tnoq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yt7R9IJFtE",
+          "end": 38,
+          "expanded_url": "https://x.com/T_Tnoq/status/1995414163917869344/photo/1",
+          "media_key": "3_1995414155374047232",
+          "start": 15,
+          "url": "https://t.co/Yt7R9IJFtE"
+        },
+        {
+          "display_url": "pic.x.com/Yt7R9IJFtE",
+          "end": 38,
+          "expanded_url": "https://x.com/T_Tnoq/status/1995414163917869344/photo/1",
+          "media_key": "3_1995414155361497088",
+          "start": 15,
+          "url": "https://t.co/Yt7R9IJFtE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996156342143447069",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 149
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995414163917869344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @T_Tnoq: かわ https://t.co/Yt7R9IJFtE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1558,
+        "media_key": "3_1995414155374047232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EimibbMAAnz1L.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1995414155361497088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EimiYbsAAfM_j.jpg",
+        "width": 1301
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995414155374047232",
+            "3_1995414155361497088"
+          ],
+          "media_source_tweet_id": [
+            "1995414163917869344",
+            "1995414163917869344"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1996156342143447069",
+        "created_at": "2025-12-03T09:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996156342143447069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1396294567977095171",
+              "start": 3,
+              "username": "T_Tnoq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yt7R9IJFtE",
+              "end": 38,
+              "expanded_url": "https://x.com/T_Tnoq/status/1995414163917869344/photo/1",
+              "media_key": "3_1995414155374047232",
+              "start": 15,
+              "url": "https://t.co/Yt7R9IJFtE"
+            },
+            {
+              "display_url": "pic.x.com/Yt7R9IJFtE",
+              "end": 38,
+              "expanded_url": "https://x.com/T_Tnoq/status/1995414163917869344/photo/1",
+              "media_key": "3_1995414155361497088",
+              "start": 15,
+              "url": "https://t.co/Yt7R9IJFtE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996156342143447069",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 149
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995414163917869344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @T_Tnoq: かわ https://t.co/Yt7R9IJFtE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995414155374047232",
+            "3_1995414155361497088"
+          ]
+        },
+        "author_id": "1396294567977095171",
+        "conversation_id": "1995414163917869344",
+        "created_at": "2025-12-01T08:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T09:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995414163917869344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yt7R9IJFtE",
+              "end": 26,
+              "expanded_url": "https://x.com/T_Tnoq/status/1995414163917869344/photo/1",
+              "media_key": "3_1995414155374047232",
+              "start": 3,
+              "url": "https://t.co/Yt7R9IJFtE"
+            },
+            {
+              "display_url": "pic.x.com/Yt7R9IJFtE",
+              "end": 26,
+              "expanded_url": "https://x.com/T_Tnoq/status/1995414163917869344/photo/1",
+              "media_key": "3_1995414155361497088",
+              "start": 3,
+              "url": "https://t.co/Yt7R9IJFtE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995414163917869344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 42247,
+          "like_count": 3700,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "かわ https://t.co/Yt7R9IJFtE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 122,
+          "like_count": 3210,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 225
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-23T02:39:11.000Z",
+        "description": "♡𝐢𝐥𝐥𝐮𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧♤ ご依頼受付中→https://t.co/B79giXDUYP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/TTnoq",
+                "end": 45,
+                "expanded_url": "https://lit.link/TTnoq",
+                "start": 22,
+                "url": "https://t.co/B79giXDUYP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@T_Tnoq",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@T_Tnoq",
+                "start": 0,
+                "url": "https://t.co/YKgsZMcsh9"
+              }
+            ]
+          }
+        },
+        "id": "1396294567977095171",
+        "location": "無断使用・無断転載・トレス・自作発言✖",
+        "name": "怠惰ねこ",
+        "pinned_tweet_id": "1958873831877009887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995485768752726016/LNdrM7yf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4838,
+          "following_count": 61,
+          "like_count": 3645,
+          "listed_count": 6,
+          "media_count": 85,
+          "tweet_count": 456
+        },
+        "url": "https://t.co/YKgsZMcsh9",
+        "username": "T_Tnoq",
+        "verified": false
+      }
+    ]
+  }
+}

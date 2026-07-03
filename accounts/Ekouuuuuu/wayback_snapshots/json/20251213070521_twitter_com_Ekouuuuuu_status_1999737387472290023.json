@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999645015954588046",
+    "created_at": "2025-12-13T07:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T08:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999737387472290023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1998986702795501568",
+          "start": 0,
+          "username": "alan120106"
+        },
+        {
+          "end": 26,
+          "id": "304506442",
+          "start": 12,
+          "username": "peopledailyJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999737387472290023",
+    "in_reply_to_user_id": "1998986702795501568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999736062781104349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alan120106 @peopledailyJP 中國人張口離不了媽ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999645015954588046",
+        "created_at": "2025-12-13T07:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T08:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999737387472290023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1998986702795501568",
+              "start": 0,
+              "username": "alan120106"
+            },
+            {
+              "end": 26,
+              "id": "304506442",
+              "start": 12,
+              "username": "peopledailyJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999737387472290023",
+        "in_reply_to_user_id": "1998986702795501568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999736062781104349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alan120106 @peopledailyJP 中國人張口離不了媽ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998986702795501568",
+        "conversation_id": "1999645015954588046",
+        "created_at": "2025-12-13T07:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T08:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999736062781104349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            },
+            {
+              "end": 25,
+              "id": "304506442",
+              "start": 11,
+              "username": "peopledailyJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999736062781104349",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999692268014604547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu @peopledailyJP 我不爱骂街，但是今天我不操你妈、操你姐、操你妹妹一顿，我是按耐不住愤怒的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999520374074024441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 136,
+          "like_count": 3452,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 231
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T05:22:36.000Z",
+        "description": "",
+        "id": "1998986702795501568",
+        "name": "alan10",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998986832412028935/PRU0Z45u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "username": "alan120106",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-24T16:43:20.000Z",
+        "description": "＃中国 で最も早く開設された日本語ニュースサイト「人民網日本語版」のTwitter公式アカウントです。中国関連のニュースの記事見出しをお届けします。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "中国"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "j.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://j.people.com.cn/",
+                "start": 0,
+                "url": "https://t.co/2bWBbIG4tH"
+              }
+            ]
+          }
+        },
+        "id": "304506442",
+        "name": "人民網日本",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957355707252248576/LuV0zyjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37915,
+          "following_count": 105,
+          "like_count": 945,
+          "listed_count": 691,
+          "media_count": 21219,
+          "tweet_count": 37184
+        },
+        "url": "https://t.co/2bWBbIG4tH",
+        "username": "peopledailyJP",
+        "verified": true
+      }
+    ]
+  }
+}

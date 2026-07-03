@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063014483170390016"
+      ],
+      "media_source_tweet_id": [
+        "2063014487654023362"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2063073471270449555",
+    "created_at": "2026-06-06T01:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T02:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063073471270449555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1958514832518578176",
+          "start": 3,
+          "username": "acidnyanko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SvGyTHdMMH",
+          "end": 47,
+          "expanded_url": "https://x.com/acidnyanko/status/2063014487654023362/photo/1",
+          "media_key": "3_2063014483170390016",
+          "start": 24,
+          "url": "https://t.co/SvGyTHdMMH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063073471270449555",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063014487654023362",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acidnyanko: お酒やめます。 https://t.co/SvGyTHdMMH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_2063014483170390016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFMvfvbcAAUYsp.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063014483170390016"
+          ],
+          "media_source_tweet_id": [
+            "2063014487654023362"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2063073471270449555",
+        "created_at": "2026-06-06T01:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063073471270449555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1958514832518578176",
+              "start": 3,
+              "username": "acidnyanko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SvGyTHdMMH",
+              "end": 47,
+              "expanded_url": "https://x.com/acidnyanko/status/2063014487654023362/photo/1",
+              "media_key": "3_2063014483170390016",
+              "start": 24,
+              "url": "https://t.co/SvGyTHdMMH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063073471270449555",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063014487654023362",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acidnyanko: お酒やめます。 https://t.co/SvGyTHdMMH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063014483170390016"
+          ]
+        },
+        "author_id": "1958514832518578176",
+        "conversation_id": "2063014487654023362",
+        "created_at": "2026-06-05T21:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T22:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063014487654023362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SvGyTHdMMH",
+              "end": 31,
+              "expanded_url": "https://x.com/acidnyanko/status/2063014487654023362/photo/1",
+              "media_key": "3_2063014483170390016",
+              "start": 8,
+              "url": "https://t.co/SvGyTHdMMH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063014487654023362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1773,
+          "like_count": 151,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "お酒やめます。 https://t.co/SvGyTHdMMH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖化 學 極 樂‖支畜別他媽來惡心我了‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2058947003573579910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 329,
+          "like_count": 13454,
+          "listed_count": 1,
+          "media_count": 550,
+          "tweet_count": 3528
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T13:01:49.000Z",
+        "description": "名古屋バニーやさん @acidspecial",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "acidspecial"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sp.pokepara.jp/aichi/m201/a20…",
+                "end": 23,
+                "expanded_url": "https://sp.pokepara.jp/aichi/m201/a204/shop24141/gal/816289/",
+                "start": 0,
+                "url": "https://t.co/tb6pLxM2G9"
+              }
+            ]
+          }
+        },
+        "id": "1958514832518578176",
+        "name": "あしど",
+        "pinned_tweet_id": "2033834039594127780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958517039309750272/QtoYg-XU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5051,
+          "following_count": 23,
+          "like_count": 62,
+          "listed_count": 29,
+          "media_count": 45,
+          "tweet_count": 88
+        },
+        "url": "https://t.co/tb6pLxM2G9",
+        "username": "acidnyanko",
+        "verified": false
+      }
+    ]
+  }
+}

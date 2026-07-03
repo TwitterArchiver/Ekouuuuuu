@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004696205880651776"
+      ],
+      "media_source_tweet_id": [
+        "2004696226290438388"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2004948011139637443",
+    "created_at": "2025-12-27T16:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T17:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004948011139637443"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "yandere",
+          "probability": 0.4253,
+          "start": 20,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1712542153673420800",
+          "start": 3,
+          "username": "Quilyra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0TZhc4h3pR",
+          "end": 67,
+          "expanded_url": "https://x.com/Quilyra/status/2004696226290438388/photo/1",
+          "media_key": "3_2004696205880651776",
+          "start": 44,
+          "url": "https://t.co/0TZhc4h3pR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004948011139637443",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 164
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004696226290438388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Quilyra: I am a yandere after all. 🖤🖤🔪🩸 https://t.co/0TZhc4h3pR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004948011139637443].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004948011139637443",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004948011139637443"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004696205880651776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Ick_IW8AAcMJd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004696205880651776"
+          ]
+        },
+        "author_id": "1712542153673420800",
+        "conversation_id": "2004696226290438388",
+        "created_at": "2025-12-26T23:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T00:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004696226290438388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0TZhc4h3pR",
+              "end": 54,
+              "expanded_url": "https://x.com/Quilyra/status/2004696226290438388/photo/1",
+              "media_key": "3_2004696205880651776",
+              "start": 31,
+              "url": "https://t.co/0TZhc4h3pR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004696226290438388",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 362,
+          "impression_count": 52332,
+          "like_count": 1881,
+          "quote_count": 10,
+          "reply_count": 61,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "I am a yandere after all. 🖤🖤🔪🩸 https://t.co/0TZhc4h3pR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了w‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 188,
+          "like_count": 5131,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 822
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T18:54:14.000Z",
+        "description": "🇬🇧Just your typical sweetheart yandere ☠️, I only want to love you. 🖤🔪🩸 ModelMumma:- @Eloru_art https://t.co/a2VXKonS4W.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Eloru_art"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/quilyra",
+                "end": 119,
+                "expanded_url": "http://twitch.tv/quilyra",
+                "start": 96,
+                "url": "https://t.co/a2VXKonS4W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/9cuWYX5jeE",
+                "end": 23,
+                "expanded_url": "https://discord.gg/9cuWYX5jeE",
+                "start": 0,
+                "url": "https://t.co/cIBVBd3NiN"
+              }
+            ]
+          }
+        },
+        "id": "1712542153673420800",
+        "name": "🖤 Qui 🖤",
+        "pinned_tweet_id": "1743642458058076614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984724730369171456/3UifC5rz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6343,
+          "following_count": 336,
+          "like_count": 56739,
+          "listed_count": 27,
+          "media_count": 2215,
+          "tweet_count": 6220
+        },
+        "url": "https://t.co/cIBVBd3NiN",
+        "username": "Quilyra",
+        "verified": true
+      }
+    ]
+  }
+}

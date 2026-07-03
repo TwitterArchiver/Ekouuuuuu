@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062494414728208384"
+      ],
+      "media_source_tweet_id": [
+        "2062494426237383069"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2062897077596930335",
+    "created_at": "2026-06-05T13:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062897077596930335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1908821205307850752",
+          "start": 3,
+          "username": "prm_o_o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qLsJnL5H5I",
+          "end": 53,
+          "expanded_url": "https://x.com/prm_o_o/status/2062494426237383069/photo/1",
+          "media_key": "3_2062494414728208384",
+          "start": 30,
+          "url": "https://t.co/qLsJnL5H5I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062897077596930335",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062494426237383069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @prm_o_o: この髪型似合うかも、しっくりくる https://t.co/qLsJnL5H5I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062494414728208384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9zvh0aIAA9PGO.jpg",
+        "width": 1458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062494414728208384"
+          ],
+          "media_source_tweet_id": [
+            "2062494426237383069"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2062897077596930335",
+        "created_at": "2026-06-05T13:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062897077596930335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908821205307850752",
+              "start": 3,
+              "username": "prm_o_o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qLsJnL5H5I",
+              "end": 53,
+              "expanded_url": "https://x.com/prm_o_o/status/2062494426237383069/photo/1",
+              "media_key": "3_2062494414728208384",
+              "start": 30,
+              "url": "https://t.co/qLsJnL5H5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062897077596930335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062494426237383069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @prm_o_o: この髪型似合うかも、しっくりくる https://t.co/qLsJnL5H5I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062494414728208384"
+          ]
+        },
+        "author_id": "1908821205307850752",
+        "conversation_id": "2062494426237383069",
+        "created_at": "2026-06-04T11:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062494426237383069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qLsJnL5H5I",
+              "end": 40,
+              "expanded_url": "https://x.com/prm_o_o/status/2062494426237383069/photo/1",
+              "media_key": "3_2062494414728208384",
+              "start": 17,
+              "url": "https://t.co/qLsJnL5H5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062494426237383069",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 24216,
+          "like_count": 2445,
+          "quote_count": 7,
+          "reply_count": 14,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "この髪型似合うかも、しっくりくる https://t.co/qLsJnL5H5I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖化 學 極 樂‖支畜別他媽來惡心我了‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2058947003573579910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 328,
+          "like_count": 13360,
+          "listed_count": 1,
+          "media_count": 544,
+          "tweet_count": 3497
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T09:57:09.000Z",
+        "description": "一般弱者女性",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/prima_0208?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/prima_0208?igsh=MTlnY2R1dXMyZ2o2",
+                "start": 0,
+                "url": "https://t.co/8CybQeK7U1"
+              }
+            ]
+          }
+        },
+        "id": "1908821205307850752",
+        "location": "全国重加工選手権東海地区代表",
+        "name": "ぷりま🩰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000225120770789376/STa_zpqY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8424,
+          "following_count": 176,
+          "like_count": 46712,
+          "listed_count": 40,
+          "media_count": 149,
+          "tweet_count": 2688
+        },
+        "url": "https://t.co/8CybQeK7U1",
+        "username": "prm_o_o",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053744930108178432"
+      ],
+      "media_source_tweet_id": [
+        "2053744954674155934"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2053853290618913046",
+    "created_at": "2026-05-11T15:02:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T16:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053853290618913046"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 11,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2048257346938531840",
+          "start": 3,
+          "username": "rjw3c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MnsazwdUM0",
+          "end": 41,
+          "expanded_url": "https://x.com/rjw3c/status/2053744954674155934/photo/1",
+          "media_key": "3_2053744930108178432",
+          "start": 18,
+          "url": "https://t.co/MnsazwdUM0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053853290618913046",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053744954674155934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rjw3c: #自撮り界隈 https://t.co/MnsazwdUM0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2053744930108178432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBeIfpbgAA7Qzj.jpg",
+        "width": 616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053744930108178432"
+          ],
+          "media_source_tweet_id": [
+            "2053744954674155934"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2053853290618913046",
+        "created_at": "2026-05-11T15:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053853290618913046"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2048257346938531840",
+              "start": 3,
+              "username": "rjw3c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MnsazwdUM0",
+              "end": 41,
+              "expanded_url": "https://x.com/rjw3c/status/2053744954674155934/photo/1",
+              "media_key": "3_2053744930108178432",
+              "start": 18,
+              "url": "https://t.co/MnsazwdUM0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053853290618913046",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053744954674155934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rjw3c: #自撮り界隈 https://t.co/MnsazwdUM0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053744930108178432"
+          ]
+        },
+        "author_id": "2048257346938531840",
+        "conversation_id": "2053744954674155934",
+        "created_at": "2026-05-11T07:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053744954674155934"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MnsazwdUM0",
+              "end": 30,
+              "expanded_url": "https://x.com/rjw3c/status/2053744954674155934/photo/1",
+              "media_key": "3_2053744930108178432",
+              "start": 7,
+              "url": "https://t.co/MnsazwdUM0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053744954674155934",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3466,
+          "like_count": 337,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 https://t.co/MnsazwdUM0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "她說她停不下這瘋狂‖最好的閨蜜@seeFvn‖最愛的男友@Shiroko_Li‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "seeFvn"
+              },
+              {
+                "end": 39,
+                "start": 28,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼8964",
+        "pinned_tweet_id": "2051776082542825551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 295,
+          "like_count": 12189,
+          "listed_count": 1,
+          "media_count": 506,
+          "tweet_count": 3029
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T04:31:09.000Z",
+        "description": "rrあ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/3ECXNR06G2VGC?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/RXVWrdlr8w"
+              }
+            ]
+          }
+        },
+        "id": "2048257346938531840",
+        "name": "𖥔 ݁",
+        "pinned_tweet_id": "2050188335742882215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050202040425730048/GN2EvRlB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 1,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/RXVWrdlr8w",
+        "username": "rjw3c",
+        "verified": false
+      }
+    ]
+  }
+}

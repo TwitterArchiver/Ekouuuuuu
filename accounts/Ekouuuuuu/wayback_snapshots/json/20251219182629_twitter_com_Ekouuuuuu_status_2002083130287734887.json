@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001836565837086720"
+      ],
+      "media_source_tweet_id": [
+        "2001836578537377876"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2002083130287734887",
+    "created_at": "2025-12-19T18:26:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T19:26:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002083130287734887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1945894406244208640",
+          "start": 3,
+          "username": "daimengniu8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5VSpwJpPEQ",
+          "end": 57,
+          "expanded_url": "https://x.com/daimengniu8964/status/2001836578537377876/photo/1",
+          "media_key": "3_2001836565837086720",
+          "start": 34,
+          "url": "https://t.co/5VSpwJpPEQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002083130287734887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001836578537377876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daimengniu8964: 福瑞控最严厉的东亚父亲来了 https://t.co/5VSpwJpPEQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 891,
+        "media_key": "3_2001836565837086720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8fzwB0bgAA-AjM.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001836565837086720"
+          ],
+          "media_source_tweet_id": [
+            "2001836578537377876"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2002083130287734887",
+        "created_at": "2025-12-19T18:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T19:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002083130287734887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1945894406244208640",
+              "start": 3,
+              "username": "daimengniu8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5VSpwJpPEQ",
+              "end": 57,
+              "expanded_url": "https://x.com/daimengniu8964/status/2001836578537377876/photo/1",
+              "media_key": "3_2001836565837086720",
+              "start": 34,
+              "url": "https://t.co/5VSpwJpPEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002083130287734887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001836578537377876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daimengniu8964: 福瑞控最严厉的东亚父亲来了 https://t.co/5VSpwJpPEQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001836565837086720"
+          ]
+        },
+        "author_id": "1945894406244208640",
+        "conversation_id": "2001836578537377876",
+        "created_at": "2025-12-19T02:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T03:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001836578537377876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5VSpwJpPEQ",
+              "end": 37,
+              "expanded_url": "https://x.com/daimengniu8964/status/2001836578537377876/photo/1",
+              "media_key": "3_2001836565837086720",
+              "start": 14,
+              "url": "https://t.co/5VSpwJpPEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001836578537377876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 61365,
+          "like_count": 1845,
+          "quote_count": 6,
+          "reply_count": 31,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "福瑞控最严厉的东亚父亲来了 https://t.co/5VSpwJpPEQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 184,
+          "like_count": 4734,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 722
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T17:12:45.000Z",
+        "description": "感觉自己好呆萌呀……门槛费涨钱是因为牛牛最近炒股赔钱了 好想哭 皮下女孩 接广请自行分辨❕牛牛在赚饲料钱 牛牛上网就是为了逗你们开心滴",
+        "id": "1945894406244208640",
+        "location": "🚪52💚",
+        "name": "呆萌小牛牛",
+        "pinned_tweet_id": "2001269107069739214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626979542241280/N7ZmbSFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7824,
+          "following_count": 38,
+          "like_count": 2674,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 2411
+        },
+        "username": "daimengniu8964",
+        "verified": false
+      }
+    ]
+  }
+}

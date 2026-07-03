@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994286786143719424"
+      ],
+      "media_source_tweet_id": [
+        "1994286907845693509"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Swimwear",
+          "id": "846725037595869185",
+          "name": "Swimwear"
+        }
+      }
+    ],
+    "conversation_id": "1994586199223407009",
+    "created_at": "2025-11-29T01:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T02:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994586199223407009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2223206450",
+          "start": 3,
+          "username": "tsugu_gumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ja7Xi97LCZ",
+          "end": 84,
+          "expanded_url": "https://x.com/tsugu_gumi/status/1994286907845693509/photo/1",
+          "media_key": "3_1994286786143719424",
+          "start": 61,
+          "url": "https://t.co/Ja7Xi97LCZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994586199223407009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 792
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994286907845693509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsugu_gumi: シロコ＊テラー (水着) / shiroko terror (swimsuit) sfw https://t.co/Ja7Xi97LCZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1994286786143719424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60hRAxaEAADULu.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994286786143719424"
+          ],
+          "media_source_tweet_id": [
+            "1994286907845693509"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Swimwear",
+              "id": "846725037595869185",
+              "name": "Swimwear"
+            }
+          }
+        ],
+        "conversation_id": "1994586199223407009",
+        "created_at": "2025-11-29T01:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994586199223407009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2223206450",
+              "start": 3,
+              "username": "tsugu_gumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ja7Xi97LCZ",
+              "end": 84,
+              "expanded_url": "https://x.com/tsugu_gumi/status/1994286907845693509/photo/1",
+              "media_key": "3_1994286786143719424",
+              "start": 61,
+              "url": "https://t.co/Ja7Xi97LCZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994586199223407009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 792
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994286907845693509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsugu_gumi: シロコ＊テラー (水着) / shiroko terror (swimsuit) sfw https://t.co/Ja7Xi97LCZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994286786143719424"
+          ]
+        },
+        "author_id": "2223206450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Swimwear",
+              "id": "846725037595869185",
+              "name": "Swimwear"
+            }
+          }
+        ],
+        "conversation_id": "1994286907845693509",
+        "created_at": "2025-11-28T06:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994286907845693509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ja7Xi97LCZ",
+              "end": 68,
+              "expanded_url": "https://x.com/tsugu_gumi/status/1994286907845693509/photo/1",
+              "media_key": "3_1994286786143719424",
+              "start": 45,
+              "url": "https://t.co/Ja7Xi97LCZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994286907845693509",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2210,
+          "impression_count": 103857,
+          "like_count": 12759,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 792
+        },
+        "reply_settings": "everyone",
+        "text": "シロコ＊テラー (水着) / shiroko terror (swimsuit) sfw https://t.co/Ja7Xi97LCZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 2956,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 274
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-30T14:39:50.000Z",
+        "description": "illustrations 🥞🔞｜https://t.co/KM7hW5wHOG｜@tsugu_pancake",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 41,
+                "username": "tsugu_pancake"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/tsugu_pat",
+                "end": 40,
+                "expanded_url": "https://x.gd/tsugu_pat",
+                "start": 17,
+                "url": "https://t.co/KM7hW5wHOG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/tsugugumi",
+                "end": 23,
+                "expanded_url": "https://lit.link/tsugugumi",
+                "start": 0,
+                "url": "https://t.co/82RuGi9QNj"
+              }
+            ]
+          }
+        },
+        "id": "2223206450",
+        "location": "CSP・SD",
+        "name": "tsugu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983920011669389312/iR64CW5H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53048,
+          "following_count": 94,
+          "like_count": 24386,
+          "listed_count": 290,
+          "media_count": 450,
+          "tweet_count": 3470
+        },
+        "url": "https://t.co/82RuGi9QNj",
+        "username": "tsugu_gumi",
+        "verified": true
+      }
+    ]
+  }
+}

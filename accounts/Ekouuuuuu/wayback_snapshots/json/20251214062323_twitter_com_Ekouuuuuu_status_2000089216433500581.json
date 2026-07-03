@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1985365280609198080"
+      ],
+      "media_source_tweet_id": [
+        "1985365334703170035"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000089216433500581",
+    "created_at": "2025-12-14T06:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T07:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000089216433500581"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "中国",
+          "probability": 0.6301,
+          "start": 17,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "484778777",
+          "start": 3,
+          "username": "chusama1212"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aZcUsXMCVG",
+          "end": 57,
+          "expanded_url": "https://x.com/chusama1212/status/1985365334703170035/video/1",
+          "media_key": "13_1985365280609198080",
+          "start": 34,
+          "url": "https://t.co/aZcUsXMCVG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000089216433500581",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 439
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985365334703170035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chusama1212: 中国ビザ免除延長うれしすぎてこれ https://t.co/aZcUsXMCVG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12560,
+        "height": 564,
+        "media_key": "13_1985365280609198080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985365280609198080/img/zR3qWySz2IgJ9RZH.jpg",
+        "public_metrics": {
+          "view_count": 42380
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985365280609198080/vid/avc1/320x564/UPXld31PbLibLng5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985365280609198080/pl/gxr7WGbO320dnyMW.m3u8?v=cfc"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985365280609198080"
+          ],
+          "media_source_tweet_id": [
+            "1985365334703170035"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000089216433500581",
+        "created_at": "2025-12-14T06:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000089216433500581"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "中国",
+              "probability": 0.6301,
+              "start": 17,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "484778777",
+              "start": 3,
+              "username": "chusama1212"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aZcUsXMCVG",
+              "end": 57,
+              "expanded_url": "https://x.com/chusama1212/status/1985365334703170035/video/1",
+              "media_key": "13_1985365280609198080",
+              "start": 34,
+              "url": "https://t.co/aZcUsXMCVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000089216433500581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 439
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985365334703170035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chusama1212: 中国ビザ免除延長うれしすぎてこれ https://t.co/aZcUsXMCVG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985365280609198080"
+          ]
+        },
+        "author_id": "484778777",
+        "conversation_id": "1985365334703170035",
+        "created_at": "2025-11-03T15:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985365334703170035"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.6446,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aZcUsXMCVG",
+              "end": 40,
+              "expanded_url": "https://x.com/chusama1212/status/1985365334703170035/video/1",
+              "media_key": "13_1985365280609198080",
+              "start": 17,
+              "url": "https://t.co/aZcUsXMCVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985365334703170035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 484,
+          "impression_count": 114713,
+          "like_count": 2357,
+          "quote_count": 63,
+          "reply_count": 31,
+          "retweet_count": 439
+        },
+        "reply_settings": "everyone",
+        "text": "中国ビザ免除延長うれしすぎてこれ https://t.co/aZcUsXMCVG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖化學極樂‖養病中……‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 159,
+          "like_count": 3845,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 491
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-06T13:43:33.000Z",
+        "description": "旧東欧共産圏の自動車、建築、旅行など 規制垢(@chusama4BC) 🇷🇺🇱🇻🇨🇳🇰🇬🇺🇿🇹🇯🇰🇿🇧🇾🇱🇹🇪🇪🇮🇹🇸🇲🇲🇩🇹🇷🇮🇷🇦🇿🇬🇪🇺🇦🇦🇲🇩🇪🇨🇿🇸🇰🇭🇺🇷🇴🇧🇬🇮🇶🇫🇮🇵🇱🇷🇸🇸🇮🇭🇷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chusama4BC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "link-2-u-chusama.blog.jp",
+                "end": 23,
+                "expanded_url": "https://link-2-u-chusama.blog.jp",
+                "start": 0,
+                "url": "https://t.co/TiByKJIxX1"
+              }
+            ]
+          }
+        },
+        "id": "484778777",
+        "location": "ネズミスタン共和国",
+        "name": "ちゅうさま『共産主義車』発売中！",
+        "pinned_tweet_id": "1907395664470057110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1357196248726425600/8sDLWimA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7397,
+          "following_count": 2971,
+          "like_count": 214601,
+          "listed_count": 304,
+          "media_count": 15529,
+          "tweet_count": 217162
+        },
+        "url": "https://t.co/TiByKJIxX1",
+        "username": "chusama1212",
+        "verified": false
+      }
+    ]
+  }
+}

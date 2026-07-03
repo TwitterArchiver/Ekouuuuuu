@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999808976717066240"
+      ],
+      "media_source_tweet_id": [
+        "1999808988586619245"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000870707044212841",
+    "created_at": "2025-12-16T10:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T11:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000870707044212841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "807494718",
+          "start": 3,
+          "username": "hira15623"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rniT3ilaXM",
+          "end": 52,
+          "expanded_url": "https://x.com/hira15623/status/1999808988586619245/photo/1",
+          "media_key": "3_1999808976717066240",
+          "start": 29,
+          "url": "https://t.co/rniT3ilaXM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000870707044212841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 158
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999808988586619245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hira15623: ハードボイルドな便利屋68 https://t.co/rniT3ilaXM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1917,
+        "media_key": "3_1999808976717066240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8C_qzvbsAAT0IW.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999808976717066240"
+          ],
+          "media_source_tweet_id": [
+            "1999808988586619245"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000870707044212841",
+        "created_at": "2025-12-16T10:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T11:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000870707044212841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "807494718",
+              "start": 3,
+              "username": "hira15623"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rniT3ilaXM",
+              "end": 52,
+              "expanded_url": "https://x.com/hira15623/status/1999808988586619245/photo/1",
+              "media_key": "3_1999808976717066240",
+              "start": 29,
+              "url": "https://t.co/rniT3ilaXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000870707044212841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 158
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999808988586619245",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hira15623: ハードボイルドな便利屋68 https://t.co/rniT3ilaXM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999808976717066240"
+          ]
+        },
+        "author_id": "807494718",
+        "conversation_id": "1999808988586619245",
+        "created_at": "2025-12-13T11:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T12:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999808988586619245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rniT3ilaXM",
+              "end": 37,
+              "expanded_url": "https://x.com/hira15623/status/1999808988586619245/photo/1",
+              "media_key": "3_1999808976717066240",
+              "start": 14,
+              "url": "https://t.co/rniT3ilaXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999808988586619245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 12362,
+          "like_count": 846,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "ハードボイルドな便利屋68 https://t.co/rniT3ilaXM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖我很厭惡高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 172,
+          "like_count": 4240,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 609
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-06T19:57:28.000Z",
+        "description": "ブルアカメイン、たまにステラソラのお絵描きする人\nぼんやりとした印象で表現するのが好き\n\n基本的にフォロバは好きだと感じた絵のお絵描きしてる人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/43321519",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/43321519",
+                "start": 0,
+                "url": "https://t.co/ApXYiolrFU"
+              }
+            ]
+          }
+        },
+        "id": "807494718",
+        "name": "ヒラ@冬眠",
+        "pinned_tweet_id": "1981270897580527904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991085504331468800/hNZfrrPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4842,
+          "following_count": 336,
+          "like_count": 19809,
+          "listed_count": 27,
+          "media_count": 2187,
+          "tweet_count": 24833
+        },
+        "url": "https://t.co/ApXYiolrFU",
+        "username": "hira15623",
+        "verified": false
+      }
+    ]
+  }
+}

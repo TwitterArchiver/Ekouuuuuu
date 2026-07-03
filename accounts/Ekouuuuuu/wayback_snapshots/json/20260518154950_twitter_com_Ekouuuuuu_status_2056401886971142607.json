@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056180693667921920",
+        "3_2056180728421859329"
+      ],
+      "media_source_tweet_id": [
+        "2056180825083809921",
+        "2056180825083809921"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2056401886971142607",
+    "created_at": "2026-05-18T15:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056401886971142607"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 51,
+          "tag": "subcultwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1901365201976557568",
+          "start": 3,
+          "username": "kouuzyyy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZSgq6QwyfH",
+          "end": 85,
+          "expanded_url": "https://x.com/kouuzyyy/status/2056180825083809921/photo/1",
+          "media_key": "3_2056180693667921920",
+          "start": 62,
+          "url": "https://t.co/ZSgq6QwyfH"
+        },
+        {
+          "display_url": "pic.x.com/ZSgq6QwyfH",
+          "end": 85,
+          "expanded_url": "https://x.com/kouuzyyy/status/2056180825083809921/photo/1",
+          "media_key": "3_2056180728421859329",
+          "start": 62,
+          "url": "https://t.co/ZSgq6QwyfH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056401886971142607",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056180825083809921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kouuzyyy: I want this choker so bad \ngoodnight #subcultwt https://t.co/ZSgq6QwyfH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 886,
+        "media_key": "3_2056180693667921920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkFcmAXwAAsrip.jpg",
+        "width": 605
+      },
+      {
+        "height": 924,
+        "media_key": "3_2056180728421859329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkFeneWwAEjY3z.jpg",
+        "width": 825
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056180693667921920",
+            "3_2056180728421859329"
+          ],
+          "media_source_tweet_id": [
+            "2056180825083809921",
+            "2056180825083809921"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2056401886971142607",
+        "created_at": "2026-05-18T15:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056401886971142607"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 51,
+              "tag": "subcultwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1901365201976557568",
+              "start": 3,
+              "username": "kouuzyyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSgq6QwyfH",
+              "end": 85,
+              "expanded_url": "https://x.com/kouuzyyy/status/2056180825083809921/photo/1",
+              "media_key": "3_2056180693667921920",
+              "start": 62,
+              "url": "https://t.co/ZSgq6QwyfH"
+            },
+            {
+              "display_url": "pic.x.com/ZSgq6QwyfH",
+              "end": 85,
+              "expanded_url": "https://x.com/kouuzyyy/status/2056180825083809921/photo/1",
+              "media_key": "3_2056180728421859329",
+              "start": 62,
+              "url": "https://t.co/ZSgq6QwyfH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056401886971142607",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056180825083809921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kouuzyyy: I want this choker so bad \ngoodnight #subcultwt https://t.co/ZSgq6QwyfH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056180693667921920",
+            "3_2056180728421859329"
+          ]
+        },
+        "author_id": "1901365201976557568",
+        "conversation_id": "2056180825083809921",
+        "created_at": "2026-05-18T01:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056180825083809921"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 37,
+              "tag": "subcultwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSgq6QwyfH",
+              "end": 71,
+              "expanded_url": "https://x.com/kouuzyyy/status/2056180825083809921/photo/1",
+              "media_key": "3_2056180693667921920",
+              "start": 48,
+              "url": "https://t.co/ZSgq6QwyfH"
+            },
+            {
+              "display_url": "pic.x.com/ZSgq6QwyfH",
+              "end": 71,
+              "expanded_url": "https://x.com/kouuzyyy/status/2056180825083809921/photo/1",
+              "media_key": "3_2056180728421859329",
+              "start": 48,
+              "url": "https://t.co/ZSgq6QwyfH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056180825083809921",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 5201,
+          "like_count": 567,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "I want this choker so bad \ngoodnight #subcultwt https://t.co/ZSgq6QwyfH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "她說她停不下這瘋狂‖閨蜜@seeFvn‖老公@Shiroko_Li‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 12,
+                "username": "seeFvn"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2054494874192195972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 303,
+          "like_count": 12884,
+          "listed_count": 1,
+          "media_count": 526,
+          "tweet_count": 3231
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T20:09:32.000Z",
+        "description": "#フョードル  | 251 crow ♡ \nsubculture landmine",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "フョードル"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kouuzy.straw.page",
+                "end": 23,
+                "expanded_url": "https://kouuzy.straw.page/",
+                "start": 0,
+                "url": "https://t.co/U5l4ikB0LF"
+              }
+            ]
+          }
+        },
+        "id": "1901365201976557568",
+        "location": "spam: @vqicbh bff: @snailf1sh",
+        "name": "kou ( = ⩊ = )",
+        "pinned_tweet_id": "2052844194251579796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054264728399040512/elIK2eH__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 421,
+          "like_count": 3958,
+          "listed_count": 4,
+          "media_count": 530,
+          "tweet_count": 9003
+        },
+        "url": "https://t.co/U5l4ikB0LF",
+        "username": "kouuzyyy",
+        "verified": false
+      }
+    ]
+  }
+}

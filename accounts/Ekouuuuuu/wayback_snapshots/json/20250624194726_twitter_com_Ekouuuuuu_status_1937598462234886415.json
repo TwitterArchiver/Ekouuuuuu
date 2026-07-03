@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937598458980098048",
+        "3_1937598458665533443"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1937598462234886415",
+    "created_at": "2025-06-24T19:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T20:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937598462234886415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z7HtUvrAj2",
+          "end": 33,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1937598462234886415/photo/1",
+          "media_key": "3_1937598458980098048",
+          "start": 10,
+          "url": "https://t.co/Z7HtUvrAj2"
+        },
+        {
+          "display_url": "pic.x.com/Z7HtUvrAj2",
+          "end": 33,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1937598462234886415/photo/1",
+          "media_key": "3_1937598458665533443",
+          "start": 10,
+          "url": "https://t.co/Z7HtUvrAj2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937598462234886415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "墻內軟件就是事多😋 https://t.co/Z7HtUvrAj2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937598458980098048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuO7iFjaYAABaRJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1937598458665533443",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuO7iEYagAMjnHh.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937598458980098048",
+            "3_1937598458665533443"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1937598462234886415",
+        "created_at": "2025-06-24T19:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T20:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937598462234886415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z7HtUvrAj2",
+              "end": 33,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1937598462234886415/photo/1",
+              "media_key": "3_1937598458980098048",
+              "start": 10,
+              "url": "https://t.co/Z7HtUvrAj2"
+            },
+            {
+              "display_url": "pic.x.com/Z7HtUvrAj2",
+              "end": 33,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1937598462234886415/photo/1",
+              "media_key": "3_1937598458665533443",
+              "start": 10,
+              "url": "https://t.co/Z7HtUvrAj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937598462234886415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墻內軟件就是事多😋 https://t.co/Z7HtUvrAj2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "☘️☘️☘️☘️//〔觉今是而昨非〕//☘️☘️☘️☘️☘️/不是一個有素質的人/打遊戲可以叫上我🥲",
+        "id": "1912063502782812160",
+        "location": "莫对故国思故人",
+        "name": "一根白菜梗🥬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933223087061024768/NHwQoVVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 43,
+          "like_count": 714,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 118
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

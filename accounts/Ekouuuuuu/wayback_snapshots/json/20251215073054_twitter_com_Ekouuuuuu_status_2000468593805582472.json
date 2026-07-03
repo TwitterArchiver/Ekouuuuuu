@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000132855247294464"
+      ],
+      "media_source_tweet_id": [
+        "2000132866320351565"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000468593805582472",
+    "created_at": "2025-12-15T07:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T08:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000468593805582472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1005063617438334977",
+          "start": 3,
+          "username": "ATORI_YA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DoFup0cHaI",
+          "end": 42,
+          "expanded_url": "https://x.com/ATORI_YA/status/2000132866320351565/photo/1",
+          "media_key": "3_2000132855247294464",
+          "start": 19,
+          "url": "https://t.co/DoFup0cHaI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000468593805582472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 283
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000132866320351565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ATORI_YA: 若藻…… https://t.co/DoFup0cHaI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_2000132855247294464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8HmPBSaUAAYRUB.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000132855247294464"
+          ],
+          "media_source_tweet_id": [
+            "2000132866320351565"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000468593805582472",
+        "created_at": "2025-12-15T07:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000468593805582472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1005063617438334977",
+              "start": 3,
+              "username": "ATORI_YA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DoFup0cHaI",
+              "end": 42,
+              "expanded_url": "https://x.com/ATORI_YA/status/2000132866320351565/photo/1",
+              "media_key": "3_2000132855247294464",
+              "start": 19,
+              "url": "https://t.co/DoFup0cHaI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000468593805582472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 283
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000132866320351565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ATORI_YA: 若藻…… https://t.co/DoFup0cHaI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000132855247294464"
+          ]
+        },
+        "author_id": "1005063617438334977",
+        "conversation_id": "2000132866320351565",
+        "created_at": "2025-12-14T09:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T10:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000132866320351565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DoFup0cHaI",
+              "end": 28,
+              "expanded_url": "https://x.com/ATORI_YA/status/2000132866320351565/photo/1",
+              "media_key": "3_2000132855247294464",
+              "start": 5,
+              "url": "https://t.co/DoFup0cHaI"
+            },
+            {
+              "display_url": "x.com/maton_3110/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/maton_3110/status/1997957284035805226",
+              "start": 29,
+              "url": "https://t.co/SfclheEqpV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000132866320351565",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 390,
+          "impression_count": 49036,
+          "like_count": 4685,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 283
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997957284035805226",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "若藻…… https://t.co/DoFup0cHaI https://t.co/SfclheEqpV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 154,
+          "like_count": 3946,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 536
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-08T12:26:54.000Z",
+        "description": "一般路过个人势\n这是我在b站的个人号：https://t.co/b1StA1i3hR\n欢迎私信~  気軽にDMしてください～\n外国人です\nゲーム開発部のみんな大好き！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/73824442",
+                "end": 42,
+                "expanded_url": "https://space.bilibili.com/73824442",
+                "start": 19,
+                "url": "https://t.co/b1StA1i3hR"
+              }
+            ]
+          }
+        },
+        "id": "1005063617438334977",
+        "name": "牛肉牛肉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1221372624506220544/2Vqb8uv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32474,
+          "following_count": 939,
+          "like_count": 3615,
+          "listed_count": 122,
+          "media_count": 3422,
+          "tweet_count": 4970
+        },
+        "username": "ATORI_YA",
+        "verified": false
+      }
+    ]
+  }
+}

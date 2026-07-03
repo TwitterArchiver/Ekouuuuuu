@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021332143566356483",
+        "3_2021332141565673472",
+        "3_2021332143327318016",
+        "3_2021332143633567744"
+      ],
+      "media_source_tweet_id": [
+        "2021332147970376169",
+        "2021332147970376169",
+        "2021332147970376169",
+        "2021332147970376169"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2021360355486876136",
+    "created_at": "2026-02-10T23:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T00:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021360355486876136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1761208815088001024",
+          "start": 3,
+          "username": "_Bad_Meow_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W28GyrruY0",
+          "end": 52,
+          "expanded_url": "https://x.com/_Bad_Meow_/status/2021332147970376169/photo/1",
+          "media_key": "3_2021332143566356483",
+          "start": 29,
+          "url": "https://t.co/W28GyrruY0"
+        },
+        {
+          "display_url": "pic.x.com/W28GyrruY0",
+          "end": 52,
+          "expanded_url": "https://x.com/_Bad_Meow_/status/2021332147970376169/photo/1",
+          "media_key": "3_2021332141565673472",
+          "start": 29,
+          "url": "https://t.co/W28GyrruY0"
+        },
+        {
+          "display_url": "pic.x.com/W28GyrruY0",
+          "end": 52,
+          "expanded_url": "https://x.com/_Bad_Meow_/status/2021332147970376169/photo/1",
+          "media_key": "3_2021332143327318016",
+          "start": 29,
+          "url": "https://t.co/W28GyrruY0"
+        },
+        {
+          "display_url": "pic.x.com/W28GyrruY0",
+          "end": 52,
+          "expanded_url": "https://x.com/_Bad_Meow_/status/2021332147970376169/photo/1",
+          "media_key": "3_2021332143633567744",
+          "start": 29,
+          "url": "https://t.co/W28GyrruY0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021360355486876136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021332147970376169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Bad_Meow_: OK！我写了个详细自介🥺 https://t.co/W28GyrruY0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2021360355486876136].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2021360355486876136",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2021360355486876136"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021332143566356483",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA024AZaAAMr60O.jpg",
+        "width": 922
+      },
+      {
+        "height": 943,
+        "media_key": "3_2021332141565673472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA02348aAAA0Khz.jpg",
+        "width": 943
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2021332143327318016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA023_gakAA92rA.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2021332143633567744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA024ApbkAAnw6p.jpg",
+        "width": 771
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021332143566356483",
+            "3_2021332141565673472",
+            "3_2021332143327318016",
+            "3_2021332143633567744"
+          ]
+        },
+        "author_id": "1761208815088001024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2021332147970376169",
+        "created_at": "2026-02-10T21:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T22:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021332147970376169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W28GyrruY0",
+              "end": 36,
+              "expanded_url": "https://x.com/_Bad_Meow_/status/2021332147970376169/photo/1",
+              "media_key": "3_2021332143566356483",
+              "start": 13,
+              "url": "https://t.co/W28GyrruY0"
+            },
+            {
+              "display_url": "pic.x.com/W28GyrruY0",
+              "end": 36,
+              "expanded_url": "https://x.com/_Bad_Meow_/status/2021332147970376169/photo/1",
+              "media_key": "3_2021332141565673472",
+              "start": 13,
+              "url": "https://t.co/W28GyrruY0"
+            },
+            {
+              "display_url": "pic.x.com/W28GyrruY0",
+              "end": 36,
+              "expanded_url": "https://x.com/_Bad_Meow_/status/2021332147970376169/photo/1",
+              "media_key": "3_2021332143327318016",
+              "start": 13,
+              "url": "https://t.co/W28GyrruY0"
+            },
+            {
+              "display_url": "pic.x.com/W28GyrruY0",
+              "end": 36,
+              "expanded_url": "https://x.com/_Bad_Meow_/status/2021332147970376169/photo/1",
+              "media_key": "3_2021332143633567744",
+              "start": 13,
+              "url": "https://t.co/W28GyrruY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021332147970376169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "OK！我写了个详细自介🥺 https://t.co/W28GyrruY0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 248,
+          "like_count": 8298,
+          "listed_count": 1,
+          "media_count": 340,
+          "tweet_count": 2082
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T01:58:04.000Z",
+        "description": "餐券割手女🔪🩸︱友好不鉴证谢谢！︱可以称呼我为饼干︱休学家里蹲︱OD💊︱同类互fo︱画画︱私信我时只说“你好”不会给予任何回复！‼️︱无🚪但给我打零食钱的话我会很喜欢你（用不了支付宝😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cookie88211",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cookie88211",
+                "start": 0,
+                "url": "https://t.co/k9b4PZvg4N"
+              }
+            ]
+          }
+        },
+        "id": "1761208815088001024",
+        "location": "家",
+        "name": "┃☆饼干饼干☆┃",
+        "pinned_tweet_id": "2021332147970376169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008258914010415105/8V-a0CWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 363,
+          "like_count": 2475,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1837
+        },
+        "url": "https://t.co/k9b4PZvg4N",
+        "username": "_Bad_Meow_",
+        "verified": false
+      }
+    ]
+  }
+}

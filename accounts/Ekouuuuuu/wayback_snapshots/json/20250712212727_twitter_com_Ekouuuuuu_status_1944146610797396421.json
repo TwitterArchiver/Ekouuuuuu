@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1943905054861537334",
+    "created_at": "2025-07-12T21:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T22:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944146610797396421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1858186854526562304",
+          "start": 0,
+          "username": "meiyujijie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944146610797396421",
+    "in_reply_to_user_id": "1858186854526562304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943905054861537334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiyujijie 有沒有變白的教程啊啊（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943905041511067652",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvojVgRbsAQt5oR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1943905054861537334",
+        "created_at": "2025-07-12T21:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T22:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944146610797396421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1858186854526562304",
+              "start": 0,
+              "username": "meiyujijie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944146610797396421",
+        "in_reply_to_user_id": "1858186854526562304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943905054861537334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiyujijie 有沒有變白的教程啊啊（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943905041511067652"
+          ]
+        },
+        "author_id": "1858186854526562304",
+        "conversation_id": "1943905054861537334",
+        "created_at": "2025-07-12T05:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T06:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943905054861537334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UAH8uHmASU",
+              "end": 50,
+              "expanded_url": "https://x.com/meiyujijie/status/1943905054861537334/photo/1",
+              "media_key": "3_1943905041511067652",
+              "start": 27,
+              "url": "https://t.co/UAH8uHmASU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943905054861537334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 73534,
+          "like_count": 893,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "感谢妈妈16年的培养\n你儿子已经变成女生等别人富养了 https://t.co/UAH8uHmASU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "🥲",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937599411460403200/XrYwRLKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 48,
+          "like_count": 1120,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 183
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T16:34:14.000Z",
+        "description": "是一颗仙人球",
+        "id": "1858186854526562304",
+        "name": "何六诚",
+        "pinned_tweet_id": "1892435541817257985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903015542522515459/m-tuWDTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81507,
+          "following_count": 89,
+          "like_count": 1449,
+          "listed_count": 169,
+          "media_count": 130,
+          "tweet_count": 397
+        },
+        "username": "meiyujijie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999897578608132328",
+    "created_at": "2025-12-13T17:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T18:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999897578608132328"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/emiya436900/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/emiya436900/status/1999282011991867449",
+          "start": 8,
+          "url": "https://t.co/5S2KE9cQt9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999897578608132328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999282011991867449",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草這他媽啥！ https://t.co/5S2KE9cQt9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 672,
+        "media_key": "3_1999282009714360323",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G77gZSragAMuBYI.jpg",
+        "width": 774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999897578608132328",
+        "created_at": "2025-12-13T17:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T18:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999897578608132328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/emiya436900/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/emiya436900/status/1999282011991867449",
+              "start": 8,
+              "url": "https://t.co/5S2KE9cQt9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999897578608132328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999282011991867449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草這他媽啥！ https://t.co/5S2KE9cQt9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999282009714360323"
+          ]
+        },
+        "author_id": "1634940148147441667",
+        "conversation_id": "1999282011991867449",
+        "created_at": "2025-12-12T00:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T01:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999282011991867449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jc5kBrQhTR",
+              "end": 27,
+              "expanded_url": "https://x.com/emiya436900/status/1999282011991867449/photo/1",
+              "media_key": "3_1999282009714360323",
+              "start": 4,
+              "url": "https://t.co/jc5kBrQhTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999282011991867449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1337,
+          "impression_count": 1810359,
+          "like_count": 11294,
+          "quote_count": 51,
+          "reply_count": 233,
+          "retweet_count": 405
+        },
+        "reply_settings": "everyone",
+        "text": "吓哭了 https://t.co/jc5kBrQhTR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了ww‖極樂‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 146,
+          "like_count": 3613,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 382
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:31:31.000Z",
+        "description": "#世界治愈计划 #自杀干预 #树洞 一个匿名提问箱https://t.co/qN5UYD3cR4\n小小的荧光，只能散发出微小的光芒",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "世界治愈计划"
+              },
+              {
+                "end": 13,
+                "start": 8,
+                "tag": "自杀干预"
+              },
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "树洞"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/emiya4369",
+                "end": 48,
+                "expanded_url": "https://ngl.link/emiya4369",
+                "start": 25,
+                "url": "https://t.co/qN5UYD3cR4"
+              }
+            ]
+          }
+        },
+        "id": "1634940148147441667",
+        "name": "荧光",
+        "pinned_tweet_id": "1977673236474482893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898513488735272960/v6of14g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5135,
+          "following_count": 472,
+          "like_count": 1874,
+          "listed_count": 10,
+          "media_count": 550,
+          "tweet_count": 2933
+        },
+        "username": "emiya436900",
+        "verified": false
+      }
+    ]
+  }
+}

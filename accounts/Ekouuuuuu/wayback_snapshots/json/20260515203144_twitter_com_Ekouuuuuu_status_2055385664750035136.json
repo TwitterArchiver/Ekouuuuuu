@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055100542544945152"
+      ],
+      "media_source_tweet_id": [
+        "2055100545724276871"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2055385664750035136",
+    "created_at": "2026-05-15T20:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T21:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055385664750035136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1632286070770638848",
+          "start": 3,
+          "username": "YuzuBlueArchive"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lBl5FddzJD",
+          "end": 51,
+          "expanded_url": "https://x.com/YuzuBlueArchive/status/2055100545724276871/photo/1",
+          "media_key": "3_2055100542544945152",
+          "start": 28,
+          "url": "https://t.co/lBl5FddzJD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055385664750035136",
+    "lang": "et",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 204
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055100545724276871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuzuBlueArchive: Mika 😍 https://t.co/lBl5FddzJD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 567,
+        "media_key": "3_2055100542544945152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIUvDhgaoAATS0G.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055100542544945152"
+          ],
+          "media_source_tweet_id": [
+            "2055100545724276871"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2055385664750035136",
+        "created_at": "2026-05-15T20:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T21:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055385664750035136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1632286070770638848",
+              "start": 3,
+              "username": "YuzuBlueArchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lBl5FddzJD",
+              "end": 51,
+              "expanded_url": "https://x.com/YuzuBlueArchive/status/2055100545724276871/photo/1",
+              "media_key": "3_2055100542544945152",
+              "start": 28,
+              "url": "https://t.co/lBl5FddzJD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055385664750035136",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 204
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055100545724276871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuzuBlueArchive: Mika 😍 https://t.co/lBl5FddzJD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055100542544945152"
+          ]
+        },
+        "author_id": "1632286070770638848",
+        "conversation_id": "2055100545724276871",
+        "created_at": "2026-05-15T01:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T02:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055100545724276871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lBl5FddzJD",
+              "end": 30,
+              "expanded_url": "https://x.com/YuzuBlueArchive/status/2055100545724276871/photo/1",
+              "media_key": "3_2055100542544945152",
+              "start": 7,
+              "url": "https://t.co/lBl5FddzJD"
+            },
+            {
+              "display_url": "x.com/czechiaenjoyer…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/czechiaenjoyer/status/2054904586461229424",
+              "start": 31,
+              "url": "https://t.co/B3jcJLHJJ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055100545724276871",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 50822,
+          "like_count": 2616,
+          "quote_count": 8,
+          "reply_count": 30,
+          "retweet_count": 204
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054904586461229424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Mika 😍 https://t.co/lBl5FddzJD https://t.co/B3jcJLHJJ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "她說她停不下這瘋狂‖閨蜜@seeFvn‖老公@Shiroko_Li‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 12,
+                "username": "seeFvn"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake flowers",
+        "pinned_tweet_id": "2054494874192195972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 297,
+          "like_count": 12579,
+          "listed_count": 1,
+          "media_count": 519,
+          "tweet_count": 3154
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T07:45:29.000Z",
+        "description": "My love for Hanaoka Yuzu knows no bounds\n\nBeware: JP spoilers",
+        "id": "1632286070770638848",
+        "location": "Millennium Science School",
+        "name": "← Posts anything but Yuzu 😭😭",
+        "pinned_tweet_id": "2032114904543740233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044604373637206017/GBVMygbc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5078,
+          "following_count": 4288,
+          "like_count": 93616,
+          "listed_count": 28,
+          "media_count": 5337,
+          "tweet_count": 38017
+        },
+        "username": "YuzuBlueArchive",
+        "verified": false
+      }
+    ]
+  }
+}

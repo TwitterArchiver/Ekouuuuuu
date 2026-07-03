@@ -1,0 +1,677 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031777943094235136"
+      ],
+      "media_source_tweet_id": [
+        "2031779362576744692"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2032035581614833928",
+    "created_at": "2026-03-12T10:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T11:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032035581614833928"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 71,
+          "tag": "陸八魔アル生誕祭2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843941152095109120",
+          "start": 3,
+          "username": "Eveveb_414"
+        },
+        {
+          "end": 58,
+          "id": "1830566211094290433",
+          "start": 49,
+          "username": "NE0N1354"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sKIAjuvCWU",
+          "end": 108,
+          "expanded_url": "https://x.com/Eveveb_414/status/2031779362576744692/photo/1",
+          "media_key": "3_2031777943094235136",
+          "start": 85,
+          "url": "https://t.co/sKIAjuvCWU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032035581614833928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031779362576744692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Eveveb_414: 아루 생일축하해!!🥳\nアル お誕生日おめでとう!!\n\nNE0N(@NE0N1354)님과의 합작입니다!!\n#陸八魔アル生誕祭2026 https://t.co/sKIAjuvCWU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2031777943094235136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDJTRkCbEAAdaIB.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031777943094235136"
+          ],
+          "media_source_tweet_id": [
+            "2031779362576744692"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2032035581614833928",
+        "created_at": "2026-03-12T10:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032035581614833928"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 71,
+              "tag": "陸八魔アル生誕祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843941152095109120",
+              "start": 3,
+              "username": "Eveveb_414"
+            },
+            {
+              "end": 58,
+              "id": "1830566211094290433",
+              "start": 49,
+              "username": "NE0N1354"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKIAjuvCWU",
+              "end": 108,
+              "expanded_url": "https://x.com/Eveveb_414/status/2031779362576744692/photo/1",
+              "media_key": "3_2031777943094235136",
+              "start": 85,
+              "url": "https://t.co/sKIAjuvCWU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032035581614833928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031779362576744692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Eveveb_414: 아루 생일축하해!!🥳\nアル お誕生日おめでとう!!\n\nNE0N(@NE0N1354)님과의 합작입니다!!\n#陸八魔アル生誕祭2026 https://t.co/sKIAjuvCWU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031777943094235136"
+          ]
+        },
+        "author_id": "1843941152095109120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2031779362576744692",
+        "created_at": "2026-03-11T17:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T18:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031779362576744692"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 55,
+              "tag": "陸八魔アル生誕祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 42,
+              "id": "1830566211094290433",
+              "start": 33,
+              "username": "NE0N1354"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKIAjuvCWU",
+              "end": 92,
+              "expanded_url": "https://x.com/Eveveb_414/status/2031779362576744692/photo/1",
+              "media_key": "3_2031777943094235136",
+              "start": 69,
+              "url": "https://t.co/sKIAjuvCWU"
+            },
+            {
+              "display_url": "x.com/NE0N1354/statu…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/NE0N1354/status/2031747150758260965",
+              "start": 93,
+              "url": "https://t.co/AIrF5j4DYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031779362576744692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 7454,
+          "like_count": 446,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031747150758260965",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "아루 생일축하해!!🥳\nアル お誕生日おめでとう!!\n\nNE0N(@NE0N1354)님과의 합작입니다!!\n#陸八魔アル生誕祭2026 https://t.co/sKIAjuvCWU https://t.co/AIrF5j4DYF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2032007899732721877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 242,
+          "like_count": 9345,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 2418
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T09:06:56.000Z",
+        "description": ": drodro8583@gmail.com\n\nhttps://t.co/nz2eTHnou4\nhttps://t.co/oCk6oJdlFK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/eveveb…",
+                "end": 47,
+                "expanded_url": "https://bsky.app/profile/eveveb414.bsky.social",
+                "start": 24,
+                "url": "https://t.co/nz2eTHnou4"
+              },
+              {
+                "display_url": "pixiv.net/users/78537200",
+                "end": 71,
+                "expanded_url": "https://www.pixiv.net/users/78537200",
+                "start": 48,
+                "url": "https://t.co/oCk6oJdlFK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@eveveb_414?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@eveveb_414?si=c5azPelBfzjCdPOs",
+                "start": 0,
+                "url": "https://t.co/t3KaA03ARg"
+              }
+            ]
+          }
+        },
+        "id": "1843941152095109120",
+        "location": "키보토스",
+        "name": "22 DRO",
+        "pinned_tweet_id": "1919767689842643423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993366797467500548/SuJGDgBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34852,
+          "following_count": 3007,
+          "like_count": 13294,
+          "listed_count": 141,
+          "media_count": 297,
+          "tweet_count": 1266
+        },
+        "url": "https://t.co/t3KaA03ARg",
+        "username": "Eveveb_414",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-02T11:19:43.000Z",
+        "description": "P: @Eveveb_414 H: @hideinroom\n블루아카 영상 제작/Spine2D/ ブルアカ映像作っています\n게임회사가 들어가고싶어요\nNo AI\n\nspine 2d portfolio : https://t.co/kXvQz7pA9Q\nmail: ne0n1354@naver.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "Eveveb_414"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "hideinroom"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "artstation.com/ne0n1354",
+                "end": 128,
+                "expanded_url": "http://artstation.com/ne0n1354",
+                "start": 105,
+                "url": "https://t.co/kXvQz7pA9Q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@NE0NSIGN1354/…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@NE0NSIGN1354/videos",
+                "start": 0,
+                "url": "https://t.co/7ovn3mtVs1"
+              }
+            ]
+          }
+        },
+        "id": "1830566211094290433",
+        "name": "NE0N",
+        "pinned_tweet_id": "2003131589514182801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973009775643488257/eOxsV6Fs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3175,
+          "following_count": 1292,
+          "like_count": 25409,
+          "listed_count": 6,
+          "media_count": 518,
+          "tweet_count": 8287
+        },
+        "url": "https://t.co/7ovn3mtVs1",
+        "username": "NE0N1354",
+        "verified": true
+      }
+    ]
+  }
+}

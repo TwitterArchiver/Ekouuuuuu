@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2010435908168818688"
+      ],
+      "media_source_tweet_id": [
+        "2010435944365572106"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2010882632381579551",
+    "created_at": "2026-01-13T01:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T02:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010882632381579551"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "Serial Experiments Lain",
+          "probability": 0.7829,
+          "start": 12,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1370466691940036609",
+          "start": 3,
+          "username": "anime_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JHiOP2BUll",
+          "end": 66,
+          "expanded_url": "https://x.com/anime_/status/2010435944365572106/video/1",
+          "media_key": "7_2010435908168818688",
+          "start": 43,
+          "url": "https://t.co/JHiOP2BUll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010882632381579551",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 251
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010435944365572106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anime_: Serial Experiments Lain (1998) https://t.co/JHiOP2BUll"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 56200,
+        "height": 660,
+        "media_key": "7_2010435908168818688",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2010435908168818688/pu/img/_K274vpINH6LxJDl.jpg",
+        "public_metrics": {
+          "view_count": 14715
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010435908168818688/pu/vid/avc1/360x270/XA21V-PJXi5jy12S.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010435908168818688/pu/vid/avc1/482x360/vIimWF8G9yh3a03V.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010435908168818688/pu/vid/avc1/884x660/P2RJisP0FJRft7Yn.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2010435908168818688/pu/pl/aGVY_9Qc9TXQpdYo.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2010435908168818688"
+          ],
+          "media_source_tweet_id": [
+            "2010435944365572106"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2010882632381579551",
+        "created_at": "2026-01-13T01:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T02:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010882632381579551"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Serial Experiments Lain",
+              "probability": 0.7829,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1370466691940036609",
+              "start": 3,
+              "username": "anime_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JHiOP2BUll",
+              "end": 66,
+              "expanded_url": "https://x.com/anime_/status/2010435944365572106/video/1",
+              "media_key": "7_2010435908168818688",
+              "start": 43,
+              "url": "https://t.co/JHiOP2BUll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010882632381579551",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 251
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010435944365572106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anime_: Serial Experiments Lain (1998) https://t.co/JHiOP2BUll"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2010435908168818688"
+          ]
+        },
+        "author_id": "1370466691940036609",
+        "conversation_id": "2010435944365572106",
+        "created_at": "2026-01-11T19:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T20:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010435944365572106"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Serial Experiments Lain",
+              "probability": 0.8478,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JHiOP2BUll",
+              "end": 54,
+              "expanded_url": "https://x.com/anime_/status/2010435944365572106/video/1",
+              "media_key": "7_2010435908168818688",
+              "start": 31,
+              "url": "https://t.co/JHiOP2BUll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010435944365572106",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 283,
+          "impression_count": 38006,
+          "like_count": 1840,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 251
+        },
+        "reply_settings": "everyone",
+        "text": "Serial Experiments Lain (1998) https://t.co/JHiOP2BUll"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/a1Jpzl6Paz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuu",
+                "end": 74,
+                "expanded_url": "http://t.me/Ekouuuuu",
+                "start": 51,
+                "url": "https://t.co/a1Jpzl6Paz"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 207,
+          "like_count": 6297,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 1207
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T20:08:48.000Z",
+        "description": "aesthetic anime clips & images",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/animes_aesthet…",
+                "end": 23,
+                "expanded_url": "http://instagram.com/animes_aesthetic",
+                "start": 0,
+                "url": "https://t.co/xTuYW5oALy"
+              }
+            ]
+          }
+        },
+        "id": "1370466691940036609",
+        "name": "Anime Aesthetics",
+        "pinned_tweet_id": "2010554889558978691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879794189543559168/DGGYw4iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1843200,
+          "following_count": 98,
+          "like_count": 5603,
+          "listed_count": 2514,
+          "media_count": 11690,
+          "tweet_count": 12278
+        },
+        "url": "https://t.co/xTuYW5oALy",
+        "username": "anime_",
+        "verified": true
+      }
+    ]
+  }
+}

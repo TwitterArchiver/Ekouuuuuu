@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998653208336732160"
+      ],
+      "media_source_tweet_id": [
+        "1998653211142664219"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999118243131527498",
+    "created_at": "2025-12-11T14:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T15:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999118243131527498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512261155850719234",
+          "start": 3,
+          "username": "Dormicumproject"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1KkMPMZhXT",
+          "end": 44,
+          "expanded_url": "https://x.com/Dormicumproject/status/1998653211142664219/photo/1",
+          "media_key": "3_1998653208336732160",
+          "start": 21,
+          "url": "https://t.co/1KkMPMZhXT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999118243131527498",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1485
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998653211142664219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dormicumproject: https://t.co/1KkMPMZhXT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1701,
+        "media_key": "3_1998653208336732160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ykgPAbEAAJ3qv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998653208336732160"
+          ],
+          "media_source_tweet_id": [
+            "1998653211142664219"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999118243131527498",
+        "created_at": "2025-12-11T14:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T15:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999118243131527498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512261155850719234",
+              "start": 3,
+              "username": "Dormicumproject"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1KkMPMZhXT",
+              "end": 44,
+              "expanded_url": "https://x.com/Dormicumproject/status/1998653211142664219/photo/1",
+              "media_key": "3_1998653208336732160",
+              "start": 21,
+              "url": "https://t.co/1KkMPMZhXT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999118243131527498",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1485
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998653211142664219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dormicumproject: https://t.co/1KkMPMZhXT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998653208336732160"
+          ]
+        },
+        "author_id": "1512261155850719234",
+        "conversation_id": "1998653211142664219",
+        "created_at": "2025-12-10T07:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T08:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998653211142664219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1KkMPMZhXT",
+              "end": 23,
+              "expanded_url": "https://x.com/Dormicumproject/status/1998653211142664219/photo/1",
+              "media_key": "3_1998653208336732160",
+              "start": 0,
+              "url": "https://t.co/1KkMPMZhXT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998653211142664219",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 797,
+          "impression_count": 76604,
+          "like_count": 10694,
+          "quote_count": 21,
+          "reply_count": 8,
+          "retweet_count": 1485
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1KkMPMZhXT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998740626599456769/Z9snoakz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 135,
+          "like_count": 3389,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 201
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T02:48:58.000Z",
+        "description": "心中デートしよ\n\n作品はここから読めますhttps://t.co/SB66qxQm2S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/dormicum",
+                "end": 43,
+                "expanded_url": "https://lit.link/dormicum",
+                "start": 20,
+                "url": "https://t.co/SB66qxQm2S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dormicum2os",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dormicum2os",
+                "start": 0,
+                "url": "https://t.co/CtEGqQLRIV"
+              }
+            ]
+          }
+        },
+        "id": "1512261155850719234",
+        "name": "ドルミカム（Dormicum）",
+        "pinned_tweet_id": "1974406691593871804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761010277162864640/PGZHn1CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131883,
+          "following_count": 0,
+          "like_count": 1822,
+          "listed_count": 576,
+          "media_count": 795,
+          "tweet_count": 1214
+        },
+        "url": "https://t.co/CtEGqQLRIV",
+        "username": "Dormicumproject",
+        "verified": true
+      }
+    ]
+  }
+}

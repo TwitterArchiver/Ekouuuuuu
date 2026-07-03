@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1754400771179978752"
+      ],
+      "media_source_tweet_id": [
+        "1754400826469359996"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994577061412048973",
+    "created_at": "2025-11-29T01:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T02:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994577061412048973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2834235420",
+          "start": 3,
+          "username": "pikatclub"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bdhQR41DQR",
+          "end": 43,
+          "expanded_url": "https://x.com/i/status/1754400826469359996/video/1",
+          "media_key": "13_1754400771179978752",
+          "start": 20,
+          "url": "https://t.co/bdhQR41DQR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994577061412048973",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 741
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994291415422259672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pikatclub: ネコ戦車\nhttps://t.co/bdhQR41DQR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17433,
+        "height": 764,
+        "media_key": "13_1754400771179978752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1754400771179978752/img/GasCLIWRelB_wHT2.jpg",
+        "public_metrics": {
+          "view_count": 7246127
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1754400771179978752/vid/avc1/320x424/9QzmPTjWWvwltGYP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1754400771179978752/vid/avc1/480x636/LKi3kFOPLZZz8Pbj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1754400771179978752/vid/avc1/576x764/Ycy6lJoMLvZwCRwj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1754400771179978752/pl/2dY6_ovqwKjuytyG.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1754400771179978752"
+          ],
+          "media_source_tweet_id": [
+            "1754400826469359996"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994577061412048973",
+        "created_at": "2025-11-29T01:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994577061412048973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2834235420",
+              "start": 3,
+              "username": "pikatclub"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bdhQR41DQR",
+              "end": 43,
+              "expanded_url": "https://x.com/i/status/1754400826469359996/video/1",
+              "media_key": "13_1754400771179978752",
+              "start": 20,
+              "url": "https://t.co/bdhQR41DQR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994577061412048973",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 741
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994291415422259672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pikatclub: ネコ戦車\nhttps://t.co/bdhQR41DQR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1754400771179978752"
+          ],
+          "media_source_tweet_id": [
+            "1754400826469359996"
+          ]
+        },
+        "author_id": "2834235420",
+        "conversation_id": "1994291415422259672",
+        "created_at": "2025-11-28T06:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994291415422259672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bdhQR41DQR",
+              "end": 28,
+              "expanded_url": "https://x.com/i/status/1754400826469359996/video/1",
+              "media_key": "13_1754400771179978752",
+              "start": 5,
+              "url": "https://t.co/bdhQR41DQR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994291415422259672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 446,
+          "impression_count": 145952,
+          "like_count": 4605,
+          "quote_count": 42,
+          "reply_count": 24,
+          "retweet_count": 741
+        },
+        "reply_settings": "everyone",
+        "text": "ネコ戦車\nhttps://t.co/bdhQR41DQR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 2909,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 249
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-27T17:53:52.000Z",
+        "description": "猫が好きな人集まってニャン🐈✨",
+        "id": "2834235420",
+        "name": "ネコ王国🐈✨",
+        "pinned_tweet_id": "1897182289395622220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955678523483623424/95sMkPlK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49592,
+          "following_count": 8,
+          "like_count": 7856,
+          "listed_count": 129,
+          "media_count": 61,
+          "tweet_count": 53
+        },
+        "username": "pikatclub",
+        "verified": false
+      }
+    ]
+  }
+}

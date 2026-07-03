@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036823981064626176"
+      ],
+      "media_source_tweet_id": [
+        "2037005116805702062"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2037141785089368276",
+    "created_at": "2026-03-26T12:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T13:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037141785089368276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757870920084164608",
+          "start": 3,
+          "username": "BGlayds30098"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0CfBpNX6TN",
+          "end": 52,
+          "expanded_url": "https://x.com/BGlayds30098/status/2037005116805702062/photo/1",
+          "media_key": "3_2036823981064626176",
+          "start": 29,
+          "url": "https://t.co/0CfBpNX6TN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037141785089368276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037005116805702062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BGlayds30098: 台灣是台灣人的台灣. https://t.co/0CfBpNX6TN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2036823981064626176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HERAnoVaoAAMjyJ.jpg",
+        "width": 623
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036823981064626176"
+          ],
+          "media_source_tweet_id": [
+            "2037005116805702062"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2037141785089368276",
+        "created_at": "2026-03-26T12:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037141785089368276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757870920084164608",
+              "start": 3,
+              "username": "BGlayds30098"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CfBpNX6TN",
+              "end": 52,
+              "expanded_url": "https://x.com/BGlayds30098/status/2037005116805702062/photo/1",
+              "media_key": "3_2036823981064626176",
+              "start": 29,
+              "url": "https://t.co/0CfBpNX6TN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037141785089368276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037005116805702062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BGlayds30098: 台灣是台灣人的台灣. https://t.co/0CfBpNX6TN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036823981064626176"
+          ]
+        },
+        "author_id": "1757870920084164608",
+        "conversation_id": "2037005116805702062",
+        "created_at": "2026-03-26T03:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T04:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037005116805702062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CfBpNX6TN",
+              "end": 34,
+              "expanded_url": "https://x.com/BGlayds30098/status/2037005116805702062/photo/1",
+              "media_key": "3_2036823981064626176",
+              "start": 11,
+              "url": "https://t.co/0CfBpNX6TN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037005116805702062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3469,
+          "like_count": 181,
+          "quote_count": 1,
+          "reply_count": 45,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "台灣是台灣人的台灣. https://t.co/0CfBpNX6TN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖恆春最深情‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo‖陰暗逼od蛆互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2035365735460180096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 246,
+          "like_count": 9682,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 2539
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T20:54:33.000Z",
+        "description": "读好书，使人心明眼亮。",
+        "id": "1757870920084164608",
+        "name": "静曼婉儿",
+        "pinned_tweet_id": "2028632951031046180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986440725605818368/xhzlaAjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5415,
+          "following_count": 33,
+          "like_count": 492,
+          "listed_count": 20,
+          "media_count": 603,
+          "tweet_count": 1033
+        },
+        "username": "BGlayds30098",
+        "verified": false
+      }
+    ]
+  }
+}

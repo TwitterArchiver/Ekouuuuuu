@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2047921604831883435",
+    "created_at": "2026-04-25T06:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047921604831883435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/torontobigface…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/torontobigface/status/2047713162951352423",
+          "start": 11,
+          "url": "https://t.co/ZpMiptRH4q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047921604831883435",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047713162951352423",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "習包子早期慫包現狀😂 https://t.co/ZpMiptRH4q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37916,
+        "height": 898,
+        "media_key": "13_2047713071289032706",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047713071289032706/img/bDmMbalVgu6m5pyp.jpg",
+        "public_metrics": {
+          "view_count": 186341
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047713071289032706/pl/Y76YobtPilgoZRUY.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047713071289032706/vid/avc1/1078x898/hCzBLShPZR8qjyhB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047713071289032706/vid/avc1/864x720/ke3a3kwJKfhbNa0f.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047713071289032706/vid/avc1/432x360/QPdzMISawNfPoCji.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047713071289032706/vid/avc1/324x270/lVexdPGdOOOgtikV.mp4"
+          }
+        ],
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2047921604831883435",
+        "created_at": "2026-04-25T06:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047921604831883435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/torontobigface…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/torontobigface/status/2047713162951352423",
+              "start": 11,
+              "url": "https://t.co/ZpMiptRH4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047921604831883435",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047713162951352423",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "習包子早期慫包現狀😂 https://t.co/ZpMiptRH4q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047713071289032706"
+          ]
+        },
+        "author_id": "1477342523555135490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2047713162951352423",
+        "created_at": "2026-04-24T16:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047713162951352423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U6rEISBSBA",
+              "end": 33,
+              "expanded_url": "https://x.com/torontobigface/status/2047713162951352423/video/1",
+              "media_key": "13_2047713071289032706",
+              "start": 10,
+              "url": "https://t.co/U6rEISBSBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047713162951352423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 711,
+          "impression_count": 428978,
+          "like_count": 3122,
+          "quote_count": 29,
+          "reply_count": 238,
+          "retweet_count": 236
+        },
+        "reply_settings": "everyone",
+        "text": "隐忍的典范-习近平 https://t.co/U6rEISBSBA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "世界會記得你曾來過‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2045267383476945131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 280,
+          "like_count": 11351,
+          "listed_count": 1,
+          "media_count": 461,
+          "tweet_count": 2812
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNc63o 投稿邮箱:Torontosquareface@gmail.com 粉丝群：https://t.co/7fI2Xsn7l9 李币社区群：https://t.co/Uao93nfZ79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNc63o"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 92,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 69,
+                "url": "https://t.co/7fI2Xsn7l9"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 122,
+                "expanded_url": "https://t.me/whyyoutouzhele_memecoin",
+                "start": 99,
+                "url": "https://t.co/Uao93nfZ79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrmZImQ"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "location": "乌鲁木齐中路，多伦多",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "2046908078696919369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004728054199799808/7q5HpT1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784394,
+          "following_count": 247,
+          "like_count": 4572,
+          "listed_count": 2414,
+          "media_count": 6518,
+          "tweet_count": 18966
+        },
+        "url": "https://t.co/t3lSrmZImQ",
+        "username": "torontobigface",
+        "verified": true
+      }
+    ]
+  }
+}

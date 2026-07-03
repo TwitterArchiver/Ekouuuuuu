@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043194259290152960"
+      ],
+      "media_source_tweet_id": [
+        "2043194263534747965"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2043336644145627239",
+    "created_at": "2026-04-12T14:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043336644145627239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1773890803393585152",
+          "start": 3,
+          "username": "hcrm_0830"
+        },
+        {
+          "end": 26,
+          "id": "1506291557233999877",
+          "start": 15,
+          "username": "hazuki8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jq8nwokdKi",
+          "end": 50,
+          "expanded_url": "https://x.com/hcrm_0830/status/2043194263534747965/photo/1",
+          "media_key": "3_2043194259290152960",
+          "start": 27,
+          "url": "https://t.co/Jq8nwokdKi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043336644145627239",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043194263534747965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hcrm_0830: @hazuki8964 https://t.co/Jq8nwokdKi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1682,
+        "media_key": "3_2043194259290152960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFriWoAbYAArHg4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043194259290152960"
+          ],
+          "media_source_tweet_id": [
+            "2043194263534747965"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2043336644145627239",
+        "created_at": "2026-04-12T14:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043336644145627239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1773890803393585152",
+              "start": 3,
+              "username": "hcrm_0830"
+            },
+            {
+              "end": 26,
+              "id": "1506291557233999877",
+              "start": 15,
+              "username": "hazuki8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jq8nwokdKi",
+              "end": 50,
+              "expanded_url": "https://x.com/hcrm_0830/status/2043194263534747965/photo/1",
+              "media_key": "3_2043194259290152960",
+              "start": 27,
+              "url": "https://t.co/Jq8nwokdKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043336644145627239",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043194263534747965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hcrm_0830: @hazuki8964 https://t.co/Jq8nwokdKi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043194259290152960"
+          ]
+        },
+        "author_id": "1773890803393585152",
+        "conversation_id": "2043174253621907606",
+        "created_at": "2026-04-12T05:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043194263534747965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1506291557233999877",
+              "start": 0,
+              "username": "hazuki8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jq8nwokdKi",
+              "end": 35,
+              "expanded_url": "https://x.com/hcrm_0830/status/2043194263534747965/photo/1",
+              "media_key": "3_2043194259290152960",
+              "start": 12,
+              "url": "https://t.co/Jq8nwokdKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043194263534747965",
+        "in_reply_to_user_id": "1506291557233999877",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9478,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043174253621907606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hazuki8964 https://t.co/Jq8nwokdKi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "Don't you let me go‖男友@Shiroko_Li‖叫我執偏就好‖屏東最深情‖🚪2778收錢我就跑路‖我只是一個可愛的割手od笑氣依賴者呀🥹‖查主頁成分我會回fo‖陰暗逼od蛆互fo💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "執偏Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2042383810571223190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042476120852049920/3Txf9Moz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 253,
+          "like_count": 10811,
+          "listed_count": 1,
+          "media_count": 430,
+          "tweet_count": 2692
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T01:51:50.000Z",
+        "description": "骂我之前先转我点钱",
+        "id": "1773890803393585152",
+        "name": "bakabaka",
+        "pinned_tweet_id": "2043283872620978655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031430608254312448/Xm7nmU2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 116,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 305
+        },
+        "username": "hcrm_0830",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "永遠是深夜有多好。@yoyori_01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "yoyori_01"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "location": "爱胡TV",
+        "name": "⁺♡hazuki",
+        "pinned_tweet_id": "1959290971318837385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956555816674459648/Nbbrv0Mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7333,
+          "following_count": 593,
+          "like_count": 16628,
+          "listed_count": 13,
+          "media_count": 346,
+          "tweet_count": 2632
+        },
+        "username": "hazuki8964",
+        "verified": true
+      }
+    ]
+  }
+}

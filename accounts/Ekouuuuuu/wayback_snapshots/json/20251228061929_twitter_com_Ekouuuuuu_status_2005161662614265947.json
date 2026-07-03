@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2005145953444188606",
+    "created_at": "2025-12-28T06:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T07:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005161662614265947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1980612830824132609",
+          "start": 0,
+          "username": "Ai_ovedose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005161662614265947",
+    "in_reply_to_user_id": "1980612830824132609",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005145953444188606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ai_ovedose 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2005145953444188606",
+        "created_at": "2025-12-28T06:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T07:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005161662614265947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "Ai_ovedose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005161662614265947",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005145953444188606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ai_ovedose 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2005145953444188606",
+        "created_at": "2025-12-28T05:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T06:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005145953444188606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005145953444188606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我总在家闻到一股臭味，有一天我发现了臭味的来源，砸开儿时的玩具盒子，里面躺着一具蜷缩一团且干瘪的幼尸，那是纯真的我，幼稚的我，被所有人抛弃的我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了w‖生理性別女‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 189,
+          "like_count": 5239,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 869
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "三胎宝妈",
+        "id": "1980612830824132609",
+        "location": "we never apart",
+        "name": "veeee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005077003972808704/HUfGwnzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 382,
+          "like_count": 2086,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 625
+        },
+        "username": "Ai_ovedose",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2047684375442243584"
+      ],
+      "media_source_tweet_id": [
+        "2047684428324130844"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047922295713533959",
+    "created_at": "2026-04-25T06:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047922295713533959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4319693115",
+          "start": 3,
+          "username": "OttoHuang120"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TGeusNy6Rt",
+          "end": 64,
+          "expanded_url": "https://x.com/OttoHuang120/status/2047684428324130844/video/1",
+          "media_key": "13_2047684375442243584",
+          "start": 41,
+          "url": "https://t.co/TGeusNy6Rt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047922295713533959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 198
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047684428324130844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OttoHuang120: 8964 天安門 中共 屠殺 中國人民 畫面 https://t.co/TGeusNy6Rt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 120140,
+        "height": 360,
+        "media_key": "13_2047684375442243584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047684375442243584/img/bguLeeN_ihn0YoWW.jpg",
+        "public_metrics": {
+          "view_count": 2700
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047684375442243584/vid/avc1/354x270/IQW207E7Oae3pVvO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047684375442243584/vid/avc1/472x360/NRfJU7wfq8mXnlDk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047684375442243584/pl/vgB5vNNfs8IjGS3V.m3u8?v=cfc"
+          }
+        ],
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047684375442243584"
+          ],
+          "media_source_tweet_id": [
+            "2047684428324130844"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047922295713533959",
+        "created_at": "2026-04-25T06:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047922295713533959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4319693115",
+              "start": 3,
+              "username": "OttoHuang120"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TGeusNy6Rt",
+              "end": 64,
+              "expanded_url": "https://x.com/OttoHuang120/status/2047684428324130844/video/1",
+              "media_key": "13_2047684375442243584",
+              "start": 41,
+              "url": "https://t.co/TGeusNy6Rt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047922295713533959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 198
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047684428324130844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OttoHuang120: 8964 天安門 中共 屠殺 中國人民 畫面 https://t.co/TGeusNy6Rt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047684375442243584"
+          ]
+        },
+        "author_id": "4319693115",
+        "conversation_id": "2047684428324130844",
+        "created_at": "2026-04-24T14:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047684428324130844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TGeusNy6Rt",
+              "end": 46,
+              "expanded_url": "https://x.com/OttoHuang120/status/2047684428324130844/video/1",
+              "media_key": "13_2047684375442243584",
+              "start": 23,
+              "url": "https://t.co/TGeusNy6Rt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047684428324130844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 7192,
+          "like_count": 567,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 198
+        },
+        "reply_settings": "everyone",
+        "text": "8964 天安門 中共 屠殺 中國人民 畫面 https://t.co/TGeusNy6Rt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "世界會記得你曾來過‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2045267383476945131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 280,
+          "like_count": 11360,
+          "listed_count": 1,
+          "media_count": 461,
+          "tweet_count": 2813
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-29T16:28:56.000Z",
+        "description": "來自台灣新竹市 Taiwan 人民最大，民主制度，才是最好的制度",
+        "id": "4319693115",
+        "location": "Taiwan",
+        "name": "Otto Huang ",
+        "pinned_tweet_id": "2007325194273337809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/972127298760589312/H78zqcRE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68661,
+          "following_count": 7074,
+          "like_count": 251871,
+          "listed_count": 377,
+          "media_count": 54489,
+          "tweet_count": 102156
+        },
+        "username": "OttoHuang120",
+        "verified": true
+      }
+    ]
+  }
+}

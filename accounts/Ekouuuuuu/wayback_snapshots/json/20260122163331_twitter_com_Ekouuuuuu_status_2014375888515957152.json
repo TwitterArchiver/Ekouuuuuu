@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013940730541019136"
+      ],
+      "media_source_tweet_id": [
+        "2013940766788432129"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2014375888515957152",
+    "created_at": "2026-01-22T16:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T17:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014375888515957152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1307436249536327680",
+          "start": 3,
+          "username": "67snkt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/81xrTahVEn",
+          "end": 35,
+          "expanded_url": "https://x.com/67snkt/status/2013940766788432129/photo/1",
+          "media_key": "3_2013940730541019136",
+          "start": 12,
+          "url": "https://t.co/81xrTahVEn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014375888515957152",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 195
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013940766788432129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @67snkt: https://t.co/81xrTahVEn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2408,
+        "media_key": "3_2013940730541019136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_L0bJKWkAA3cJP.jpg",
+        "width": 1626
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013940730541019136"
+          ],
+          "media_source_tweet_id": [
+            "2013940766788432129"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2014375888515957152",
+        "created_at": "2026-01-22T16:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T17:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014375888515957152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1307436249536327680",
+              "start": 3,
+              "username": "67snkt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/81xrTahVEn",
+              "end": 35,
+              "expanded_url": "https://x.com/67snkt/status/2013940766788432129/photo/1",
+              "media_key": "3_2013940730541019136",
+              "start": 12,
+              "url": "https://t.co/81xrTahVEn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014375888515957152",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 195
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013940766788432129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @67snkt: https://t.co/81xrTahVEn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013940730541019136"
+          ]
+        },
+        "author_id": "1307436249536327680",
+        "conversation_id": "2013940766788432129",
+        "created_at": "2026-01-21T11:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013940766788432129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/81xrTahVEn",
+              "end": 23,
+              "expanded_url": "https://x.com/67snkt/status/2013940766788432129/photo/1",
+              "media_key": "3_2013940730541019136",
+              "start": 0,
+              "url": "https://t.co/81xrTahVEn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013940766788432129",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 23040,
+          "like_count": 1419,
+          "quote_count": 11,
+          "reply_count": 0,
+          "retweet_count": 195
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/81xrTahVEn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖友LGBT‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6U23",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 80,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 57,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 226,
+          "like_count": 6799,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 1446
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-19T21:48:03.000Z",
+        "description": "虹ヶ咲学園スクールアイドル同好会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/67snkt",
+                "end": 23,
+                "expanded_url": "https://lit.link/67snkt",
+                "start": 0,
+                "url": "https://t.co/Qjri06UrVZ"
+              }
+            ]
+          }
+        },
+        "id": "1307436249536327680",
+        "location": "フォロー外通知非表示",
+        "name": "柊@僕ラブ48【ニジ46】",
+        "pinned_tweet_id": "2013928089688957192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986610601129590784/viiYAeU8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2025,
+          "following_count": 334,
+          "like_count": 79616,
+          "listed_count": 12,
+          "media_count": 1533,
+          "tweet_count": 31416
+        },
+        "url": "https://t.co/Qjri06UrVZ",
+        "username": "67snkt",
+        "verified": false
+      }
+    ]
+  }
+}

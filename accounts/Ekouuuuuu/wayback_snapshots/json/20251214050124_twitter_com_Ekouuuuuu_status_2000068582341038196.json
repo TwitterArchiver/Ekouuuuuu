@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000033671278178563",
+    "created_at": "2025-12-14T05:01:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T06:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000068582341038196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1879559839908855809",
+          "start": 0,
+          "username": "Milkice_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000068582341038196",
+    "in_reply_to_user_id": "1879559839908855809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000033671278178563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Milkice_17 好可愛ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000033668774137857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8GMBm4akAEJdgL.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000033671278178563",
+        "created_at": "2025-12-14T05:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000068582341038196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1879559839908855809",
+              "start": 0,
+              "username": "Milkice_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000068582341038196",
+        "in_reply_to_user_id": "1879559839908855809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000033671278178563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Milkice_17 好可愛ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000033668774137857"
+          ]
+        },
+        "author_id": "1879559839908855809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2000033671278178563",
+        "created_at": "2025-12-14T02:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T03:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000033671278178563"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "セイア"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5FAwnmRH5l",
+              "end": 34,
+              "expanded_url": "https://x.com/Milkice_17/status/2000033671278178563/photo/1",
+              "media_key": "3_2000033668774137857",
+              "start": 11,
+              "url": "https://t.co/5FAwnmRH5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000033671278178563",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 2244,
+          "like_count": 230,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#ブルアカ #セイア https://t.co/5FAwnmRH5l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了ww‖化學極樂‖養病中……‖🇯🇵🤝🇹🇼‖overdose是吸毒所以我是毒蟲🥺‖亚硝‖支畜滾‖陰暗逼（？）‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 154,
+          "like_count": 3714,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 425
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T16:02:49.000Z",
+        "description": "^^发瑟瑟的只是因为喜欢 🚪88好友位无浮力纯捞钱愿者上供",
+        "id": "1879559839908855809",
+        "location": "基沃托斯",
+        "name": "牛奶冰🍧",
+        "pinned_tweet_id": "1990073051438833712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939668071066816513/A3tp-tap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2877,
+          "following_count": 18,
+          "like_count": 127,
+          "listed_count": 18,
+          "media_count": 28,
+          "tweet_count": 253
+        },
+        "username": "Milkice_17",
+        "verified": false
+      }
+    ]
+  }
+}

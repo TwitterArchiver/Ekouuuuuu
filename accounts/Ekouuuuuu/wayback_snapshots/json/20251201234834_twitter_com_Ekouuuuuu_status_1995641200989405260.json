@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995490002483236865"
+      ],
+      "media_source_tweet_id": [
+        "1995490026881495434"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1995641200989405260",
+    "created_at": "2025-12-01T23:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T00:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995641200989405260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1708704628702146560",
+          "start": 3,
+          "username": "mea__dura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ypO1KgKzIQ",
+          "end": 50,
+          "expanded_url": "https://x.com/mea__dura/status/1995490026881495434/photo/1",
+          "media_key": "3_1995490002483236865",
+          "start": 27,
+          "url": "https://t.co/ypO1KgKzIQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995641200989405260",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995490026881495434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mea__dura: キミはどこが悪いの？♡ https://t.co/ypO1KgKzIQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "⚠️このナースは荒治療しか出来ません⚠️",
+        "height": 2048,
+        "media_key": "3_1995490002483236865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Fnla7bUAEt3HZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995490002483236865"
+          ],
+          "media_source_tweet_id": [
+            "1995490026881495434"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1995641200989405260",
+        "created_at": "2025-12-01T23:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T00:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995641200989405260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1708704628702146560",
+              "start": 3,
+              "username": "mea__dura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypO1KgKzIQ",
+              "end": 50,
+              "expanded_url": "https://x.com/mea__dura/status/1995490026881495434/photo/1",
+              "media_key": "3_1995490002483236865",
+              "start": 27,
+              "url": "https://t.co/ypO1KgKzIQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995641200989405260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995490026881495434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mea__dura: キミはどこが悪いの？♡ https://t.co/ypO1KgKzIQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995490002483236865"
+          ]
+        },
+        "author_id": "1708704628702146560",
+        "conversation_id": "1995490026881495434",
+        "created_at": "2025-12-01T13:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T14:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995490026881495434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypO1KgKzIQ",
+              "end": 35,
+              "expanded_url": "https://x.com/mea__dura/status/1995490026881495434/photo/1",
+              "media_key": "3_1995490002483236865",
+              "start": 12,
+              "url": "https://t.co/ypO1KgKzIQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995490026881495434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2434,
+          "like_count": 269,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "キミはどこが悪いの？♡ https://t.co/ypO1KgKzIQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 116,
+          "like_count": 3109,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 199
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T04:45:55.000Z",
+        "description": "💜@Duramoon__info わがままべいびー♡ #メアの瞳の中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 27,
+                "tag": "メアの瞳の中"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 1,
+                "username": "Duramoon__info"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/roamea_",
+                "end": 23,
+                "expanded_url": "https://lit.link/roamea_",
+                "start": 0,
+                "url": "https://t.co/1tUTnIJGev"
+              }
+            ]
+          }
+        },
+        "id": "1708704628702146560",
+        "location": "ろあん めあ",
+        "name": "髏黯 メア",
+        "pinned_tweet_id": "1977707340792045946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977706074359934976/j6U_CUHY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125,
+          "following_count": 101,
+          "like_count": 13008,
+          "listed_count": 17,
+          "media_count": 66,
+          "tweet_count": 1815
+        },
+        "url": "https://t.co/1tUTnIJGev",
+        "username": "mea__dura",
+        "verified": false
+      }
+    ]
+  }
+}

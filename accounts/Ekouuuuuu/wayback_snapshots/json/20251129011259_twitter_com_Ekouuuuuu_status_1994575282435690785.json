@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994362954666610689"
+      ],
+      "media_source_tweet_id": [
+        "1994362959012012505"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994575282435690785",
+    "created_at": "2025-11-29T01:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T02:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994575282435690785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "763150487046590465",
+          "start": 3,
+          "username": "animalkyat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VLjaxIWqy3",
+          "end": 60,
+          "expanded_url": "https://x.com/animalkyat/status/1994362959012012505/photo/1",
+          "media_key": "3_1994362954666610689",
+          "start": 37,
+          "url": "https://t.co/VLjaxIWqy3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994575282435690785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 769
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994362959012012505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animalkyat: 帰宅したら彼氏が異性とイチャイチャしてた https://t.co/VLjaxIWqy3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1319,
+        "media_key": "3_1994362954666610689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61mimoaEAEyIEU.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994362954666610689"
+          ],
+          "media_source_tweet_id": [
+            "1994362959012012505"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994575282435690785",
+        "created_at": "2025-11-29T01:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994575282435690785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "763150487046590465",
+              "start": 3,
+              "username": "animalkyat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VLjaxIWqy3",
+              "end": 60,
+              "expanded_url": "https://x.com/animalkyat/status/1994362959012012505/photo/1",
+              "media_key": "3_1994362954666610689",
+              "start": 37,
+              "url": "https://t.co/VLjaxIWqy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994575282435690785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 769
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994362959012012505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animalkyat: 帰宅したら彼氏が異性とイチャイチャしてた https://t.co/VLjaxIWqy3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994362954666610689"
+          ]
+        },
+        "author_id": "763150487046590465",
+        "conversation_id": "1994362959012012505",
+        "created_at": "2025-11-28T11:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994362959012012505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VLjaxIWqy3",
+              "end": 44,
+              "expanded_url": "https://x.com/animalkyat/status/1994362959012012505/photo/1",
+              "media_key": "3_1994362954666610689",
+              "start": 21,
+              "url": "https://t.co/VLjaxIWqy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994362959012012505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 667,
+          "impression_count": 641250,
+          "like_count": 32921,
+          "quote_count": 24,
+          "reply_count": 56,
+          "retweet_count": 769
+        },
+        "reply_settings": "everyone",
+        "text": "帰宅したら彼氏が異性とイチャイチャしてた https://t.co/VLjaxIWqy3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 2884,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 239
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-09T23:10:29.000Z",
+        "description": "いろんな動物をお届けします🦦🦥🐿️🦜🐈🐓🦔🐕🐇PRや広告拡散等のお仕事はDMまで",
+        "id": "763150487046590465",
+        "location": "日本 東京",
+        "name": "癒しの動物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893589723161280512/ea2nEpd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224040,
+          "following_count": 154,
+          "like_count": 540,
+          "listed_count": 518,
+          "media_count": 3984,
+          "tweet_count": 4563
+        },
+        "username": "animalkyat",
+        "verified": false
+      }
+    ]
+  }
+}

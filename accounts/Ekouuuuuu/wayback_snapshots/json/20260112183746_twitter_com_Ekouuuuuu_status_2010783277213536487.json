@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2010783277213536487",
+    "created_at": "2026-01-12T18:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T19:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010783277213536487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kinglinzhuhui/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/kinglinzhuhui/status/2010302395767787963",
+          "start": 6,
+          "url": "https://t.co/2xhI2U81zk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010783277213536487",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010302395767787963",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了😂 https://t.co/2xhI2U81zk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55533,
+        "height": 576,
+        "media_key": "13_2010302262799929344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2010302262799929344/img/R888s50vYx92iMOt.jpg",
+        "public_metrics": {
+          "view_count": 9070
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010302262799929344/vid/avc1/478x270/hqIiWbXPGYTukG6G.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010302262799929344/vid/avc1/636x360/H_vbhLm7XzS-wNWK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010302262799929344/vid/avc1/1020x576/y7EFYVqWVJwmGoAf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2010302262799929344/pl/RCWHiPiKEW5OP4aY.m3u8?v=cfc"
+          }
+        ],
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2010783277213536487",
+        "created_at": "2026-01-12T18:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T19:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010783277213536487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kinglinzhuhui/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/kinglinzhuhui/status/2010302395767787963",
+              "start": 6,
+              "url": "https://t.co/2xhI2U81zk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010783277213536487",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010302395767787963",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了😂 https://t.co/2xhI2U81zk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010302262799929344"
+          ]
+        },
+        "author_id": "1221824882582753280",
+        "conversation_id": "2010302395767787963",
+        "created_at": "2026-01-11T10:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T11:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010302395767787963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/62tt7U4foL",
+              "end": 42,
+              "expanded_url": "https://x.com/kinglinzhuhui/status/2010302395767787963/video/1",
+              "media_key": "13_2010302262799929344",
+              "start": 19,
+              "url": "https://t.co/62tt7U4foL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010302395767787963",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 19628,
+          "like_count": 789,
+          "quote_count": 13,
+          "reply_count": 26,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "Welcome to China🇨🇳 https://t.co/62tt7U4foL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/a1Jpzl6Paz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuu",
+                "end": 74,
+                "expanded_url": "http://t.me/Ekouuuuu",
+                "start": 51,
+                "url": "https://t.co/a1Jpzl6Paz"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 207,
+          "like_count": 6293,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 1203
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-27T15:59:01.000Z",
+        "description": "福清哥",
+        "id": "1221824882582753280",
+        "location": "中国",
+        "name": "K.L",
+        "pinned_tweet_id": "2009177446978122171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885574775701143552/ELlxyxOu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25590,
+          "following_count": 3237,
+          "like_count": 95912,
+          "listed_count": 155,
+          "media_count": 19564,
+          "tweet_count": 55638
+        },
+        "username": "kinglinzhuhui",
+        "verified": false
+      }
+    ]
+  }
+}

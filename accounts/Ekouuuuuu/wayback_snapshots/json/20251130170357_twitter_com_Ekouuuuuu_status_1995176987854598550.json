@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995059065974874112",
+        "3_1995059065987416064"
+      ],
+      "media_source_tweet_id": [
+        "1995059076867526989",
+        "1995059076867526989"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1995176987854598550",
+    "created_at": "2025-11-30T17:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T18:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995176987854598550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1004625994404093953",
+          "start": 3,
+          "username": "oicMIKO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ioZYioFj51",
+          "end": 42,
+          "expanded_url": "https://x.com/oicMIKO/status/1995059076867526989/photo/1",
+          "media_key": "3_1995059065974874112",
+          "start": 19,
+          "url": "https://t.co/ioZYioFj51"
+        },
+        {
+          "display_url": "pic.x.com/ioZYioFj51",
+          "end": 42,
+          "expanded_url": "https://x.com/oicMIKO/status/1995059076867526989/photo/1",
+          "media_key": "3_1995059065987416064",
+          "start": 19,
+          "url": "https://t.co/ioZYioFj51"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995176987854598550",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995059076867526989",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oicMIKO: おちゃ🥀🫖 https://t.co/ioZYioFj51"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3843,
+        "media_key": "3_1995059065974874112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_fpnVa4AAerf5.jpg",
+        "width": 2882
+      },
+      {
+        "height": 2757,
+        "media_key": "3_1995059065987416064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_fpnYaQAA6dek.jpg",
+        "width": 2069
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995059065974874112",
+            "3_1995059065987416064"
+          ],
+          "media_source_tweet_id": [
+            "1995059076867526989",
+            "1995059076867526989"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1995176987854598550",
+        "created_at": "2025-11-30T17:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T18:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995176987854598550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1004625994404093953",
+              "start": 3,
+              "username": "oicMIKO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ioZYioFj51",
+              "end": 42,
+              "expanded_url": "https://x.com/oicMIKO/status/1995059076867526989/photo/1",
+              "media_key": "3_1995059065974874112",
+              "start": 19,
+              "url": "https://t.co/ioZYioFj51"
+            },
+            {
+              "display_url": "pic.x.com/ioZYioFj51",
+              "end": 42,
+              "expanded_url": "https://x.com/oicMIKO/status/1995059076867526989/photo/1",
+              "media_key": "3_1995059065987416064",
+              "start": 19,
+              "url": "https://t.co/ioZYioFj51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995176987854598550",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995059076867526989",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oicMIKO: おちゃ🥀🫖 https://t.co/ioZYioFj51"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995059065974874112",
+            "3_1995059065987416064"
+          ]
+        },
+        "author_id": "1004625994404093953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1995059076867526989",
+        "created_at": "2025-11-30T09:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T10:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995059076867526989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ioZYioFj51",
+              "end": 29,
+              "expanded_url": "https://x.com/oicMIKO/status/1995059076867526989/photo/1",
+              "media_key": "3_1995059065974874112",
+              "start": 6,
+              "url": "https://t.co/ioZYioFj51"
+            },
+            {
+              "display_url": "pic.x.com/ioZYioFj51",
+              "end": 29,
+              "expanded_url": "https://x.com/oicMIKO/status/1995059076867526989/photo/1",
+              "media_key": "3_1995059065987416064",
+              "start": 6,
+              "url": "https://t.co/ioZYioFj51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995059076867526989",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 25740,
+          "like_count": 1566,
+          "quote_count": 15,
+          "reply_count": 31,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "おちゃ🥀🫖 https://t.co/ioZYioFj51"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 115,
+          "like_count": 3090,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 193
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-07T07:27:56.000Z",
+        "description": "みこたまです⛩️⛓️ ✉️ イベント情報@mktm_official oictanoc3@gmail.com #たのしい巫女チェキ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 55,
+                "tag": "たのしい巫女チェキ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "mktm_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/oitano",
+                "end": 23,
+                "expanded_url": "https://lit.link/oitano",
+                "start": 0,
+                "url": "https://t.co/7t7wHprTz4"
+              }
+            ]
+          }
+        },
+        "id": "1004625994404093953",
+        "name": "月雲巫女",
+        "pinned_tweet_id": "1986793208995832032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938154743664439296/KIk6KtdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79029,
+          "following_count": 131,
+          "like_count": 108041,
+          "listed_count": 868,
+          "media_count": 351,
+          "tweet_count": 3534
+        },
+        "url": "https://t.co/7t7wHprTz4",
+        "username": "oicMIKO",
+        "verified": true
+      }
+    ]
+  }
+}

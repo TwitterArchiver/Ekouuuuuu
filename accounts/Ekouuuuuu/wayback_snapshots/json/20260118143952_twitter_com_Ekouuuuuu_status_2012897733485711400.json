@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012543311240679424"
+      ],
+      "media_source_tweet_id": [
+        "2012543349765636418"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2012897733485711400",
+    "created_at": "2026-01-18T14:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012897733485711400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "66378452",
+          "start": 3,
+          "username": "no100"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F7tU1znL9K",
+          "end": 38,
+          "expanded_url": "https://x.com/no100/status/2012543349765636418/photo/1",
+          "media_key": "3_2012543311240679424",
+          "start": 15,
+          "url": "https://t.co/F7tU1znL9K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012897733485711400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1525
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012543349765636418",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @no100: キサキ https://t.co/F7tU1znL9K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2012543311240679424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-39eomW0AAQ9Vv.jpg",
+        "width": 771
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012543311240679424"
+          ],
+          "media_source_tweet_id": [
+            "2012543349765636418"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2012897733485711400",
+        "created_at": "2026-01-18T14:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012897733485711400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "66378452",
+              "start": 3,
+              "username": "no100"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F7tU1znL9K",
+              "end": 38,
+              "expanded_url": "https://x.com/no100/status/2012543349765636418/photo/1",
+              "media_key": "3_2012543311240679424",
+              "start": 15,
+              "url": "https://t.co/F7tU1znL9K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012897733485711400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1525
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012543349765636418",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @no100: キサキ https://t.co/F7tU1znL9K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012543311240679424"
+          ]
+        },
+        "author_id": "66378452",
+        "conversation_id": "2012543349765636418",
+        "created_at": "2026-01-17T15:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012543349765636418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F7tU1znL9K",
+              "end": 27,
+              "expanded_url": "https://x.com/no100/status/2012543349765636418/photo/1",
+              "media_key": "3_2012543311240679424",
+              "start": 4,
+              "url": "https://t.co/F7tU1znL9K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012543349765636418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3121,
+          "impression_count": 174693,
+          "like_count": 20384,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 1525
+        },
+        "reply_settings": "everyone",
+        "text": "キサキ https://t.co/F7tU1znL9K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 74,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 51,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 219,
+          "like_count": 6552,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 1289
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-17T15:24:51.000Z",
+        "description": "漫画を描く屋 怪鼠一見帳・花札連載中https://t.co/zqHLwKu2N2書籍購入リンク・連絡先等まとめhttps://t.co/51bWM1rapY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "comic-medu.com/series/5d96a7d…",
+                "end": 41,
+                "expanded_url": "https://comic-medu.com/series/5d96a7d0976b9",
+                "start": 18,
+                "url": "https://t.co/zqHLwKu2N2"
+              },
+              {
+                "display_url": "potofu.me/no100",
+                "end": 79,
+                "expanded_url": "http://potofu.me/no100",
+                "start": 56,
+                "url": "https://t.co/51bWM1rapY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/no100",
+                "end": 23,
+                "expanded_url": "http://potofu.me/no100",
+                "start": 0,
+                "url": "https://t.co/51bWM1rapY"
+              }
+            ]
+          }
+        },
+        "id": "66378452",
+        "location": "ｴﾝｼﾞｮｲ＆notﾊﾟﾝﾂ",
+        "name": "1号",
+        "pinned_tweet_id": "2011043714660217334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559199216345370625/Xx5zQjb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60202,
+          "following_count": 1895,
+          "like_count": 113802,
+          "listed_count": 672,
+          "media_count": 398,
+          "tweet_count": 73120
+        },
+        "url": "https://t.co/51bWM1rapY",
+        "username": "no100",
+        "verified": true
+      }
+    ]
+  }
+}

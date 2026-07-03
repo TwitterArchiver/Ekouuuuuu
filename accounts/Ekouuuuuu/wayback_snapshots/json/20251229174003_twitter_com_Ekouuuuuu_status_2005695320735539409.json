@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005695317677907968",
+        "3_2005695317791125504"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2005695320735539409",
+    "created_at": "2025-12-29T17:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T18:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005695320735539409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0iAyMPoLab",
+          "end": 68,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2005695320735539409/photo/1",
+          "media_key": "3_2005695317677907968",
+          "start": 45,
+          "url": "https://t.co/0iAyMPoLab"
+        },
+        {
+          "display_url": "pic.x.com/0iAyMPoLab",
+          "end": 68,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2005695320735539409/photo/1",
+          "media_key": "3_2005695317791125504",
+          "start": 45,
+          "url": "https://t.co/0iAyMPoLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005695320735539409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原本是打算畫給朋友當聖誕禮物的……\n但是奈何我效率太慢了\n現在也只出了一個草稿\n就這樣吧 https://t.co/0iAyMPoLab"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005695317677907968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9WpQ8nbIAAUSZo.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2005695317791125504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9WpQ9CasAAL1Zi.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005695317677907968",
+            "3_2005695317791125504"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005695320735539409",
+        "created_at": "2025-12-29T17:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T18:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005695320735539409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0iAyMPoLab",
+              "end": 68,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2005695320735539409/photo/1",
+              "media_key": "3_2005695317677907968",
+              "start": 45,
+              "url": "https://t.co/0iAyMPoLab"
+            },
+            {
+              "display_url": "pic.x.com/0iAyMPoLab",
+              "end": 68,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2005695320735539409/photo/1",
+              "media_key": "3_2005695317791125504",
+              "start": 45,
+              "url": "https://t.co/0iAyMPoLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005695320735539409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原本是打算畫給朋友當聖誕禮物的……\n但是奈何我效率太慢了\n現在也只出了一個草稿\n就這樣吧 https://t.co/0iAyMPoLab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了w‖生理性別女‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 191,
+          "like_count": 5346,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 888
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

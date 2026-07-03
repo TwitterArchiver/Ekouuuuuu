@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957939421657067521",
+        "3_1957939421296353280"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1957939424505000177",
+    "created_at": "2025-08-19T22:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T23:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957939424505000177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hOXvmmSG3l",
+          "end": 70,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1957939424505000177/photo/1",
+          "media_key": "3_1957939421657067521",
+          "start": 47,
+          "url": "https://t.co/hOXvmmSG3l"
+        },
+        {
+          "display_url": "pic.x.com/hOXvmmSG3l",
+          "end": 70,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1957939424505000177/photo/1",
+          "media_key": "3_1957939421296353280",
+          "start": 47,
+          "url": "https://t.co/hOXvmmSG3l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957939424505000177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "為什麼最近墻內發什麼都審核的特別嚴（？）\n抖音快手QQ一個都發不出去\n這不就一張正常照片嗎？ https://t.co/hOXvmmSG3l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957939421657067521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyv_h8eacAEd5yP.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1957939421296353280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyv_h7IaYAALePD.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957939421657067521",
+            "3_1957939421296353280"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1957939424505000177",
+        "created_at": "2025-08-19T22:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T23:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957939424505000177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hOXvmmSG3l",
+              "end": 70,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1957939424505000177/photo/1",
+              "media_key": "3_1957939421657067521",
+              "start": 47,
+              "url": "https://t.co/hOXvmmSG3l"
+            },
+            {
+              "display_url": "pic.x.com/hOXvmmSG3l",
+              "end": 70,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1957939424505000177/photo/1",
+              "media_key": "3_1957939421296353280",
+              "start": 47,
+              "url": "https://t.co/hOXvmmSG3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957939424505000177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "為什麼最近墻內發什麼都審核的特別嚴（？）\n抖音快手QQ一個都發不出去\n這不就一張正常照片嗎？ https://t.co/hOXvmmSG3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "自尊常常將人拖著 把愛都走曲折",
+        "id": "1912063502782812160",
+        "name": "白菜_Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937599411460403200/XrYwRLKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 74,
+          "like_count": 1526,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 247
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

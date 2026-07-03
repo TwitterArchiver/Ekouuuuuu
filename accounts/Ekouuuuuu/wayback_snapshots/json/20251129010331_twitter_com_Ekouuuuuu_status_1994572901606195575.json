@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994333010964172802"
+      ],
+      "media_source_tweet_id": [
+        "1994333052101669076"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994572901606195575",
+    "created_at": "2025-11-29T01:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T02:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994572901606195575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1762886859842314240",
+          "start": 3,
+          "username": "fugu43"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KaPmKf1A44",
+          "end": 42,
+          "expanded_url": "https://x.com/fugu43/status/1994333052101669076/photo/1",
+          "media_key": "3_1994333010964172802",
+          "start": 19,
+          "url": "https://t.co/KaPmKf1A44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994572901606195575",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 239
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994333052101669076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fugu43: 小鳥遊ホシノ https://t.co/KaPmKf1A44"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2017,
+        "media_key": "3_1994333010964172802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61LTppa0AIlp_M.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994333010964172802"
+          ],
+          "media_source_tweet_id": [
+            "1994333052101669076"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994572901606195575",
+        "created_at": "2025-11-29T01:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994572901606195575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1762886859842314240",
+              "start": 3,
+              "username": "fugu43"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KaPmKf1A44",
+              "end": 42,
+              "expanded_url": "https://x.com/fugu43/status/1994333052101669076/photo/1",
+              "media_key": "3_1994333010964172802",
+              "start": 19,
+              "url": "https://t.co/KaPmKf1A44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994572901606195575",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 239
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994333052101669076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fugu43: 小鳥遊ホシノ https://t.co/KaPmKf1A44"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994333010964172802"
+          ]
+        },
+        "author_id": "1762886859842314240",
+        "conversation_id": "1994333052101669076",
+        "created_at": "2025-11-28T09:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T10:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994333052101669076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KaPmKf1A44",
+              "end": 30,
+              "expanded_url": "https://x.com/fugu43/status/1994333052101669076/photo/1",
+              "media_key": "3_1994333010964172802",
+              "start": 7,
+              "url": "https://t.co/KaPmKf1A44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994333052101669076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 238,
+          "impression_count": 19617,
+          "like_count": 2735,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 239
+        },
+        "reply_settings": "everyone",
+        "text": "小鳥遊ホシノ https://t.co/KaPmKf1A44"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 2856,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 220
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T17:06:26.000Z",
+        "description": "一生壁打ち\nskeb→https://t.co/jjoXjXxXbS\npixiv→https://t.co/e2mbzJ8Vsb\nお題箱→https://t.co/C1QocCQ5zE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@fugu43",
+                "end": 34,
+                "expanded_url": "https://skeb.jp/@fugu43",
+                "start": 11,
+                "url": "https://t.co/jjoXjXxXbS"
+              },
+              {
+                "display_url": "pixiv.net/users/107419623",
+                "end": 64,
+                "expanded_url": "https://www.pixiv.net/users/107419623",
+                "start": 41,
+                "url": "https://t.co/e2mbzJ8Vsb"
+              },
+              {
+                "display_url": "odaibako.net/u/fugu43",
+                "end": 92,
+                "expanded_url": "https://odaibako.net/u/fugu43",
+                "start": 69,
+                "url": "https://t.co/C1QocCQ5zE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@fugu43",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@fugu43",
+                "start": 0,
+                "url": "https://t.co/jjoXjXxXbS"
+              }
+            ]
+          }
+        },
+        "id": "1762886859842314240",
+        "name": "フグウ",
+        "pinned_tweet_id": "1873342500964016464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988914367296155648/yMDCUsKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7215,
+          "following_count": 60,
+          "like_count": 1260,
+          "listed_count": 52,
+          "media_count": 533,
+          "tweet_count": 592
+        },
+        "url": "https://t.co/jjoXjXxXbS",
+        "username": "fugu43",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994316910901776384"
+      ],
+      "media_source_tweet_id": [
+        "1994316916639302110"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994658741183287613",
+    "created_at": "2025-11-29T06:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T07:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994658741183287613"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 12,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1815744197338730496",
+          "start": 3,
+          "username": "vlyet_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TGWBAWRjSW",
+          "end": 42,
+          "expanded_url": "https://x.com/vlyet_/status/1994316916639302110/photo/1",
+          "media_key": "3_1994316910901776384",
+          "start": 19,
+          "url": "https://t.co/TGWBAWRjSW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994658741183287613",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994316916639302110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vlyet_: #自撮り界隈 https://t.co/TGWBAWRjSW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994316910901776384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G608qgPa0AAv6wE.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994316910901776384"
+          ],
+          "media_source_tweet_id": [
+            "1994316916639302110"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994658741183287613",
+        "created_at": "2025-11-29T06:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994658741183287613"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 12,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1815744197338730496",
+              "start": 3,
+              "username": "vlyet_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TGWBAWRjSW",
+              "end": 42,
+              "expanded_url": "https://x.com/vlyet_/status/1994316916639302110/photo/1",
+              "media_key": "3_1994316910901776384",
+              "start": 19,
+              "url": "https://t.co/TGWBAWRjSW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994658741183287613",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994316916639302110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vlyet_: #自撮り界隈 https://t.co/TGWBAWRjSW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994316910901776384"
+          ]
+        },
+        "author_id": "1815744197338730496",
+        "conversation_id": "1994316916639302110",
+        "created_at": "2025-11-28T08:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T09:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994316916639302110"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TGWBAWRjSW",
+              "end": 30,
+              "expanded_url": "https://x.com/vlyet_/status/1994316916639302110/photo/1",
+              "media_key": "3_1994316910901776384",
+              "start": 7,
+              "url": "https://t.co/TGWBAWRjSW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994316916639302110",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 14520,
+          "like_count": 964,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 https://t.co/TGWBAWRjSW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 108,
+          "like_count": 2992,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 293
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T13:42:12.000Z",
+        "description": "♡@xzlq_n @yln0p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 1,
+                "username": "xzlq_n"
+              },
+              {
+                "end": 15,
+                "start": 9,
+                "username": "yln0p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/284TXY4IME2KC?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/vtaSn1goec"
+              }
+            ]
+          }
+        },
+        "id": "1815744197338730496",
+        "location": "ほしい物リスト→",
+        "name": "にーと帝国",
+        "pinned_tweet_id": "1975133499104649364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974424947566243840/iY8OQhlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 19,
+          "like_count": 94,
+          "listed_count": 7,
+          "media_count": 20,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/vtaSn1goec",
+        "username": "vlyet_",
+        "verified": true
+      }
+    ]
+  }
+}

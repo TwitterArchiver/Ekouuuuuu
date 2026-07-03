@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2035391297792696344",
+    "created_at": "2026-03-22T06:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T07:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035601593593446419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1942770189030023174",
+          "start": 0,
+          "username": "Ariyairis"
+        },
+        {
+          "end": 27,
+          "id": "2008943608695840768",
+          "start": 11,
+          "username": "electronic_dirt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035601593593446419",
+    "in_reply_to_user_id": "1942770189030023174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035594658408178006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ariyairis @electronic_dirt 好的謝謝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2035391297792696344",
+        "created_at": "2026-03-22T06:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T07:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035601593593446419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1942770189030023174",
+              "start": 0,
+              "username": "Ariyairis"
+            },
+            {
+              "end": 27,
+              "id": "2008943608695840768",
+              "start": 11,
+              "username": "electronic_dirt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035601593593446419",
+        "in_reply_to_user_id": "1942770189030023174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035594658408178006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ariyairis @electronic_dirt 好的謝謝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942770189030023174",
+        "conversation_id": "2035391297792696344",
+        "created_at": "2026-03-22T05:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035594658408178006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            },
+            {
+              "end": 27,
+              "id": "2008943608695840768",
+              "start": 11,
+              "username": "electronic_dirt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035594658408178006",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035589003874050167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu @electronic_dirt 第一次2t左右吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖恆春最深情‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo‖陰暗逼od蛆互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2035365735460180096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 246,
+          "like_count": 9538,
+          "listed_count": 1,
+          "media_count": 398,
+          "tweet_count": 2499
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T02:18:21.000Z",
+        "description": "2008.1.22｜水瓶座｜ enfp｜adhd｜焦虑｜抑郁 可以互fo/找我玩",
+        "id": "1942770189030023174",
+        "name": "Ariya_jiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032773880352485376/-vXmFljl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 228,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 290
+        },
+        "username": "Ariyairis",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T16:47:44.000Z",
+        "description": "💉𓂋 =无垢 可以找我互fo捏( ^ω^ ) 09休学中 顺女 泛性恋 精无 内含画画｜废话｜od｜自伤 ｜❄️男友酱：@Shiaohan5525",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "Shiaohan5525"
+              }
+            ]
+          }
+        },
+        "id": "2008943608695840768",
+        "name": "无垢",
+        "pinned_tweet_id": "2026491738811150817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018785279499497472/GMU_7D_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 189,
+          "like_count": 1033,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 793
+        },
+        "username": "electronic_dirt",
+        "verified": false
+      }
+    ]
+  }
+}

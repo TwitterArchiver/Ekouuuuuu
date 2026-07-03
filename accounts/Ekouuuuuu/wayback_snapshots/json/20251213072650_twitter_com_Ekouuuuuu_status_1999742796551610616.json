@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1999742796551610616",
+    "created_at": "2025-12-13T07:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T08:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999742796551610616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "55964567",
+          "start": 3,
+          "username": "wuzuolai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999742796551610616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999340393289384085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wuzuolai: 习近平想把自己玩成\n习脱贫\n结果\n成了习返贫\n\n毛泽东让中国人民斗起来\n邓小平让中国人民忙起来\n江泽民让中国人民吹起来\n胡锦涛让中国人民抖起来\n习近平让中国人民穷起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1999742796551610616",
+        "created_at": "2025-12-13T07:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T08:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999742796551610616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "55964567",
+              "start": 3,
+              "username": "wuzuolai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999742796551610616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999340393289384085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wuzuolai: 习近平想把自己玩成\n习脱贫\n结果\n成了习返贫\n\n毛泽东让中国人民斗起来\n邓小平让中国人民忙起来\n江泽民让中国人民吹起来\n胡锦涛让中国人民抖起来\n习近平让中国人民穷起来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "55964567",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1999340393289384085",
+        "created_at": "2025-12-12T04:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999340393289384085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999340393289384085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 113839,
+          "like_count": 643,
+          "quote_count": 2,
+          "reply_count": 119,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "习近平想把自己玩成\n习脱贫\n结果\n成了习返贫\n\n毛泽东让中国人民斗起来\n邓小平让中国人民忙起来\n江泽民让中国人民吹起来\n胡锦涛让中国人民抖起来\n习近平让中国人民穷起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999520374074024441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 136,
+          "like_count": 3457,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 262
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-11T23:50:54.000Z",
+        "description": "独立学者 价值主义者 六四早晨最后一批撤离广场。因零八宪章第一批签名被撤职。 专栏与评论文章三百余篇，见：新京报、南方都市报，南方周末、中国青年报、东方早报、人民日报、新华网、中国青年报、环球时报 德国之声、BBC中文、风传媒、（台湾）中央广播电台、法广中文、CNN中文、动向、苹果日报（香港）东方日报另有编著十余种。",
+        "id": "55964567",
+        "location": "美国　洛杉矶",
+        "name": "吴祚来",
+        "pinned_tweet_id": "1999722574847365176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911452604376256512/WBYsM3QZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282416,
+          "following_count": 1329,
+          "like_count": 10380,
+          "listed_count": 1005,
+          "media_count": 10012,
+          "tweet_count": 66914
+        },
+        "username": "wuzuolai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056351683777851392"
+      ],
+      "media_source_tweet_id": [
+        "2056351689658274048"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2056628245500674532",
+    "created_at": "2026-05-19T06:49:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T07:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056628245500674532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1534334852",
+          "start": 3,
+          "username": "liedoll_056"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o1csLqvvMO",
+          "end": 43,
+          "expanded_url": "https://x.com/liedoll_056/status/2056351689658274048/photo/1",
+          "media_key": "3_2056351683777851392",
+          "start": 20,
+          "url": "https://t.co/o1csLqvvMO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056628245500674532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056351689658274048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liedoll_056: くぅ https://t.co/o1csLqvvMO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1866,
+        "media_key": "3_2056351683777851392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImg9hza8AAq14G.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056351683777851392"
+          ],
+          "media_source_tweet_id": [
+            "2056351689658274048"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2056628245500674532",
+        "created_at": "2026-05-19T06:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056628245500674532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1534334852",
+              "start": 3,
+              "username": "liedoll_056"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o1csLqvvMO",
+              "end": 43,
+              "expanded_url": "https://x.com/liedoll_056/status/2056351689658274048/photo/1",
+              "media_key": "3_2056351683777851392",
+              "start": 20,
+              "url": "https://t.co/o1csLqvvMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056628245500674532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056351689658274048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liedoll_056: くぅ https://t.co/o1csLqvvMO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056351683777851392"
+          ]
+        },
+        "author_id": "1534334852",
+        "conversation_id": "2056351689658274048",
+        "created_at": "2026-05-18T12:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056351689658274048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o1csLqvvMO",
+              "end": 26,
+              "expanded_url": "https://x.com/liedoll_056/status/2056351689658274048/photo/1",
+              "media_key": "3_2056351683777851392",
+              "start": 3,
+              "url": "https://t.co/o1csLqvvMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056351689658274048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 11198,
+          "like_count": 1040,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "くぅ https://t.co/o1csLqvvMO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "她說她停不下這瘋狂‖閨蜜@seeFvn‖老公@Shiroko_Li‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 12,
+                "username": "seeFvn"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2054494874192195972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 302,
+          "like_count": 12951,
+          "listed_count": 1,
+          "media_count": 538,
+          "tweet_count": 3274
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-20T16:20:15.000Z",
+        "description": "お洋服▶︎【HadeRick】 @HadeRick__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "HadeRick__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/liedoll056",
+                "end": 23,
+                "expanded_url": "https://lit.link/liedoll056",
+                "start": 0,
+                "url": "https://t.co/VYeAnjKhHg"
+              }
+            ]
+          }
+        },
+        "id": "1534334852",
+        "location": "icon:zare_0330/戯言💉",
+        "name": "ひすい∞",
+        "pinned_tweet_id": "2049474291088117819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791062789026680832/lXJGeVo9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7511,
+          "following_count": 412,
+          "like_count": 17054,
+          "listed_count": 26,
+          "media_count": 234,
+          "tweet_count": 78710
+        },
+        "url": "https://t.co/VYeAnjKhHg",
+        "username": "liedoll_056",
+        "verified": false
+      }
+    ]
+  }
+}

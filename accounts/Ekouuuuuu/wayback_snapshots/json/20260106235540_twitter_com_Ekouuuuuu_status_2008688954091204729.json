@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008486220964524034"
+      ],
+      "media_source_tweet_id": [
+        "2008486229583819000"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2008688954091204729",
+    "created_at": "2026-01-06T23:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T00:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008688954091204729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1007895561070997509",
+          "start": 3,
+          "username": "Pizzaniacompany"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QoaGnv7tBn",
+          "end": 61,
+          "expanded_url": "https://x.com/Pizzaniacompany/status/2008486229583819000/photo/1",
+          "media_key": "3_2008486220964524034",
+          "start": 38,
+          "url": "https://t.co/QoaGnv7tBn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008688954091204729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 600
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008486229583819000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pizzaniacompany: 一流アウトロー陸八魔アル様の回答 https://t.co/QoaGnv7tBn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2008486220964524034",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9-Tk5jbcAIoDtT.jpg",
+        "width": 2014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008486220964524034"
+          ],
+          "media_source_tweet_id": [
+            "2008486229583819000"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2008688954091204729",
+        "created_at": "2026-01-06T23:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T00:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008688954091204729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1007895561070997509",
+              "start": 3,
+              "username": "Pizzaniacompany"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QoaGnv7tBn",
+              "end": 61,
+              "expanded_url": "https://x.com/Pizzaniacompany/status/2008486229583819000/photo/1",
+              "media_key": "3_2008486220964524034",
+              "start": 38,
+              "url": "https://t.co/QoaGnv7tBn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008688954091204729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 600
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008486229583819000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pizzaniacompany: 一流アウトロー陸八魔アル様の回答 https://t.co/QoaGnv7tBn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008486220964524034"
+          ]
+        },
+        "author_id": "1007895561070997509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2008486229583819000",
+        "created_at": "2026-01-06T10:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T11:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008486229583819000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QoaGnv7tBn",
+              "end": 40,
+              "expanded_url": "https://x.com/Pizzaniacompany/status/2008486229583819000/photo/1",
+              "media_key": "3_2008486220964524034",
+              "start": 17,
+              "url": "https://t.co/QoaGnv7tBn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008486229583819000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 600,
+          "impression_count": 227575,
+          "like_count": 5819,
+          "quote_count": 7,
+          "reply_count": 32,
+          "retweet_count": 600
+        },
+        "reply_settings": "everyone",
+        "text": "一流アウトロー陸八魔アル様の回答 https://t.co/QoaGnv7tBn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了w‖生理性別女‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 90,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 67,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2006059996145148295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 192,
+          "like_count": 5712,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 964
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-16T08:00:02.000Z",
+        "description": "イラストレーターです。お仕事募集中です(1月以降)→pizzaniacompany@gmail.com｜FANBOX→ https://t.co/5tCZnRucnG｜skeb→ https://t.co/HpaKcWEWnd｜🍈→ https://t.co/TuiBjMFmqR｜暁ゆる@Akatsuki_yuru｜AI学習禁止❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 144,
+                "username": "Akatsuki_yuru"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/RC10P",
+                "end": 83,
+                "expanded_url": "https://x.gd/RC10P",
+                "start": 60,
+                "url": "https://t.co/5tCZnRucnG"
+              },
+              {
+                "display_url": "x.gd/3LSU4",
+                "end": 113,
+                "expanded_url": "https://x.gd/3LSU4",
+                "start": 90,
+                "url": "https://t.co/HpaKcWEWnd"
+              },
+              {
+                "display_url": "x.gd/Ny0fk",
+                "end": 140,
+                "expanded_url": "https://x.gd/Ny0fk",
+                "start": 117,
+                "url": "https://t.co/TuiBjMFmqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/36808773",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/36808773",
+                "start": 0,
+                "url": "https://t.co/aHVLcUCaUL"
+              }
+            ]
+          }
+        },
+        "id": "1007895561070997509",
+        "location": "キキョウ絆100達成♡24.12.24 水着25.12.20",
+        "name": "ぴっつぁ@新刊メロン委託中",
+        "pinned_tweet_id": "2003032219695325522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899600033328279552/zoff3utK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106972,
+          "following_count": 942,
+          "like_count": 122307,
+          "listed_count": 788,
+          "media_count": 1137,
+          "tweet_count": 9052
+        },
+        "url": "https://t.co/aHVLcUCaUL",
+        "username": "Pizzaniacompany",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057407843565977600",
+        "3_2057407843557625856"
+      ],
+      "media_source_tweet_id": [
+        "2057407849840730543",
+        "2057407849840730543"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2057715169640464814",
+    "created_at": "2026-05-22T06:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T07:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057715169640464814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "487816854",
+          "start": 3,
+          "username": "SissiYulia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OXTIXyWkNS",
+          "end": 57,
+          "expanded_url": "https://x.com/SissiYulia/status/2057407849840730543/photo/1",
+          "media_key": "3_2057407843565977600",
+          "start": 34,
+          "url": "https://t.co/OXTIXyWkNS"
+        },
+        {
+          "display_url": "pic.x.com/OXTIXyWkNS",
+          "end": 57,
+          "expanded_url": "https://x.com/SissiYulia/status/2057407849840730543/photo/1",
+          "media_key": "3_2057407843557625856",
+          "start": 34,
+          "url": "https://t.co/OXTIXyWkNS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057715169640464814",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057407849840730543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SissiYulia: 地雷系の体力舐めてる人多すぎー！！ https://t.co/OXTIXyWkNS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_2057407843565977600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1hiHnaQAAdez-.jpg",
+        "width": 602
+      },
+      {
+        "height": 955,
+        "media_key": "3_2057407843557625856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1hiHla0AAYeSj.jpg",
+        "width": 599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057407843565977600",
+            "3_2057407843557625856"
+          ],
+          "media_source_tweet_id": [
+            "2057407849840730543",
+            "2057407849840730543"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2057715169640464814",
+        "created_at": "2026-05-22T06:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057715169640464814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "487816854",
+              "start": 3,
+              "username": "SissiYulia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXTIXyWkNS",
+              "end": 57,
+              "expanded_url": "https://x.com/SissiYulia/status/2057407849840730543/photo/1",
+              "media_key": "3_2057407843565977600",
+              "start": 34,
+              "url": "https://t.co/OXTIXyWkNS"
+            },
+            {
+              "display_url": "pic.x.com/OXTIXyWkNS",
+              "end": 57,
+              "expanded_url": "https://x.com/SissiYulia/status/2057407849840730543/photo/1",
+              "media_key": "3_2057407843557625856",
+              "start": 34,
+              "url": "https://t.co/OXTIXyWkNS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057715169640464814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057407849840730543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SissiYulia: 地雷系の体力舐めてる人多すぎー！！ https://t.co/OXTIXyWkNS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057407843565977600",
+            "3_2057407843557625856"
+          ]
+        },
+        "author_id": "487816854",
+        "conversation_id": "2057407849840730543",
+        "created_at": "2026-05-21T10:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057407849840730543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXTIXyWkNS",
+              "end": 41,
+              "expanded_url": "https://x.com/SissiYulia/status/2057407849840730543/photo/1",
+              "media_key": "3_2057407843565977600",
+              "start": 18,
+              "url": "https://t.co/OXTIXyWkNS"
+            },
+            {
+              "display_url": "pic.x.com/OXTIXyWkNS",
+              "end": 41,
+              "expanded_url": "https://x.com/SissiYulia/status/2057407849840730543/photo/1",
+              "media_key": "3_2057407843557625856",
+              "start": 18,
+              "url": "https://t.co/OXTIXyWkNS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057407849840730543",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 8854,
+          "like_count": 627,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "地雷系の体力舐めてる人多すぎー！！ https://t.co/OXTIXyWkNS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖老公@Shiroko_Li‖支畜別他媽來惡心我了‖找我要色圖的你媽死了‖順男加我請附帶絕育證明‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2054494874192195972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 304,
+          "like_count": 13158,
+          "listed_count": 1,
+          "media_count": 567,
+          "tweet_count": 3399
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-09T19:35:44.000Z",
+        "description": "ハイトーンボブ好き？？ こっちいる事多いかな→@KaitlynFqqt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "KaitlynFqqt"
+              }
+            ]
+          }
+        },
+        "id": "487816854",
+        "location": "裏垢だね。うん、",
+        "name": "まやって俺の事！",
+        "pinned_tweet_id": "2036778858884821056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049006367663693824/CeMYidzD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 30,
+          "like_count": 56,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 249
+        },
+        "username": "SissiYulia",
+        "verified": false
+      }
+    ]
+  }
+}

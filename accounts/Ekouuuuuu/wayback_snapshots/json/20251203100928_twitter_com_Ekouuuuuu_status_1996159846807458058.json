@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996064980211531776"
+      ],
+      "media_source_tweet_id": [
+        "1996064988478505037"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1996159846807458058",
+    "created_at": "2025-12-03T10:09:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T11:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996159846807458058"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "古関ウイ",
+          "probability": 0.3738,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1366767967082401793",
+          "start": 3,
+          "username": "yoru_uyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WvcfKtGIfx",
+          "end": 45,
+          "expanded_url": "https://x.com/yoru_uyo/status/1996064988478505037/photo/1",
+          "media_key": "3_1996064980211531776",
+          "start": 22,
+          "url": "https://t.co/WvcfKtGIfx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996159846807458058",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 485
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996064988478505037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoru_uyo: 古関ウイ(9) https://t.co/WvcfKtGIfx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1996064980211531776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Nyhh4bAAAaBmi.jpg",
+        "width": 2887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996064980211531776"
+          ],
+          "media_source_tweet_id": [
+            "1996064988478505037"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1996159846807458058",
+        "created_at": "2025-12-03T10:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996159846807458058"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "古関ウイ",
+              "probability": 0.3738,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1366767967082401793",
+              "start": 3,
+              "username": "yoru_uyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WvcfKtGIfx",
+              "end": 45,
+              "expanded_url": "https://x.com/yoru_uyo/status/1996064988478505037/photo/1",
+              "media_key": "3_1996064980211531776",
+              "start": 22,
+              "url": "https://t.co/WvcfKtGIfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996159846807458058",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 485
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996064988478505037",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoru_uyo: 古関ウイ(9) https://t.co/WvcfKtGIfx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996064980211531776"
+          ]
+        },
+        "author_id": "1366767967082401793",
+        "conversation_id": "1996064988478505037",
+        "created_at": "2025-12-03T03:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T04:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996064988478505037"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "古関ウイ",
+              "probability": 0.2653,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WvcfKtGIfx",
+              "end": 31,
+              "expanded_url": "https://x.com/yoru_uyo/status/1996064988478505037/photo/1",
+              "media_key": "3_1996064980211531776",
+              "start": 8,
+              "url": "https://t.co/WvcfKtGIfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996064988478505037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 420,
+          "impression_count": 38067,
+          "like_count": 3988,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 485
+        },
+        "reply_settings": "everyone",
+        "text": "古関ウイ(9) https://t.co/WvcfKtGIfx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 124,
+          "like_count": 3237,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 239
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-02T15:11:35.000Z",
+        "description": "幸薄ジト目好きの怠惰な絵描き… ⩌ ⩌; 【mail】yoru.3.uyo@gmail.com フォロー非推奨",
+        "id": "1366767967082401793",
+        "location": "紫陽花市咲容町",
+        "name": "よるうよ🐸🍊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908459816173133826/iqTrAJrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65212,
+          "following_count": 138,
+          "like_count": 24799,
+          "listed_count": 445,
+          "media_count": 107,
+          "tweet_count": 6247
+        },
+        "username": "yoru_uyo",
+        "verified": false
+      }
+    ]
+  }
+}

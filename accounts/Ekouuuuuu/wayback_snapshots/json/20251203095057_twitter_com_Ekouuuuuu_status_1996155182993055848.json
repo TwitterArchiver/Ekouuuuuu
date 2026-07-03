@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995322637040439296"
+      ],
+      "media_source_tweet_id": [
+        "1995322683374944410"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1996155182993055848",
+    "created_at": "2025-12-03T09:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T10:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996155182993055848"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "致歉一切"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1652985793290604545",
+          "start": 3,
+          "username": "TuTri77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eT7RK0CBFC",
+          "end": 57,
+          "expanded_url": "https://x.com/TuTri77/status/1995322683374944410/photo/1",
+          "media_key": "3_1995322637040439296",
+          "start": 34,
+          "url": "https://t.co/eT7RK0CBFC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996155182993055848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 614
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995322683374944410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TuTri77: 我初三时cos的糖糖xswl #致歉一切 https://t.co/eT7RK0CBFC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1995322637040439296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7DPXeEXUAA9L1_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995322637040439296"
+          ],
+          "media_source_tweet_id": [
+            "1995322683374944410"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1996155182993055848",
+        "created_at": "2025-12-03T09:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996155182993055848"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "致歉一切"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1652985793290604545",
+              "start": 3,
+              "username": "TuTri77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eT7RK0CBFC",
+              "end": 57,
+              "expanded_url": "https://x.com/TuTri77/status/1995322683374944410/photo/1",
+              "media_key": "3_1995322637040439296",
+              "start": 34,
+              "url": "https://t.co/eT7RK0CBFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996155182993055848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 614
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995322683374944410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TuTri77: 我初三时cos的糖糖xswl #致歉一切 https://t.co/eT7RK0CBFC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995322637040439296"
+          ]
+        },
+        "author_id": "1652985793290604545",
+        "conversation_id": "1995322683374944410",
+        "created_at": "2025-12-01T02:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T03:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995322683374944410"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "致歉一切"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eT7RK0CBFC",
+              "end": 44,
+              "expanded_url": "https://x.com/TuTri77/status/1995322683374944410/photo/1",
+              "media_key": "3_1995322637040439296",
+              "start": 21,
+              "url": "https://t.co/eT7RK0CBFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995322683374944410",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 510,
+          "impression_count": 101202,
+          "like_count": 7466,
+          "quote_count": 7,
+          "reply_count": 40,
+          "retweet_count": 614
+        },
+        "reply_settings": "everyone",
+        "text": "我初三时cos的糖糖xswl #致歉一切 https://t.co/eT7RK0CBFC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 122,
+          "like_count": 3183,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 212
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T10:38:28.000Z",
+        "description": "盗图死全家/推广自便/不要忘记我 ｜自用蜂鸟VPN： https://t.co/S4ISvNZSPv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 50,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=MF28Fdlt",
+                "start": 27,
+                "url": "https://t.co/S4ISvNZSPv"
+              }
+            ]
+          }
+        },
+        "id": "1652985793290604545",
+        "location": "🚪88",
+        "name": "nini",
+        "pinned_tweet_id": "1995185919926628532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974087407013359616/NnnPIRFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11150,
+          "following_count": 261,
+          "like_count": 3013,
+          "listed_count": 20,
+          "media_count": 425,
+          "tweet_count": 1628
+        },
+        "username": "TuTri77",
+        "verified": false
+      }
+    ]
+  }
+}

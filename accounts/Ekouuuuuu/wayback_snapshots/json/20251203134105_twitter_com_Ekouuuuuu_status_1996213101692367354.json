@@ -1,0 +1,625 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1996213101692367354",
+    "created_at": "2025-12-03T13:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T14:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996213101692367354"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 116,
+          "start": 111,
+          "tag": "ブルアカ"
+        },
+        {
+          "end": 122,
+          "start": 117,
+          "tag": "蔚藍檔案"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1372128797181374466",
+          "start": 3,
+          "username": "Lunatic4253"
+        },
+        {
+          "end": 30,
+          "id": "1256527970635616257",
+          "start": 17,
+          "username": "urode_210411"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/1Z0",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/1Z0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996213101692367354",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1767229718951235823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lunatic4253: @urode_210411 中文翻訳\n間違い等ありましたらご容赦ください\n----------------------------------------\n陸八魔亞瑠 \n祝妳生日快樂🎂\n\n#ブルアカ\n#蔚藍檔案 https://t.co/1Z0…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_1767229702492782592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GIZ2DR2aAAA-A9f.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1996213101692367354",
+        "created_at": "2025-12-03T13:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996213101692367354"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 111,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "蔚藍檔案"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1372128797181374466",
+              "start": 3,
+              "username": "Lunatic4253"
+            },
+            {
+              "end": 30,
+              "id": "1256527970635616257",
+              "start": 17,
+              "username": "urode_210411"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/1Z0",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/1Z0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996213101692367354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1767229718951235823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lunatic4253: @urode_210411 中文翻訳\n間違い等ありましたらご容赦ください\n----------------------------------------\n陸八魔亞瑠 \n祝妳生日快樂🎂\n\n#ブルアカ\n#蔚藍檔案 https://t.co/1Z0…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1767229702492782592"
+          ]
+        },
+        "author_id": "1372128797181374466",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1767203848018419763",
+        "created_at": "2024-03-11T16:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-11T17:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1767229718951235823"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 105,
+              "start": 100,
+              "tag": "蔚藍檔案"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1256527970635616257",
+              "start": 0,
+              "username": "urode_210411"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Z0CoWlQzj",
+              "end": 129,
+              "expanded_url": "https://x.com/Lunatic4253/status/1767229718951235823/photo/1",
+              "media_key": "3_1767229702492782592",
+              "start": 106,
+              "url": "https://t.co/1Z0CoWlQzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1767229718951235823",
+        "in_reply_to_user_id": "1256527970635616257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3766,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1767203848018419763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@urode_210411 中文翻訳\n間違い等ありましたらご容赦ください\n----------------------------------------\n陸八魔亞瑠 \n祝妳生日快樂🎂\n\n#ブルアカ\n#蔚藍檔案 https://t.co/1Z0CoWlQzj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖Aru是一切！‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 126,
+          "like_count": 3282,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 257
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T10:13:11.000Z",
+        "description": "神雨推し\n\n今こそ星の生まれる刻\n\n分：@Lunatic42tr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "Lunatic42tr"
+              }
+            ]
+          }
+        },
+        "id": "1372128797181374466",
+        "location": "百合ヶ丘觀測者",
+        "name": "玉兒希",
+        "pinned_tweet_id": "1948740079876538602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793343201878986753/4M-P4zJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 7498,
+          "like_count": 148383,
+          "listed_count": 7,
+          "media_count": 1003,
+          "tweet_count": 31904
+        },
+        "username": "Lunatic4253",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-02T10:18:11.000Z",
+        "description": "ちびキャラのマンガを描く人 ◆『ちるたん』◆(無料で読めます) https://t.co/9p0NcgAqwB ◆FANBOX◆ https://t.co/RXhDDUeD9N ◆YouTube◆ https://t.co/qeEXrNguz0 🐈 AI学習・無断転載禁止",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/dp/B0G1TZ9L3M",
+                "end": 55,
+                "expanded_url": "https://www.amazon.co.jp/dp/B0G1TZ9L3M",
+                "start": 32,
+                "url": "https://t.co/9p0NcgAqwB"
+              },
+              {
+                "display_url": "urode.fanbox.cc",
+                "end": 88,
+                "expanded_url": "https://urode.fanbox.cc/",
+                "start": 65,
+                "url": "https://t.co/RXhDDUeD9N"
+              },
+              {
+                "display_url": "youtube.com/@urode",
+                "end": 122,
+                "expanded_url": "https://youtube.com/@urode",
+                "start": 99,
+                "url": "https://t.co/qeEXrNguz0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/urode",
+                "end": 23,
+                "expanded_url": "https://lit.link/urode",
+                "start": 0,
+                "url": "https://t.co/8zVLeuk1gq"
+              }
+            ]
+          }
+        },
+        "id": "1256527970635616257",
+        "name": "うろで@東4フ01ab(1日目)C107",
+        "pinned_tweet_id": "1995328007683137653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909734520271908864/QQNToacF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158480,
+          "following_count": 2455,
+          "like_count": 74401,
+          "listed_count": 638,
+          "media_count": 1648,
+          "tweet_count": 65289
+        },
+        "url": "https://t.co/8zVLeuk1gq",
+        "username": "urode_210411",
+        "verified": true
+      }
+    ]
+  }
+}

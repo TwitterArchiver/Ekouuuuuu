@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2052380713576800590",
+    "created_at": "2026-05-07T18:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T19:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052463331664068897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1857143896528269312",
+          "start": 0,
+          "username": "996ppo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052463331664068897",
+    "in_reply_to_user_id": "1857143896528269312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052380713576800590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@996ppo 好像有百分之十幾的概率會懷孕吧……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2052380713576800590",
+        "created_at": "2026-05-07T18:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T19:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052463331664068897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1857143896528269312",
+              "start": 0,
+              "username": "996ppo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052463331664068897",
+        "in_reply_to_user_id": "1857143896528269312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052380713576800590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@996ppo 好像有百分之十幾的概率會懷孕吧……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857143896528269312",
+        "conversation_id": "2052380713576800590",
+        "created_at": "2026-05-07T13:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052380713576800590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052380713576800590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5491,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 120,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "无套但是不射进去真的不会怀孕吗."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "我還想和你談論宇宙和天空‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2051776082542825551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 296,
+          "like_count": 11667,
+          "listed_count": 1,
+          "media_count": 481,
+          "tweet_count": 2888
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T19:29:58.000Z",
+        "description": "无聊上来玩玩，记录不一样的生活",
+        "id": "1857143896528269312",
+        "name": "王女士",
+        "pinned_tweet_id": "2048303566184722512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043305577376522240/gDvxRW8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 13,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 72
+        },
+        "username": "996ppo",
+        "verified": false
+      }
+    ]
+  }
+}

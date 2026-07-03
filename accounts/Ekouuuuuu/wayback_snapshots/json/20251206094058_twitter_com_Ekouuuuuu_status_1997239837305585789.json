@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1996889283400290440",
+    "created_at": "2025-12-06T09:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T10:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997239837305585789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "338736117",
+          "start": 0,
+          "username": "Echinanews"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997239837305585789",
+    "in_reply_to_user_id": "338736117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996889283400290440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Echinanews 多少年了還在使用漫畫抹黑🤣🤣🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 621,
+        "media_key": "3_1996878367111737344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ZWS4NbcAAgk9S.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1996889283400290440",
+        "created_at": "2025-12-06T09:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T10:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997239837305585789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "338736117",
+              "start": 0,
+              "username": "Echinanews"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997239837305585789",
+        "in_reply_to_user_id": "338736117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996889283400290440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Echinanews 多少年了還在使用漫畫抹黑🤣🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996878367111737344"
+          ]
+        },
+        "author_id": "338736117",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1996889283400290440",
+        "created_at": "2025-12-05T10:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T11:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996889283400290440"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "Japan",
+              "probability": 0.9734,
+              "start": 44,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "Comicomment"
+            },
+            {
+              "end": 49,
+              "start": 43,
+              "tag": "Japan"
+            },
+            {
+              "end": 61,
+              "start": 50,
+              "tag": "militarism"
+            },
+            {
+              "end": 70,
+              "start": 62,
+              "tag": "history"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HAdPUzDosZ",
+              "end": 94,
+              "expanded_url": "https://x.com/Echinanews/status/1996889283400290440/photo/1",
+              "media_key": "3_1996878367111737344",
+              "start": 71,
+              "url": "https://t.co/HAdPUzDosZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996889283400290440",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12136,
+          "like_count": 30,
+          "quote_count": 4,
+          "reply_count": 37,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "#Comicomment Mistaking a cliff for a stage #Japan #militarism #history https://t.co/HAdPUzDosZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "不被你重視的每一秒我都在後退",
+        "name": "Jzp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997239538037788672/50kH-wdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 127,
+          "like_count": 3341,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 213
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-20T00:59:59.000Z",
+        "description": "https://t.co/Ak6zvI4GC8, the English portal of China News Service, a window into news about China. #ChinaTravel #ChinaStory #ChinaTech #ChinaBiz #Panda #AmazingChina",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 99,
+                "tag": "ChinaTravel"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "tag": "ChinaStory"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "tag": "ChinaTech"
+              },
+              {
+                "end": 144,
+                "start": 135,
+                "tag": "ChinaBiz"
+              },
+              {
+                "end": 151,
+                "start": 145,
+                "tag": "Panda"
+              },
+              {
+                "end": 165,
+                "start": 152,
+                "tag": "AmazingChina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ECNS.cn",
+                "end": 23,
+                "expanded_url": "http://ECNS.cn",
+                "start": 0,
+                "url": "https://t.co/Ak6zvI4GC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ecns.cn",
+                "end": 23,
+                "expanded_url": "http://www.ecns.cn/",
+                "start": 0,
+                "url": "https://t.co/sSjnqSY9x7"
+              }
+            ]
+          }
+        },
+        "id": "338736117",
+        "location": "Beijing",
+        "name": "China News 中国新闻网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476824375936811012/Lpr6r4PF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704004,
+          "following_count": 964,
+          "like_count": 1899,
+          "listed_count": 2339,
+          "media_count": 92904,
+          "tweet_count": 108177
+        },
+        "url": "https://t.co/sSjnqSY9x7",
+        "username": "Echinanews",
+        "verified": true
+      }
+    ]
+  }
+}

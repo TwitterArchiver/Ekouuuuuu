@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957442378463363072"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1957442382732947964",
+    "created_at": "2025-08-18T14:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T15:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957442382732947964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MXI4Bb4heN",
+          "end": 32,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1957442382732947964/photo/1",
+          "media_key": "3_1957442378463363072",
+          "start": 9,
+          "url": "https://t.co/MXI4Bb4heN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957442382732947964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "透視真的太簡單了 https://t.co/MXI4Bb4heN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2107,
+        "media_key": "3_1957442378463363072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyo7eOSawAA5u8r.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957442378463363072"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1957442382732947964",
+        "created_at": "2025-08-18T14:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T15:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957442382732947964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MXI4Bb4heN",
+              "end": 32,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1957442382732947964/photo/1",
+              "media_key": "3_1957442378463363072",
+              "start": 9,
+              "url": "https://t.co/MXI4Bb4heN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957442382732947964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "透視真的太簡單了 https://t.co/MXI4Bb4heN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "自尊常常將人拖著 把愛都走曲折",
+        "id": "1912063502782812160",
+        "name": "白菜_Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937599411460403200/XrYwRLKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 53,
+          "like_count": 1438,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 231
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

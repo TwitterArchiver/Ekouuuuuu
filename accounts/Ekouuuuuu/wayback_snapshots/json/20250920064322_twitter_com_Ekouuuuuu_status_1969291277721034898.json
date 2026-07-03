@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1968713551867982329",
+    "created_at": "2025-09-20T06:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T07:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969291277721034898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1430777170373144578",
+          "start": 0,
+          "username": "msmsmamqmq"
+        },
+        {
+          "end": 24,
+          "id": "1950521580288884736",
+          "start": 12,
+          "username": "AmeKam10623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969291277721034898",
+    "in_reply_to_user_id": "1430777170373144578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969022685649711513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@msmsmamqmq @AmeKam10623 傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1968713551867982329",
+        "created_at": "2025-09-20T06:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T07:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969291277721034898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1430777170373144578",
+              "start": 0,
+              "username": "msmsmamqmq"
+            },
+            {
+              "end": 24,
+              "id": "1950521580288884736",
+              "start": 12,
+              "username": "AmeKam10623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969291277721034898",
+        "in_reply_to_user_id": "1430777170373144578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969022685649711513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@msmsmamqmq @AmeKam10623 傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430777170373144578",
+        "conversation_id": "1968713551867982329",
+        "created_at": "2025-09-19T12:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T13:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969022685649711513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1950521580288884736",
+              "start": 0,
+              "username": "AmeKam10623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969022685649711513",
+        "in_reply_to_user_id": "1950521580288884736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968713551867982329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeKam10623 你仔细想想这和你卖有什么关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "年年歲歲花相似",
+        "id": "1912063502782812160",
+        "name": "白菜_Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958369871634612224/WJLvJs86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 81,
+          "like_count": 2085,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 269
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-26T06:20:51.000Z",
+        "description": "广西猴庞绣华死爹烂娘",
+        "id": "1430777170373144578",
+        "location": "北欧",
+        "name": "上城议员梁嘉豪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959692865195712513/rddFxAKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 136,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 314
+        },
+        "username": "msmsmamqmq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T11:39:27.000Z",
+        "description": "花沢あめ/花泽雨ame 再多了解我一点吧",
+        "id": "1950521580288884736",
+        "location": "🚪199/288/388/520/1314",
+        "name": "ここはあめよ",
+        "pinned_tweet_id": "1968963534479306842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953031902992175104/BS0-iCNw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5555,
+          "following_count": 95,
+          "like_count": 192,
+          "listed_count": 11,
+          "media_count": 21,
+          "tweet_count": 213
+        },
+        "username": "AmeKam10623",
+        "verified": false
+      }
+    ]
+  }
+}

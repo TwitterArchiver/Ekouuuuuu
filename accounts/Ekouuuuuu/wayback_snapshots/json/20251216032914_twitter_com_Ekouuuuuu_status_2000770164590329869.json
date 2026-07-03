@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982463306578169860"
+      ],
+      "media_source_tweet_id": [
+        "1982463312907673997"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000770164590329869",
+    "created_at": "2025-12-16T03:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T04:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000770164590329869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Q5zgA6ugR",
+          "end": 60,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1982463312907673997/photo/1",
+          "media_key": "3_1982463306578169860",
+          "start": 37,
+          "url": "https://t.co/1Q5zgA6ugR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000770164590329869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 353
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982463312907673997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 网友投稿\n如何安全地发送大字报： https://t.co/1Q5zgA6ugR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1118,
+        "media_key": "3_1982463306578169860",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Mf37DWkAQtxrH.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982463306578169860"
+          ],
+          "media_source_tweet_id": [
+            "1982463312907673997"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000770164590329869",
+        "created_at": "2025-12-16T03:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T04:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000770164590329869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Q5zgA6ugR",
+              "end": 60,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1982463312907673997/photo/1",
+              "media_key": "3_1982463306578169860",
+              "start": 37,
+              "url": "https://t.co/1Q5zgA6ugR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000770164590329869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 353
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982463312907673997",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 网友投稿\n如何安全地发送大字报： https://t.co/1Q5zgA6ugR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982463306578169860"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1982463312907673997",
+        "created_at": "2025-10-26T15:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982463312907673997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Q5zgA6ugR",
+              "end": 40,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1982463312907673997/photo/1",
+              "media_key": "3_1982463306578169860",
+              "start": 17,
+              "url": "https://t.co/1Q5zgA6ugR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982463312907673997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 727,
+          "impression_count": 1168102,
+          "like_count": 4495,
+          "quote_count": 29,
+          "reply_count": 228,
+          "retweet_count": 353
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿\n如何安全地发送大字报： https://t.co/1Q5zgA6ugR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 168,
+          "like_count": 4131,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 601
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1991824796930187302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998464594226839552/OmoQEWXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160774,
+          "following_count": 986,
+          "like_count": 8465,
+          "listed_count": 8414,
+          "media_count": 38565,
+          "tweet_count": 45470
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

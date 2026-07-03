@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966341921569386499"
+      ],
+      "media_source_tweet_id": [
+        "1966341924769734922"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1975807045967486993",
+    "created_at": "2025-10-08T06:14:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T07:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975807045967486993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1251033624222158849",
+          "start": 3,
+          "username": "baozou0121"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KfHVWQhfQI",
+          "end": 50,
+          "expanded_url": "https://x.com/baozou0121/status/1966341924769734922/photo/1",
+          "media_key": "3_1966341921569386499",
+          "start": 27,
+          "url": "https://t.co/KfHVWQhfQI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975807045967486993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 184
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966341924769734922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baozou0121: 毛主席也会惊讶的饺子 https://t.co/KfHVWQhfQI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966341921569386499",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0nZjz4aMAMoF6f.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966341921569386499"
+          ],
+          "media_source_tweet_id": [
+            "1966341924769734922"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1975807045967486993",
+        "created_at": "2025-10-08T06:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T07:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975807045967486993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1251033624222158849",
+              "start": 3,
+              "username": "baozou0121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KfHVWQhfQI",
+              "end": 50,
+              "expanded_url": "https://x.com/baozou0121/status/1966341924769734922/photo/1",
+              "media_key": "3_1966341921569386499",
+              "start": 27,
+              "url": "https://t.co/KfHVWQhfQI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975807045967486993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 184
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966341924769734922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baozou0121: 毛主席也会惊讶的饺子 https://t.co/KfHVWQhfQI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966341921569386499"
+          ]
+        },
+        "author_id": "1251033624222158849",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1966341924769734922",
+        "created_at": "2025-09-12T03:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T04:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966341924769734922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KfHVWQhfQI",
+              "end": 34,
+              "expanded_url": "https://x.com/baozou0121/status/1966341924769734922/photo/1",
+              "media_key": "3_1966341921569386499",
+              "start": 11,
+              "url": "https://t.co/KfHVWQhfQI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966341924769734922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 342,
+          "impression_count": 338577,
+          "like_count": 2471,
+          "quote_count": 20,
+          "reply_count": 139,
+          "retweet_count": 184
+        },
+        "reply_settings": "everyone",
+        "text": "毛主席也会惊讶的饺子 https://t.co/KfHVWQhfQI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "年年歲歲花相似",
+        "id": "1912063502782812160",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974683142880665600/4D1J2k-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 81,
+          "like_count": 2167,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 324
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-17T06:24:04.000Z",
+        "description": "今天也用力踩下油门🩵 #王洪文迷你比基尼社团\n🚫请勿转载🚫请勿在我的评论区发歧视性言论、政治宣传、骚扰、吵架。违反了就给你看排泄癖好小说",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 11,
+                "tag": "王洪文迷你比基尼社团"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1159370376",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1159370376",
+                "start": 0,
+                "url": "https://t.co/VLiSp6AdDy"
+              }
+            ]
+          }
+        },
+        "id": "1251033624222158849",
+        "location": "🇯🇵",
+        "name": "暴走半島",
+        "pinned_tweet_id": "1731493071790232033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1474259239279665156/KN7ImQ0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23572,
+          "following_count": 416,
+          "like_count": 74880,
+          "listed_count": 50,
+          "media_count": 1420,
+          "tweet_count": 9196
+        },
+        "url": "https://t.co/VLiSp6AdDy",
+        "username": "baozou0121",
+        "verified": true
+      }
+    ]
+  }
+}

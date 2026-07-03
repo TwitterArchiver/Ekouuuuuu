@@ -1,0 +1,565 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995755506636640256"
+      ],
+      "media_source_tweet_id": [
+        "1995755529269104934"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1996160140916207744",
+    "created_at": "2025-12-03T10:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T11:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996160140916207744"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "ブルアカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1602301505566306307",
+          "start": 3,
+          "username": "metaljelly0811"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3pJsV7dW7i",
+          "end": 52,
+          "expanded_url": "https://x.com/metaljelly0811/status/1995755529269104934/photo/1",
+          "media_key": "3_1995755506636640256",
+          "start": 29,
+          "url": "https://t.co/3pJsV7dW7i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996160140916207744",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 678
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995755529269104934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @metaljelly0811: #ブルアカ \n🙂 https://t.co/3pJsV7dW7i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1995755506636640256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7JZDy-bUAAn8eg.jpg",
+        "width": 3114
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995755506636640256"
+          ],
+          "media_source_tweet_id": [
+            "1995755529269104934"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1996160140916207744",
+        "created_at": "2025-12-03T10:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996160140916207744"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "ブルアカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1602301505566306307",
+              "start": 3,
+              "username": "metaljelly0811"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3pJsV7dW7i",
+              "end": 52,
+              "expanded_url": "https://x.com/metaljelly0811/status/1995755529269104934/photo/1",
+              "media_key": "3_1995755506636640256",
+              "start": 29,
+              "url": "https://t.co/3pJsV7dW7i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996160140916207744",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 678
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995755529269104934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @metaljelly0811: #ブルアカ \n🙂 https://t.co/3pJsV7dW7i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995755506636640256"
+          ]
+        },
+        "author_id": "1602301505566306307",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1995755529269104934",
+        "created_at": "2025-12-02T07:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T08:05:04.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995751050100572505",
+          "1995755529269104934"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ブルアカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3pJsV7dW7i",
+              "end": 32,
+              "expanded_url": "https://x.com/metaljelly0811/status/1995755529269104934/photo/1",
+              "media_key": "3_1995755506636640256",
+              "start": 9,
+              "url": "https://t.co/3pJsV7dW7i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995755529269104934",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 793,
+          "impression_count": 57155,
+          "like_count": 6944,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 678
+        },
+        "reply_settings": "everyone",
+        "text": "#ブルアカ \n🙂 https://t.co/3pJsV7dW7i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 124,
+          "like_count": 3239,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 241
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T13:57:30.000Z",
+        "description": "Email : metaljelly0811@gmail.com\n\nFANBOX : https://t.co/VhuxeCnjjy\n\nSub : @metaljellysub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "metaljellysub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "metaljelly.fanbox.cc",
+                "end": 66,
+                "expanded_url": "https://metaljelly.fanbox.cc/",
+                "start": 43,
+                "url": "https://t.co/VhuxeCnjjy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/89013446",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/89013446",
+                "start": 0,
+                "url": "https://t.co/2rMW3hyleq"
+              }
+            ]
+          }
+        },
+        "id": "1602301505566306307",
+        "location": "jellyfactory",
+        "name": "Metaljelly",
+        "pinned_tweet_id": "1996099637217014188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982471329803628544/YmBSFf9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46310,
+          "following_count": 994,
+          "like_count": 1374,
+          "listed_count": 265,
+          "media_count": 289,
+          "tweet_count": 2699
+        },
+        "url": "https://t.co/2rMW3hyleq",
+        "username": "metaljelly0811",
+        "verified": true
+      }
+    ]
+  }
+}

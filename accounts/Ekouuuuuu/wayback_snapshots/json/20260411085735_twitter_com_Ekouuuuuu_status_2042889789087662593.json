@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042784035139973120"
+      ],
+      "media_source_tweet_id": [
+        "2042784040697340078"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2042889789087662593",
+    "created_at": "2026-04-11T08:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T09:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042889789087662593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2900565097",
+          "start": 3,
+          "username": "johnny_onpuchan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5yXUk4CwKn",
+          "end": 56,
+          "expanded_url": "https://x.com/johnny_onpuchan/status/2042784040697340078/photo/1",
+          "media_key": "3_2042784035139973120",
+          "start": 33,
+          "url": "https://t.co/5yXUk4CwKn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042889789087662593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042784040697340078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @johnny_onpuchan: 看了几天日推之后的我： https://t.co/5yXUk4CwKn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 627,
+        "media_key": "3_2042784035139973120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFltQb9bcAACqTH.jpg",
+        "width": 627
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042784035139973120"
+          ],
+          "media_source_tweet_id": [
+            "2042784040697340078"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2042889789087662593",
+        "created_at": "2026-04-11T08:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042889789087662593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2900565097",
+              "start": 3,
+              "username": "johnny_onpuchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5yXUk4CwKn",
+              "end": 56,
+              "expanded_url": "https://x.com/johnny_onpuchan/status/2042784040697340078/photo/1",
+              "media_key": "3_2042784035139973120",
+              "start": 33,
+              "url": "https://t.co/5yXUk4CwKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042889789087662593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042784040697340078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @johnny_onpuchan: 看了几天日推之后的我： https://t.co/5yXUk4CwKn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042784035139973120"
+          ]
+        },
+        "author_id": "2900565097",
+        "conversation_id": "2042784040697340078",
+        "created_at": "2026-04-11T01:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T02:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042784040697340078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5yXUk4CwKn",
+              "end": 35,
+              "expanded_url": "https://x.com/johnny_onpuchan/status/2042784040697340078/photo/1",
+              "media_key": "3_2042784035139973120",
+              "start": 12,
+              "url": "https://t.co/5yXUk4CwKn"
+            },
+            {
+              "display_url": "x.com/pra_redemption…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/pra_redemption/status/2040819543224799322",
+              "start": 36,
+              "url": "https://t.co/ogbVBFo4b0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042784040697340078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 11810,
+          "like_count": 200,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040819543224799322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看了几天日推之后的我： https://t.co/5yXUk4CwKn https://t.co/ogbVBFo4b0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "Don't you let me go‖男友@Shiroko_Li‖叫我執偏就好‖屏東最深情‖🚪2778收錢我就跑路‖我只是一個可愛的割手od笑氣依賴者呀🥹‖查主頁成分我會回fo‖陰暗逼od蛆互fo💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "執偏Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2042383810571223190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042476120852049920/3Txf9Moz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 252,
+          "like_count": 10709,
+          "listed_count": 1,
+          "media_count": 428,
+          "tweet_count": 2680
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-15T14:59:24.000Z",
+        "description": "朕/全裸日本鬼子/学习中文/包蜜",
+        "id": "2900565097",
+        "location": "福冈反革命根据地",
+        "name": "ジョニー",
+        "pinned_tweet_id": "2032985102821765310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1319681425612836864/Nt_SUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14794,
+          "following_count": 1324,
+          "like_count": 135009,
+          "listed_count": 103,
+          "media_count": 7688,
+          "tweet_count": 139625
+        },
+        "username": "johnny_onpuchan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002083254715994112"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2002083257052262584",
+    "created_at": "2025-12-19T18:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T19:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002083257052262584"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HXyF5GLBZU",
+          "end": 36,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2002083257052262584/photo/1",
+          "media_key": "3_2002083254715994112",
+          "start": 13,
+          "url": "https://t.co/HXyF5GLBZU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002083257052262584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "病名為愛\n我很喜歡的一首 https://t.co/HXyF5GLBZU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002083254715994112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8jUHNga0AABy48.jpg",
+        "width": 996
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002083254715994112"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2002083257052262584",
+        "created_at": "2025-12-19T18:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T19:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002083257052262584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HXyF5GLBZU",
+              "end": 36,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2002083257052262584/photo/1",
+              "media_key": "3_2002083254715994112",
+              "start": 13,
+              "url": "https://t.co/HXyF5GLBZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002083257052262584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "病名為愛\n我很喜歡的一首 https://t.co/HXyF5GLBZU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 184,
+          "like_count": 4734,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 723
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

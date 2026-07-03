@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012460525565681664"
+      ],
+      "media_source_tweet_id": [
+        "2012460528237473858"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2012951128799842581",
+    "created_at": "2026-01-18T18:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T19:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012951128799842581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1644198000343015424",
+          "start": 3,
+          "username": "mikami2_2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/and8bNrSwZ",
+          "end": 38,
+          "expanded_url": "https://x.com/mikami2_2/status/2012460528237473858/photo/1",
+          "media_key": "3_2012460525565681664",
+          "start": 15,
+          "url": "https://t.co/and8bNrSwZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012951128799842581",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 506
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012460528237473858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikami2_2: https://t.co/and8bNrSwZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2012460525565681664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2yL37WoAA8yAN.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012460525565681664"
+          ],
+          "media_source_tweet_id": [
+            "2012460528237473858"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012951128799842581",
+        "created_at": "2026-01-18T18:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T19:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012951128799842581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1644198000343015424",
+              "start": 3,
+              "username": "mikami2_2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/and8bNrSwZ",
+              "end": 38,
+              "expanded_url": "https://x.com/mikami2_2/status/2012460528237473858/photo/1",
+              "media_key": "3_2012460525565681664",
+              "start": 15,
+              "url": "https://t.co/and8bNrSwZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012951128799842581",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 506
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012460528237473858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikami2_2: https://t.co/and8bNrSwZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012460525565681664"
+          ]
+        },
+        "author_id": "1644198000343015424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012460528237473858",
+        "created_at": "2026-01-17T09:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012460528237473858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/and8bNrSwZ",
+              "end": 23,
+              "expanded_url": "https://x.com/mikami2_2/status/2012460528237473858/photo/1",
+              "media_key": "3_2012460525565681664",
+              "start": 0,
+              "url": "https://t.co/and8bNrSwZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012460528237473858",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 354,
+          "impression_count": 53369,
+          "like_count": 4707,
+          "quote_count": 14,
+          "reply_count": 2,
+          "retweet_count": 506
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/and8bNrSwZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 74,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 51,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 220,
+          "like_count": 6561,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 1295
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T04:39:07.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/EqoSFo0plZcrTy…",
+                "end": 23,
+                "expanded_url": "https://lit.link/EqoSFo0plZcrTyoqtaQ6aSzeeZi1",
+                "start": 0,
+                "url": "https://t.co/VIrGCJYfdb"
+              }
+            ]
+          }
+        },
+        "id": "1644198000343015424",
+        "location": "概念",
+        "name": "三上",
+        "pinned_tweet_id": "1918223428961882118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011838484294795264/G2E4Ebwz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2994,
+          "following_count": 244,
+          "like_count": 60566,
+          "listed_count": 22,
+          "media_count": 21,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/VIrGCJYfdb",
+        "username": "mikami2_2",
+        "verified": false
+      }
+    ]
+  }
+}

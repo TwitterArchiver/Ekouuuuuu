@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2004995802335526982",
+    "created_at": "2025-12-27T19:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T20:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004995802335526982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/abskoop/status…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/abskoop/status/2004703625399120161",
+          "start": 24,
+          "url": "https://t.co/ZHlYKAaxM3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004995802335526982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004703625399120161",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也很會唱反調呢\n（話說我以前會吹長笛來著🥲） https://t.co/ZHlYKAaxM3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2004703613873278978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9IjUMDb0AIn-M0.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2004995802335526982",
+        "created_at": "2025-12-27T19:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T20:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004995802335526982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/abskoop/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/abskoop/status/2004703625399120161",
+              "start": 24,
+              "url": "https://t.co/ZHlYKAaxM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004995802335526982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004703625399120161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也很會唱反調呢\n（話說我以前會吹長笛來著🥲） https://t.co/ZHlYKAaxM3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004703613873278978"
+          ]
+        },
+        "author_id": "2262723812",
+        "conversation_id": "2004703625399120161",
+        "created_at": "2025-12-26T23:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T00:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004703625399120161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oyJKkV0uu9",
+              "end": 29,
+              "expanded_url": "https://x.com/abskoop/status/2004703625399120161/photo/1",
+              "media_key": "3_2004703613873278978",
+              "start": 6,
+              "url": "https://t.co/oyJKkV0uu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004703625399120161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 118044,
+          "like_count": 2237,
+          "quote_count": 8,
+          "reply_count": 86,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "你会啥乐器 https://t.co/oyJKkV0uu9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了w‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 189,
+          "like_count": 5215,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 855
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "AI"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "Tech"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "Tools"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "tag": "InternetTools"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "tag": "Learning"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 72,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 49,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734976,
+          "following_count": 1194,
+          "like_count": 26102,
+          "listed_count": 2634,
+          "media_count": 23039,
+          "tweet_count": 59450
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

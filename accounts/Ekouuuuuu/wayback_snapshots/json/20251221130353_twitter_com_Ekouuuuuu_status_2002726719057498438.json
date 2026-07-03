@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002713346404171776"
+      ],
+      "media_source_tweet_id": [
+        "2002713351944863867"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2002726719057498438",
+    "created_at": "2025-12-21T13:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T14:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002726719057498438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1531491104310276096",
+          "start": 3,
+          "username": "xxx_666__x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SooE63lKsI",
+          "end": 39,
+          "expanded_url": "https://x.com/xxx_666__x/status/2002713351944863867/photo/1",
+          "media_key": "3_2002713346404171776",
+          "start": 16,
+          "url": "https://t.co/SooE63lKsI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002726719057498438",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002713351944863867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @xxx_666__x: https://t.co/SooE63lKsI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2002713346404171776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sRLX9awAAVhq5.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002713346404171776"
+          ],
+          "media_source_tweet_id": [
+            "2002713351944863867"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2002726719057498438",
+        "created_at": "2025-12-21T13:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T14:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002726719057498438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1531491104310276096",
+              "start": 3,
+              "username": "xxx_666__x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SooE63lKsI",
+              "end": 39,
+              "expanded_url": "https://x.com/xxx_666__x/status/2002713351944863867/photo/1",
+              "media_key": "3_2002713346404171776",
+              "start": 16,
+              "url": "https://t.co/SooE63lKsI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002726719057498438",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002713351944863867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @xxx_666__x: https://t.co/SooE63lKsI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002713346404171776"
+          ]
+        },
+        "author_id": "1531491104310276096",
+        "conversation_id": "2002713351944863867",
+        "created_at": "2025-12-21T12:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T13:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002713351944863867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SooE63lKsI",
+              "end": 23,
+              "expanded_url": "https://x.com/xxx_666__x/status/2002713351944863867/photo/1",
+              "media_key": "3_2002713346404171776",
+              "start": 0,
+              "url": "https://t.co/SooE63lKsI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002713351944863867",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 3222,
+          "like_count": 309,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/SooE63lKsI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2002371651392929813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 186,
+          "like_count": 4795,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 758
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-31T04:21:54.000Z",
+        "description": "イラスト使用禁止",
+        "id": "1531491104310276096",
+        "name": "多分人間",
+        "pinned_tweet_id": "1820009623224762536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939241906178871296/XzSLYTFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77535,
+          "following_count": 94,
+          "like_count": 6644,
+          "listed_count": 431,
+          "media_count": 176,
+          "tweet_count": 6192
+        },
+        "username": "xxx_666__x",
+        "verified": true
+      }
+    ]
+  }
+}

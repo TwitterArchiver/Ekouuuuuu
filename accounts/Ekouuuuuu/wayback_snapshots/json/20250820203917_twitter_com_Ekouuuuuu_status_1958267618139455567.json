@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1489694834390560768",
+          "name": "Takopii no Genzai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1489694834390560768",
+          "name": "Takopii no Genzai"
+        }
+      }
+    ],
+    "conversation_id": "1958267618139455567",
+    "created_at": "2025-08-20T20:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T21:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958267618139455567"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/takopi_pr/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/takopi_pr/status/1957445501051134045",
+          "start": 6,
+          "url": "https://t.co/J4T83CDwA9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958267618139455567",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957445501051134045",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "符合設定） https://t.co/J4T83CDwA9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1088,
+        "media_key": "3_1957445493459734528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyo-TijbUAAfOIH.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          }
+        ],
+        "conversation_id": "1958267618139455567",
+        "created_at": "2025-08-20T20:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T21:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958267618139455567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/takopi_pr/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/takopi_pr/status/1957445501051134045",
+              "start": 6,
+              "url": "https://t.co/J4T83CDwA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958267618139455567",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957445501051134045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "符合設定） https://t.co/J4T83CDwA9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957445493459734528"
+          ]
+        },
+        "author_id": "1864871366241193984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          }
+        ],
+        "conversation_id": "1957445501051134045",
+        "created_at": "2025-08-18T14:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T15:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957445501051134045"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "anoさん",
+              "probability": 0.7709,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 8,
+              "tag": "タコピーの原罪"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "タコピー"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ucTXh3kXBj",
+              "end": 46,
+              "expanded_url": "https://x.com/takopi_pr/status/1957445501051134045/photo/1",
+              "media_key": "3_1957445493459734528",
+              "start": 23,
+              "url": "https://t.co/ucTXh3kXBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957445501051134045",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2157,
+          "impression_count": 2126899,
+          "like_count": 94958,
+          "quote_count": 408,
+          "reply_count": 160,
+          "retweet_count": 5694
+        },
+        "reply_settings": "everyone",
+        "text": "anoさんと📸\n#タコピーの原罪 #タコピー https://t.co/ucTXh3kXBj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "不要為我的傷口寫詩",
+        "id": "1912063502782812160",
+        "name": "白菜_Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937599411460403200/XrYwRLKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 78,
+          "like_count": 1643,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 225
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T03:16:38.000Z",
+        "description": "アニメ『タコピーの原罪』公式アカウント🐙\n各プラットフォームにて毎週土曜日0時から配信！\n監督・シリーズ構成：飯野慎也｜キャラクターデザイン：長原圭太｜アニメーション制作：ENISHIYA　タコピー：間宮くるみ｜しずか：上田麗奈\n推奨ハッシュタグ：#タコピーの原罪　#タコピー",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 124,
+                "tag": "タコピーの原罪"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "tag": "タコピー"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tbs.co.jp/anime/takopi_p…",
+                "end": 23,
+                "expanded_url": "https://www.tbs.co.jp/anime/takopi_project/",
+                "start": 0,
+                "url": "https://t.co/LJ4IFGDMR2"
+              }
+            ]
+          }
+        },
+        "id": "1864871366241193984",
+        "location": "ハッピー星",
+        "name": "『タコピーの原罪』アニメ公式",
+        "pinned_tweet_id": "1951305019615318250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866131947384389632/CZJwqD2H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135788,
+          "following_count": 8,
+          "like_count": 106,
+          "listed_count": 321,
+          "media_count": 552,
+          "tweet_count": 1034
+        },
+        "url": "https://t.co/LJ4IFGDMR2",
+        "username": "takopi_pr",
+        "verified": true
+      }
+    ]
+  }
+}

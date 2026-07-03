@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993645633589399553"
+      ],
+      "media_source_tweet_id": [
+        "1993645639088152762"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994074150219206964",
+    "created_at": "2025-11-27T16:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T17:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994074150219206964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0a45l6L3sX",
+          "end": 57,
+          "expanded_url": "https://x.com/hgds0/status/1993645639088152762/photo/1",
+          "media_key": "3_1993645633589399553",
+          "start": 34,
+          "url": "https://t.co/0a45l6L3sX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994074150219206964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 637
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993645639088152762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: 难怪是主任，一番话看下来感觉寿命都加了0.5 https://t.co/0a45l6L3sX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1258,
+        "media_key": "3_1993645633589399553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6raJBYa0AEVkJt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993645633589399553"
+          ],
+          "media_source_tweet_id": [
+            "1993645639088152762"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994074150219206964",
+        "created_at": "2025-11-27T16:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T17:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994074150219206964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0a45l6L3sX",
+              "end": 57,
+              "expanded_url": "https://x.com/hgds0/status/1993645639088152762/photo/1",
+              "media_key": "3_1993645633589399553",
+              "start": 34,
+              "url": "https://t.co/0a45l6L3sX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994074150219206964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 637
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993645639088152762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: 难怪是主任，一番话看下来感觉寿命都加了0.5 https://t.co/0a45l6L3sX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993645633589399553"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1993645639088152762",
+        "created_at": "2025-11-26T11:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T12:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993645639088152762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0a45l6L3sX",
+              "end": 46,
+              "expanded_url": "https://x.com/hgds0/status/1993645639088152762/photo/1",
+              "media_key": "3_1993645633589399553",
+              "start": 23,
+              "url": "https://t.co/0a45l6L3sX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993645639088152762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 609,
+          "impression_count": 232028,
+          "like_count": 4299,
+          "quote_count": 38,
+          "reply_count": 61,
+          "retweet_count": 637
+        },
+        "reply_settings": "everyone",
+        "text": "难怪是主任，一番话看下来感觉寿命都加了0.5 https://t.co/0a45l6L3sX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991377630818627588/tGgmPGTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 86,
+          "like_count": 2742,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 148
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94289,
+          "following_count": 2739,
+          "like_count": 43427,
+          "listed_count": 131,
+          "media_count": 3141,
+          "tweet_count": 7467
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

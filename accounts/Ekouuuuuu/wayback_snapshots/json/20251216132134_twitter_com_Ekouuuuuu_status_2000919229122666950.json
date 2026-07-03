@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000919229122666950",
+    "created_at": "2025-12-16T13:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T14:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000919229122666950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874895356452130816",
+          "start": 3,
+          "username": "newkitty412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000919229122666950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000850595872432566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @newkitty412: 把狗跟主人分开了，有分离焦虑的狗就会一直叫。人和人分开了，连我想你了都不好意思开口，当狗真好，想主人了就可以一直叫，所有人都知道。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000919229122666950",
+        "created_at": "2025-12-16T13:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T14:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000919229122666950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874895356452130816",
+              "start": 3,
+              "username": "newkitty412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000919229122666950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000850595872432566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @newkitty412: 把狗跟主人分开了，有分离焦虑的狗就会一直叫。人和人分开了，连我想你了都不好意思开口，当狗真好，想主人了就可以一直叫，所有人都知道。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874895356452130816",
+        "conversation_id": "2000850595872432566",
+        "created_at": "2025-12-16T08:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T09:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000850595872432566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000850595872432566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 21659,
+          "like_count": 515,
+          "quote_count": 13,
+          "reply_count": 39,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "把狗跟主人分开了，有分离焦虑的狗就会一直叫。人和人分开了，连我想你了都不好意思开口，当狗真好，想主人了就可以一直叫，所有人都知道。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2000500587956187160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 172,
+          "like_count": 4284,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 587
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T19:07:49.000Z",
+        "description": "梦到什么发什么 | 心情日记@eaenek | 🚪88/188",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "eaenek"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cmespeed.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://cmespeed.com/#/register?code=R9BuoZgK",
+                "start": 0,
+                "url": "https://t.co/Pwcci2PkyA"
+              }
+            ]
+          }
+        },
+        "id": "1874895356452130816",
+        "location": "自用vpn⏩️",
+        "name": "活着真豆不容易",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998039725983379456/wU2WB9f8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5179,
+          "following_count": 297,
+          "like_count": 11217,
+          "listed_count": 11,
+          "media_count": 159,
+          "tweet_count": 3599
+        },
+        "url": "https://t.co/Pwcci2PkyA",
+        "username": "newkitty412",
+        "verified": false
+      }
+    ]
+  }
+}

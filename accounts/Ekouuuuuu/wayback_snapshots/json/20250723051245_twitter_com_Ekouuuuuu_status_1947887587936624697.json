@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947887580286226433"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1947887587936624697",
+    "created_at": "2025-07-23T05:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T06:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947887587936624697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rNiZfDhuvQ",
+          "end": 34,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1947887587936624697/photo/1",
+          "media_key": "3_1947887580286226433",
+          "start": 11,
+          "url": "https://t.co/rNiZfDhuvQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947887587936624697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎呦我去攝影太厲害了 https://t.co/rNiZfDhuvQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1947887580286226433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwhJbxVbEAEJ2by.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947887580286226433"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1947887587936624697",
+        "created_at": "2025-07-23T05:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T06:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947887587936624697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rNiZfDhuvQ",
+              "end": 34,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1947887587936624697/photo/1",
+              "media_key": "3_1947887580286226433",
+              "start": 11,
+              "url": "https://t.co/rNiZfDhuvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947887587936624697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呦我去攝影太厲害了 https://t.co/rNiZfDhuvQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "🥲",
+        "id": "1912063502782812160",
+        "name": "白菜喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937599411460403200/XrYwRLKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 56,
+          "like_count": 1358,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 209
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

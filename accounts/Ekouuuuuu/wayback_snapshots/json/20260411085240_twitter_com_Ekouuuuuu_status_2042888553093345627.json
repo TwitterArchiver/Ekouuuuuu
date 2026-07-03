@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042577376572510208"
+      ],
+      "media_source_tweet_id": [
+        "2042577379705655623"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2042888553093345627",
+    "created_at": "2026-04-11T08:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T09:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042888553093345627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M18QzKY9mb",
+          "end": 47,
+          "expanded_url": "https://x.com/anblk984/status/2042577379705655623/photo/1",
+          "media_key": "3_2042577376572510208",
+          "start": 24,
+          "url": "https://t.co/M18QzKY9mb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042888553093345627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042577379705655623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: 看哭14亿中国人😁 https://t.co/M18QzKY9mb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 988,
+        "media_key": "3_2042577376572510208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFixTUzakAAaS94.jpg",
+        "width": 609
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042577376572510208"
+          ],
+          "media_source_tweet_id": [
+            "2042577379705655623"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2042888553093345627",
+        "created_at": "2026-04-11T08:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042888553093345627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M18QzKY9mb",
+              "end": 47,
+              "expanded_url": "https://x.com/anblk984/status/2042577379705655623/photo/1",
+              "media_key": "3_2042577376572510208",
+              "start": 24,
+              "url": "https://t.co/M18QzKY9mb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042888553093345627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042577379705655623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anblk984: 看哭14亿中国人😁 https://t.co/M18QzKY9mb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042577376572510208"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2042577379705655623",
+        "created_at": "2026-04-10T12:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042577379705655623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M18QzKY9mb",
+              "end": 33,
+              "expanded_url": "https://x.com/anblk984/status/2042577379705655623/photo/1",
+              "media_key": "3_2042577376572510208",
+              "start": 10,
+              "url": "https://t.co/M18QzKY9mb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042577379705655623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 104514,
+          "like_count": 784,
+          "quote_count": 6,
+          "reply_count": 55,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "看哭14亿中国人😁 https://t.co/M18QzKY9mb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "Don't you let me go‖男友@Shiroko_Li‖叫我執偏就好‖屏東最深情‖🚪2778收錢我就跑路‖我只是一個可愛的割手od笑氣依賴者呀🥹‖查主頁成分我會回fo‖陰暗逼od蛆互fo💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "執偏Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2042383810571223190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042476120852049920/3Txf9Moz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 252,
+          "like_count": 10697,
+          "listed_count": 1,
+          "media_count": 428,
+          "tweet_count": 2678
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/美股k线画家😁/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1991346530033496380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11277,
+          "following_count": 982,
+          "like_count": 111537,
+          "listed_count": 58,
+          "media_count": 2456,
+          "tweet_count": 27398
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

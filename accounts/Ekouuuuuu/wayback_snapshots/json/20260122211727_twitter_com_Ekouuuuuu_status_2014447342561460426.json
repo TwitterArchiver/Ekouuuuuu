@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2014379623296205205",
+    "created_at": "2026-01-22T21:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T22:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014447342561460426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812304729432838144",
+          "start": 0,
+          "username": "huimu420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014447342561460426",
+    "in_reply_to_user_id": "1812304729432838144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014385562032263541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huimu420 都要死了，一切都不重要了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2014379623296205205",
+        "created_at": "2026-01-22T21:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T22:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014447342561460426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812304729432838144",
+              "start": 0,
+              "username": "huimu420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014447342561460426",
+        "in_reply_to_user_id": "1812304729432838144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014385562032263541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huimu420 都要死了，一切都不重要了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812304729432838144",
+        "conversation_id": "2014379623296205205",
+        "created_at": "2026-01-22T17:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T18:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014385562032263541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014385562032263541",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014379623296205205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu 亚硝酸钠很痛苦的😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖友LGBT‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6U23",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 80,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 57,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2014018792066535498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 228,
+          "like_count": 6855,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 1494
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "＝回木｜负能↑｜日常碎碎念｜自伤嗑💊｜友跨顺女｜泛性恋  偏好流动｜不建政｜休学｜xp是正太萝莉和神职人员｜fo你是暗恋｜唯一恋人是酷拉皮卡♡｜\n脾气不稳定但是私下很友好 找我玩大欢迎！我道德感很低｜不聊黄 蠢人不准反驳我 全家只有一个活着的可以骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimu4201",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimu4201",
+                "start": 0,
+                "url": "https://t.co/oipIneyc33"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "name": "回木",
+        "pinned_tweet_id": "2004905422227173846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008334036159090688/E-dxw_RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 527,
+          "like_count": 17560,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 3868
+        },
+        "url": "https://t.co/oipIneyc33",
+        "username": "huimu420",
+        "verified": false
+      }
+    ]
+  }
+}

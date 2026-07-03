@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999768652917493761",
+    "created_at": "2025-12-13T10:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T11:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999783895953461593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1678451749475033105",
+          "start": 0,
+          "username": "enjiang1133828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999783895953461593",
+    "in_reply_to_user_id": "1678451749475033105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999777864884044084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enjiang1133828 已fo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999768652917493761",
+        "created_at": "2025-12-13T10:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T11:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999783895953461593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1678451749475033105",
+              "start": 0,
+              "username": "enjiang1133828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999783895953461593",
+        "in_reply_to_user_id": "1678451749475033105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999777864884044084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enjiang1133828 已fo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678451749475033105",
+        "conversation_id": "1999768652917493761",
+        "created_at": "2025-12-13T09:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T10:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999777864884044084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999777864884044084",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999769368792903771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu 老师求互"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖極樂‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999740388610048098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 139,
+          "like_count": 3576,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 353
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T17:11:08.000Z",
+        "description": "181 男大 上海嘉兴 青岛烟台 当朋友圈发",
+        "id": "1678451749475033105",
+        "name": "浮山后",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999747702691938304/MCkGOCut_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 13,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 87
+        },
+        "username": "enjiang1133828",
+        "verified": false
+      }
+    ]
+  }
+}

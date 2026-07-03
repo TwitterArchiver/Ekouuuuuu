@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1974323595255164981",
+    "created_at": "2025-10-05T04:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T05:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974697219640226243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974697219640226243",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974323595255164981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 自我感動啥呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5966,
+        "height": 1280,
+        "media_key": "13_1974225247659311104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1974225247659311104/img/oYLEwhN6NZEDkYqR.jpg",
+        "public_metrics": {
+          "view_count": 146807
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974225247659311104/vid/avc1/320x568/1jSmJGOCjFUEMPRr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974225247659311104/vid/avc1/480x852/gFoEq4FjlwAX1hjZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974225247659311104/vid/avc1/720x1280/ZEwucAhJ5uYrKV3n.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1974225247659311104/pl/U62U7AtVr1dZnct1.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1974323595255164981",
+        "created_at": "2025-10-05T04:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T05:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974697219640226243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974697219640226243",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974323595255164981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 自我感動啥呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974225247659311104"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1974323595255164981",
+        "created_at": "2025-10-04T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974323595255164981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/agHpS0N3uj",
+              "end": 82,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1974323595255164981/video/1",
+              "media_key": "13_1974225247659311104",
+              "start": 59,
+              "url": "https://t.co/agHpS0N3uj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974323595255164981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 356234,
+          "like_count": 1066,
+          "quote_count": 6,
+          "reply_count": 232,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "9月30日，湖北武汉。\n一名保安为了阻拦外卖小哥，被外卖小哥一路拖行。\n哪怕裤子被磨掉了也还是紧紧抱住外卖小哥的腿。 https://t.co/agHpS0N3uj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "年年歲歲花相似",
+        "id": "1912063502782812160",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974683142880665600/4D1J2k-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 81,
+          "like_count": 2152,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 309
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1972250722088473025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116262,
+          "following_count": 989,
+          "like_count": 8252,
+          "listed_count": 8366,
+          "media_count": 35760,
+          "tweet_count": 42575
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

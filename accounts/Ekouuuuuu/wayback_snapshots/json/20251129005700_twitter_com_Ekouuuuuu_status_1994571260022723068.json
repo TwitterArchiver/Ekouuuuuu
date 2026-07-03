@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994344415142498304"
+      ],
+      "media_source_tweet_id": [
+        "1994344689005473968"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994571260022723068",
+    "created_at": "2025-11-29T00:57:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T01:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994571260022723068"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "ノゾミ",
+          "probability": 0.6111,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3314983086",
+          "start": 3,
+          "username": "metro04_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uKvQs5eIVZ",
+          "end": 41,
+          "expanded_url": "https://x.com/metro04_/status/1994344689005473968/photo/1",
+          "media_key": "3_1994344415142498304",
+          "start": 18,
+          "url": "https://t.co/uKvQs5eIVZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994571260022723068",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 443
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994344689005473968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @metro04_: ノゾミ https://t.co/uKvQs5eIVZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_1994344415142498304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61VrdhaUAA4g3A.jpg",
+        "width": 1900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994344415142498304"
+          ],
+          "media_source_tweet_id": [
+            "1994344689005473968"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994571260022723068",
+        "created_at": "2025-11-29T00:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T01:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994571260022723068"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "ノゾミ",
+              "probability": 0.6111,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3314983086",
+              "start": 3,
+              "username": "metro04_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uKvQs5eIVZ",
+              "end": 41,
+              "expanded_url": "https://x.com/metro04_/status/1994344689005473968/photo/1",
+              "media_key": "3_1994344415142498304",
+              "start": 18,
+              "url": "https://t.co/uKvQs5eIVZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994571260022723068",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 443
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994344689005473968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @metro04_: ノゾミ https://t.co/uKvQs5eIVZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994344415142498304"
+          ]
+        },
+        "author_id": "3314983086",
+        "conversation_id": "1994344689005473968",
+        "created_at": "2025-11-28T09:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T10:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994344689005473968"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "ノゾミ",
+              "probability": 0.5309,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uKvQs5eIVZ",
+              "end": 27,
+              "expanded_url": "https://x.com/metro04_/status/1994344689005473968/photo/1",
+              "media_key": "3_1994344415142498304",
+              "start": 4,
+              "url": "https://t.co/uKvQs5eIVZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994344689005473968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 337,
+          "impression_count": 35021,
+          "like_count": 3801,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 443
+        },
+        "reply_settings": "everyone",
+        "text": "ノゾミ https://t.co/uKvQs5eIVZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 2827,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 200
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-14T12:40:04.000Z",
+        "description": "Illustrator/元Game Creator クトゥルフ神話とジト目 \nSkeb(一時停止中/オリジナルor3D含め同人可作品のみ)→https://t.co/fup7qC91rk\nLink(ゲーム利用規約もこちら)→https://t.co/GrGW2CXTyX\n休職中 2026.3までご依頼受付休止",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@metro04_",
+                "end": 93,
+                "expanded_url": "http://skeb.jp/@metro04_",
+                "start": 70,
+                "url": "https://t.co/fup7qC91rk"
+              },
+              {
+                "display_url": "linktr.ee/metro04_",
+                "end": 135,
+                "expanded_url": "http://linktr.ee/metro04_",
+                "start": 112,
+                "url": "https://t.co/GrGW2CXTyX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/metrin",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/metrin",
+                "start": 0,
+                "url": "https://t.co/r0CBuyqHUc"
+              }
+            ]
+          }
+        },
+        "id": "3314983086",
+        "location": "無断転載❌️無断icon利用❌無断二次利用❌️",
+        "name": "めとこ🧠",
+        "pinned_tweet_id": "1985904915110379639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926134140606218240/Y4UpCuoC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33782,
+          "following_count": 1652,
+          "like_count": 25230,
+          "listed_count": 353,
+          "media_count": 502,
+          "tweet_count": 10321
+        },
+        "url": "https://t.co/r0CBuyqHUc",
+        "username": "metro04_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009637703130710018"
+      ],
+      "media_source_tweet_id": [
+        "2009637766183956485"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2009901545165664409",
+    "created_at": "2026-01-10T08:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T09:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009901545165664409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669250248265302020",
+          "start": 3,
+          "username": "xu96175836"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7R5GyP2CIo",
+          "end": 54,
+          "expanded_url": "https://x.com/xu96175836/status/2009637766183956485/photo/1",
+          "media_key": "3_2009637703130710018",
+          "start": 31,
+          "url": "https://t.co/7R5GyP2CIo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009901545165664409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009637766183956485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xu96175836: 香港民眾對邪惡共產黨的憤恨! https://t.co/7R5GyP2CIo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2009637703130710018",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Oq1-5WgAIOKre.jpg",
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009637703130710018"
+          ],
+          "media_source_tweet_id": [
+            "2009637766183956485"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2009901545165664409",
+        "created_at": "2026-01-10T08:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T09:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009901545165664409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1669250248265302020",
+              "start": 3,
+              "username": "xu96175836"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7R5GyP2CIo",
+              "end": 54,
+              "expanded_url": "https://x.com/xu96175836/status/2009637766183956485/photo/1",
+              "media_key": "3_2009637703130710018",
+              "start": 31,
+              "url": "https://t.co/7R5GyP2CIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009901545165664409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009637766183956485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xu96175836: 香港民眾對邪惡共產黨的憤恨! https://t.co/7R5GyP2CIo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009637703130710018"
+          ]
+        },
+        "author_id": "1669250248265302020",
+        "conversation_id": "2009637766183956485",
+        "created_at": "2026-01-09T14:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T15:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009637766183956485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7R5GyP2CIo",
+              "end": 38,
+              "expanded_url": "https://x.com/xu96175836/status/2009637766183956485/photo/1",
+              "media_key": "3_2009637703130710018",
+              "start": 15,
+              "url": "https://t.co/7R5GyP2CIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009637766183956485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 76287,
+          "like_count": 1761,
+          "quote_count": 2,
+          "reply_count": 62,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "香港民眾對邪惡共產黨的憤恨! https://t.co/7R5GyP2CIo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖藥物依賴‖尼古丁依賴‖N₂O依賴‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 111,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 88,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2004134740719538263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 198,
+          "like_count": 5969,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1053
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T07:47:28.000Z",
+        "description": "一个人的各种品性之中，德行是第一位的。\n优良的品性是真正的财富，而衬显这品性的是良好的教养。",
+        "id": "1669250248265302020",
+        "name": "雪柔",
+        "pinned_tweet_id": "1855778217598337030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690669189856444417/1SYUbSmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120405,
+          "following_count": 1502,
+          "like_count": 7591,
+          "listed_count": 355,
+          "media_count": 11283,
+          "tweet_count": 12493
+        },
+        "username": "xu96175836",
+        "verified": true
+      }
+    ]
+  }
+}

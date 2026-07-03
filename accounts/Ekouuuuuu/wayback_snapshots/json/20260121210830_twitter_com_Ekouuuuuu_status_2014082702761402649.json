@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2014082604694192128"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2014082702761402649",
+    "created_at": "2026-01-21T21:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T22:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014082702761402649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6EZcAPbabj",
+          "end": 38,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2014082702761402649/video/1",
+          "media_key": "7_2014082604694192128",
+          "start": 15,
+          "url": "https://t.co/6EZcAPbabj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014082702761402649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "閃動如蝴蝶在雙頰 那是眼淚嗎 https://t.co/6EZcAPbabj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2014082702761402649].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2014082702761402649",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2014082702761402649"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21849,
+        "height": 720,
+        "media_key": "7_2014082604694192128",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2014082604694192128/pu/img/Gf51wvVjhTmlseTR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014082604694192128/pu/vid/avc1/320x320/bPAz2FdAqszjwNDT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014082604694192128/pu/vid/avc1/540x540/RS0uAzZpnpCOEgJQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014082604694192128/pu/vid/avc1/720x720/q9C1zdzbs91hYiQu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2014082604694192128/pu/pl/QAZRhNAAZPsvAcWu.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 74,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 51,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 227,
+          "like_count": 6706,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 1370
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

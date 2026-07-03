@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2053673607864496408",
+    "created_at": "2026-05-11T03:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053673607864496408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1912573016380436483",
+          "start": 3,
+          "username": "ymeatuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053673607864496408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053269412669477234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ymeatuna: 卧槽抖音上刷到一个小孩唱的bgm，我刷到几次都以为歌词是“不如尝口几把 小大人”我还在想这种词都能过审\n直到刚才刷到一个带字幕的，原来人家唱的是喘口气吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2053673607864496408",
+        "created_at": "2026-05-11T03:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053673607864496408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1912573016380436483",
+              "start": 3,
+              "username": "ymeatuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053673607864496408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053269412669477234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ymeatuna: 卧槽抖音上刷到一个小孩唱的bgm，我刷到几次都以为歌词是“不如尝口几把 小大人”我还在想这种词都能过审\n直到刚才刷到一个带字幕的，原来人家唱的是喘口气吧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912573016380436483",
+        "conversation_id": "2053269412669477234",
+        "created_at": "2026-05-10T00:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T01:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053269412669477234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053269412669477234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 92053,
+          "like_count": 695,
+          "quote_count": 6,
+          "reply_count": 130,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽抖音上刷到一个小孩唱的bgm，我刷到几次都以为歌词是“不如尝口几把 小大人”我还在想这种词都能过审\n直到刚才刷到一个带字幕的，原来人家唱的是喘口气吧…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "我還想和你談論宇宙和天空‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2051776082542825551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 297,
+          "like_count": 11966,
+          "listed_count": 1,
+          "media_count": 500,
+          "tweet_count": 2996
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T18:25:25.000Z",
+        "description": "此账号发表的所有言论，意在取悦自己，并通过文字或图片强制干预他人的思想，如果翻阅之后出现不适等症状，恭喜你，你怀了我的孩子\n防走丢@Ju1eppp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 65,
+                "username": "Ju1eppp"
+              }
+            ]
+          }
+        },
+        "id": "1912573016380436483",
+        "location": "万达广场",
+        "name": "水腥味",
+        "pinned_tweet_id": "2028873446277427365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023754795828293632/lLkkKNvL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 103,
+          "like_count": 1086,
+          "listed_count": 4,
+          "media_count": 427,
+          "tweet_count": 3160
+        },
+        "username": "ymeatuna",
+        "verified": false
+      }
+    ]
+  }
+}

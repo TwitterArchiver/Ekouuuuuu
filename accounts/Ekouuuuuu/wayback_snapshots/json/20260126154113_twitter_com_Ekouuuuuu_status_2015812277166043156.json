@@ -1,0 +1,690 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278061468265508864",
+          "name": "Collectibles"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2015812277166043156",
+    "created_at": "2026-01-26T15:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T16:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015812277166043156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/figsoku/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/figsoku/status/2015712695014899954",
+          "start": 14,
+          "url": "https://t.co/fhJIY9Emxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015812277166043156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015712695014899954",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "說實話這個臉模有點醜。。🥹 https://t.co/fhJIY9Emxm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2015712587065823232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_k_6xFXkAApYt_.jpg",
+        "width": 800
+      },
+      {
+        "height": 534,
+        "media_key": "3_2015712586898251776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_k_6wdaoAAGCAI.jpg",
+        "width": 800
+      },
+      {
+        "height": 914,
+        "media_key": "3_2015712586906714112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_k_6wfbwAA3GNo.jpg",
+        "width": 796
+      },
+      {
+        "height": 556,
+        "media_key": "3_2015712587057332224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_k_6xDWAAAPT8u.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2015812277166043156",
+        "created_at": "2026-01-26T15:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015812277166043156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/figsoku/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/figsoku/status/2015712695014899954",
+              "start": 14,
+              "url": "https://t.co/fhJIY9Emxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015812277166043156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015712695014899954",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "說實話這個臉模有點醜。。🥹 https://t.co/fhJIY9Emxm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015712587065823232",
+            "3_2015712586898251776",
+            "3_2015712586906714112",
+            "3_2015712587057332224"
+          ]
+        },
+        "author_id": "292351939",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2015712695014899954",
+        "created_at": "2026-01-26T09:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015712695014899954"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "陸八魔アル",
+              "probability": 0.2818,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 96,
+              "tag": "figma"
+            },
+            {
+              "end": 112,
+              "start": 103,
+              "tag": "ブルーアーカイブ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "■ブルーアーカイブ figma「陸八魔アル」可動フィギュア明日予約開始メーカー マックスファクトリー大人気ゲーム「ブルーアーカイブ -Blue Archive-」より、ゲヘナ学園所属、便利屋68の自称社長「陸八魔アル」がfigmaになって登場!・表情パーツ:「通常顔」「何ですって…",
+              "display_url": "figsoku.net/blog-entry-491…",
+              "end": 94,
+              "expanded_url": "https://figsoku.net/blog-entry-491477.html",
+              "images": [
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2015712696935788544/3YEI0kOb?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2015712696935788544/3YEI0kOb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 71,
+              "status": 200,
+              "title": "【ブルーアーカイブ】figma「陸八魔アル」可動フィギュア【明日予約開始】",
+              "unwound_url": "https://figsoku.net/blog-entry-491477.html",
+              "url": "https://t.co/lrucgCicdF"
+            },
+            {
+              "display_url": "pic.x.com/ZAa7b3OnLQ",
+              "end": 136,
+              "expanded_url": "https://x.com/figsoku/status/2015712695014899954/photo/1",
+              "media_key": "3_2015712587065823232",
+              "start": 113,
+              "url": "https://t.co/ZAa7b3OnLQ"
+            },
+            {
+              "display_url": "pic.x.com/ZAa7b3OnLQ",
+              "end": 136,
+              "expanded_url": "https://x.com/figsoku/status/2015712695014899954/photo/1",
+              "media_key": "3_2015712586898251776",
+              "start": 113,
+              "url": "https://t.co/ZAa7b3OnLQ"
+            },
+            {
+              "display_url": "pic.x.com/ZAa7b3OnLQ",
+              "end": 136,
+              "expanded_url": "https://x.com/figsoku/status/2015712695014899954/photo/1",
+              "media_key": "3_2015712586906714112",
+              "start": 113,
+              "url": "https://t.co/ZAa7b3OnLQ"
+            },
+            {
+              "display_url": "pic.x.com/ZAa7b3OnLQ",
+              "end": 136,
+              "expanded_url": "https://x.com/figsoku/status/2015712695014899954/photo/1",
+              "media_key": "3_2015712587057332224",
+              "start": 113,
+              "url": "https://t.co/ZAa7b3OnLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015712695014899954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 649,
+          "impression_count": 200718,
+          "like_count": 4288,
+          "quote_count": 77,
+          "reply_count": 2,
+          "retweet_count": 1259
+        },
+        "reply_settings": "everyone",
+        "text": "【ブルーアーカイブ】figma「陸八魔アル」可動フィギュア\n\n・表情パーツ:「何ですってーーー!!!???顔」ほか付属\n\n【明日予約開始！】\nhttps://t.co/lrucgCicdF\n #figma #ブルーアーカイブ https://t.co/ZAa7b3OnLQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "同一片天為何好久不見‖叫我白菜就好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 230,
+          "like_count": 7414,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 1573
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-03T14:25:14.000Z",
+        "description": "美少女フィギュアやガンプラ・プラモ・玩具の\n新作情報や予約情報を配信してます！\n\nAmazonアソシエイト・プログラムの参加者です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "figsoku.net",
+                "end": 23,
+                "expanded_url": "http://figsoku.net/",
+                "start": 0,
+                "url": "https://t.co/paQJpi7uX6"
+              }
+            ]
+          }
+        },
+        "id": "292351939",
+        "location": "ポストにはPR・アフィリエイトのリンクを使用しています。",
+        "name": "ホビー速報＠フィギュア＆プラモ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/809605551332081664/CeREvYxX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174222,
+          "following_count": 2025,
+          "like_count": 51,
+          "listed_count": 2306,
+          "media_count": 64438,
+          "tweet_count": 121325
+        },
+        "url": "https://t.co/paQJpi7uX6",
+        "username": "figsoku",
+        "verified": true
+      }
+    ]
+  }
+}

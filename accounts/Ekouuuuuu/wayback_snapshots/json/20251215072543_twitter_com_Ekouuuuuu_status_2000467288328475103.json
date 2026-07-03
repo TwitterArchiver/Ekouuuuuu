@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000201657766817796"
+      ],
+      "media_source_tweet_id": [
+        "2000201683633095036"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2000467288328475103",
+    "created_at": "2025-12-15T07:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T08:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000467288328475103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1595110651621318656",
+          "start": 3,
+          "username": "ProcyonCoke731"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fRgYlfeK1O",
+          "end": 85,
+          "expanded_url": "https://x.com/ProcyonCoke731/status/2000201683633095036/photo/1",
+          "media_key": "3_2000201657766817796",
+          "start": 62,
+          "url": "https://t.co/fRgYlfeK1O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000467288328475103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000201683633095036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ProcyonCoke731: 腊爷爷知道要过圣诞节了，腊爷爷准备了你最喜欢的蛋炒饭和冰棍当礼物🎁，快说谢谢腊爷爷 https://t.co/fRgYlfeK1O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2000201657766817796",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Ikz2pWsAQbcwJ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000201657766817796"
+          ],
+          "media_source_tweet_id": [
+            "2000201683633095036"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2000467288328475103",
+        "created_at": "2025-12-15T07:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000467288328475103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1595110651621318656",
+              "start": 3,
+              "username": "ProcyonCoke731"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fRgYlfeK1O",
+              "end": 85,
+              "expanded_url": "https://x.com/ProcyonCoke731/status/2000201683633095036/photo/1",
+              "media_key": "3_2000201657766817796",
+              "start": 62,
+              "url": "https://t.co/fRgYlfeK1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000467288328475103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000201683633095036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ProcyonCoke731: 腊爷爷知道要过圣诞节了，腊爷爷准备了你最喜欢的蛋炒饭和冰棍当礼物🎁，快说谢谢腊爷爷 https://t.co/fRgYlfeK1O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000201657766817796"
+          ]
+        },
+        "author_id": "1595110651621318656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2000201683633095036",
+        "created_at": "2025-12-14T13:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T14:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000201683633095036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fRgYlfeK1O",
+              "end": 65,
+              "expanded_url": "https://x.com/ProcyonCoke731/status/2000201683633095036/photo/1",
+              "media_key": "3_2000201657766817796",
+              "start": 42,
+              "url": "https://t.co/fRgYlfeK1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000201683633095036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2483,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "腊爷爷知道要过圣诞节了，腊爷爷准备了你最喜欢的蛋炒饭和冰棍当礼物🎁，快说谢谢腊爷爷 https://t.co/fRgYlfeK1O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 153,
+          "like_count": 3934,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 529
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T17:43:19.000Z",
+        "description": "直升機駕駛員\n异世界转生号https://t.co/2usdJjOgLk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/chaosc…",
+                "end": 36,
+                "expanded_url": "https://bsky.app/profile/chaoscoke731.bsky.social",
+                "start": 13,
+                "url": "https://t.co/2usdJjOgLk"
+              }
+            ]
+          }
+        },
+        "id": "1595110651621318656",
+        "name": "桜桃可乐🇯🇵🌌🌸🍸✝️",
+        "pinned_tweet_id": "1981997572719014169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996192467389906944/c_yHpzdz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4338,
+          "following_count": 1109,
+          "like_count": 30686,
+          "listed_count": 38,
+          "media_count": 3487,
+          "tweet_count": 14934
+        },
+        "username": "ProcyonCoke731",
+        "verified": false
+      }
+    ]
+  }
+}

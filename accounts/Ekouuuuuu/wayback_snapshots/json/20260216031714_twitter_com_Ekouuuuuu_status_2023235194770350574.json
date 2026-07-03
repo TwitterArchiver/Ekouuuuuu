@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022841702223089665"
+      ],
+      "media_source_tweet_id": [
+        "2022841708560417270"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2023235194770350574",
+    "created_at": "2026-02-16T03:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T04:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023235194770350574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1350022942038507520",
+          "start": 3,
+          "username": "NNAPEU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eEfrO9vhjZ",
+          "end": 35,
+          "expanded_url": "https://x.com/NNAPEU/status/2022841708560417270/photo/1",
+          "media_key": "3_2022841702223089665",
+          "start": 12,
+          "url": "https://t.co/eEfrO9vhjZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023235194770350574",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 195
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022841708560417270",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @NNAPEU: https://t.co/eEfrO9vhjZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2022841702223089665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBKTz4nakAEHu5A.png",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022841702223089665"
+          ],
+          "media_source_tweet_id": [
+            "2022841708560417270"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2023235194770350574",
+        "created_at": "2026-02-16T03:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T04:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023235194770350574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1350022942038507520",
+              "start": 3,
+              "username": "NNAPEU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eEfrO9vhjZ",
+              "end": 35,
+              "expanded_url": "https://x.com/NNAPEU/status/2022841708560417270/photo/1",
+              "media_key": "3_2022841702223089665",
+              "start": 12,
+              "url": "https://t.co/eEfrO9vhjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023235194770350574",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 195
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022841708560417270",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @NNAPEU: https://t.co/eEfrO9vhjZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022841702223089665"
+          ]
+        },
+        "author_id": "1350022942038507520",
+        "conversation_id": "2022841708560417270",
+        "created_at": "2026-02-15T01:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T02:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022841708560417270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eEfrO9vhjZ",
+              "end": 23,
+              "expanded_url": "https://x.com/NNAPEU/status/2022841708560417270/photo/1",
+              "media_key": "3_2022841702223089665",
+              "start": 0,
+              "url": "https://t.co/eEfrO9vhjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022841708560417270",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 18130,
+          "like_count": 1959,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 195
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/eEfrO9vhjZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 247,
+          "like_count": 8486,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 2181
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-15T10:12:11.000Z",
+        "description": "NAPU｜✉️ napeu.pu@gmail.com",
+        "id": "1350022942038507520",
+        "location": "無断転載・AI学習禁止",
+        "name": "나프",
+        "pinned_tweet_id": "2020834488729874707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955608174331084800/Mx5OxKVP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12437,
+          "following_count": 179,
+          "like_count": 206,
+          "listed_count": 75,
+          "media_count": 24,
+          "tweet_count": 28
+        },
+        "username": "NNAPEU",
+        "verified": false
+      }
+    ]
+  }
+}

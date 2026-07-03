@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2070843086121603279",
+    "created_at": "2026-06-27T12:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070843086121603279"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ruters0615/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Ruters0615/status/2069834387307581545",
+          "start": 6,
+          "url": "https://t.co/DyvsGlnLbg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070843086121603279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069834387307581545",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這下看懂了 https://t.co/DyvsGlnLbg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43666,
+        "height": 1080,
+        "media_key": "13_2069834080405909504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069834080405909504/img/poPqSthEyblMUZUh.jpg",
+        "public_metrics": {
+          "view_count": 84761
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069834080405909504/vid/avc1/480x270/JZ42xwhxDdLweOTu.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069834080405909504/vid/avc1/640x360/YK3tlDolmkbLU6gv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069834080405909504/vid/avc1/1280x720/rTk_lUG7UleuSY_k.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069834080405909504/vid/avc1/1920x1080/5Q65M07-OsyJyFzC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069834080405909504/pl/6xxxVrvIp1t-ek7r.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2070843086121603279",
+        "created_at": "2026-06-27T12:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070843086121603279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ruters0615/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Ruters0615/status/2069834387307581545",
+              "start": 6,
+              "url": "https://t.co/DyvsGlnLbg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070843086121603279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069834387307581545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這下看懂了 https://t.co/DyvsGlnLbg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069834080405909504"
+          ]
+        },
+        "author_id": "1153970326604144640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2069834387307581545",
+        "created_at": "2026-06-24T17:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069834387307581545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6mnGDMN4yr",
+              "end": 41,
+              "expanded_url": "https://x.com/Ruters0615/status/2069834387307581545/video/1",
+              "media_key": "13_2069834080405909504",
+              "start": 18,
+              "url": "https://t.co/6mnGDMN4yr"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2069800212239950024",
+              "start": 42,
+              "url": "https://t.co/4uuV6edVXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069834387307581545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 259,
+          "impression_count": 283572,
+          "like_count": 1398,
+          "quote_count": 12,
+          "reply_count": 152,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069800212239950024",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "换了某知名BGM，这下看懂了🙌😭🙌 https://t.co/6mnGDMN4yr https://t.co/4uuV6edVXq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖LGBTQ+友好‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2064040950851404219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 378,
+          "like_count": 14386,
+          "listed_count": 1,
+          "media_count": 637,
+          "tweet_count": 3846
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T10:09:00.000Z",
+        "description": "官方X账户，国安部最高通缉，专注于乳包反共鬼畜作品，投稿请私信or邮箱投稿：Ruters0615@gmail.com\nTelegram：https://t.co/p6qoFVZxgy\nYouTube：小反旗&小池塘（被国安橄榄过三回啊三回）\nRumble / Spotify：Ruters乳透社",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruters0615",
+                "end": 91,
+                "expanded_url": "http://t.me/Ruters0615",
+                "start": 68,
+                "url": "https://t.co/p6qoFVZxgy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@RutersXiaoFan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@RutersXiaoFanQi",
+                "start": 0,
+                "url": "https://t.co/fxNkDBFEkL"
+              }
+            ]
+          }
+        },
+        "id": "1153970326604144640",
+        "location": "IP属地：梁家河",
+        "name": "Ruters乳透社",
+        "pinned_tweet_id": "2013472422435983458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520784344280748032/gHq_Pfaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297180,
+          "following_count": 2383,
+          "like_count": 2408,
+          "listed_count": 943,
+          "media_count": 2436,
+          "tweet_count": 3249
+        },
+        "url": "https://t.co/fxNkDBFEkL",
+        "username": "Ruters0615",
+        "verified": true
+      }
+    ]
+  }
+}

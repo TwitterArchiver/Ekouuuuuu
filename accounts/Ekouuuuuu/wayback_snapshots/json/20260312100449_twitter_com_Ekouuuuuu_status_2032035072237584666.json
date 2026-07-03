@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031995283874463744"
+      ],
+      "media_source_tweet_id": [
+        "2031995412677345596"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2032035072237584666",
+    "created_at": "2026-03-12T10:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T11:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032035072237584666"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "アルちゃん",
+          "probability": 0.8532,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3240122348",
+          "start": 3,
+          "username": "bonnie_3404"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p1ZfzcZuum",
+          "end": 59,
+          "expanded_url": "https://x.com/bonnie_3404/status/2031995412677345596/photo/1",
+          "media_key": "3_2031995283874463744",
+          "start": 36,
+          "url": "https://t.co/p1ZfzcZuum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032035072237584666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 281
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031995412677345596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bonnie_3404: アルちゃんお誕生日おめでとう（再掲） https://t.co/p1ZfzcZuum"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_2031995283874463744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDMY8dibQAAAY1Z.jpg",
+        "width": 3629
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031995283874463744"
+          ],
+          "media_source_tweet_id": [
+            "2031995412677345596"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2032035072237584666",
+        "created_at": "2026-03-12T10:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032035072237584666"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "アルちゃん",
+              "probability": 0.8532,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3240122348",
+              "start": 3,
+              "username": "bonnie_3404"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p1ZfzcZuum",
+              "end": 59,
+              "expanded_url": "https://x.com/bonnie_3404/status/2031995412677345596/photo/1",
+              "media_key": "3_2031995283874463744",
+              "start": 36,
+              "url": "https://t.co/p1ZfzcZuum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032035072237584666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 281
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031995412677345596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bonnie_3404: アルちゃんお誕生日おめでとう（再掲） https://t.co/p1ZfzcZuum"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031995283874463744"
+          ]
+        },
+        "author_id": "3240122348",
+        "conversation_id": "2031995412677345596",
+        "created_at": "2026-03-12T07:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T08:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031995412677345596"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "アルちゃん",
+              "probability": 0.8793,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p1ZfzcZuum",
+              "end": 42,
+              "expanded_url": "https://x.com/bonnie_3404/status/2031995412677345596/photo/1",
+              "media_key": "3_2031995283874463744",
+              "start": 19,
+              "url": "https://t.co/p1ZfzcZuum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031995412677345596",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 184,
+          "impression_count": 29786,
+          "like_count": 2120,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 281
+        },
+        "reply_settings": "everyone",
+        "text": "アルちゃんお誕生日おめでとう（再掲） https://t.co/p1ZfzcZuum"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2032007899732721877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 242,
+          "like_count": 9339,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 2408
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-08T17:47:57.000Z",
+        "description": "ものぐさ絵描き、無断AI学習や編集は絶対にやめてください。\n\n《ご依頼は下記メールにてお願いします。DM等では返信致しません。》\n■mail    :bonnie23☆https://t.co/nNF2OdDOrW（☆→@）\n■pixiv   :https://t.co/SN8IeRN2Xb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "outlook.jp",
+                "end": 107,
+                "expanded_url": "http://outlook.jp",
+                "start": 84,
+                "url": "https://t.co/nNF2OdDOrW"
+              },
+              {
+                "display_url": "pixiv.net/users/711257",
+                "end": 146,
+                "expanded_url": "https://www.pixiv.net/users/711257",
+                "start": 123,
+                "url": "https://t.co/SN8IeRN2Xb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/bonnie3404",
+                "end": 23,
+                "expanded_url": "https://fantia.jp/bonnie3404",
+                "start": 0,
+                "url": "https://t.co/J68S4r03XE"
+              }
+            ]
+          }
+        },
+        "id": "3240122348",
+        "location": "ベッドの中",
+        "name": "ぼに～＠２日目 東\"ア\"-54a",
+        "pinned_tweet_id": "2018234431270772760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509843716894519296/QyCWOmjW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795897,
+          "following_count": 2993,
+          "like_count": 40825,
+          "listed_count": 6337,
+          "media_count": 1550,
+          "tweet_count": 37731
+        },
+        "url": "https://t.co/J68S4r03XE",
+        "username": "bonnie_3404",
+        "verified": true
+      }
+    ]
+  }
+}

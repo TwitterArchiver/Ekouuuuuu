@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063607869388603392"
+      ],
+      "media_source_tweet_id": [
+        "2063608137098342554"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065920213636526143",
+    "created_at": "2026-06-13T22:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T23:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065920213636526143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1408028409599467521",
+          "start": 3,
+          "username": "AngelSuicide999"
+        }
+      ],
+      "urls": [
+        {
+          "description": "死にゆく者より敬礼を。spotifyhttps://open.spotify.com/intl-ja/track/0IZcu8S...",
+          "display_url": "youtu.be/mA4vRpjuKSA",
+          "end": 44,
+          "expanded_url": "https://youtu.be/mA4vRpjuKSA",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2063607815596556288/UuI00mbv?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2063607815596556288/UuI00mbv?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 21,
+          "status": 200,
+          "title": "19h 22m 22±5s 19h 25m 12±5s???Wow! signal\"6EQUJ5\" देवदूत आत्महत्या Cicada 3301.aaa SCP out side",
+          "unwound_url": "https://www.youtube.com/watch?v=mA4vRpjuKSA&feature=youtu.be",
+          "url": "https://t.co/5SynqDBzRP"
+        },
+        {
+          "display_url": "pic.x.com/2VPobfp6s1",
+          "end": 68,
+          "expanded_url": "https://x.com/AngelSuicide999/status/2063608137098342554/video/1",
+          "media_key": "13_2063607869388603392",
+          "start": 45,
+          "url": "https://t.co/2VPobfp6s1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065920213636526143",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063608137098342554",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngelSuicide999: https://t.co/5SynqDBzRP https://t.co/2VPobfp6s1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8133,
+        "height": 1080,
+        "media_key": "13_2063607869388603392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063607869388603392/img/J7tbbnUc9wWQspZx.jpg",
+        "public_metrics": {
+          "view_count": 1158
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063607869388603392/vid/avc1/360x270/odE66zeTlA82zisr.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063607869388603392/vid/avc1/480x360/qBHQ1LRfod05i6vL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063607869388603392/vid/avc1/960x720/JlOg2g1-5B8lzgPV.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063607869388603392/pl/dsJXLnovi2UfwgA8.m3u8?tag=14"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063607869388603392"
+          ],
+          "media_source_tweet_id": [
+            "2063608137098342554"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065920213636526143",
+        "created_at": "2026-06-13T22:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T23:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065920213636526143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1408028409599467521",
+              "start": 3,
+              "username": "AngelSuicide999"
+            }
+          ],
+          "urls": [
+            {
+              "description": "死にゆく者より敬礼を。spotifyhttps://open.spotify.com/intl-ja/track/0IZcu8S...",
+              "display_url": "youtu.be/mA4vRpjuKSA",
+              "end": 44,
+              "expanded_url": "https://youtu.be/mA4vRpjuKSA",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2063607815596556288/UuI00mbv?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063607815596556288/UuI00mbv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "19h 22m 22±5s 19h 25m 12±5s???Wow! signal\"6EQUJ5\" देवदूत आत्महत्या Cicada 3301.aaa SCP out side",
+              "unwound_url": "https://www.youtube.com/watch?v=mA4vRpjuKSA&feature=youtu.be",
+              "url": "https://t.co/5SynqDBzRP"
+            },
+            {
+              "display_url": "pic.x.com/2VPobfp6s1",
+              "end": 68,
+              "expanded_url": "https://x.com/AngelSuicide999/status/2063608137098342554/video/1",
+              "media_key": "13_2063607869388603392",
+              "start": 45,
+              "url": "https://t.co/2VPobfp6s1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065920213636526143",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063608137098342554",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngelSuicide999: https://t.co/5SynqDBzRP https://t.co/2VPobfp6s1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063607869388603392"
+          ]
+        },
+        "author_id": "1408028409599467521",
+        "conversation_id": "2063608137098342554",
+        "created_at": "2026-06-07T13:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063608137098342554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "死にゆく者より敬礼を。spotifyhttps://open.spotify.com/intl-ja/track/0IZcu8S...",
+              "display_url": "youtu.be/mA4vRpjuKSA",
+              "end": 23,
+              "expanded_url": "https://youtu.be/mA4vRpjuKSA",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2063607815596556288/UuI00mbv?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063607815596556288/UuI00mbv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "19h 22m 22±5s 19h 25m 12±5s???Wow! signal\"6EQUJ5\" देवदूत आत्महत्या Cicada 3301.aaa SCP out side",
+              "unwound_url": "https://www.youtube.com/watch?v=mA4vRpjuKSA&feature=youtu.be",
+              "url": "https://t.co/5SynqDBzRP"
+            },
+            {
+              "display_url": "pic.x.com/2VPobfp6s1",
+              "end": 47,
+              "expanded_url": "https://x.com/AngelSuicide999/status/2063608137098342554/video/1",
+              "media_key": "13_2063607869388603392",
+              "start": 24,
+              "url": "https://t.co/2VPobfp6s1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063608137098342554",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 5116,
+          "like_count": 197,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5SynqDBzRP https://t.co/2VPobfp6s1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖化 學 極 樂‖支畜別他媽來惡心我了‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2064040950851404219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 340,
+          "like_count": 13754,
+          "listed_count": 1,
+          "media_count": 587,
+          "tweet_count": 3632
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-24T11:45:17.000Z",
+        "description": "⁡Hello world(＞ヮ＜)🩸.⋆♱⁡\n⁡どこかに揺蕩う。？\n⁡ADHDおとこの娘クソガキメンヘラ()\n最強の漢🔥.⋆♱\nパソコンポチポチ(꜆꜄꜆^._.^)꜆꜄꜆\n#angelsuicidecore",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 86,
+                "tag": "angelsuicidecore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tunecore.co.jp/artists/angels…",
+                "end": 23,
+                "expanded_url": "https://www.tunecore.co.jp/artists/angelsuicide999",
+                "start": 0,
+                "url": "https://t.co/1XH3J5n5Au"
+              }
+            ]
+          }
+        },
+        "id": "1408028409599467521",
+        "name": "देवदूत आत्महत्या",
+        "pinned_tweet_id": "2050182189338513881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049330628609605632/E029CVB5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34484,
+          "following_count": 2,
+          "like_count": 91249,
+          "listed_count": 96,
+          "media_count": 946,
+          "tweet_count": 3737
+        },
+        "url": "https://t.co/1XH3J5n5Au",
+        "username": "AngelSuicide999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2020932076447424513"
+      ],
+      "media_source_tweet_id": [
+        "2020932147427827835"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2021360415306117277",
+    "created_at": "2026-02-10T23:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T00:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021360415306117277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1446823147039305731",
+          "start": 3,
+          "username": "sunlove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s05WAojfvm",
+          "end": 59,
+          "expanded_url": "https://x.com/sunlove/status/2020932147427827835/video/1",
+          "media_key": "13_2020932076447424513",
+          "start": 36,
+          "url": "https://t.co/s05WAojfvm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021360415306117277",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2003
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020932147427827835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sunlove: terminal consciousness https://t.co/s05WAojfvm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14833,
+        "height": 932,
+        "media_key": "13_2020932076447424513",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020932076447424513/img/vK8qM0LX1CeeWJlR.jpg",
+        "public_metrics": {
+          "view_count": 36553
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020932076447424513/vid/avc1/320x414/InIFulJvBklilELA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020932076447424513/vid/avc1/480x620/ZvpRKdqKJbSqWEuY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020932076447424513/vid/avc1/720x932/Q-uooPb0SyQTddD7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020932076447424513/pl/Vqmot6V3VZFQXoZ1.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020932076447424513"
+          ],
+          "media_source_tweet_id": [
+            "2020932147427827835"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2021360415306117277",
+        "created_at": "2026-02-10T23:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T00:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021360415306117277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1446823147039305731",
+              "start": 3,
+              "username": "sunlove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s05WAojfvm",
+              "end": 59,
+              "expanded_url": "https://x.com/sunlove/status/2020932147427827835/video/1",
+              "media_key": "13_2020932076447424513",
+              "start": 36,
+              "url": "https://t.co/s05WAojfvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021360415306117277",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2003
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020932147427827835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sunlove: terminal consciousness https://t.co/s05WAojfvm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020932076447424513"
+          ]
+        },
+        "author_id": "1446823147039305731",
+        "conversation_id": "2020932147427827835",
+        "created_at": "2026-02-09T18:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T19:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020932147427827835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s05WAojfvm",
+              "end": 46,
+              "expanded_url": "https://x.com/sunlove/status/2020932147427827835/video/1",
+              "media_key": "13_2020932076447424513",
+              "start": 23,
+              "url": "https://t.co/s05WAojfvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020932147427827835",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1403,
+          "impression_count": 100224,
+          "like_count": 10436,
+          "quote_count": 8,
+          "reply_count": 17,
+          "retweet_count": 2003
+        },
+        "reply_settings": "everyone",
+        "text": "terminal consciousness https://t.co/s05WAojfvm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 248,
+          "like_count": 8301,
+          "listed_count": 1,
+          "media_count": 340,
+          "tweet_count": 2084
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-09T13:01:37.000Z",
+        "description": "恋人 ⟡ renaissancemaxxing Φ redpilled 𓆰 灭绝天使 ✶ 131IQ ☆ athlete ♡ 21e8 ★彡 @remiliacorp333 ✦ @MiladyMaker333 ♡⸝⸝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "remiliacorp333"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "MiladyMaker333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/sun21e8",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/sun21e8",
+                "start": 0,
+                "url": "https://t.co/9V2kz947q2"
+              }
+            ]
+          }
+        },
+        "id": "1446823147039305731",
+        "name": "𝖍𝖊𝖑𝖎𝖔𝖕𝖍𝖎𝖑𝖎𝖆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021306314543202304/95Y5vDWD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13651,
+          "following_count": 888,
+          "like_count": 186054,
+          "listed_count": 66,
+          "media_count": 30111,
+          "tweet_count": 186188
+        },
+        "url": "https://t.co/9V2kz947q2",
+        "username": "sunlove",
+        "verified": true
+      }
+    ]
+  }
+}

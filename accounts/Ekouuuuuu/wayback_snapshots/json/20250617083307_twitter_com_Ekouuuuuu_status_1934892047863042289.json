@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934892044763451394"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1934892047863042289",
+    "created_at": "2025-06-17T08:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T09:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934892047863042289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IVMk3gfagv",
+          "end": 34,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1934892047863042289/photo/1",
+          "media_key": "3_1934892044763451394",
+          "start": 11,
+          "url": "https://t.co/IVMk3gfagv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934892047863042289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我靠學習你贏了！！😭 https://t.co/IVMk3gfagv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934892044763451394",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtoeEC7a0AIYmYm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934892044763451394"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1934892047863042289",
+        "created_at": "2025-06-17T08:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T09:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934892047863042289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IVMk3gfagv",
+              "end": 34,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1934892047863042289/photo/1",
+              "media_key": "3_1934892044763451394",
+              "start": 11,
+              "url": "https://t.co/IVMk3gfagv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934892047863042289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠學習你贏了！！😭 https://t.co/IVMk3gfagv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "☘️☘️☘️☘️//〔觉今是而昨非〕//☘️☘️☘️☘️☘️/一想到有錢人過得這麼好就不自覺的挺直了腰捏/打遊戲可以叫上我🥲",
+        "id": "1912063502782812160",
+        "location": "🚪52就能解鎖一根白菜的日常生活）",
+        "name": "一根白菜梗🥬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933223087061024768/NHwQoVVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 32,
+          "like_count": 291,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 47
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

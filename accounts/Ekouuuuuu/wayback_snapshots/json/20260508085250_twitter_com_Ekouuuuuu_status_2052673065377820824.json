@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052654363915735040",
+        "3_2052654364385538048",
+        "3_2052654363991281664",
+        "3_2052654364733620224"
+      ],
+      "media_source_tweet_id": [
+        "2052654438284960083",
+        "2052654438284960083",
+        "2052654438284960083",
+        "2052654438284960083"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2052673065377820824",
+    "created_at": "2026-05-08T08:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052673065377820824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1236675551068164096",
+          "start": 3,
+          "username": "e75ob"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NIx6o0xovv",
+          "end": 49,
+          "expanded_url": "https://x.com/e75ob/status/2052654438284960083/photo/1",
+          "media_key": "3_2052654363915735040",
+          "start": 26,
+          "url": "https://t.co/NIx6o0xovv"
+        },
+        {
+          "display_url": "pic.x.com/NIx6o0xovv",
+          "end": 49,
+          "expanded_url": "https://x.com/e75ob/status/2052654438284960083/photo/1",
+          "media_key": "3_2052654364385538048",
+          "start": 26,
+          "url": "https://t.co/NIx6o0xovv"
+        },
+        {
+          "display_url": "pic.x.com/NIx6o0xovv",
+          "end": 49,
+          "expanded_url": "https://x.com/e75ob/status/2052654438284960083/photo/1",
+          "media_key": "3_2052654363991281664",
+          "start": 26,
+          "url": "https://t.co/NIx6o0xovv"
+        },
+        {
+          "display_url": "pic.x.com/NIx6o0xovv",
+          "end": 49,
+          "expanded_url": "https://x.com/e75ob/status/2052654438284960083/photo/1",
+          "media_key": "3_2052654364733620224",
+          "start": 26,
+          "url": "https://t.co/NIx6o0xovv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052673065377820824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052654438284960083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @e75ob: どの子がいちばん好き？♡⸝⸝ https://t.co/NIx6o0xovv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052654363915735040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHx-RL_aUAAedUG.jpg",
+        "width": 1451
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052654364385538048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHx-RNva8AATY8y.jpg",
+        "width": 1451
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052654363991281664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHx-RMRbEAAivCg.jpg",
+        "width": 1451
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052654364733620224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHx-RPCaQAA_P9r.jpg",
+        "width": 1295
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052654363915735040",
+            "3_2052654364385538048",
+            "3_2052654363991281664",
+            "3_2052654364733620224"
+          ],
+          "media_source_tweet_id": [
+            "2052654438284960083",
+            "2052654438284960083",
+            "2052654438284960083",
+            "2052654438284960083"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2052673065377820824",
+        "created_at": "2026-05-08T08:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052673065377820824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1236675551068164096",
+              "start": 3,
+              "username": "e75ob"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NIx6o0xovv",
+              "end": 49,
+              "expanded_url": "https://x.com/e75ob/status/2052654438284960083/photo/1",
+              "media_key": "3_2052654363915735040",
+              "start": 26,
+              "url": "https://t.co/NIx6o0xovv"
+            },
+            {
+              "display_url": "pic.x.com/NIx6o0xovv",
+              "end": 49,
+              "expanded_url": "https://x.com/e75ob/status/2052654438284960083/photo/1",
+              "media_key": "3_2052654364385538048",
+              "start": 26,
+              "url": "https://t.co/NIx6o0xovv"
+            },
+            {
+              "display_url": "pic.x.com/NIx6o0xovv",
+              "end": 49,
+              "expanded_url": "https://x.com/e75ob/status/2052654438284960083/photo/1",
+              "media_key": "3_2052654363991281664",
+              "start": 26,
+              "url": "https://t.co/NIx6o0xovv"
+            },
+            {
+              "display_url": "pic.x.com/NIx6o0xovv",
+              "end": 49,
+              "expanded_url": "https://x.com/e75ob/status/2052654438284960083/photo/1",
+              "media_key": "3_2052654364733620224",
+              "start": 26,
+              "url": "https://t.co/NIx6o0xovv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052673065377820824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052654438284960083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @e75ob: どの子がいちばん好き？♡⸝⸝ https://t.co/NIx6o0xovv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052654363915735040",
+            "3_2052654364385538048",
+            "3_2052654363991281664",
+            "3_2052654364733620224"
+          ]
+        },
+        "author_id": "1236675551068164096",
+        "conversation_id": "2052654438284960083",
+        "created_at": "2026-05-08T07:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052654438284960083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NIx6o0xovv",
+              "end": 38,
+              "expanded_url": "https://x.com/e75ob/status/2052654438284960083/photo/1",
+              "media_key": "3_2052654363915735040",
+              "start": 15,
+              "url": "https://t.co/NIx6o0xovv"
+            },
+            {
+              "display_url": "pic.x.com/NIx6o0xovv",
+              "end": 38,
+              "expanded_url": "https://x.com/e75ob/status/2052654438284960083/photo/1",
+              "media_key": "3_2052654364385538048",
+              "start": 15,
+              "url": "https://t.co/NIx6o0xovv"
+            },
+            {
+              "display_url": "pic.x.com/NIx6o0xovv",
+              "end": 38,
+              "expanded_url": "https://x.com/e75ob/status/2052654438284960083/photo/1",
+              "media_key": "3_2052654363991281664",
+              "start": 15,
+              "url": "https://t.co/NIx6o0xovv"
+            },
+            {
+              "display_url": "pic.x.com/NIx6o0xovv",
+              "end": 38,
+              "expanded_url": "https://x.com/e75ob/status/2052654438284960083/photo/1",
+              "media_key": "3_2052654364733620224",
+              "start": 15,
+              "url": "https://t.co/NIx6o0xovv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052654438284960083",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 18095,
+          "like_count": 705,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "どの子がいちばん好き？♡⸝⸝ https://t.co/NIx6o0xovv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "我還想和你談論宇宙和天空‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2051776082542825551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 296,
+          "like_count": 11735,
+          "listed_count": 1,
+          "media_count": 482,
+          "tweet_count": 2902
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-08T15:30:09.000Z",
+        "description": "🔗https://t.co/8ul6PfFxUL 💌hitsuzida1019@gmail.com/DM 📖🆕新刊通販↪︎https://t.co/HOOBILE6vM🍈既刊通販︎ ↪︎ https://t.co/dem3TiMQYN ｶﾜｲｲ🎀︎ ↪︎@hitsuzi_e75ob",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 127,
+                "username": "hitsuzi_e75ob"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/hitsujihitsuo",
+                "end": 24,
+                "expanded_url": "http://lit.link/hitsujihitsuo",
+                "start": 1,
+                "url": "https://t.co/8ul6PfFxUL"
+              },
+              {
+                "display_url": "x.gd/oSzLum",
+                "end": 84,
+                "expanded_url": "https://x.gd/oSzLum",
+                "start": 61,
+                "url": "https://t.co/HOOBILE6vM"
+              },
+              {
+                "display_url": "x.gd/5kkjV",
+                "end": 117,
+                "expanded_url": "https://x.gd/5kkjV",
+                "start": 94,
+                "url": "https://t.co/dem3TiMQYN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hitsuzida.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://hitsuzida.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/hyg4F3hYNR"
+              }
+            ]
+          }
+        },
+        "id": "1236675551068164096",
+        "location": "新規依頼受付中     ﾌｧﾝﾎﾞ︎ ↪︎",
+        "name": "ひつじ田🐑お仕事募集中",
+        "pinned_tweet_id": "2007362488795582689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874115713658736640/dgaywaEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65911,
+          "following_count": 845,
+          "like_count": 81916,
+          "listed_count": 446,
+          "media_count": 895,
+          "tweet_count": 6189
+        },
+        "url": "https://t.co/hyg4F3hYNR",
+        "username": "e75ob",
+        "verified": false
+      }
+    ]
+  }
+}

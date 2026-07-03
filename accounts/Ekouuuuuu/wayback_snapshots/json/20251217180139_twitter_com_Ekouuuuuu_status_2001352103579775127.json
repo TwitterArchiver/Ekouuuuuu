@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2001352103579775127",
+    "created_at": "2025-12-17T18:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T19:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001352103579775127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1927912422385537024",
+          "start": 3,
+          "username": "giveson30"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001352103579775127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000971986214989851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @giveson30: 有时候聊天感觉到对方在向下兼容我的时候我就知道该闭嘴了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2001352103579775127",
+        "created_at": "2025-12-17T18:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T19:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001352103579775127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927912422385537024",
+              "start": 3,
+              "username": "giveson30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001352103579775127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000971986214989851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @giveson30: 有时候聊天感觉到对方在向下兼容我的时候我就知道该闭嘴了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927912422385537024",
+        "conversation_id": "2000971986214989851",
+        "created_at": "2025-12-16T16:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T17:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000971986214989851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000971986214989851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 113193,
+          "like_count": 904,
+          "quote_count": 10,
+          "reply_count": 26,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "有时候聊天感觉到对方在向下兼容我的时候我就知道该闭嘴了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 181,
+          "like_count": 4503,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 661
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T02:18:50.000Z",
+        "description": "活着就是为了爽/此账号是鸭子日常 有啥好奇的事可以来我提问箱https://t.co/bapTaOI2DV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadnessduck1",
+                "end": 53,
+                "expanded_url": "https://ngl.link/sadnessduck1",
+                "start": 30,
+                "url": "https://t.co/bapTaOI2DV"
+              }
+            ]
+          }
+        },
+        "id": "1927912422385537024",
+        "name": "忧郁鸭子🦆",
+        "pinned_tweet_id": "1972329830030139885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999699805568925703/wTywvx3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 227,
+          "like_count": 17482,
+          "listed_count": 1,
+          "media_count": 623,
+          "tweet_count": 9024
+        },
+        "username": "giveson30",
+        "verified": false
+      }
+    ]
+  }
+}

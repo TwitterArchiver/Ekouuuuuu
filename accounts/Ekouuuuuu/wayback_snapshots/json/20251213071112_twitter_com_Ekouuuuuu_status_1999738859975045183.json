@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999645015954588046",
+    "created_at": "2025-12-13T07:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T08:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999738859975045183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1576841542177853441",
+          "start": 0,
+          "username": "KAZJBLS"
+        },
+        {
+          "end": 23,
+          "id": "304506442",
+          "start": 9,
+          "username": "peopledailyJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999738859975045183",
+    "in_reply_to_user_id": "1576841542177853441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999724561915408648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KAZJBLS @peopledailyJP 真慶幸🇹🇼沒有你這種蠢貨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999645015954588046",
+        "created_at": "2025-12-13T07:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T08:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999738859975045183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1576841542177853441",
+              "start": 0,
+              "username": "KAZJBLS"
+            },
+            {
+              "end": 23,
+              "id": "304506442",
+              "start": 9,
+              "username": "peopledailyJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999738859975045183",
+        "in_reply_to_user_id": "1576841542177853441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999724561915408648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KAZJBLS @peopledailyJP 真慶幸🇹🇼沒有你這種蠢貨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576841542177853441",
+        "conversation_id": "1999645015954588046",
+        "created_at": "2025-12-13T06:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T07:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999724561915408648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            },
+            {
+              "end": 25,
+              "id": "304506442",
+              "start": 11,
+              "username": "peopledailyJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999724561915408648",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999692268014604547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu @peopledailyJP 没你喷你倭爹的水多🤣👉🇯🇵💩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999520374074024441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 136,
+          "like_count": 3452,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 244
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-03T07:48:33.000Z",
+        "description": "清澈的爱，只为中国🇨🇳                                               全世界无产者联合起来☭",
+        "id": "1576841542177853441",
+        "name": "XB.博老师🇨🇳",
+        "pinned_tweet_id": "1944682522312413470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943552833854255105/B46uitSR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 57,
+          "like_count": 22,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 394
+        },
+        "username": "KAZJBLS",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-24T16:43:20.000Z",
+        "description": "＃中国 で最も早く開設された日本語ニュースサイト「人民網日本語版」のTwitter公式アカウントです。中国関連のニュースの記事見出しをお届けします。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "中国"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "j.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://j.people.com.cn/",
+                "start": 0,
+                "url": "https://t.co/2bWBbIG4tH"
+              }
+            ]
+          }
+        },
+        "id": "304506442",
+        "name": "人民網日本",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957355707252248576/LuV0zyjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37919,
+          "following_count": 105,
+          "like_count": 945,
+          "listed_count": 691,
+          "media_count": 21220,
+          "tweet_count": 37185
+        },
+        "url": "https://t.co/2bWBbIG4tH",
+        "username": "peopledailyJP",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2044655296459534337"
+      ],
+      "media_source_tweet_id": [
+        "2044655385886199882"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044818330515570715",
+    "created_at": "2026-04-16T16:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T17:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044818330515570715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1283802245595791362",
+          "start": 3,
+          "username": "wangjianghuiCN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ypz9Abmvf6",
+          "end": 111,
+          "expanded_url": "https://x.com/wangjianghuiCN/status/2044655385886199882/video/1",
+          "media_key": "13_2044655296459534337",
+          "start": 88,
+          "url": "https://t.co/Ypz9Abmvf6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044818330515570715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044655385886199882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wangjianghuiCN: 【欺世大观 经典回味】17C: 共军在8964到底杀了多少人？掩盖并不能让这个极权政府的国家机密彻底消失，苏美的档案记录揭露了真实数据 https://t.co/Ypz9Abmvf6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 482234,
+        "height": 240,
+        "media_key": "13_2044655296459534337",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044655296459534337/img/tJ_bR66OxAVDG-xT.jpg",
+        "public_metrics": {
+          "view_count": 2735
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044655296459534337/vid/avc1/426x240/3SFBVopf05Vx0wzD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044655296459534337/pl/sWXPuTiGVtOSEhuW.m3u8"
+          }
+        ],
+        "width": 426
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044655296459534337"
+          ],
+          "media_source_tweet_id": [
+            "2044655385886199882"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044818330515570715",
+        "created_at": "2026-04-16T16:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044818330515570715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1283802245595791362",
+              "start": 3,
+              "username": "wangjianghuiCN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ypz9Abmvf6",
+              "end": 111,
+              "expanded_url": "https://x.com/wangjianghuiCN/status/2044655385886199882/video/1",
+              "media_key": "13_2044655296459534337",
+              "start": 88,
+              "url": "https://t.co/Ypz9Abmvf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044818330515570715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044655385886199882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wangjianghuiCN: 【欺世大观 经典回味】17C: 共军在8964到底杀了多少人？掩盖并不能让这个极权政府的国家机密彻底消失，苏美的档案记录揭露了真实数据 https://t.co/Ypz9Abmvf6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044655296459534337"
+          ]
+        },
+        "author_id": "1283802245595791362",
+        "conversation_id": "2044655385886199882",
+        "created_at": "2026-04-16T05:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T06:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044655385886199882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ypz9Abmvf6",
+              "end": 91,
+              "expanded_url": "https://x.com/wangjianghuiCN/status/2044655385886199882/video/1",
+              "media_key": "13_2044655296459534337",
+              "start": 68,
+              "url": "https://t.co/Ypz9Abmvf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044655385886199882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5177,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "【欺世大观 经典回味】17C: 共军在8964到底杀了多少人？掩盖并不能让这个极权政府的国家机密彻底消失，苏美的档案记录揭露了真实数据 https://t.co/Ypz9Abmvf6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "Don't you let me go‖男友@Shiroko_Li‖叫我白菜就好‖日本語がわからない‖台獨‖🚪2778收錢我就跑路‖查主頁成分我會回fo‖陰暗逼od蛆互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2042383810571223190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 253,
+          "like_count": 10839,
+          "listed_count": 1,
+          "media_count": 433,
+          "tweet_count": 2706
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-16T16:34:58.000Z",
+        "description": "八九六四天安门大屠杀30周年当天被抓！被评为2019年深圳市扫黄打非十大案件第五大案件！被“非法经营罪”定罪的中国政治犯！在中国29年，新加坡工作3年，现在在德国，反对川普，支持共和！(不是支持共和党）油管https://t.co/v8Mc5Epj1n",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangjianghui?…",
+                "end": 126,
+                "expanded_url": "https://youtube.com/@wangjianghui?si=ETSEJogaWTngF8Un",
+                "start": 103,
+                "url": "https://t.co/v8Mc5Epj1n"
+              }
+            ]
+          }
+        },
+        "id": "1283802245595791362",
+        "name": "汪江徽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025344960183013376/gKukmO7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9280,
+          "following_count": 1481,
+          "like_count": 9372,
+          "listed_count": 22,
+          "media_count": 1701,
+          "tweet_count": 3323
+        },
+        "username": "wangjianghuiCN",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999645015954588046",
+    "created_at": "2025-12-14T06:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T07:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000085408982659559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1243139031271002112",
+          "start": 0,
+          "username": "Alex08074948"
+        },
+        {
+          "end": 29,
+          "id": "1684386478741393408",
+          "start": 14,
+          "username": "SIGMCXBlackout"
+        },
+        {
+          "end": 44,
+          "id": "304506442",
+          "start": 30,
+          "username": "peopledailyJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000085408982659559",
+    "in_reply_to_user_id": "1243139031271002112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999873800813551699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alex08074948 @SIGMCXBlackout @peopledailyJP 8964逝去的青年應該紀念"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1999873789060886532",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8D6nYiWsAQfkt_.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999645015954588046",
+        "created_at": "2025-12-14T06:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000085408982659559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1243139031271002112",
+              "start": 0,
+              "username": "Alex08074948"
+            },
+            {
+              "end": 29,
+              "id": "1684386478741393408",
+              "start": 14,
+              "username": "SIGMCXBlackout"
+            },
+            {
+              "end": 44,
+              "id": "304506442",
+              "start": 30,
+              "username": "peopledailyJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000085408982659559",
+        "in_reply_to_user_id": "1243139031271002112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999873800813551699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alex08074948 @SIGMCXBlackout @peopledailyJP 8964逝去的青年應該紀念"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999873789060886532"
+          ]
+        },
+        "author_id": "1243139031271002112",
+        "conversation_id": "1999645015954588046",
+        "created_at": "2025-12-13T16:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T17:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999873800813551699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1684386478741393408",
+              "start": 0,
+              "username": "SIGMCXBlackout"
+            },
+            {
+              "end": 30,
+              "id": "304506442",
+              "start": 16,
+              "username": "peopledailyJP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GWzzTea04p",
+              "end": 68,
+              "expanded_url": "https://x.com/Alex08074948/status/1999873800813551699/photo/1",
+              "media_key": "3_1999873789060886532",
+              "start": 45,
+              "url": "https://t.co/GWzzTea04p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999873800813551699",
+        "in_reply_to_user_id": "1684386478741393408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999717178917192153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SIGMCXBlackout @peopledailyJP 反西方颜色革命  值得纪念 https://t.co/GWzzTea04p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖化學極樂‖養病中……‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 159,
+          "like_count": 3824,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 485
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-26T11:33:47.000Z",
+        "description": "",
+        "id": "1243139031271002112",
+        "name": "Alex",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 24,
+          "like_count": 786,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 102
+        },
+        "username": "Alex08074948",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T02:13:37.000Z",
+        "description": "",
+        "id": "1684386478741393408",
+        "name": "The Witness",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877634605060395008/1FmpyzKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 103,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 136
+        },
+        "username": "SIGMCXBlackout",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-24T16:43:20.000Z",
+        "description": "＃中国 で最も早く開設された日本語ニュースサイト「人民網日本語版」のTwitter公式アカウントです。中国関連のニュースの記事見出しをお届けします。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "中国"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "j.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://j.people.com.cn/",
+                "start": 0,
+                "url": "https://t.co/2bWBbIG4tH"
+              }
+            ]
+          }
+        },
+        "id": "304506442",
+        "name": "人民網日本",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957355707252248576/LuV0zyjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38236,
+          "following_count": 105,
+          "like_count": 945,
+          "listed_count": 692,
+          "media_count": 21229,
+          "tweet_count": 37194
+        },
+        "url": "https://t.co/2bWBbIG4tH",
+        "username": "peopledailyJP",
+        "verified": true
+      }
+    ]
+  }
+}

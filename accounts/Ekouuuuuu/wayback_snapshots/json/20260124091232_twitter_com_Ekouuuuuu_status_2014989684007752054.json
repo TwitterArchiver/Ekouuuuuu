@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014661653061853185"
+      ],
+      "media_source_tweet_id": [
+        "2014661655662309628"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2014989684007752054",
+    "created_at": "2026-01-24T09:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T10:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014989684007752054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1503710587901014016",
+          "start": 3,
+          "username": "chy224025"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ryuSOpx9Q9",
+          "end": 42,
+          "expanded_url": "https://x.com/chy224025/status/2014661655662309628/photo/1",
+          "media_key": "3_2014661653061853185",
+          "start": 19,
+          "url": "https://t.co/ryuSOpx9Q9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014989684007752054",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014661655662309628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chy224025: 我笑了 https://t.co/ryuSOpx9Q9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1282,
+        "media_key": "3_2014661653061853185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_WEGW1aYAE8SMT.jpg",
+        "width": 1065
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014661653061853185"
+          ],
+          "media_source_tweet_id": [
+            "2014661655662309628"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2014989684007752054",
+        "created_at": "2026-01-24T09:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T10:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014989684007752054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1503710587901014016",
+              "start": 3,
+              "username": "chy224025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ryuSOpx9Q9",
+              "end": 42,
+              "expanded_url": "https://x.com/chy224025/status/2014661655662309628/photo/1",
+              "media_key": "3_2014661653061853185",
+              "start": 19,
+              "url": "https://t.co/ryuSOpx9Q9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014989684007752054",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014661655662309628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chy224025: 我笑了 https://t.co/ryuSOpx9Q9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014661653061853185"
+          ]
+        },
+        "author_id": "1503710587901014016",
+        "conversation_id": "2014661655662309628",
+        "created_at": "2026-01-23T11:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T12:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014661655662309628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ryuSOpx9Q9",
+              "end": 27,
+              "expanded_url": "https://x.com/chy224025/status/2014661655662309628/photo/1",
+              "media_key": "3_2014661653061853185",
+              "start": 4,
+              "url": "https://t.co/ryuSOpx9Q9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014661655662309628",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 86259,
+          "like_count": 1005,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "我笑了 https://t.co/ryuSOpx9Q9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "中共的走狗沒有一個是無辜的‖叫我白菜就好了捏‖cisgender‖養病中…‖友LGBT‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6U23",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 83,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 60,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2014018792066535498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 226,
+          "like_count": 6940,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1522
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-15T12:32:11.000Z",
+        "description": "喜欢玩机、打音游的无聊大学生，平常喜欢数码，刷机，喜欢玩Minecraft，使用Linux (Debian GNU/Linux 13)",
+        "id": "1503710587901014016",
+        "name": "chy224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004261535129260032/NpeqKixU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 1367,
+          "like_count": 1161,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 938
+        },
+        "username": "chy224025",
+        "verified": true
+      }
+    ]
+  }
+}

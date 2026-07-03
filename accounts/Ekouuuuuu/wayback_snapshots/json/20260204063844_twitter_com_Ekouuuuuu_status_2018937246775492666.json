@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018656741328859137"
+      ],
+      "media_source_tweet_id": [
+        "2018656747033137252"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2018937246775492666",
+    "created_at": "2026-02-04T06:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T07:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018937246775492666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789668010850152448",
+          "start": 3,
+          "username": "000_jigoku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GIEc4yunnX",
+          "end": 39,
+          "expanded_url": "https://x.com/000_jigoku/status/2018656747033137252/photo/1",
+          "media_key": "3_2018656741328859137",
+          "start": 16,
+          "url": "https://t.co/GIEc4yunnX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018937246775492666",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 181
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018656747033137252",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @000_jigoku: https://t.co/GIEc4yunnX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018656741328859137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAO1nGZasAEVnaz.jpg",
+        "width": 1860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018656741328859137"
+          ],
+          "media_source_tweet_id": [
+            "2018656747033137252"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2018937246775492666",
+        "created_at": "2026-02-04T06:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018937246775492666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789668010850152448",
+              "start": 3,
+              "username": "000_jigoku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GIEc4yunnX",
+              "end": 39,
+              "expanded_url": "https://x.com/000_jigoku/status/2018656747033137252/photo/1",
+              "media_key": "3_2018656741328859137",
+              "start": 16,
+              "url": "https://t.co/GIEc4yunnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018937246775492666",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 181
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018656747033137252",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @000_jigoku: https://t.co/GIEc4yunnX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018656741328859137"
+          ]
+        },
+        "author_id": "1789668010850152448",
+        "conversation_id": "2018656747033137252",
+        "created_at": "2026-02-03T12:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T13:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018656747033137252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GIEc4yunnX",
+              "end": 23,
+              "expanded_url": "https://x.com/000_jigoku/status/2018656747033137252/photo/1",
+              "media_key": "3_2018656741328859137",
+              "start": 0,
+              "url": "https://t.co/GIEc4yunnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018656747033137252",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 10391,
+          "like_count": 1426,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GIEc4yunnX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "同一片天為何好久不見‖叫我白菜就好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 243,
+          "like_count": 8105,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 1940
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T14:44:50.000Z",
+        "description": "",
+        "id": "1789668010850152448",
+        "name": "？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908009674957553664/JMO0X2uD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3576,
+          "following_count": 0,
+          "like_count": 1191,
+          "listed_count": 5,
+          "media_count": 55,
+          "tweet_count": 78
+        },
+        "username": "000_jigoku",
+        "verified": false
+      }
+    ]
+  }
+}

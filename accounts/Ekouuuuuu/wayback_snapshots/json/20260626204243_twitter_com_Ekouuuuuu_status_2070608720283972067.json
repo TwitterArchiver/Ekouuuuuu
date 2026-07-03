@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2070483977509474546",
+    "created_at": "2026-06-26T20:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T21:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070608720283972067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2069104002277732352",
+          "start": 0,
+          "username": "XjL_desuwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070608720283972067",
+    "in_reply_to_user_id": "2069104002277732352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070539981303709835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XjL_desuwa 還有脫碳甲醛：）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2070483977509474546",
+        "created_at": "2026-06-26T20:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T21:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070608720283972067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2069104002277732352",
+              "start": 0,
+              "username": "XjL_desuwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070608720283972067",
+        "in_reply_to_user_id": "2069104002277732352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070539981303709835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XjL_desuwa 還有脫碳甲醛：）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069104002277732352",
+        "conversation_id": "2070483977509474546",
+        "created_at": "2026-06-26T16:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070539981303709835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070539981303709835",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070483977509474546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu 其实成瘾性最高的事一氧化二氢人类无一幸免()"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖LGBTQ+友好‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2064040950851404219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 376,
+          "like_count": 14356,
+          "listed_count": 1,
+          "media_count": 636,
+          "tweet_count": 3835
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T17:05:46.000Z",
+        "description": "我只是一个脆弱的小女孩，不要骂我。",
+        "id": "2069104002277732352",
+        "location": "月ノ森女子学园",
+        "name": "/ゆきchan/若叶雪/",
+        "pinned_tweet_id": "2070292988983476644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069105029974511616/_E2LCEes_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 17,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "XjL_desuwa",
+        "verified": false
+      }
+    ]
+  }
+}

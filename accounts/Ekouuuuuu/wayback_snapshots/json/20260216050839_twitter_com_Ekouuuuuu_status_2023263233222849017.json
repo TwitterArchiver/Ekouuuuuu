@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023191412917866496"
+      ],
+      "media_source_tweet_id": [
+        "2023191414859866223"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2023263233222849017",
+    "created_at": "2026-02-16T05:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T06:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023263233222849017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1561228597586759680",
+          "start": 3,
+          "username": "kangelbot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0r1m8oFEDB",
+          "end": 38,
+          "expanded_url": "https://x.com/kangelbot/status/2023191414859866223/photo/1",
+          "media_key": "3_2023191412917866496",
+          "start": 15,
+          "url": "https://t.co/0r1m8oFEDB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023263233222849017",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023191414859866223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kangelbot: https://t.co/0r1m8oFEDB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2023191412917866496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBPR3ueXEAAwnvb.jpg",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023191412917866496"
+          ],
+          "media_source_tweet_id": [
+            "2023191414859866223"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2023263233222849017",
+        "created_at": "2026-02-16T05:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023263233222849017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561228597586759680",
+              "start": 3,
+              "username": "kangelbot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0r1m8oFEDB",
+              "end": 38,
+              "expanded_url": "https://x.com/kangelbot/status/2023191414859866223/photo/1",
+              "media_key": "3_2023191412917866496",
+              "start": 15,
+              "url": "https://t.co/0r1m8oFEDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023263233222849017",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023191414859866223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kangelbot: https://t.co/0r1m8oFEDB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023191412917866496"
+          ]
+        },
+        "author_id": "1561228597586759680",
+        "conversation_id": "2023191414859866223",
+        "created_at": "2026-02-16T00:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T01:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023191414859866223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0r1m8oFEDB",
+              "end": 23,
+              "expanded_url": "https://x.com/kangelbot/status/2023191414859866223/photo/1",
+              "media_key": "3_2023191412917866496",
+              "start": 0,
+              "url": "https://t.co/0r1m8oFEDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023191414859866223",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 740,
+          "like_count": 101,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0r1m8oFEDB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 247,
+          "like_count": 8502,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 2195
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T05:48:18.000Z",
+        "description": "#KANGEL : It's all over if you get bored of me… And I don't want to die yet! // posts every 3 hours , credit to @GimmickBots for coding",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "KANGEL"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 124,
+                "start": 112,
+                "username": "GimmickBots"
+              }
+            ]
+          }
+        },
+        "id": "1561228597586759680",
+        "location": "fanart in likes",
+        "name": "kangel bot ⚢",
+        "pinned_tweet_id": "1609237233982402560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794375183207477248/nshMmfCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27046,
+          "following_count": 2,
+          "like_count": 279,
+          "listed_count": 33,
+          "media_count": 1190,
+          "tweet_count": 11660
+        },
+        "username": "kangelbot",
+        "verified": false
+      }
+    ]
+  }
+}

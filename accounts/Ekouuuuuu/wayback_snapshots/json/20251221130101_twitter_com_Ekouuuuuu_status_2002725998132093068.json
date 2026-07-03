@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2002372761956798493",
+    "created_at": "2025-12-21T13:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T14:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002725998132093068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1867432957113204736",
+          "start": 0,
+          "username": "owO123qwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002725998132093068",
+    "in_reply_to_user_id": "1867432957113204736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002372761956798493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@owO123qwe 摸摸w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2002372761956798493",
+        "created_at": "2025-12-21T13:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T14:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002725998132093068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1867432957113204736",
+              "start": 0,
+              "username": "owO123qwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002725998132093068",
+        "in_reply_to_user_id": "1867432957113204736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002372761956798493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owO123qwe 摸摸w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867432957113204736",
+        "conversation_id": "2002372761956798493",
+        "created_at": "2025-12-20T13:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T14:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002372761956798493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002372761956798493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 529,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "活的好痛苦，割了十几刀，抽了根烟，冷静下来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2002371651392929813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 186,
+          "like_count": 4794,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 755
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T04:55:02.000Z",
+        "description": "一个不该存在的猫猫。世界爆炸掉了",
+        "id": "1867432957113204736",
+        "name": "小然🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002091339715072000/XYNJnuMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2391,
+          "following_count": 560,
+          "like_count": 4842,
+          "listed_count": 6,
+          "media_count": 236,
+          "tweet_count": 1927
+        },
+        "username": "owO123qwe",
+        "verified": false
+      }
+    ]
+  }
+}

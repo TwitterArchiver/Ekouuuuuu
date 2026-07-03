@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016826173725294592"
+      ],
+      "media_source_tweet_id": [
+        "2016826180884976076"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2017291777619952021",
+    "created_at": "2026-01-30T17:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T18:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017291777619952021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1435753372347289603",
+          "start": 3,
+          "username": "xno_2_5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nqUGnl5A5C",
+          "end": 36,
+          "expanded_url": "https://x.com/xno_2_5/status/2016826180884976076/photo/1",
+          "media_key": "3_2016826173725294592",
+          "start": 13,
+          "url": "https://t.co/nqUGnl5A5C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017291777619952021",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016826180884976076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xno_2_5: https://t.co/nqUGnl5A5C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016826173725294592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_00uCqbQAA4ms2.jpg",
+        "width": 1874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016826173725294592"
+          ],
+          "media_source_tweet_id": [
+            "2016826180884976076"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2017291777619952021",
+        "created_at": "2026-01-30T17:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T18:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017291777619952021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1435753372347289603",
+              "start": 3,
+              "username": "xno_2_5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nqUGnl5A5C",
+              "end": 36,
+              "expanded_url": "https://x.com/xno_2_5/status/2016826180884976076/photo/1",
+              "media_key": "3_2016826173725294592",
+              "start": 13,
+              "url": "https://t.co/nqUGnl5A5C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017291777619952021",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016826180884976076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xno_2_5: https://t.co/nqUGnl5A5C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016826173725294592"
+          ]
+        },
+        "author_id": "1435753372347289603",
+        "conversation_id": "2016826180884976076",
+        "created_at": "2026-01-29T10:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T11:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016826180884976076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nqUGnl5A5C",
+              "end": 23,
+              "expanded_url": "https://x.com/xno_2_5/status/2016826180884976076/photo/1",
+              "media_key": "3_2016826173725294592",
+              "start": 0,
+              "url": "https://t.co/nqUGnl5A5C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016826180884976076",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 14614,
+          "like_count": 1584,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nqUGnl5A5C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "同一片天為何好久不見‖叫我白菜就好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 236,
+          "like_count": 7747,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 1789
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-08T23:54:31.000Z",
+        "description": "見つけてくれてありがとう 絵と言葉をかきます🍀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/x.no2_?igsh=MX…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/x.no2_?igsh=MXU5bDFweDY1N2g5OA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/woINMO1fCs"
+              }
+            ]
+          }
+        },
+        "id": "1435753372347289603",
+        "location": "天使ネットワーク",
+        "name": "ひなた",
+        "pinned_tweet_id": "1942214813922607176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486926126236975107/gidEZeke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2583,
+          "following_count": 105,
+          "like_count": 2177,
+          "listed_count": 17,
+          "media_count": 105,
+          "tweet_count": 196
+        },
+        "url": "https://t.co/woINMO1fCs",
+        "username": "xno_2_5",
+        "verified": false
+      }
+    ]
+  }
+}

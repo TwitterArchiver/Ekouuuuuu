@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999903349383262455",
+    "created_at": "2025-12-13T18:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T19:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999903349383262455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FullCircle021/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/FullCircle021/status/1999550997362856415",
+          "start": 4,
+          "url": "https://t.co/quOeB9QjX1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999903349383262455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999550997362856415",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "還真是 https://t.co/quOeB9QjX1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999903349383262455",
+        "created_at": "2025-12-13T18:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T19:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999903349383262455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FullCircle021/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/FullCircle021/status/1999550997362856415",
+              "start": 4,
+              "url": "https://t.co/quOeB9QjX1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999903349383262455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999550997362856415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "還真是 https://t.co/quOeB9QjX1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939768618595885062",
+        "conversation_id": "1999550997362856415",
+        "created_at": "2025-12-12T18:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T19:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999550997362856415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999550997362856415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 41646,
+          "like_count": 537,
+          "quote_count": 13,
+          "reply_count": 33,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "你太喜欢一个人 那个人就不会喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了ww‖極樂‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 147,
+          "like_count": 3653,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 391
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T19:31:06.000Z",
+        "description": "清纯甜美无辜呆萌温良可爱又伴随一点忧郁的女孩子",
+        "id": "1939768618595885062",
+        "location": "2.1km",
+        "name": "其实你幸福就好了",
+        "pinned_tweet_id": "1999154044288602387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939769286559494144/I_MSseuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 17,
+          "like_count": 263,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 652
+        },
+        "username": "FullCircle021",
+        "verified": false
+      }
+    ]
+  }
+}

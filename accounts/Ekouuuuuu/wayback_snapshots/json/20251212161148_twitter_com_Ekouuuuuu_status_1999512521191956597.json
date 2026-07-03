@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999512521191956597",
+    "created_at": "2025-12-12T16:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T17:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999512521191956597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1421851995355369477",
+          "start": 3,
+          "username": "Aichijiandanxyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999512521191956597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 365
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999063109500280869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Aichijiandanxyz: 第1个取消耳机孔的人，我要取消你的屁眼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999512521191956597",
+        "created_at": "2025-12-12T16:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T17:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999512521191956597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1421851995355369477",
+              "start": 3,
+              "username": "Aichijiandanxyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999512521191956597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 365
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999063109500280869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Aichijiandanxyz: 第1个取消耳机孔的人，我要取消你的屁眼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421851995355369477",
+        "conversation_id": "1999063109500280869",
+        "created_at": "2025-12-11T10:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999063109500280869"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999063109500280869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 471889,
+          "like_count": 5712,
+          "quote_count": 33,
+          "reply_count": 105,
+          "retweet_count": 365
+        },
+        "reply_settings": "following",
+        "text": "第1个取消耳机孔的人，我要取消你的屁眼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998740626599456769/Z9snoakz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 134,
+          "like_count": 3396,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 205
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T15:15:33.000Z",
+        "description": "思维补丁，本体是🥚\n@eggyyybaby\n#煎蛋不想说话就唱歌吧\n#蛋喘",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 22,
+                "tag": "煎蛋不想说话就唱歌吧"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "蛋喘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "eggyyybaby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cmespeed.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://cmespeed.com/#/register?code=qnpQSfop",
+                "start": 0,
+                "url": "https://t.co/NEXqoJ99mw"
+              }
+            ]
+          }
+        },
+        "id": "1421851995355369477",
+        "location": "🍳🪜→",
+        "name": "煎蛋棉被",
+        "pinned_tweet_id": "1844974218825400809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922277650879676418/p7_qBFWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20120,
+          "following_count": 339,
+          "like_count": 159485,
+          "listed_count": 59,
+          "media_count": 7741,
+          "tweet_count": 74264
+        },
+        "url": "https://t.co/NEXqoJ99mw",
+        "username": "Aichijiandanxyz",
+        "verified": false
+      }
+    ]
+  }
+}

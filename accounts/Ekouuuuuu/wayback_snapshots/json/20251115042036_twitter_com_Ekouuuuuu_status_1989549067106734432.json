@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988398170402156550"
+      ],
+      "media_source_tweet_id": [
+        "1988398176991363414"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1989549067106734432",
+    "created_at": "2025-11-15T04:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T05:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989549067106734432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1960187829687885824",
+          "start": 3,
+          "username": "huaxuejilebaike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A5LfTabHgg",
+          "end": 44,
+          "expanded_url": "https://x.com/huaxuejilebaike/status/1988398176991363414/photo/1",
+          "media_key": "3_1988398170402156550",
+          "start": 21,
+          "url": "https://t.co/A5LfTabHgg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989549067106734432",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988398176991363414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huaxuejilebaike: https://t.co/A5LfTabHgg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 886,
+        "media_key": "3_1988398170402156550",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5g1mdrbcAYspbt.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988398170402156550"
+          ],
+          "media_source_tweet_id": [
+            "1988398176991363414"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1989549067106734432",
+        "created_at": "2025-11-15T04:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T05:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989549067106734432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1960187829687885824",
+              "start": 3,
+              "username": "huaxuejilebaike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A5LfTabHgg",
+              "end": 44,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1988398176991363414/photo/1",
+              "media_key": "3_1988398170402156550",
+              "start": 21,
+              "url": "https://t.co/A5LfTabHgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989549067106734432",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988398176991363414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huaxuejilebaike: https://t.co/A5LfTabHgg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988398170402156550"
+          ]
+        },
+        "author_id": "1960187829687885824",
+        "conversation_id": "1988398176991363414",
+        "created_at": "2025-11-12T00:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T01:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988398176991363414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A5LfTabHgg",
+              "end": 23,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1988398176991363414/photo/1",
+              "media_key": "3_1988398170402156550",
+              "start": 0,
+              "url": "https://t.co/A5LfTabHgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988398176991363414",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5682,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/A5LfTabHgg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "還要多久 我才能在你身邊",
+        "id": "1912063502782812160",
+        "location": "我最想選的肩膀又是否願意與我同心",
+        "name": "我珍惜你的方式錯了嗎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979464074787246080/49ypr-ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 39,
+          "like_count": 2486,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 97
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "化学极乐/享受化学物质带来的极致快乐/化学极乐不仅能够改变人的感知和意识/还可以让人们具备类似于超能力的能力，如超速反应、快速学习\n官方网站:https://t.co/DM4fmdhdkn\nTG频道:https://t.co/YoXqIDrwpe\n交流群:https://t.co/JfbYdIujGy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 94,
+                "expanded_url": "https://overdose.day/",
+                "start": 71,
+                "url": "https://t.co/DM4fmdhdkn"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaike",
+                "end": 123,
+                "expanded_url": "https://t.me/huaxuejilebaike",
+                "start": 100,
+                "url": "https://t.co/YoXqIDrwpe"
+              },
+              {
+                "display_url": "t.me/huaxuejile",
+                "end": 151,
+                "expanded_url": "https://t.me/huaxuejile",
+                "start": 128,
+                "url": "https://t.co/JfbYdIujGy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/DM4fmdhdkn"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "化学极乐百科🍥",
+        "pinned_tweet_id": "1989330423118545043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988121341233606656/UFOxlPsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 608,
+          "like_count": 316,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 552
+        },
+        "url": "https://t.co/DM4fmdhdkn",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

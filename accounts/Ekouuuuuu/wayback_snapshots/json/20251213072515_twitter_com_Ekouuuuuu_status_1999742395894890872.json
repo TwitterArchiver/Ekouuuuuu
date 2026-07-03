@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999464860888031715",
+    "created_at": "2025-12-13T07:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T08:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999742395894890872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1750117039497216000",
+          "start": 0,
+          "username": "lantern_shark_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999742395894890872",
+    "in_reply_to_user_id": "1750117039497216000",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999464860888031715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lantern_shark_ kawaiiiii～！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999464844152770560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-GrqCbkAA60xK.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999464860888031715",
+        "created_at": "2025-12-13T07:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T08:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999742395894890872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750117039497216000",
+              "start": 0,
+              "username": "lantern_shark_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999742395894890872",
+        "in_reply_to_user_id": "1750117039497216000",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999464860888031715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lantern_shark_ kawaiiiii～！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999464844152770560"
+          ]
+        },
+        "author_id": "1750117039497216000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1999464860888031715",
+        "created_at": "2025-12-12T13:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T14:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999464860888031715"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "空崎ヒナ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zB2Z82LpfW",
+              "end": 36,
+              "expanded_url": "https://x.com/lantern_shark_/status/1999464860888031715/photo/1",
+              "media_key": "3_1999464844152770560",
+              "start": 13,
+              "url": "https://t.co/zB2Z82LpfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999464860888031715",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1113,
+          "impression_count": 74935,
+          "like_count": 7119,
+          "quote_count": 11,
+          "reply_count": 25,
+          "retweet_count": 450
+        },
+        "reply_settings": "everyone",
+        "text": "#ブルアカ \n#空崎ヒナ https://t.co/zB2Z82LpfW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999520374074024441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 136,
+          "like_count": 3457,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 259
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T11:23:20.000Z",
+        "description": "中国人 偶尔出cos偶尔画画 cosplay/illustration ブルアカ/アズールレーン好き 成人済み",
+        "id": "1750117039497216000",
+        "name": "灯笼鲨片",
+        "pinned_tweet_id": "1873006533812142288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886478995648372736/u4R4xYhD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27446,
+          "following_count": 318,
+          "like_count": 1097,
+          "listed_count": 149,
+          "media_count": 122,
+          "tweet_count": 529
+        },
+        "username": "lantern_shark_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999711124996903281",
+    "created_at": "2025-12-14T05:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T06:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000068846758379732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1843922331674267648",
+          "start": 0,
+          "username": "youhealedme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000068846758379732",
+    "in_reply_to_user_id": "1843922331674267648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999711124996903281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youhealedme 萌www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999711120500658177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Bmq07XEAE6vXH.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999711124996903281",
+        "created_at": "2025-12-14T05:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000068846758379732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1843922331674267648",
+              "start": 0,
+              "username": "youhealedme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000068846758379732",
+        "in_reply_to_user_id": "1843922331674267648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999711124996903281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youhealedme 萌www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999711120500658177"
+          ]
+        },
+        "author_id": "1843922331674267648",
+        "conversation_id": "1999711124996903281",
+        "created_at": "2025-12-13T05:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T06:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999711124996903281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MByIVOzHEY",
+              "end": 23,
+              "expanded_url": "https://x.com/youhealedme/status/1999711124996903281/photo/1",
+              "media_key": "3_1999711120500658177",
+              "start": 0,
+              "url": "https://t.co/MByIVOzHEY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999711124996903281",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1773,
+          "impression_count": 112345,
+          "like_count": 13818,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 387
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MByIVOzHEY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了ww‖化學極樂‖養病中……‖🇯🇵🤝🇹🇼‖overdose是吸毒所以我是毒蟲🥺‖亚硝‖支畜滾‖陰暗逼（？）‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 154,
+          "like_count": 3719,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 429
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T07:52:03.000Z",
+        "description": "eepy gamer since 2002… trying to fit in… 🐭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/youhealedme",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/youhealedme",
+                "start": 0,
+                "url": "https://t.co/XH9qs1EHYe"
+              }
+            ]
+          }
+        },
+        "id": "1843922331674267648",
+        "name": "toki",
+        "pinned_tweet_id": "1941928955562344754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996153635248521216/oqlRJofm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77203,
+          "following_count": 27,
+          "like_count": 13051,
+          "listed_count": 198,
+          "media_count": 207,
+          "tweet_count": 845
+        },
+        "url": "https://t.co/XH9qs1EHYe",
+        "username": "youhealedme",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994650321755537408"
+      ],
+      "media_source_tweet_id": [
+        "1994650325656244362"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994656870246879463",
+    "created_at": "2025-11-29T06:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T07:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994656870246879463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1197173528",
+          "start": 3,
+          "username": "rurudo_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vYtAzPTylg",
+          "end": 38,
+          "expanded_url": "https://x.com/rurudo_/status/1994650325656244362/photo/1",
+          "media_key": "3_1994650321755537408",
+          "start": 15,
+          "url": "https://t.co/vYtAzPTylg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994656870246879463",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 424
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994650325656244362",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rurudo_: 🪽 https://t.co/vYtAzPTylg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1901,
+        "media_key": "3_1994650321755537408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65r5kdbgAA3vuj.jpg",
+        "width": 1360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994650321755537408"
+          ],
+          "media_source_tweet_id": [
+            "1994650325656244362"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994656870246879463",
+        "created_at": "2025-11-29T06:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994656870246879463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1197173528",
+              "start": 3,
+              "username": "rurudo_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vYtAzPTylg",
+              "end": 38,
+              "expanded_url": "https://x.com/rurudo_/status/1994650325656244362/photo/1",
+              "media_key": "3_1994650321755537408",
+              "start": 15,
+              "url": "https://t.co/vYtAzPTylg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994656870246879463",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 424
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994650325656244362",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rurudo_: 🪽 https://t.co/vYtAzPTylg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994650321755537408"
+          ]
+        },
+        "author_id": "1197173528",
+        "conversation_id": "1994650325656244362",
+        "created_at": "2025-11-29T06:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994650325656244362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vYtAzPTylg",
+              "end": 25,
+              "expanded_url": "https://x.com/rurudo_/status/1994650325656244362/photo/1",
+              "media_key": "3_1994650321755537408",
+              "start": 2,
+              "url": "https://t.co/vYtAzPTylg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994650325656244362",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 236,
+          "impression_count": 18423,
+          "like_count": 1951,
+          "quote_count": 2,
+          "reply_count": 31,
+          "retweet_count": 424
+        },
+        "reply_settings": "everyone",
+        "text": "🪽 https://t.co/vYtAzPTylg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 107,
+          "like_count": 2965,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 281
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-19T13:30:56.000Z",
+        "description": "たまにお絵描き🎨┊https://t.co/p9aXC7cEcm┊画集→https://t.co/3pro1mx2cO┊♠️公式info @rurudo_info┊👾@tokoyamitowa┊ごく稀に→🦁https://t.co/0ytd5qttYg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "rurudo_info"
+              },
+              {
+                "end": 96,
+                "start": 83,
+                "username": "tokoyamitowa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/25760573",
+                "end": 32,
+                "expanded_url": "https://www.pixiv.net/users/25760573",
+                "start": 9,
+                "url": "https://t.co/p9aXC7cEcm"
+              },
+              {
+                "display_url": "amzn.asia/d/7UdfiyQ",
+                "end": 59,
+                "expanded_url": "https://amzn.asia/d/7UdfiyQ",
+                "start": 36,
+                "url": "https://t.co/3pro1mx2cO"
+              },
+              {
+                "display_url": "youtube.com/@rurudo_LION",
+                "end": 126,
+                "expanded_url": "https://www.youtube.com/@rurudo_LION",
+                "start": 103,
+                "url": "https://t.co/0ytd5qttYg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rurudot.net",
+                "end": 23,
+                "expanded_url": "https://rurudot.net/",
+                "start": 0,
+                "url": "https://t.co/BKJ1BLQj3N"
+              }
+            ]
+          }
+        },
+        "id": "1197173528",
+        "location": "rurudot",
+        "name": "rurudo",
+        "pinned_tweet_id": "1937469227017052570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994623585256968199/I7Q5StQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879803,
+          "following_count": 654,
+          "like_count": 6436,
+          "listed_count": 7260,
+          "media_count": 153,
+          "tweet_count": 4542
+        },
+        "url": "https://t.co/BKJ1BLQj3N",
+        "username": "rurudo_",
+        "verified": false
+      }
+    ]
+  }
+}

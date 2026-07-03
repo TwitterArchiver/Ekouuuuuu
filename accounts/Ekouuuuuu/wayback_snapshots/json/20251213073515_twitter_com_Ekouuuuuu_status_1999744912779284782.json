@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999744912779284782",
+    "created_at": "2025-12-13T07:35:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T08:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999744912779284782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1027764083565711360",
+          "start": 3,
+          "username": "__Inty__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999744912779284782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999333495634628838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__Inty__: 台湾国，民调显示，82.6%的台湾人反对中国自欺欺人的“一国两制”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999744912779284782",
+        "created_at": "2025-12-13T07:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T08:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999744912779284782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1027764083565711360",
+              "start": 3,
+              "username": "__Inty__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999744912779284782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999333495634628838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__Inty__: 台湾国，民调显示，82.6%的台湾人反对中国自欺欺人的“一国两制”。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1027764083565711360",
+        "conversation_id": "1999333495634628838",
+        "created_at": "2025-12-12T04:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999333495634628838"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999333495634628838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 133550,
+          "like_count": 944,
+          "quote_count": 3,
+          "reply_count": 289,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "台湾国，民调显示，82.6%的台湾人反对中国自欺欺人的“一国两制”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999520374074024441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 136,
+          "like_count": 3470,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 276
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-10T03:50:27.000Z",
+        "description": "One of the most followed news channels On X in Mandarin. Anti Chinese Communist Government . Anti Dictatorship. 为你分享世界热点新闻 | 时政聊天群  👇https://t.co/mfY4RFysrB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Inty_Fanbase",
+                "end": 156,
+                "expanded_url": "https://t.me/Inty_Fanbase",
+                "start": 133,
+                "url": "https://t.co/mfY4RFysrB"
+              }
+            ]
+          }
+        },
+        "id": "1027764083565711360",
+        "location": "USA",
+        "name": "Inty News",
+        "pinned_tweet_id": "1995132932084699644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683004187951665153/9u75ptcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730078,
+          "following_count": 2,
+          "like_count": 1587,
+          "listed_count": 2176,
+          "media_count": 33712,
+          "tweet_count": 94017
+        },
+        "username": "__Inty__",
+        "verified": true
+      }
+    ]
+  }
+}

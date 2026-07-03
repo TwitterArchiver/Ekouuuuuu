@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051770715146448896",
+        "3_2051770715809140736",
+        "3_2051770715121299456",
+        "3_2051770713846296576"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2051770718434853311",
+    "created_at": "2026-05-05T21:07:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T22:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051770718434853311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 65,
+          "id": "1980612830824132609",
+          "start": 58,
+          "username": "seeFvn"
+        },
+        {
+          "end": 79,
+          "id": "2009945300723740673",
+          "start": 68,
+          "username": "Shiroko_Li"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sYQSrpdvXf",
+          "end": 143,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2051770718434853311/photo/1",
+          "media_key": "3_2051770715146448896",
+          "start": 120,
+          "url": "https://t.co/sYQSrpdvXf"
+        },
+        {
+          "display_url": "pic.x.com/sYQSrpdvXf",
+          "end": 143,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2051770718434853311/photo/1",
+          "media_key": "3_2051770715809140736",
+          "start": 120,
+          "url": "https://t.co/sYQSrpdvXf"
+        },
+        {
+          "display_url": "pic.x.com/sYQSrpdvXf",
+          "end": 143,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2051770718434853311/photo/1",
+          "media_key": "3_2051770715121299456",
+          "start": 120,
+          "url": "https://t.co/sYQSrpdvXf"
+        },
+        {
+          "display_url": "pic.x.com/sYQSrpdvXf",
+          "end": 143,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2051770718434853311/photo/1",
+          "media_key": "3_2051770713846296576",
+          "start": 120,
+          "url": "https://t.co/sYQSrpdvXf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051770718434853311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "歡迎來到白菜的首頁🙃\n台灣語/國語🆗\n討厭藥物濫用/自殘/負能量/cosplay/碎碎唸/吸毒的麻煩自行屏蔽\n好閨蜜@seeFvn 男友@Shiroko_Li \n人與人之間總是隔著一層無法散去的霧🥲\n要是可以通往化學極樂的世界就皆大歡喜了 https://t.co/sYQSrpdvXf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051770715146448896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlamDzacAABfFY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051770715809140736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlamGRaUAASC6a.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2056,
+        "media_key": "3_2051770715121299456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlamDtasAAlp3J.jpg",
+        "width": 2056
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051770713846296576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlal-9bsAAzT-P.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051770715146448896",
+            "3_2051770715809140736",
+            "3_2051770715121299456",
+            "3_2051770713846296576"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2051770718434853311",
+        "created_at": "2026-05-05T21:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T22:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051770718434853311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 65,
+              "id": "1980612830824132609",
+              "start": 58,
+              "username": "seeFvn"
+            },
+            {
+              "end": 79,
+              "id": "2009945300723740673",
+              "start": 68,
+              "username": "Shiroko_Li"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sYQSrpdvXf",
+              "end": 143,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2051770718434853311/photo/1",
+              "media_key": "3_2051770715146448896",
+              "start": 120,
+              "url": "https://t.co/sYQSrpdvXf"
+            },
+            {
+              "display_url": "pic.x.com/sYQSrpdvXf",
+              "end": 143,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2051770718434853311/photo/1",
+              "media_key": "3_2051770715809140736",
+              "start": 120,
+              "url": "https://t.co/sYQSrpdvXf"
+            },
+            {
+              "display_url": "pic.x.com/sYQSrpdvXf",
+              "end": 143,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2051770718434853311/photo/1",
+              "media_key": "3_2051770715121299456",
+              "start": 120,
+              "url": "https://t.co/sYQSrpdvXf"
+            },
+            {
+              "display_url": "pic.x.com/sYQSrpdvXf",
+              "end": 143,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2051770718434853311/photo/1",
+              "media_key": "3_2051770713846296576",
+              "start": 120,
+              "url": "https://t.co/sYQSrpdvXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051770718434853311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歡迎來到白菜的首頁🙃\n台灣語/國語🆗\n討厭藥物濫用/自殘/負能量/cosplay/碎碎唸/吸毒的麻煩自行屏蔽\n好閨蜜@seeFvn 男友@Shiroko_Li \n人與人之間總是隔著一層無法散去的霧🥲\n要是可以通往化學極樂的世界就皆大歡喜了 https://t.co/sYQSrpdvXf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "世界會記得你曾來過‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2045267383476945131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 296,
+          "like_count": 11492,
+          "listed_count": 1,
+          "media_count": 469,
+          "tweet_count": 2836
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 529,
+          "like_count": 3348,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1172
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-10T11:08:17.000Z",
+        "description": "天空没有边界（The sky has no boundaries.）",
+        "id": "2009945300723740673",
+        "location": "平流层",
+        "name": "Shiroko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009958235156164613/l1f0mR6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "Shiroko_Li",
+        "verified": false
+      }
+    ]
+  }
+}

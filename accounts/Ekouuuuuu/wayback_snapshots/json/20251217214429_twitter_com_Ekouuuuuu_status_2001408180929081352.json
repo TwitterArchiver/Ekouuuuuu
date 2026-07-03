@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2001408180929081352",
+    "created_at": "2025-12-17T21:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T22:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001408180929081352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1807666546057338880",
+          "start": 3,
+          "username": "enxwo11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001408180929081352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000912592223789388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @enxwo11: 我们的关系是不是我不给你发消息然后我们就没关系了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2001408180929081352",
+        "created_at": "2025-12-17T21:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T22:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001408180929081352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1807666546057338880",
+              "start": 3,
+              "username": "enxwo11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001408180929081352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000912592223789388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @enxwo11: 我们的关系是不是我不给你发消息然后我们就没关系了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807666546057338880",
+        "conversation_id": "2000912592223789388",
+        "created_at": "2025-12-16T12:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T13:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000912592223789388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000912592223789388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 38304,
+          "like_count": 514,
+          "quote_count": 12,
+          "reply_count": 30,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "我们的关系是不是我不给你发消息然后我们就没关系了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 184,
+          "like_count": 4571,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 678
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T06:44:32.000Z",
+        "description": "无🚪不接广不线下不约炮不接定制",
+        "id": "1807666546057338880",
+        "name": "ence",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997015720685981697/4lmA-Pyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 164,
+          "like_count": 5304,
+          "listed_count": 3,
+          "media_count": 81,
+          "tweet_count": 8015
+        },
+        "username": "enxwo11",
+        "verified": false
+      }
+    ]
+  }
+}

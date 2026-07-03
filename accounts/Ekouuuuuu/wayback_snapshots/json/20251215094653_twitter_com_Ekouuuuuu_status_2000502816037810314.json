@@ -1,0 +1,574 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2000502816037810314",
+    "created_at": "2025-12-15T09:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T10:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000502816037810314"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 60,
+          "normalized_text": "ARUCHIKA Memorial in White",
+          "probability": 0.7562,
+          "start": 35,
+          "type": "Other"
+        },
+        {
+          "end": 83,
+          "normalized_text": "イチカ",
+          "probability": 0.4183,
+          "start": 81,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600614417766703104",
+          "start": 3,
+          "username": "_okkizzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000502816037810314",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000182242791063557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_okkizzz: [C107新刊予約]  \n\nC107新刊『ARUCHIKA Memorial in White』の書店予約が開始しました！💠\nアルとイチカのイラスト＋漫画本になります。 \n会場に来られない方はぜひ通販をご利用ください！  \n\n🍈メロンブックス:htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2000182235702726656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ITJV0bkAAfUfX.png",
+        "width": 641
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2000502816037810314",
+        "created_at": "2025-12-15T09:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T10:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000502816037810314"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "ARUCHIKA Memorial in White",
+              "probability": 0.7562,
+              "start": 35,
+              "type": "Other"
+            },
+            {
+              "end": 83,
+              "normalized_text": "イチカ",
+              "probability": 0.4183,
+              "start": 81,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600614417766703104",
+              "start": 3,
+              "username": "_okkizzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000502816037810314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000182242791063557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_okkizzz: [C107新刊予約]  \n\nC107新刊『ARUCHIKA Memorial in White』の書店予約が開始しました！💠\nアルとイチカのイラスト＋漫画本になります。 \n会場に来られない方はぜひ通販をご利用ください！  \n\n🍈メロンブックス:htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000182235702726656"
+          ]
+        },
+        "author_id": "1600614417766703104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2000182242791063557",
+        "created_at": "2025-12-14T12:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T13:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000182242791063557"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "ARUCHIKA Memorial in White",
+              "probability": 0.8018,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 69,
+              "normalized_text": "イチカ",
+              "probability": 0.4208,
+              "start": 67,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ARUCHIKA Memorial in Whiteはアルチカ OKKIMONの作品です。通販、予約は業界最速のメロンブックスにお任せ！",
+              "display_url": "melonbooks.co.jp/detail/detail.…",
+              "end": 145,
+              "expanded_url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=3399459",
+              "images": [
+                {
+                  "height": 421,
+                  "url": "https://pbs.twimg.com/news_img/2000164160928440320/cskg7C-0?format=jpg&name=orig",
+                  "width": 300
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2000164160928440320/cskg7C-0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 122,
+              "status": 200,
+              "title": "ARUCHIKA Memorial in White（アルチカ）の通販・購入はメロンブックス",
+              "unwound_url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=3399459",
+              "url": "https://t.co/zOwP8xyTv9"
+            },
+            {
+              "display_url": "pic.x.com/5FI2zp53FI",
+              "end": 169,
+              "expanded_url": "https://x.com/_okkizzz/status/2000182242791063557/photo/1",
+              "media_key": "3_2000182235702726656",
+              "start": 146,
+              "url": "https://t.co/5FI2zp53FI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000182242791063557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 16997,
+          "like_count": 754,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "[C107新刊予約]  \n\nC107新刊『ARUCHIKA Memorial in White』の書店予約が開始しました！💠\nアルとイチカのイラスト＋漫画本になります。 \n会場に来られない方はぜひ通販をご利用ください！  \n\n🍈メロンブックス:https://t.co/zOwP8xyTv9 https://t.co/5FI2zp53FI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 155,
+          "like_count": 3989,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 567
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T22:13:24.000Z",
+        "description": "그림 그리는 사람 🎨\n/ Contact : okkimon9999@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/54525598",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/54525598",
+                "start": 0,
+                "url": "https://t.co/Gvud14AvcH"
+              }
+            ]
+          }
+        },
+        "id": "1600614417766703104",
+        "name": "Okkimon/12코/@C107(火)東ユ-21b",
+        "pinned_tweet_id": "1997881622071554340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907963616923627520/auj7k43Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35530,
+          "following_count": 1497,
+          "like_count": 8853,
+          "listed_count": 232,
+          "media_count": 85,
+          "tweet_count": 4549
+        },
+        "url": "https://t.co/Gvud14AvcH",
+        "username": "_okkizzz",
+        "verified": true
+      }
+    ]
+  }
+}

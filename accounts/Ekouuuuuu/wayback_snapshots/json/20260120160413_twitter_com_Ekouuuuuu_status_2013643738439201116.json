@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2013189723431337984"
+      ],
+      "media_source_tweet_id": [
+        "2013189967044809185"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2013643738439201116",
+    "created_at": "2026-01-20T16:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T17:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013643738439201116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1714663805941366784",
+          "start": 3,
+          "username": "fllilo7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pABrNNYhS4",
+          "end": 49,
+          "expanded_url": "https://x.com/fllilo7/status/2013189967044809185/video/1",
+          "media_key": "13_2013189723431337984",
+          "start": 26,
+          "url": "https://t.co/pABrNNYhS4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013643738439201116",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 200
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013189967044809185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fllilo7: きみはどうかしているんだ https://t.co/pABrNNYhS4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33166,
+        "height": 1080,
+        "media_key": "13_2013189723431337984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013189723431337984/img/rdVxy_ptDQBmp2l0.jpg",
+        "public_metrics": {
+          "view_count": 103
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013189723431337984/vid/avc1/480x270/Hgmc3SuWJ-9XdJWb.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013189723431337984/vid/avc1/640x360/82PF_JOKDolw2A41.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013189723431337984/vid/avc1/1280x720/vOuq-o1DChAAFt0O.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013189723431337984/pl/R19LDlpV4nQXNQvh.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013189723431337984"
+          ],
+          "media_source_tweet_id": [
+            "2013189967044809185"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2013643738439201116",
+        "created_at": "2026-01-20T16:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013643738439201116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1714663805941366784",
+              "start": 3,
+              "username": "fllilo7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pABrNNYhS4",
+              "end": 49,
+              "expanded_url": "https://x.com/fllilo7/status/2013189967044809185/video/1",
+              "media_key": "13_2013189723431337984",
+              "start": 26,
+              "url": "https://t.co/pABrNNYhS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013643738439201116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 200
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013189967044809185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fllilo7: きみはどうかしているんだ https://t.co/pABrNNYhS4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013189723431337984"
+          ]
+        },
+        "author_id": "1714663805941366784",
+        "conversation_id": "2013189967044809185",
+        "created_at": "2026-01-19T10:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T11:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013189967044809185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pABrNNYhS4",
+              "end": 36,
+              "expanded_url": "https://x.com/fllilo7/status/2013189967044809185/video/1",
+              "media_key": "13_2013189723431337984",
+              "start": 13,
+              "url": "https://t.co/pABrNNYhS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013189967044809185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 417,
+          "impression_count": 24123,
+          "like_count": 1971,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 200
+        },
+        "reply_settings": "everyone",
+        "text": "きみはどうかしているんだ https://t.co/pABrNNYhS4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 74,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 51,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 225,
+          "like_count": 6614,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 1314
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T15:25:13.000Z",
+        "description": "https://t.co/qHlSCVWwCL #かちゃーと @fllilsb",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "かちゃーと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "fllilsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@fllilo7",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@fllilo7",
+                "start": 0,
+                "url": "https://t.co/qHlSCVWwCL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/fllilo7",
+                "end": 23,
+                "expanded_url": "http://lit.link/fllilo7",
+                "start": 0,
+                "url": "https://t.co/qsdoY28I1i"
+              }
+            ]
+          }
+        },
+        "id": "1714663805941366784",
+        "location": "廃病院",
+        "name": "かち",
+        "pinned_tweet_id": "1983489059378094437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984449412614275073/xhtqlccF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 32,
+          "like_count": 1938,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 337
+        },
+        "url": "https://t.co/qsdoY28I1i",
+        "username": "fllilo7",
+        "verified": false
+      }
+    ]
+  }
+}

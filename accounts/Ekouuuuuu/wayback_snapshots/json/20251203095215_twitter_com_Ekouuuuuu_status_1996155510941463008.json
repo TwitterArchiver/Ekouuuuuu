@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995326483435560961"
+      ],
+      "media_source_tweet_id": [
+        "1995326485901754856"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1996155510941463008",
+    "created_at": "2025-12-03T09:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T10:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996155510941463008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512261155850719234",
+          "start": 3,
+          "username": "Dormicumproject"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hRvPayO0ix",
+          "end": 56,
+          "expanded_url": "https://x.com/Dormicumproject/status/1995326485901754856/photo/1",
+          "media_key": "3_1995326483435560961",
+          "start": 33,
+          "url": "https://t.co/hRvPayO0ix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996155510941463008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 802
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995326485901754856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dormicumproject: 壊れるまで愛してほしい https://t.co/hRvPayO0ix"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1309,
+        "media_key": "3_1995326483435560961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7DS3XAbIAEJey1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995326483435560961"
+          ],
+          "media_source_tweet_id": [
+            "1995326485901754856"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1996155510941463008",
+        "created_at": "2025-12-03T09:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996155510941463008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512261155850719234",
+              "start": 3,
+              "username": "Dormicumproject"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRvPayO0ix",
+              "end": 56,
+              "expanded_url": "https://x.com/Dormicumproject/status/1995326485901754856/photo/1",
+              "media_key": "3_1995326483435560961",
+              "start": 33,
+              "url": "https://t.co/hRvPayO0ix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996155510941463008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 802
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995326485901754856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dormicumproject: 壊れるまで愛してほしい https://t.co/hRvPayO0ix"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995326483435560961"
+          ]
+        },
+        "author_id": "1512261155850719234",
+        "conversation_id": "1995326485901754856",
+        "created_at": "2025-12-01T02:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T03:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995326485901754856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRvPayO0ix",
+              "end": 35,
+              "expanded_url": "https://x.com/Dormicumproject/status/1995326485901754856/photo/1",
+              "media_key": "3_1995326483435560961",
+              "start": 12,
+              "url": "https://t.co/hRvPayO0ix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995326485901754856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 924,
+          "impression_count": 113825,
+          "like_count": 10281,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 802
+        },
+        "reply_settings": "everyone",
+        "text": "壊れるまで愛してほしい https://t.co/hRvPayO0ix"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 122,
+          "like_count": 3192,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 217
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T02:48:58.000Z",
+        "description": "心中デートしよ\n\n作品はここから読めますhttps://t.co/SB66qxQm2S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/dormicum",
+                "end": 43,
+                "expanded_url": "https://lit.link/dormicum",
+                "start": 20,
+                "url": "https://t.co/SB66qxQm2S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dormicum2os",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dormicum2os",
+                "start": 0,
+                "url": "https://t.co/CtEGqQLRIV"
+              }
+            ]
+          }
+        },
+        "id": "1512261155850719234",
+        "name": "ドルミカム（Dormicum）",
+        "pinned_tweet_id": "1974406691593871804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761010277162864640/PGZHn1CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130845,
+          "following_count": 0,
+          "like_count": 1803,
+          "listed_count": 573,
+          "media_count": 782,
+          "tweet_count": 1198
+        },
+        "url": "https://t.co/CtEGqQLRIV",
+        "username": "Dormicumproject",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021605908401549312"
+      ],
+      "media_source_tweet_id": [
+        "2021607472033628292"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2021622910943986112",
+    "created_at": "2026-02-11T16:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T17:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021622910943986112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1998086900104712192",
+          "start": 3,
+          "username": "aririsu083"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v8aTtDTr5P",
+          "end": 58,
+          "expanded_url": "https://x.com/aririsu083/status/2021607472033628292/photo/1",
+          "media_key": "3_2021605908401549312",
+          "start": 35,
+          "url": "https://t.co/v8aTtDTr5P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021622910943986112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 230
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021607472033628292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aririsu083: 気持ちを落ち着けてもらう漫画(👿🐳) https://t.co/v8aTtDTr5P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2339,
+        "media_key": "3_2021605908401549312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4v3N4a8AAAte3.png",
+        "width": 1654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021605908401549312"
+          ],
+          "media_source_tweet_id": [
+            "2021607472033628292"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2021622910943986112",
+        "created_at": "2026-02-11T16:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T17:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021622910943986112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1998086900104712192",
+              "start": 3,
+              "username": "aririsu083"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v8aTtDTr5P",
+              "end": 58,
+              "expanded_url": "https://x.com/aririsu083/status/2021607472033628292/photo/1",
+              "media_key": "3_2021605908401549312",
+              "start": 35,
+              "url": "https://t.co/v8aTtDTr5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021622910943986112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 230
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021607472033628292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aririsu083: 気持ちを落ち着けてもらう漫画(👿🐳) https://t.co/v8aTtDTr5P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021605908401549312"
+          ]
+        },
+        "author_id": "1998086900104712192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2021607472033628292",
+        "created_at": "2026-02-11T15:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T16:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021607472033628292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v8aTtDTr5P",
+              "end": 42,
+              "expanded_url": "https://x.com/aririsu083/status/2021607472033628292/photo/1",
+              "media_key": "3_2021605908401549312",
+              "start": 19,
+              "url": "https://t.co/v8aTtDTr5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021607472033628292",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 450,
+          "impression_count": 32751,
+          "like_count": 2263,
+          "quote_count": 11,
+          "reply_count": 14,
+          "retweet_count": 230
+        },
+        "reply_settings": "everyone",
+        "text": "気持ちを落ち着けてもらう漫画(👿🐳) https://t.co/v8aTtDTr5P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 249,
+          "like_count": 8387,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 2117
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T17:47:03.000Z",
+        "description": "【漫画・イラスト】百合/ブルアカ/一次創作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/glad_quail519",
+                "end": 23,
+                "expanded_url": "https://note.com/glad_quail519",
+                "start": 0,
+                "url": "https://t.co/IsPk4toaKu"
+              }
+            ]
+          }
+        },
+        "id": "1998086900104712192",
+        "location": "未成年非推奨",
+        "name": "あまりりす🔞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005710291372552192/coEDK5XT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 45,
+          "like_count": 1032,
+          "listed_count": 10,
+          "media_count": 16,
+          "tweet_count": 94
+        },
+        "url": "https://t.co/IsPk4toaKu",
+        "username": "aririsu083",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039665951520727040"
+      ],
+      "media_source_tweet_id": [
+        "2039665958521127192"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2039760343610818971",
+    "created_at": "2026-04-02T17:42:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T18:42:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039760343610818971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1959945774827220992",
+          "start": 3,
+          "username": "neruri_nn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OI1CBOzBEe",
+          "end": 38,
+          "expanded_url": "https://x.com/neruri_nn/status/2039665958521127192/photo/1",
+          "media_key": "3_2039665951520727040",
+          "start": 15,
+          "url": "https://t.co/OI1CBOzBEe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039760343610818971",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039665958521127192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neruri_nn: https://t.co/OI1CBOzBEe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_2039665951520727040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5ZYFTaIAA8rlr.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039665951520727040"
+          ],
+          "media_source_tweet_id": [
+            "2039665958521127192"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2039760343610818971",
+        "created_at": "2026-04-02T17:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T18:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039760343610818971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1959945774827220992",
+              "start": 3,
+              "username": "neruri_nn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OI1CBOzBEe",
+              "end": 38,
+              "expanded_url": "https://x.com/neruri_nn/status/2039665958521127192/photo/1",
+              "media_key": "3_2039665951520727040",
+              "start": 15,
+              "url": "https://t.co/OI1CBOzBEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039760343610818971",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039665958521127192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neruri_nn: https://t.co/OI1CBOzBEe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039665951520727040"
+          ]
+        },
+        "author_id": "1959945774827220992",
+        "conversation_id": "2039665958521127192",
+        "created_at": "2026-04-02T11:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039665958521127192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OI1CBOzBEe",
+              "end": 23,
+              "expanded_url": "https://x.com/neruri_nn/status/2039665958521127192/photo/1",
+              "media_key": "3_2039665951520727040",
+              "start": 0,
+              "url": "https://t.co/OI1CBOzBEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039665958521127192",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 4010,
+          "like_count": 494,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OI1CBOzBEe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖恆春最深情‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo‖陰暗逼od蛆互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2035365735460180096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 248,
+          "like_count": 9802,
+          "listed_count": 1,
+          "media_count": 414,
+          "tweet_count": 2583
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T11:47:55.000Z",
+        "description": "Skeb→ https://t.co/I8XOVNYuS4￤ff外通知オフ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@neruri_nn",
+                "end": 29,
+                "expanded_url": "https://skeb.jp/@neruri_nn",
+                "start": 6,
+                "url": "https://t.co/I8XOVNYuS4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/neru_r0",
+                "end": 23,
+                "expanded_url": "https://lit.link/neru_r0",
+                "start": 0,
+                "url": "https://t.co/L9kxctTfH3"
+              }
+            ]
+          }
+        },
+        "id": "1959945774827220992",
+        "name": "ね る り",
+        "pinned_tweet_id": "2034498796860915785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034222602219298816/MC-FCDU0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2679,
+          "following_count": 3,
+          "like_count": 8838,
+          "listed_count": 15,
+          "media_count": 156,
+          "tweet_count": 447
+        },
+        "url": "https://t.co/L9kxctTfH3",
+        "username": "neruri_nn",
+        "verified": false
+      }
+    ]
+  }
+}

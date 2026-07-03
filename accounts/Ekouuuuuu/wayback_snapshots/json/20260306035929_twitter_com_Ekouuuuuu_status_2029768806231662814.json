@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029719041892569089"
+      ],
+      "media_source_tweet_id": [
+        "2029719047177392596"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2029768806231662814",
+    "created_at": "2026-03-06T03:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T04:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029768806231662814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1846188581905485828",
+          "start": 3,
+          "username": "aaaa____dry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B4C1jRAkTz",
+          "end": 54,
+          "expanded_url": "https://x.com/aaaa____dry/status/2029719047177392596/photo/1",
+          "media_key": "3_2029719041892569089",
+          "start": 31,
+          "url": "https://t.co/B4C1jRAkTz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029768806231662814",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029719047177392596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaaa____dry: 大丈夫なんて無責任な言葉だ https://t.co/B4C1jRAkTz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2029719041892569089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCsCtvXaUAEjkLB.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029719041892569089"
+          ],
+          "media_source_tweet_id": [
+            "2029719047177392596"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2029768806231662814",
+        "created_at": "2026-03-06T03:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T04:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029768806231662814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1846188581905485828",
+              "start": 3,
+              "username": "aaaa____dry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4C1jRAkTz",
+              "end": 54,
+              "expanded_url": "https://x.com/aaaa____dry/status/2029719047177392596/photo/1",
+              "media_key": "3_2029719041892569089",
+              "start": 31,
+              "url": "https://t.co/B4C1jRAkTz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029768806231662814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029719047177392596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaaa____dry: 大丈夫なんて無責任な言葉だ https://t.co/B4C1jRAkTz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029719041892569089"
+          ]
+        },
+        "author_id": "1846188581905485828",
+        "conversation_id": "2029719047177392596",
+        "created_at": "2026-03-06T00:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T01:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029719047177392596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4C1jRAkTz",
+              "end": 37,
+              "expanded_url": "https://x.com/aaaa____dry/status/2029719047177392596/photo/1",
+              "media_key": "3_2029719041892569089",
+              "start": 14,
+              "url": "https://t.co/B4C1jRAkTz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029719047177392596",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 797,
+          "like_count": 116,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "大丈夫なんて無責任な言葉だ https://t.co/B4C1jRAkTz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 247,
+          "like_count": 9107,
+          "listed_count": 1,
+          "media_count": 378,
+          "tweet_count": 2328
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T13:57:35.000Z",
+        "description": "🐇⋆✴︎˚｡⋆感情と子供たちの絵*･ﾟ❤︎┆自我@mosohk_sub┆ෆ˚*.⋆𝜗𝜚個人𝐜𝐢𝐫𝐜𝐥𝐞 バックチャームに見つめられて。┆*.🧾BOOTH https://t.co/iBQKsrlcsP┆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "mosohk_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "aaaadrug.booth.pm",
+                "end": 100,
+                "expanded_url": "https://aaaadrug.booth.pm/",
+                "start": 77,
+                "url": "https://t.co/iBQKsrlcsP"
+              }
+            ]
+          }
+        },
+        "id": "1846188581905485828",
+        "location": " 𝐡_ @9_Un_ya__ ",
+        "name": "妄想癖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928593953114435584/vsRqgJsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6827,
+          "following_count": 132,
+          "like_count": 10944,
+          "listed_count": 34,
+          "media_count": 1316,
+          "tweet_count": 3040
+        },
+        "username": "aaaa____dry",
+        "verified": true
+      }
+    ]
+  }
+}

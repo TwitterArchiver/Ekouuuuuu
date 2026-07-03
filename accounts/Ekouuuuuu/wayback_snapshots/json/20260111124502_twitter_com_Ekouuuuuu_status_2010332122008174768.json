@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009921276996173824"
+      ],
+      "media_source_tweet_id": [
+        "2009921301713178966"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2010332122008174768",
+    "created_at": "2026-01-11T12:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T13:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010332122008174768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1087415513339187200",
+          "start": 3,
+          "username": "Ss_Chicken04"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gniCt42dZh",
+          "end": 44,
+          "expanded_url": "https://x.com/Ss_Chicken04/status/2009921301713178966/photo/1",
+          "media_key": "3_2009921276996173824",
+          "start": 21,
+          "url": "https://t.co/gniCt42dZh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010332122008174768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 889
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009921301713178966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ss_Chicken04: セナ https://t.co/gniCt42dZh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2009921276996173824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-SswJ3bQAA4izt.jpg",
+        "width": 2305
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009921276996173824"
+          ],
+          "media_source_tweet_id": [
+            "2009921301713178966"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2010332122008174768",
+        "created_at": "2026-01-11T12:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T13:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010332122008174768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1087415513339187200",
+              "start": 3,
+              "username": "Ss_Chicken04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gniCt42dZh",
+              "end": 44,
+              "expanded_url": "https://x.com/Ss_Chicken04/status/2009921301713178966/photo/1",
+              "media_key": "3_2009921276996173824",
+              "start": 21,
+              "url": "https://t.co/gniCt42dZh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010332122008174768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 889
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009921301713178966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ss_Chicken04: セナ https://t.co/gniCt42dZh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009921276996173824"
+          ]
+        },
+        "author_id": "1087415513339187200",
+        "conversation_id": "2009921301713178966",
+        "created_at": "2026-01-10T09:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T10:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009921301713178966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gniCt42dZh",
+              "end": 26,
+              "expanded_url": "https://x.com/Ss_Chicken04/status/2009921301713178966/photo/1",
+              "media_key": "3_2009921276996173824",
+              "start": 3,
+              "url": "https://t.co/gniCt42dZh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009921301713178966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 934,
+          "impression_count": 88705,
+          "like_count": 7258,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 889
+        },
+        "reply_settings": "everyone",
+        "text": "セナ https://t.co/gniCt42dZh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖藥物依賴‖尼古丁依賴‖N₂O依賴‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 111,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 88,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 207,
+          "like_count": 6186,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1155
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-21T18:23:56.000Z",
+        "description": "chlsks000888@gmail.com\npixiv : https://t.co/Aqaygs7vh3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/63989763",
+                "end": 54,
+                "expanded_url": "https://www.pixiv.net/users/63989763",
+                "start": 31,
+                "url": "https://t.co/Aqaygs7vh3"
+              }
+            ]
+          }
+        },
+        "id": "1087415513339187200",
+        "name": "Soychicken",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1461358451284914176/2H4qk4MN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42352,
+          "following_count": 1091,
+          "like_count": 1752,
+          "listed_count": 343,
+          "media_count": 93,
+          "tweet_count": 884
+        },
+        "username": "Ss_Chicken04",
+        "verified": true
+      }
+    ]
+  }
+}

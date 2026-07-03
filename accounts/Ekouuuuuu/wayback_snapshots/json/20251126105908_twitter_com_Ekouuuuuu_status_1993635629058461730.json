@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Appliances",
+          "id": "864912523077615616",
+          "name": "Appliances"
+        }
+      }
+    ],
+    "conversation_id": "1993635629058461730",
+    "created_at": "2025-11-26T10:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T11:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993635629058461730"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Artofphysique_…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/Artofphysique_/status/1991896973499306462",
+          "start": 45,
+          "url": "https://t.co/4bsGeXM2Y3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993635629058461730",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991896973499306462",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Which Chinese can't use the microwave oven（? https://t.co/4bsGeXM2Y3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 69104,
+        "height": 1280,
+        "media_key": "7_1991896919015337984",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1991896919015337984/pu/img/b94A67dtja4hkp-l.jpg",
+        "public_metrics": {
+          "view_count": 7425
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1991896919015337984/pu/vid/avc1/320x568/qE9rTQ_XIHI1h4hV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1991896919015337984/pu/vid/avc1/480x852/eB4T9ImaGjd9pHhY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1991896919015337984/pu/vid/avc1/720x1280/AX2_0jR6JuK3OTiA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1991896919015337984/pu/pl/7KFiu68KMbYpIAGw.m3u8?v=2be"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Appliances",
+              "id": "864912523077615616",
+              "name": "Appliances"
+            }
+          }
+        ],
+        "conversation_id": "1993635629058461730",
+        "created_at": "2025-11-26T10:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993635629058461730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Artofphysique_…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Artofphysique_/status/1991896973499306462",
+              "start": 45,
+              "url": "https://t.co/4bsGeXM2Y3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993635629058461730",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991896973499306462",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Which Chinese can't use the microwave oven（? https://t.co/4bsGeXM2Y3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1991896919015337984"
+          ]
+        },
+        "author_id": "2851177686",
+        "conversation_id": "1991896973499306462",
+        "created_at": "2025-11-21T15:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991896973499306462"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 77,
+              "normalized_text": "Chinese Medicine",
+              "probability": 0.4745,
+              "start": 62,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQYE3cXXQ8",
+              "end": 300,
+              "expanded_url": "https://x.com/Artofphysique_/status/1991896973499306462/video/1",
+              "media_key": "7_1991896919015337984",
+              "start": 277,
+              "url": "https://t.co/jQYE3cXXQ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991896973499306462",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Most people think microwaves are harmless… But in Traditional Chinese Medicine, the way you heat your food changes its energy. \n\nMicrowaves create chaotic, aggressive energy that scatters the qi of your food — even when the nutrients look the same. \n\nThis is why older Chinese families don’t own a microwave."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 46264,
+          "like_count": 127,
+          "quote_count": 4,
+          "reply_count": 16,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "Most people think microwaves are harmless… But in Traditional Chinese Medicine, the way you heat your food changes its energy. \n\nMicrowaves create chaotic, aggressive energy that scatters the qi of your food — even when the nutrients look the same. \n\nThis is why older Chinese https://t.co/jQYE3cXXQ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了🥬‖COSER‖互聯網樂子人‖可以來找我互fo聊天喵",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜_Akina🍏（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991377630818627588/tGgmPGTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 54,
+          "like_count": 2686,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 128
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-10T21:33:13.000Z",
+        "description": "I am a writer and fitness enthusiast. I share daily exercise and diet tips to help you live a healthy lifestyle and advise you on wealth-building strategies.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Artofphysique",
+                "end": 23,
+                "expanded_url": "https://t.me/Artofphysique",
+                "start": 0,
+                "url": "https://t.co/vl1WK0QUJg"
+              }
+            ]
+          }
+        },
+        "id": "2851177686",
+        "name": "ᴀʀᴛ ᴏꜰ ᴘʜʏꜱɪQᴜᴇ",
+        "pinned_tweet_id": "1991896973499306462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598443314637840389/aaVQZjkK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488886,
+          "following_count": 99,
+          "like_count": 30705,
+          "listed_count": 2526,
+          "media_count": 5964,
+          "tweet_count": 12095
+        },
+        "url": "https://t.co/vl1WK0QUJg",
+        "username": "Artofphysique_",
+        "verified": true
+      }
+    ]
+  }
+}

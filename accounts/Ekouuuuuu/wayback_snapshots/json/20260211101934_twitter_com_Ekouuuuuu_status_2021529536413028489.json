@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "2021529536413028489",
+    "created_at": "2026-02-11T10:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T11:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021529536413028489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1338982069586731008",
+          "start": 3,
+          "username": "x_abysskawaii_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021529536413028489",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 235
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021154032635482138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_abysskawaii_x: AME I LOVE YOU SO MUCH STOP FUCKIGNYELLING AR HER MY POROSQEETBABYGIRLANGDARLINGPUMPKONPIE BABY SHDHDHDHDHSJSHSJJDS IM…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 645,
+        "media_key": "3_2021154029519372288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAyU4Z3aAAAcC2u.jpg",
+        "width": 879
+      },
+      {
+        "height": 653,
+        "media_key": "3_2021154029515177985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAyU4Z2aAAEQPKt.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2021529536413028489",
+        "created_at": "2026-02-11T10:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T11:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021529536413028489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1338982069586731008",
+              "start": 3,
+              "username": "x_abysskawaii_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021529536413028489",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021154032635482138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_abysskawaii_x: AME I LOVE YOU SO MUCH STOP FUCKIGNYELLING AR HER MY POROSQEETBABYGIRLANGDARLINGPUMPKONPIE BABY SHDHDHDHDHSJSHSJJDS IM…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021154029519372288",
+            "3_2021154029515177985"
+          ]
+        },
+        "author_id": "1338982069586731008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2021154032635482138",
+        "created_at": "2026-02-10T09:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T10:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021154032635482138"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "AME",
+              "probability": 0.5921,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2vhyHmLGBE",
+              "end": 162,
+              "expanded_url": "https://x.com/x_abysskawaii_x/status/2021154032635482138/photo/1",
+              "media_key": "3_2021154029519372288",
+              "start": 139,
+              "url": "https://t.co/2vhyHmLGBE"
+            },
+            {
+              "display_url": "pic.x.com/2vhyHmLGBE",
+              "end": 162,
+              "expanded_url": "https://x.com/x_abysskawaii_x/status/2021154032635482138/photo/1",
+              "media_key": "3_2021154029515177985",
+              "start": 139,
+              "url": "https://t.co/2vhyHmLGBE"
+            },
+            {
+              "display_url": "x.com/needygirl_anim…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/needygirl_anime/status/2021147127074742695",
+              "start": 163,
+              "url": "https://t.co/quY9kEAfMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021154032635482138",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 24946,
+          "like_count": 1357,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021147127074742695",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AME I LOVE YOU SO MUCH STOP FUCKIGNYELLING AR HER MY POROSQEETBABYGIRLANGDARLINGPUMPKONPIE BABY SHDHDHDHDHSJSHSJJDS IM SO HAPPYAMEILBOEYOU https://t.co/2vhyHmLGBE https://t.co/quY9kEAfMx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 248,
+          "like_count": 8322,
+          "listed_count": 1,
+          "media_count": 341,
+          "tweet_count": 2098
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-15T22:59:43.000Z",
+        "description": "i love ame! | ame’s most loyal follower since 11/27/2020!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@supertenchans…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@supertenchans?_r=1&_t=ZT-93muLKW0jN8",
+                "start": 0,
+                "url": "https://t.co/hhED9ZqCo8"
+              }
+            ]
+          }
+        },
+        "id": "1338982069586731008",
+        "location": "18 | she | devoted 2 ame 11/27",
+        "name": "abyss",
+        "pinned_tweet_id": "2021010340998529294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020426945079779328/nHqJXrCE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 96,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 139
+        },
+        "url": "https://t.co/hhED9ZqCo8",
+        "username": "x_abysskawaii_x",
+        "verified": false
+      }
+    ]
+  }
+}

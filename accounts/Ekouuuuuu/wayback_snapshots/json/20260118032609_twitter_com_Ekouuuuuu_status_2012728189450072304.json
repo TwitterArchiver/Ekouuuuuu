@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012402071375618049"
+      ],
+      "media_source_tweet_id": [
+        "2012402077683876088"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2012728189450072304",
+    "created_at": "2026-01-18T03:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T04:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012728189450072304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1529598692071993344",
+          "start": 3,
+          "username": "krs____rip"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kVxRPMCR2Q",
+          "end": 39,
+          "expanded_url": "https://x.com/krs____rip/status/2012402077683876088/photo/1",
+          "media_key": "3_2012402071375618049",
+          "start": 16,
+          "url": "https://t.co/kVxRPMCR2Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012728189450072304",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3619
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012402077683876088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @krs____rip: https://t.co/kVxRPMCR2Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012402071375618049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-19BZGaoAEWNi9.jpg",
+        "width": 1985
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012402071375618049"
+          ],
+          "media_source_tweet_id": [
+            "2012402077683876088"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2012728189450072304",
+        "created_at": "2026-01-18T03:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T04:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012728189450072304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1529598692071993344",
+              "start": 3,
+              "username": "krs____rip"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kVxRPMCR2Q",
+              "end": 39,
+              "expanded_url": "https://x.com/krs____rip/status/2012402077683876088/photo/1",
+              "media_key": "3_2012402071375618049",
+              "start": 16,
+              "url": "https://t.co/kVxRPMCR2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012728189450072304",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3619
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012402077683876088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @krs____rip: https://t.co/kVxRPMCR2Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012402071375618049"
+          ]
+        },
+        "author_id": "1529598692071993344",
+        "conversation_id": "2012402077683876088",
+        "created_at": "2026-01-17T05:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T06:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012402077683876088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kVxRPMCR2Q",
+              "end": 23,
+              "expanded_url": "https://x.com/krs____rip/status/2012402077683876088/photo/1",
+              "media_key": "3_2012402071375618049",
+              "start": 0,
+              "url": "https://t.co/kVxRPMCR2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012402077683876088",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2479,
+          "impression_count": 349446,
+          "like_count": 39896,
+          "quote_count": 143,
+          "reply_count": 27,
+          "retweet_count": 3619
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kVxRPMCR2Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 74,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 51,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 219,
+          "like_count": 6533,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 1274
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T23:02:12.000Z",
+        "description": "メンクリ院長兼イラストレーター￤ご依頼方法▶︎ https://t.co/fA2LBB0Nyr ￤応援するところ▶︎ https://t.co/yKsFBsVKpO￤shop▶︎ https://t.co/bjOl1FLneA￤skeb▶︎ https://t.co/lvjZgKTWGc￤",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/krs518rip",
+                "end": 47,
+                "expanded_url": "https://lit.link/krs518rip",
+                "start": 24,
+                "url": "https://t.co/fA2LBB0Nyr"
+              },
+              {
+                "display_url": "x.gd/bbnpQ",
+                "end": 82,
+                "expanded_url": "https://x.gd/bbnpQ",
+                "start": 59,
+                "url": "https://t.co/yKsFBsVKpO"
+              },
+              {
+                "display_url": "krs518rip.booth.pm",
+                "end": 113,
+                "expanded_url": "https://krs518rip.booth.pm",
+                "start": 90,
+                "url": "https://t.co/bjOl1FLneA"
+              },
+              {
+                "display_url": "skeb.jp/@krs____rip",
+                "end": 144,
+                "expanded_url": "https://skeb.jp/@krs____rip",
+                "start": 121,
+                "url": "https://t.co/lvjZgKTWGc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@krs____rip",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@krs____rip",
+                "start": 0,
+                "url": "https://t.co/NAUeSMwS4Q"
+              }
+            ]
+          }
+        },
+        "id": "1529598692071993344",
+        "location": "黒瀬メンタルクリニック🏥",
+        "name": "黒瀬黑/Kurose Kuro",
+        "pinned_tweet_id": "1907018289567474164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906979089984212992/Wq6T8dAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2886,
+          "following_count": 191,
+          "like_count": 36687,
+          "listed_count": 24,
+          "media_count": 1121,
+          "tweet_count": 11651
+        },
+        "url": "https://t.co/NAUeSMwS4Q",
+        "username": "krs____rip",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992658750524764160"
+      ],
+      "media_source_tweet_id": [
+        "1994526716979757557"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994575483086991795",
+    "created_at": "2025-11-29T01:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T02:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994575483086991795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1602676911389708288",
+          "start": 3,
+          "username": "sharp_maker"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N6ISB5zJ8Q",
+          "end": 42,
+          "expanded_url": "https://x.com/sharp_maker/status/1994526716979757557/photo/1",
+          "media_key": "3_1992658750524764160",
+          "start": 19,
+          "url": "https://t.co/N6ISB5zJ8Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994575483086991795",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994526716979757557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sharp_maker: 🐋 https://t.co/N6ISB5zJ8Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992658750524764160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6dYk3eaMAA9Cf8.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992658750524764160"
+          ],
+          "media_source_tweet_id": [
+            "1994526716979757557"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994575483086991795",
+        "created_at": "2025-11-29T01:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994575483086991795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1602676911389708288",
+              "start": 3,
+              "username": "sharp_maker"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N6ISB5zJ8Q",
+              "end": 42,
+              "expanded_url": "https://x.com/sharp_maker/status/1994526716979757557/photo/1",
+              "media_key": "3_1992658750524764160",
+              "start": 19,
+              "url": "https://t.co/N6ISB5zJ8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994575483086991795",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994526716979757557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sharp_maker: 🐋 https://t.co/N6ISB5zJ8Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992658750524764160"
+          ]
+        },
+        "author_id": "1602676911389708288",
+        "conversation_id": "1994526716979757557",
+        "created_at": "2025-11-28T22:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T23:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994526716979757557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N6ISB5zJ8Q",
+              "end": 25,
+              "expanded_url": "https://x.com/sharp_maker/status/1994526716979757557/photo/1",
+              "media_key": "3_1992658750524764160",
+              "start": 2,
+              "url": "https://t.co/N6ISB5zJ8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994526716979757557",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 1779,
+          "like_count": 270,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "🐋 https://t.co/N6ISB5zJ8Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 2887,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 242
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T14:48:57.000Z",
+        "description": "ご主人様、お疲れ様です！❤︎ ❤︎ ❤︎ ❤︎ ❤︎ ❤︎ ❤︎ ❤︎ ︎❤︎ ❤︎ ❤︎。++++(シャープ)と申します。お絵描き歴19年のデザイナー。AIを使って漫画やアニメ、ゲームを作る研究をしています https://t.co/rbOqGTGhyH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/hpeDysYF7v",
+                "end": 128,
+                "expanded_url": "https://discord.gg/hpeDysYF7v",
+                "start": 105,
+                "url": "https://t.co/rbOqGTGhyH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/1628832",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/1628832",
+                "start": 0,
+                "url": "https://t.co/vc6IjLR8SZ"
+              }
+            ]
+          }
+        },
+        "id": "1602676911389708288",
+        "location": "↑discode →pixiv",
+        "name": "++++",
+        "pinned_tweet_id": "1994526716979757557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790454924704378883/QOMqQ-Cs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29488,
+          "following_count": 420,
+          "like_count": 31081,
+          "listed_count": 177,
+          "media_count": 1092,
+          "tweet_count": 4820
+        },
+        "url": "https://t.co/vc6IjLR8SZ",
+        "username": "sharp_maker",
+        "verified": true
+      }
+    ]
+  }
+}

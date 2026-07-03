@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052978938906030080"
+      ],
+      "media_source_tweet_id": [
+        "2052978950201319891"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Nail Polish",
+          "id": "856605935296405504",
+          "name": "Nails"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nail Polish",
+          "id": "856605935296405504",
+          "name": "Nails"
+        }
+      }
+    ],
+    "conversation_id": "2053088144896205005",
+    "created_at": "2026-05-09T12:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053088144896205005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "893489787411222528",
+          "start": 3,
+          "username": "kuren_chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HffCCDvQxz",
+          "end": 55,
+          "expanded_url": "https://x.com/kuren_chan/status/2052978950201319891/photo/1",
+          "media_key": "3_2052978938906030080",
+          "start": 32,
+          "url": "https://t.co/HffCCDvQxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053088144896205005",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052978950201319891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuren_chan: 八重歯じゃなくてネイルだよ💉💘 https://t.co/HffCCDvQxz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052978938906030080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2ld8DaMAAIjbI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052978938906030080"
+          ],
+          "media_source_tweet_id": [
+            "2052978950201319891"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          }
+        ],
+        "conversation_id": "2053088144896205005",
+        "created_at": "2026-05-09T12:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053088144896205005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "893489787411222528",
+              "start": 3,
+              "username": "kuren_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HffCCDvQxz",
+              "end": 55,
+              "expanded_url": "https://x.com/kuren_chan/status/2052978950201319891/photo/1",
+              "media_key": "3_2052978938906030080",
+              "start": 32,
+              "url": "https://t.co/HffCCDvQxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053088144896205005",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052978950201319891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuren_chan: 八重歯じゃなくてネイルだよ💉💘 https://t.co/HffCCDvQxz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052978938906030080"
+          ]
+        },
+        "author_id": "893489787411222528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          }
+        ],
+        "conversation_id": "2052978950201319891",
+        "created_at": "2026-05-09T05:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052978950201319891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HffCCDvQxz",
+              "end": 39,
+              "expanded_url": "https://x.com/kuren_chan/status/2052978950201319891/photo/1",
+              "media_key": "3_2052978938906030080",
+              "start": 16,
+              "url": "https://t.co/HffCCDvQxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052978950201319891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 13130,
+          "like_count": 1704,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "八重歯じゃなくてネイルだよ💉💘 https://t.co/HffCCDvQxz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "我還想和你談論宇宙和天空‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2051776082542825551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 299,
+          "like_count": 11915,
+          "listed_count": 1,
+          "media_count": 490,
+          "tweet_count": 2966
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-04T15:12:20.000Z",
+        "description": "まくらです૮๑•̀ㅁ•́ฅა #まくらーめん 異世界同位体 #花咲ゾンビ／Chinese cosplayer／@hiodoshiao 自慢な火女ちゃん♡ずっと愛してる／加工厨!! 時々変な日本語喋ります／必読→ https://t.co/e8NgojldHh",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 15,
+                "tag": "まくらーめん"
+              },
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "花咲ゾンビ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "hiodoshiao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/hanasaki…",
+                "end": 129,
+                "expanded_url": "https://lit.link/zh-tw/hanasakimakura",
+                "start": 106,
+                "url": "https://t.co/e8NgojldHh"
+              }
+            ]
+          }
+        },
+        "id": "893489787411222528",
+        "location": "🚫転載禁止⚠️ 写真、仕事はDMへお願いします✨",
+        "name": "花崎Makura🌸🪽",
+        "pinned_tweet_id": "2044344429264404953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966926126384902146/hC-a3afb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192081,
+          "following_count": 1008,
+          "like_count": 101913,
+          "listed_count": 741,
+          "media_count": 1218,
+          "tweet_count": 22399
+        },
+        "username": "kuren_chan",
+        "verified": true
+      }
+    ]
+  }
+}

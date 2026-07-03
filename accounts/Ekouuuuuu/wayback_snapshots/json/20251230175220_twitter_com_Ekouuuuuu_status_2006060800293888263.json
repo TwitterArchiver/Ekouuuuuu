@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006060797517258755"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2006060800293888263",
+    "created_at": "2025-12-30T17:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T18:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006060800293888263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AvONR7Wjzy",
+          "end": 33,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2006060800293888263/photo/1",
+          "media_key": "3_2006060797517258755",
+          "start": 10,
+          "url": "https://t.co/AvONR7Wjzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006060800293888263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呃看起來好難吃。。 https://t.co/AvONR7Wjzy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2006060797517258755",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9b1qrHaYAMcHcC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006060797517258755"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2006060800293888263",
+        "created_at": "2025-12-30T17:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T18:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006060800293888263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AvONR7Wjzy",
+              "end": 33,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2006060800293888263/photo/1",
+              "media_key": "3_2006060797517258755",
+              "start": 10,
+              "url": "https://t.co/AvONR7Wjzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006060800293888263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃看起來好難吃。。 https://t.co/AvONR7Wjzy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了w‖生理性別女‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2006059996145148295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 191,
+          "like_count": 5397,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 897
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

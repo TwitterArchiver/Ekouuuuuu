@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1957381961170968676",
+    "created_at": "2025-08-19T22:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T23:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957935385109230010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957935385109230010",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957381961170968676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 我草這得多痛啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14066,
+        "height": 848,
+        "media_key": "13_1957312055196909568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957312055196909568/img/ABEyQMZizlk91KWw.jpg",
+        "public_metrics": {
+          "view_count": 136881
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957312055196909568/vid/avc1/320x584/EwYpEUCnlQomKtr7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957312055196909568/vid/avc1/464x848/IhkpxBe_nSNGvK6O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957312055196909568/pl/K0a4ZJnXwtgpFeV8.m3u8?v=cfc"
+          }
+        ],
+        "width": 464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1957381961170968676",
+        "created_at": "2025-08-19T22:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T23:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957935385109230010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957935385109230010",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957381961170968676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 我草這得多痛啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957312055196909568"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1957381961170968676",
+        "created_at": "2025-08-18T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957381961170968676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xgaqZXLnt3",
+              "end": 60,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1957381961170968676/video/1",
+              "media_key": "13_1957312055196909568",
+              "start": 37,
+              "url": "https://t.co/xgaqZXLnt3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957381961170968676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 283,
+          "impression_count": 305291,
+          "like_count": 1323,
+          "quote_count": 12,
+          "reply_count": 232,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "8月17日，广西桂林中华路一名少年骑车电瓶车出现意外，手臂被摔断，慎入。 https://t.co/xgaqZXLnt3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "自尊常常將人拖著 把愛都走曲折",
+        "id": "1912063502782812160",
+        "name": "白菜_Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937599411460403200/XrYwRLKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 70,
+          "like_count": 1511,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 243
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082865,
+          "following_count": 983,
+          "like_count": 7944,
+          "listed_count": 8271,
+          "media_count": 33684,
+          "tweet_count": 40437
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

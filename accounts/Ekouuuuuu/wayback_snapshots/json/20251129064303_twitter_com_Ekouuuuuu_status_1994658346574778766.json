@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994436698059702272"
+      ],
+      "media_source_tweet_id": [
+        "1994436704569045236"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994658346574778766",
+    "created_at": "2025-11-29T06:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T07:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994658346574778766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1488366358027182081",
+          "start": 3,
+          "username": "iro_iro_iroo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nhQYrHuUa6",
+          "end": 60,
+          "expanded_url": "https://x.com/iro_iro_iroo/status/1994436704569045236/photo/1",
+          "media_key": "3_1994436698059702272",
+          "start": 37,
+          "url": "https://t.co/nhQYrHuUa6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994658346574778766",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994436704569045236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iro_iro_iroo: ニーハイの日！前に描いたラクガキの子 https://t.co/nhQYrHuUa6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994436698059702272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G62pnCLaAAArLS5.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994436698059702272"
+          ],
+          "media_source_tweet_id": [
+            "1994436704569045236"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994658346574778766",
+        "created_at": "2025-11-29T06:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994658346574778766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1488366358027182081",
+              "start": 3,
+              "username": "iro_iro_iroo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nhQYrHuUa6",
+              "end": 60,
+              "expanded_url": "https://x.com/iro_iro_iroo/status/1994436704569045236/photo/1",
+              "media_key": "3_1994436698059702272",
+              "start": 37,
+              "url": "https://t.co/nhQYrHuUa6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994658346574778766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994436704569045236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iro_iro_iroo: ニーハイの日！前に描いたラクガキの子 https://t.co/nhQYrHuUa6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994436698059702272"
+          ]
+        },
+        "author_id": "1488366358027182081",
+        "conversation_id": "1994436704569045236",
+        "created_at": "2025-11-28T16:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T17:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994436704569045236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nhQYrHuUa6",
+              "end": 42,
+              "expanded_url": "https://x.com/iro_iro_iroo/status/1994436704569045236/photo/1",
+              "media_key": "3_1994436698059702272",
+              "start": 19,
+              "url": "https://t.co/nhQYrHuUa6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994436704569045236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 6533,
+          "like_count": 703,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "ニーハイの日！前に描いたラクガキの子 https://t.co/nhQYrHuUa6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 108,
+          "like_count": 2986,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 288
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-01T04:19:48.000Z",
+        "description": "いろんといいます。 20↑ 💭ご依頼 スケブ→https://t.co/69dNgu22OP 💭ラクガキなどの別垢→@iroN161616n   oc→ #いろんあーと",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 77,
+                "tag": "いろんあーと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "iroN161616n"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@iro_iro_iroo",
+                "end": 46,
+                "expanded_url": "https://skeb.jp/@iro_iro_iroo",
+                "start": 23,
+                "url": "https://t.co/69dNgu22OP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/iroiron",
+                "end": 23,
+                "expanded_url": "https://lit.link/iroiron",
+                "start": 0,
+                "url": "https://t.co/Ek53fjIzTJ"
+              }
+            ]
+          }
+        },
+        "id": "1488366358027182081",
+        "location": "無断転載、無断使用、AI学習、自作発言NG",
+        "name": "iroN",
+        "pinned_tweet_id": "1897944482869571847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931015997177389056/6vxBJLpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14999,
+          "following_count": 471,
+          "like_count": 17872,
+          "listed_count": 169,
+          "media_count": 494,
+          "tweet_count": 9882
+        },
+        "url": "https://t.co/Ek53fjIzTJ",
+        "username": "iro_iro_iroo",
+        "verified": false
+      }
+    ]
+  }
+}

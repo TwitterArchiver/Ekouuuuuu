@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878348136802037760"
+      ],
+      "media_source_tweet_id": [
+        "1878348140115644471"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2012256435980144933",
+    "created_at": "2026-01-16T20:11:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T21:11:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012256435980144933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804730910857945088",
+          "start": 3,
+          "username": "belenita01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XXo6TcsngF",
+          "end": 46,
+          "expanded_url": "https://x.com/lagennibal/status/1878348140115644471/photo/1",
+          "media_key": "3_1878348136802037760",
+          "start": 23,
+          "url": "https://t.co/XXo6TcsngF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012256435980144933",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 546
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878348140115644471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @belenita01: Ola yo https://t.co/XXo6TcsngF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2012256435980144933].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2012256435980144933",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2012256435980144933"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1878348136802037760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhE7rbKaMAAQKhS.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878348136802037760"
+          ]
+        },
+        "author_id": "1804730910857945088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1878348140115644471",
+        "created_at": "2025-01-12T07:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T08:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878348140115644471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XXo6TcsngF",
+              "end": 30,
+              "expanded_url": "https://x.com/lagennibal/status/1878348140115644471/photo/1",
+              "media_key": "3_1878348136802037760",
+              "start": 7,
+              "url": "https://t.co/XXo6TcsngF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878348140115644471",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 275,
+          "impression_count": 85356,
+          "like_count": 3310,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 546
+        },
+        "reply_settings": "everyone",
+        "text": "Ola yo https://t.co/XXo6TcsngF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 74,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 51,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 217,
+          "like_count": 6504,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 1262
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T04:20:06.000Z",
+        "description": "19 | lol que mal #shtwt INTJ • aveces dibujo cosas…",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 17,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1804730910857945088",
+        "location": "ahogandose en un mar de dudas",
+        "name": "Bel 👻",
+        "pinned_tweet_id": "1878348140115644471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992092196460511233/eh2dILlE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 126,
+          "like_count": 2170,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 851
+        },
+        "username": "belenita01",
+        "verified": false
+      }
+    ]
+  }
+}

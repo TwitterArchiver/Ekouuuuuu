@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1938048847139508500",
+    "created_at": "2025-06-26T12:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T13:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938207006470639757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1262333036516892675",
+          "start": 0,
+          "username": "tamanegisinbun"
+        },
+        {
+          "end": 30,
+          "id": "1499103632255455233",
+          "start": 16,
+          "username": "AKIYAMAYUGUMO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938207006470639757",
+    "in_reply_to_user_id": "1262333036516892675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938094940804026511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tamanegisinbun @AKIYAMAYUGUMO 怎么全是习迈手"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1938094937918345220",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuV_E9ubEAQUjG6.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1938048847139508500",
+        "created_at": "2025-06-26T12:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T13:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938207006470639757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1262333036516892675",
+              "start": 0,
+              "username": "tamanegisinbun"
+            },
+            {
+              "end": 30,
+              "id": "1499103632255455233",
+              "start": 16,
+              "username": "AKIYAMAYUGUMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938207006470639757",
+        "in_reply_to_user_id": "1262333036516892675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938094940804026511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tamanegisinbun @AKIYAMAYUGUMO 怎么全是习迈手"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938094937918345220"
+          ]
+        },
+        "author_id": "1262333036516892675",
+        "conversation_id": "1938048847139508500",
+        "created_at": "2025-06-26T04:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T05:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938094940804026511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1499103632255455233",
+              "start": 0,
+              "username": "AKIYAMAYUGUMO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w1W8JPFuSd",
+              "end": 58,
+              "expanded_url": "https://x.com/tamanegisinbun/status/1938094940804026511/photo/1",
+              "media_key": "3_1938094937918345220",
+              "start": 35,
+              "url": "https://t.co/w1W8JPFuSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938094940804026511",
+        "in_reply_to_user_id": "1499103632255455233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938048847139508500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKIYAMAYUGUMO 好久没去中国了中国人的日子越来越好了呢 https://t.co/w1W8JPFuSd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "不是一個有素質的人/打遊戲可以叫上我🥲",
+        "id": "1912063502782812160",
+        "location": "莫对故国思故人",
+        "name": "Ekou白菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937599411460403200/XrYwRLKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 43,
+          "like_count": 816,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 130
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-18T10:44:02.000Z",
+        "description": "🤭🤭🤭🤭🤭🤭🤭🤭🤭\n堂堂归来啊\n😁😁😁😁😁😁😁😁😁\n举报有用吗？\n☺️☺️☺️☺️☺️☺️☺️☺️☺️\n要加油哦小朋友们。\n😄😄😄😄😄😄😄😄😄\n毕竟我现在一键申诉了",
+        "id": "1262333036516892675",
+        "location": "Kyoto-fu, Japan",
+        "name": "村下・秋树",
+        "pinned_tweet_id": "1823417823944949938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813128047752847363/TlbsYN66_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2457,
+          "following_count": 246,
+          "like_count": 7755,
+          "listed_count": 20,
+          "media_count": 1098,
+          "tweet_count": 19000
+        },
+        "username": "tamanegisinbun",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-02T19:25:41.000Z",
+        "description": "觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測/觀測",
+        "id": "1499103632255455233",
+        "location": "夕云艺术研究社",
+        "name": "秋瀬夕云",
+        "pinned_tweet_id": "1926582863220089132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910250028981182464/FntzR3MU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 632,
+          "like_count": 10921,
+          "listed_count": 1,
+          "media_count": 780,
+          "tweet_count": 3053
+        },
+        "username": "AKIYAMAYUGUMO",
+        "verified": false
+      }
+    ]
+  }
+}

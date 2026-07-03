@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995523875212521472"
+      ],
+      "media_source_tweet_id": [
+        "1995523887921295414"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1996155212520915290",
+    "created_at": "2025-12-03T09:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T10:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996155212520915290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1854915067994841088",
+          "start": 3,
+          "username": "siquanjiale8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FdhE7xJYQ3",
+          "end": 44,
+          "expanded_url": "https://x.com/siquanjiale8964/status/1995523887921295414/photo/1",
+          "media_key": "3_1995523875212521472",
+          "start": 21,
+          "url": "https://t.co/FdhE7xJYQ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996155212520915290",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995523887921295414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siquanjiale8964: https://t.co/FdhE7xJYQ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_1995523875212521472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7GGZEracAASf7S.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995523875212521472"
+          ],
+          "media_source_tweet_id": [
+            "1995523887921295414"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1996155212520915290",
+        "created_at": "2025-12-03T09:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996155212520915290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1854915067994841088",
+              "start": 3,
+              "username": "siquanjiale8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FdhE7xJYQ3",
+              "end": 44,
+              "expanded_url": "https://x.com/siquanjiale8964/status/1995523887921295414/photo/1",
+              "media_key": "3_1995523875212521472",
+              "start": 21,
+              "url": "https://t.co/FdhE7xJYQ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996155212520915290",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995523887921295414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siquanjiale8964: https://t.co/FdhE7xJYQ3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995523875212521472"
+          ]
+        },
+        "author_id": "1854915067994841088",
+        "conversation_id": "1995523887921295414",
+        "created_at": "2025-12-01T16:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T17:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995523887921295414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FdhE7xJYQ3",
+              "end": 23,
+              "expanded_url": "https://x.com/siquanjiale8964/status/1995523887921295414/photo/1",
+              "media_key": "3_1995523875212521472",
+              "start": 0,
+              "url": "https://t.co/FdhE7xJYQ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995523887921295414",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 10444,
+          "like_count": 930,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FdhE7xJYQ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 122,
+          "like_count": 3184,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 213
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T15:53:35.000Z",
+        "description": "｜性格は悪いが善良だ｜",
+        "id": "1854915067994841088",
+        "name": "悽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988170632170008581/oFbmNtXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 158,
+          "like_count": 1213,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 2532
+        },
+        "username": "siquanjiale8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000215768286507008"
+      ],
+      "media_source_tweet_id": [
+        "2000215775387525316"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000469144094048307",
+    "created_at": "2025-12-15T07:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T08:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000469144094048307"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 17,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "地雷女子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1873430000147611648",
+          "start": 3,
+          "username": "u_ume0x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LRvHb6nYNH",
+          "end": 53,
+          "expanded_url": "https://x.com/u_ume0x/status/2000215775387525316/photo/1",
+          "media_key": "3_2000215768286507008",
+          "start": 30,
+          "url": "https://t.co/LRvHb6nYNH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000469144094048307",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000215775387525316",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @u_ume0x: にゃち\n#自撮り界隈 #地雷女子 https://t.co/LRvHb6nYNH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000215768286507008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8IxpMbaMAATN39.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000215768286507008"
+          ],
+          "media_source_tweet_id": [
+            "2000215775387525316"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000469144094048307",
+        "created_at": "2025-12-15T07:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000469144094048307"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "地雷女子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1873430000147611648",
+              "start": 3,
+              "username": "u_ume0x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LRvHb6nYNH",
+              "end": 53,
+              "expanded_url": "https://x.com/u_ume0x/status/2000215775387525316/photo/1",
+              "media_key": "3_2000215768286507008",
+              "start": 30,
+              "url": "https://t.co/LRvHb6nYNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000469144094048307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000215775387525316",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @u_ume0x: にゃち\n#自撮り界隈 #地雷女子 https://t.co/LRvHb6nYNH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000215768286507008"
+          ]
+        },
+        "author_id": "1873430000147611648",
+        "conversation_id": "2000215775387525316",
+        "created_at": "2025-12-14T14:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T15:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000215775387525316"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 4,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "地雷女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LRvHb6nYNH",
+              "end": 40,
+              "expanded_url": "https://x.com/u_ume0x/status/2000215775387525316/photo/1",
+              "media_key": "3_2000215768286507008",
+              "start": 17,
+              "url": "https://t.co/LRvHb6nYNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000215775387525316",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 14530,
+          "like_count": 1958,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "にゃち\n#自撮り界隈 #地雷女子 https://t.co/LRvHb6nYNH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 154,
+          "like_count": 3952,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 543
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T18:05:08.000Z",
+        "description": "インスタきてにゃ❤︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/u_ume0x?igsh=M…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/u_ume0x?igsh=MW43Y3k3dDIxMzN3Mw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/N3DmVQjrCG"
+              }
+            ]
+          }
+        },
+        "id": "1873430000147611648",
+        "name": "鬱ིྀ꒷꒦♡ིྀ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966518411925884928/pVnzhMXa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1822,
+          "following_count": 4,
+          "like_count": 2172,
+          "listed_count": 6,
+          "media_count": 127,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/N3DmVQjrCG",
+        "username": "u_ume0x",
+        "verified": false
+      }
+    ]
+  }
+}

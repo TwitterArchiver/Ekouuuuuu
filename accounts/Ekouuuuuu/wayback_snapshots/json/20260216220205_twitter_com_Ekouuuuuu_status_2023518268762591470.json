@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023379977992085504",
+        "3_2023379977983627264"
+      ],
+      "media_source_tweet_id": [
+        "2023380011991158973",
+        "2023380011991158973"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2023518268762591470",
+    "created_at": "2026-02-16T22:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T23:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023518268762591470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1162702729824747520",
+          "start": 3,
+          "username": "_onymki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nMIHmy1jJA",
+          "end": 52,
+          "expanded_url": "https://x.com/_onymki/status/2023380011991158973/photo/1",
+          "media_key": "3_2023379977992085504",
+          "start": 29,
+          "url": "https://t.co/nMIHmy1jJA"
+        },
+        {
+          "display_url": "pic.x.com/nMIHmy1jJA",
+          "end": 52,
+          "expanded_url": "https://x.com/_onymki/status/2023380011991158973/photo/1",
+          "media_key": "3_2023379977983627264",
+          "start": 29,
+          "url": "https://t.co/nMIHmy1jJA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023518268762591470",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023380011991158973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_onymki: SKEBありがとうございます！ https://t.co/nMIHmy1jJA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_2023379977992085504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBR9XqHbIAAAYnj.jpg",
+        "width": 1240
+      },
+      {
+        "height": 1608,
+        "media_key": "3_2023379977983627264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBR9XqFaEAAakmv.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023379977992085504",
+            "3_2023379977983627264"
+          ],
+          "media_source_tweet_id": [
+            "2023380011991158973",
+            "2023380011991158973"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2023518268762591470",
+        "created_at": "2026-02-16T22:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T23:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023518268762591470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1162702729824747520",
+              "start": 3,
+              "username": "_onymki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nMIHmy1jJA",
+              "end": 52,
+              "expanded_url": "https://x.com/_onymki/status/2023380011991158973/photo/1",
+              "media_key": "3_2023379977992085504",
+              "start": 29,
+              "url": "https://t.co/nMIHmy1jJA"
+            },
+            {
+              "display_url": "pic.x.com/nMIHmy1jJA",
+              "end": 52,
+              "expanded_url": "https://x.com/_onymki/status/2023380011991158973/photo/1",
+              "media_key": "3_2023379977983627264",
+              "start": 29,
+              "url": "https://t.co/nMIHmy1jJA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023518268762591470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023380011991158973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_onymki: SKEBありがとうございます！ https://t.co/nMIHmy1jJA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023379977992085504",
+            "3_2023379977983627264"
+          ]
+        },
+        "author_id": "1162702729824747520",
+        "conversation_id": "2023380011991158973",
+        "created_at": "2026-02-16T12:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023380011991158973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nMIHmy1jJA",
+              "end": 39,
+              "expanded_url": "https://x.com/_onymki/status/2023380011991158973/photo/1",
+              "media_key": "3_2023379977992085504",
+              "start": 16,
+              "url": "https://t.co/nMIHmy1jJA"
+            },
+            {
+              "display_url": "pic.x.com/nMIHmy1jJA",
+              "end": 39,
+              "expanded_url": "https://x.com/_onymki/status/2023380011991158973/photo/1",
+              "media_key": "3_2023379977983627264",
+              "start": 16,
+              "url": "https://t.co/nMIHmy1jJA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023380011991158973",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 4359,
+          "like_count": 403,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "SKEBありがとうございます！ https://t.co/nMIHmy1jJA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 246,
+          "like_count": 8505,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 2200
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-17T12:28:41.000Z",
+        "description": "創作メインで好きなもの書いてます(˶'ᵕ'˶ )︎وお仕事募集中\nご依頼はURLをご確認ください→https://t.co/jV9cqZd16e\nイラストの使用、転載、AI学習禁止\nNo use, repost, or AI training.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/oniyamakei",
+                "end": 72,
+                "expanded_url": "https://lit.link/oniyamakei",
+                "start": 49,
+                "url": "https://t.co/jV9cqZd16e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@_onymki",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@_onymki",
+                "start": 0,
+                "url": "https://t.co/HmnxKuqHxa"
+              }
+            ]
+          }
+        },
+        "id": "1162702729824747520",
+        "name": "おにやまけい＠お仕事募集中",
+        "pinned_tweet_id": "1788723565531156748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920078638617399296/88xkH7iu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65961,
+          "following_count": 205,
+          "like_count": 3465,
+          "listed_count": 383,
+          "media_count": 1035,
+          "tweet_count": 2664
+        },
+        "url": "https://t.co/HmnxKuqHxa",
+        "username": "_onymki",
+        "verified": false
+      }
+    ]
+  }
+}

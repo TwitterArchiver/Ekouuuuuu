@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019429504104742912"
+      ],
+      "media_source_tweet_id": [
+        "2019429618995065262"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2019714770732261865",
+    "created_at": "2026-02-06T10:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T11:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019714770732261865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1846188581905485828",
+          "start": 3,
+          "username": "aaaa____dry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JAjVd9loa3",
+          "end": 61,
+          "expanded_url": "https://x.com/aaaa____dry/status/2019429618995065262/photo/1",
+          "media_key": "3_2019429504104742912",
+          "start": 38,
+          "url": "https://t.co/JAjVd9loa3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019714770732261865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019429618995065262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaaa____dry: 貴方の言葉を信じましょう！！！！！！！！ https://t.co/JAjVd9loa3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2019429504104742912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZ0b0EbQAA9LZL.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019429504104742912"
+          ],
+          "media_source_tweet_id": [
+            "2019429618995065262"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2019714770732261865",
+        "created_at": "2026-02-06T10:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T11:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019714770732261865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1846188581905485828",
+              "start": 3,
+              "username": "aaaa____dry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JAjVd9loa3",
+              "end": 61,
+              "expanded_url": "https://x.com/aaaa____dry/status/2019429618995065262/photo/1",
+              "media_key": "3_2019429504104742912",
+              "start": 38,
+              "url": "https://t.co/JAjVd9loa3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019714770732261865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019429618995065262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaaa____dry: 貴方の言葉を信じましょう！！！！！！！！ https://t.co/JAjVd9loa3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019429504104742912"
+          ]
+        },
+        "author_id": "1846188581905485828",
+        "conversation_id": "2019429618995065262",
+        "created_at": "2026-02-05T15:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T16:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019429618995065262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JAjVd9loa3",
+              "end": 44,
+              "expanded_url": "https://x.com/aaaa____dry/status/2019429618995065262/photo/1",
+              "media_key": "3_2019429504104742912",
+              "start": 21,
+              "url": "https://t.co/JAjVd9loa3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019429618995065262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1483,
+          "like_count": 213,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "貴方の言葉を信じましょう！！！！！！！！ https://t.co/JAjVd9loa3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖同類互fo‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 248,
+          "like_count": 8161,
+          "listed_count": 1,
+          "media_count": 319,
+          "tweet_count": 1988
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T13:57:35.000Z",
+        "description": "🐇⋆✴︎˚｡⋆感情と子供たちの絵*･ﾟ❤︎ 𝐡_ @9_Un_ya__ ❤︎.*･ﾟ┆日常アカウント@mosohk_sub┊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "9_Un_ya__"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "mosohk_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aaaa_dry",
+                "end": 23,
+                "expanded_url": "https://lit.link/aaaa_dry",
+                "start": 0,
+                "url": "https://t.co/t6kH1MCquz"
+              }
+            ]
+          }
+        },
+        "id": "1846188581905485828",
+        "name": "妄想癖 @COMITIA155 B26b",
+        "pinned_tweet_id": "2015409396889911495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928593953114435584/vsRqgJsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5390,
+          "following_count": 126,
+          "like_count": 10612,
+          "listed_count": 29,
+          "media_count": 1202,
+          "tweet_count": 2805
+        },
+        "url": "https://t.co/t6kH1MCquz",
+        "username": "aaaa____dry",
+        "verified": true
+      }
+    ]
+  }
+}

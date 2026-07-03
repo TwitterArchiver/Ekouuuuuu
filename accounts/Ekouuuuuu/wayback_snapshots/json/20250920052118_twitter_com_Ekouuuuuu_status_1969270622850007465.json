@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969270605196509186"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1969270622850007465",
+    "created_at": "2025-09-20T05:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T06:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969270622850007465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/he31IBLqOF",
+          "end": 37,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1969270622850007465/photo/1",
+          "media_key": "3_1969270605196509186",
+          "start": 14,
+          "url": "https://t.co/he31IBLqOF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969270622850007465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我從來沒有覺得學長笛開心過 https://t.co/he31IBLqOF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1969270605196509186",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1RBLolbQAIt0x2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969270605196509186"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1969270622850007465",
+        "created_at": "2025-09-20T05:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T06:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969270622850007465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/he31IBLqOF",
+              "end": 37,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1969270622850007465/photo/1",
+              "media_key": "3_1969270605196509186",
+              "start": 14,
+              "url": "https://t.co/he31IBLqOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969270622850007465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我從來沒有覺得學長笛開心過 https://t.co/he31IBLqOF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "年年歲歲花相似",
+        "id": "1912063502782812160",
+        "name": "白菜_Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958369871634612224/WJLvJs86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 82,
+          "like_count": 2062,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 264
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

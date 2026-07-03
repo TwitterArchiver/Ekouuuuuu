@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1988949816395894909",
+    "created_at": "2025-11-13T12:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T13:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988949816395894909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "5147381",
+          "start": 3,
+          "username": "realwuzhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988949816395894909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988275990792204582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realwuzhe: 很多人对父母的要求太高了。在我看来，能做到小孩出了健康问题，及时带去看病，就算合格了。看似很简单很理所当然的样子，据我观察，其实能做到的父母不超过一半。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1988949816395894909",
+        "created_at": "2025-11-13T12:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T13:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988949816395894909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "5147381",
+              "start": 3,
+              "username": "realwuzhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988949816395894909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988275990792204582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realwuzhe: 很多人对父母的要求太高了。在我看来，能做到小孩出了健康问题，及时带去看病，就算合格了。看似很简单很理所当然的样子，据我观察，其实能做到的父母不超过一半。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "5147381",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1988275990792204582",
+        "created_at": "2025-11-11T16:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T17:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988275990792204582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988275990792204582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 127058,
+          "like_count": 541,
+          "quote_count": 22,
+          "reply_count": 72,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "很多人对父母的要求太高了。在我看来，能做到小孩出了健康问题，及时带去看病，就算合格了。看似很简单很理所当然的样子，据我观察，其实能做到的父母不超过一半。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "還要多久 我才能在你身邊",
+        "id": "1912063502782812160",
+        "location": "我最想選的肩膀又是否願意與我同心",
+        "name": "我珍惜你的方式錯了嗎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979464074787246080/49ypr-ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 36,
+          "like_count": 2441,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 314
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2007-04-18T19:09:47.000Z",
+        "description": "关注科技、好用的工具、美股、日常生活 | INTJ-A | 没有建群，不主动私信人，谨防骗子 | 投资有风险，不要听我的 | NFA | 不接广告，勿扰",
+        "id": "5147381",
+        "location": "the world",
+        "name": "wuzhe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/866518410972192768/66vemQ1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124164,
+          "following_count": 4418,
+          "like_count": 1395,
+          "listed_count": 1962,
+          "media_count": 682,
+          "tweet_count": 4500
+        },
+        "username": "realwuzhe",
+        "verified": true
+      }
+    ]
+  }
+}

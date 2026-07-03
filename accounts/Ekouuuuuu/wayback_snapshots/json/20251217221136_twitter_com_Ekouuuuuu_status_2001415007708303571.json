@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2001415007708303571",
+    "created_at": "2025-12-17T22:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T23:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001415007708303571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "811201583287439360",
+          "start": 3,
+          "username": "KUI__YANG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001415007708303571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000817907299967284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KUI__YANG: 我不想活在一个从出生到死亡一直需要参与服从性测试的社会里。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2001415007708303571",
+        "created_at": "2025-12-17T22:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T23:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001415007708303571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "811201583287439360",
+              "start": 3,
+              "username": "KUI__YANG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001415007708303571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000817907299967284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KUI__YANG: 我不想活在一个从出生到死亡一直需要参与服从性测试的社会里。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "811201583287439360",
+        "conversation_id": "2000817907299967284",
+        "created_at": "2025-12-16T06:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T07:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000817907299967284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000817907299967284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 243529,
+          "like_count": 2553,
+          "quote_count": 16,
+          "reply_count": 145,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "我不想活在一个从出生到死亡一直需要参与服从性测试的社会里。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 184,
+          "like_count": 4597,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 682
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-20T13:28:23.000Z",
+        "description": "不虚度，不枉付。",
+        "id": "811201583287439360",
+        "location": "LOS ANGELES",
+        "name": "KUI YANG-葵阳先生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1046319665612447744/k6phbOeC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141034,
+          "following_count": 1267,
+          "like_count": 310233,
+          "listed_count": 444,
+          "media_count": 9140,
+          "tweet_count": 118247
+        },
+        "username": "KUI__YANG",
+        "verified": true
+      }
+    ]
+  }
+}

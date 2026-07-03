@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016415583705931776"
+      ],
+      "media_source_tweet_id": [
+        "2016415612227223975"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2016528022200074390",
+    "created_at": "2026-01-28T15:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T16:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016528022200074390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512261155850719234",
+          "start": 3,
+          "username": "Dormicumproject"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/90UJBH9jMO",
+          "end": 94,
+          "expanded_url": "https://x.com/Dormicumproject/status/2016415612227223975/photo/1",
+          "media_key": "3_2016415583705931776",
+          "start": 71,
+          "url": "https://t.co/90UJBH9jMO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016528022200074390",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 341
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016415612227223975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dormicumproject: 3000人を助けても1人を死なせては許されない。それが命というものではないですか？（白い巨塔より） https://t.co/90UJBH9jMO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2016415583705931776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_u_SjpaoAAkdTM.jpg",
+        "width": 1497
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016415583705931776"
+          ],
+          "media_source_tweet_id": [
+            "2016415612227223975"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2016528022200074390",
+        "created_at": "2026-01-28T15:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T16:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016528022200074390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512261155850719234",
+              "start": 3,
+              "username": "Dormicumproject"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/90UJBH9jMO",
+              "end": 94,
+              "expanded_url": "https://x.com/Dormicumproject/status/2016415612227223975/photo/1",
+              "media_key": "3_2016415583705931776",
+              "start": 71,
+              "url": "https://t.co/90UJBH9jMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016528022200074390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 341
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016415612227223975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dormicumproject: 3000人を助けても1人を死なせては許されない。それが命というものではないですか？（白い巨塔より） https://t.co/90UJBH9jMO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016415583705931776"
+          ]
+        },
+        "author_id": "1512261155850719234",
+        "conversation_id": "2016415612227223975",
+        "created_at": "2026-01-28T07:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T08:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016415612227223975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/90UJBH9jMO",
+              "end": 73,
+              "expanded_url": "https://x.com/Dormicumproject/status/2016415612227223975/photo/1",
+              "media_key": "3_2016415583705931776",
+              "start": 50,
+              "url": "https://t.co/90UJBH9jMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016415612227223975",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 599,
+          "impression_count": 70773,
+          "like_count": 5350,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 341
+        },
+        "reply_settings": "everyone",
+        "text": "3000人を助けても1人を死なせては許されない。それが命というものではないですか？（白い巨塔より） https://t.co/90UJBH9jMO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "同一片天為何好久不見‖叫我白菜就好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 234,
+          "like_count": 7650,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 1711
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T02:48:58.000Z",
+        "description": "心中デートしよ\n\n漫画はここから読めますhttps://t.co/SB66qxPOdk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/dormicum",
+                "end": 43,
+                "expanded_url": "https://lit.link/dormicum",
+                "start": 20,
+                "url": "https://t.co/SB66qxPOdk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dormicum2os",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dormicum2os",
+                "start": 0,
+                "url": "https://t.co/CtEGqQLjTn"
+              }
+            ]
+          }
+        },
+        "id": "1512261155850719234",
+        "name": "ドルミカム（Dormicum）",
+        "pinned_tweet_id": "1974042612412948503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761010277162864640/PGZHn1CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137529,
+          "following_count": 0,
+          "like_count": 2036,
+          "listed_count": 595,
+          "media_count": 878,
+          "tweet_count": 1378
+        },
+        "url": "https://t.co/CtEGqQLjTn",
+        "username": "Dormicumproject",
+        "verified": true
+      }
+    ]
+  }
+}

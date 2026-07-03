@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1987183597447712948",
+    "created_at": "2025-11-08T15:41:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T16:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987183597447712948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1808933044545630208",
+          "start": 3,
+          "username": "TauCeti_10700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987183597447712948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986479068754182455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TauCeti_10700: 拜托告诉我死后什么都没有好吗不要再捏造地狱或另一个世界来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1987183597447712948",
+        "created_at": "2025-11-08T15:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T16:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987183597447712948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1808933044545630208",
+              "start": 3,
+              "username": "TauCeti_10700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987183597447712948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986479068754182455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TauCeti_10700: 拜托告诉我死后什么都没有好吗不要再捏造地狱或另一个世界来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808933044545630208",
+        "conversation_id": "1986479068754182455",
+        "created_at": "2025-11-06T17:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T18:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986479068754182455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986479068754182455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7049,
+          "like_count": 111,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "拜托告诉我死后什么都没有好吗不要再捏造地狱或另一个世界来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "還要多久 我才能在你身邊",
+        "id": "1912063502782812160",
+        "location": "我最想選的肩膀又是否願意與我同心",
+        "name": "我珍惜你的方式錯了嗎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979464074787246080/49ypr-ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 31,
+          "like_count": 2382,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 288
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T18:37:10.000Z",
+        "description": "穿越语言的壳，任思维溢出容器——请听，离群者无法永恒的悲歌。炽在水洼中的倒影，因为星光获得了生命 /Per aspera ad astra. / 药物内容@asplendour15",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 77,
+                "username": "asplendour15"
+              }
+            ]
+          }
+        },
+        "id": "1808933044545630208",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "Pale Fire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853163363142115328/S5o_Yawf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 45,
+          "like_count": 320,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 264
+        },
+        "username": "TauCeti_10700",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2021883855284965376"
+      ],
+      "media_source_tweet_id": [
+        "2021887978877169759"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2022603931168522412",
+    "created_at": "2026-02-14T09:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T10:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022603931168522412"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "AKAGE",
+          "probability": 0.5117,
+          "start": 23,
+          "type": "Other"
+        },
+        {
+          "end": 42,
+          "normalized_text": "Dryness Squad",
+          "probability": 0.6987,
+          "start": 30,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2014184272534638592",
+          "start": 3,
+          "username": "_NorthSensei_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EwV0oIuwif",
+          "end": 69,
+          "expanded_url": "https://x.com/_NorthSensei_/status/2021887978877169759/video/1",
+          "media_key": "13_2021883855284965376",
+          "start": 46,
+          "url": "https://t.co/EwV0oIuwif"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022603931168522412",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 319
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021887978877169759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_NorthSensei_: RE:『AKAGE [Dryness Squad]』 https://t.co/EwV0oIuwif"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022603931168522412].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022603931168522412",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022603931168522412"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40033,
+        "height": 1080,
+        "media_key": "13_2021883855284965376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021883855284965376/img/iLf_yYUdkVYiCC2A.jpg",
+        "public_metrics": {
+          "view_count": 28135
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021883855284965376/vid/avc1/480x270/Zno9PQkuuBZy1VL5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021883855284965376/vid/avc1/640x360/ClgAU_9NBsMRmiQN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021883855284965376/vid/avc1/1280x720/MH3W7bU3_YZq1q5V.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021883855284965376/pl/yaaPFc3_oNuL5heV.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021883855284965376"
+          ]
+        },
+        "author_id": "2014184272534638592",
+        "conversation_id": "2021887978877169759",
+        "created_at": "2026-02-12T10:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021887978877169759"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "AKAGE",
+              "probability": 0.4664,
+              "start": 4,
+              "type": "Other"
+            },
+            {
+              "end": 23,
+              "normalized_text": "Dryness Squad",
+              "probability": 0.682,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EwV0oIuwif",
+              "end": 50,
+              "expanded_url": "https://x.com/_NorthSensei_/status/2021887978877169759/video/1",
+              "media_key": "13_2021883855284965376",
+              "start": 27,
+              "url": "https://t.co/EwV0oIuwif"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021887978877169759",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1647,
+          "impression_count": 8331,
+          "like_count": 3738,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 319
+        },
+        "reply_settings": "everyone",
+        "text": "RE:『AKAGE [Dryness Squad]』 https://t.co/EwV0oIuwif"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 248,
+          "like_count": 8449,
+          "listed_count": 1,
+          "media_count": 348,
+          "tweet_count": 2149
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T03:52:20.000Z",
+        "description": "Hi, I love to animating Blue Archive 3D Animation and Meme using Blender!\ni even animate it in Chibi style and Full model style too!\nNo AI❌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/northsensei",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/northsensei",
+                "start": 0,
+                "url": "https://t.co/NvMpM6WaIP"
+              }
+            ]
+          }
+        },
+        "id": "2014184272534638592",
+        "location": "Kivotos, Thailand",
+        "name": "North Sensei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014193591460282368/UEYFNeHL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 59,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 128
+        },
+        "url": "https://t.co/NvMpM6WaIP",
+        "username": "_NorthSensei_",
+        "verified": false
+      }
+    ]
+  }
+}

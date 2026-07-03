@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021605871298736128"
+      ],
+      "media_source_tweet_id": [
+        "2021605889283944469"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2021912053234188799",
+    "created_at": "2026-02-12T11:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021912053234188799"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "lain"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "870509117814620160",
+          "start": 3,
+          "username": "weizi5523"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4L5MPLsiBZ",
+          "end": 44,
+          "expanded_url": "https://x.com/weizi5523/status/2021605889283944469/photo/1",
+          "media_key": "3_2021605871298736128",
+          "start": 21,
+          "url": "https://t.co/4L5MPLsiBZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021912053234188799",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021605889283944469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @weizi5523: #lain https://t.co/4L5MPLsiBZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2021605871298736128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4v1Dqa8AAkPu_.jpg",
+        "width": 1402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021605871298736128"
+          ],
+          "media_source_tweet_id": [
+            "2021605889283944469"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2021912053234188799",
+        "created_at": "2026-02-12T11:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021912053234188799"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "lain"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "870509117814620160",
+              "start": 3,
+              "username": "weizi5523"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4L5MPLsiBZ",
+              "end": 44,
+              "expanded_url": "https://x.com/weizi5523/status/2021605889283944469/photo/1",
+              "media_key": "3_2021605871298736128",
+              "start": 21,
+              "url": "https://t.co/4L5MPLsiBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021912053234188799",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021605889283944469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @weizi5523: #lain https://t.co/4L5MPLsiBZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021605871298736128"
+          ]
+        },
+        "author_id": "870509117814620160",
+        "conversation_id": "2021605889283944469",
+        "created_at": "2026-02-11T15:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T16:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021605889283944469"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "lain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4L5MPLsiBZ",
+              "end": 29,
+              "expanded_url": "https://x.com/weizi5523/status/2021605889283944469/photo/1",
+              "media_key": "3_2021605871298736128",
+              "start": 6,
+              "url": "https://t.co/4L5MPLsiBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021605889283944469",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 3547,
+          "like_count": 419,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "#lain https://t.co/4L5MPLsiBZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 249,
+          "like_count": 8440,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 2134
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-02T05:15:21.000Z",
+        "description": "你好，我是桅桅\n平时会发自己的画,谢谢！꒰ঌ🤍໒꒱\n我会拉黑不礼貌的人，谢谢꒰ঌ🤍໒꒱",
+        "id": "870509117814620160",
+        "name": "桅桅君",
+        "pinned_tweet_id": "1814628866146574641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767219316406226944/a6ZYudwG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167,
+          "following_count": 272,
+          "like_count": 1322,
+          "listed_count": 22,
+          "media_count": 131,
+          "tweet_count": 288
+        },
+        "username": "weizi5523",
+        "verified": false
+      }
+    ]
+  }
+}

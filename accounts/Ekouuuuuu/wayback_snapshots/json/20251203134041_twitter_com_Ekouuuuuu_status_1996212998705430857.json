@@ -1,0 +1,752 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1655114244336267266"
+      ],
+      "media_source_tweet_id": [
+        "1655114252976525312"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "pixiv",
+          "id": "1038127846168780800",
+          "name": "pixiv (ピクシブ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "pixiv",
+          "id": "1038127846168780800",
+          "name": "pixiv (ピクシブ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1996212998705430857",
+    "created_at": "2025-12-03T13:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T14:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996212998705430857"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 33,
+          "tag": "pixiv"
+        },
+        {
+          "end": 77,
+          "start": 65,
+          "tag": "BlueArchive"
+        },
+        {
+          "end": 86,
+          "start": 80,
+          "tag": "陸八魔アル"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "928993857806647298",
+          "start": 3,
+          "username": "Mokushiro_Amo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pixiv.net/artworks/10790…",
+          "end": 63,
+          "expanded_url": "https://www.pixiv.net/artworks/107908946",
+          "start": 40,
+          "url": "https://t.co/O74suoDQOy"
+        },
+        {
+          "display_url": "pic.x.com/ofP3h3Y6SA",
+          "end": 110,
+          "expanded_url": "https://x.com/demo_0u0/status/1655114252976525312/photo/1",
+          "media_key": "3_1655114244336267266",
+          "start": 87,
+          "url": "https://t.co/ofP3h3Y6SA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996212998705430857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1655114252976525312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mokushiro_Amo: 陸八魔亞瑠 | demo  #pixiv https://t.co/O74suoDQOy  #BlueArchive   #陸八魔アル https://t.co/ofP3h3Y6SA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1655114244336267266",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FvglotRaMAIU0rO.jpg",
+        "width": 799
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1655114244336267266"
+          ],
+          "media_source_tweet_id": [
+            "1655114252976525312"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1996212998705430857",
+        "created_at": "2025-12-03T13:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996212998705430857"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 33,
+              "tag": "pixiv"
+            },
+            {
+              "end": 77,
+              "start": 65,
+              "tag": "BlueArchive"
+            },
+            {
+              "end": 86,
+              "start": 80,
+              "tag": "陸八魔アル"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "928993857806647298",
+              "start": 3,
+              "username": "Mokushiro_Amo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pixiv.net/artworks/10790…",
+              "end": 63,
+              "expanded_url": "https://www.pixiv.net/artworks/107908946",
+              "start": 40,
+              "url": "https://t.co/O74suoDQOy"
+            },
+            {
+              "display_url": "pic.x.com/ofP3h3Y6SA",
+              "end": 110,
+              "expanded_url": "https://x.com/demo_0u0/status/1655114252976525312/photo/1",
+              "media_key": "3_1655114244336267266",
+              "start": 87,
+              "url": "https://t.co/ofP3h3Y6SA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996212998705430857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1655114252976525312",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mokushiro_Amo: 陸八魔亞瑠 | demo  #pixiv https://t.co/O74suoDQOy  #BlueArchive   #陸八魔アル https://t.co/ofP3h3Y6SA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1655114244336267266"
+          ]
+        },
+        "author_id": "928993857806647298",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1655114252976525312",
+        "created_at": "2023-05-07T07:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-07T08:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1655114252976525312"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "pixiv"
+            },
+            {
+              "end": 58,
+              "start": 46,
+              "tag": "BlueArchive"
+            },
+            {
+              "end": 67,
+              "start": 61,
+              "tag": "陸八魔アル"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pixiv.net/artworks/10790…",
+              "end": 44,
+              "expanded_url": "https://www.pixiv.net/artworks/107908946",
+              "start": 21,
+              "url": "https://t.co/O74suoDQOy"
+            },
+            {
+              "display_url": "pic.x.com/ofP3h3Y6SA",
+              "end": 91,
+              "expanded_url": "https://x.com/demo_0u0/status/1655114252976525312/photo/1",
+              "media_key": "3_1655114244336267266",
+              "start": 68,
+              "url": "https://t.co/ofP3h3Y6SA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1655114252976525312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 416,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "陸八魔亞瑠 | demo  #pixiv https://t.co/O74suoDQOy  #BlueArchive   #陸八魔アル https://t.co/ofP3h3Y6SA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖Aru是一切！‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 126,
+          "like_count": 3280,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 255
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-10T14:32:50.000Z",
+        "description": "畫啊畫~~按個喜歡支持下唄:D\nbsky：https://t.co/fOYpRZ719S\nlink：https://t.co/JMBzUzUs0N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/mokush…",
+                "end": 44,
+                "expanded_url": "https://bsky.app/profile/mokushiroart.bsky.social",
+                "start": 21,
+                "url": "https://t.co/fOYpRZ719S"
+              },
+              {
+                "display_url": "muffybolt13.wixsite.com/mokushiroamo",
+                "end": 73,
+                "expanded_url": "https://muffybolt13.wixsite.com/mokushiroamo",
+                "start": 50,
+                "url": "https://t.co/JMBzUzUs0N"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/23728193",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/23728193",
+                "start": 0,
+                "url": "https://t.co/DzmgT7ocag"
+              }
+            ]
+          }
+        },
+        "id": "928993857806647298",
+        "name": "漠白_Amo",
+        "pinned_tweet_id": "1923558933895184706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638054025928249351/eORnAk39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 2742,
+          "like_count": 476,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/DzmgT7ocag",
+        "username": "Mokushiro_Amo",
+        "verified": true
+      }
+    ]
+  }
+}

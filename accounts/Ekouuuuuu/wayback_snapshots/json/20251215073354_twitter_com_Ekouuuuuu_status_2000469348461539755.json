@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000168275519602688"
+      ],
+      "media_source_tweet_id": [
+        "2000168285036556522"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000469348461539755",
+    "created_at": "2025-12-15T07:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T08:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000469348461539755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771141794258116608",
+          "start": 3,
+          "username": "_suisui8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uSzJ1xQ0sC",
+          "end": 69,
+          "expanded_url": "https://x.com/_suisui8/status/2000168285036556522/photo/1",
+          "media_key": "3_2000168275519602688",
+          "start": 46,
+          "url": "https://t.co/uSzJ1xQ0sC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000469348461539755",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000168285036556522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_suisui8: アップの自撮り、髪の毛の面積がでかい\nモフモフヒナ☁️☁️☁️ https://t.co/uSzJ1xQ0sC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3838,
+        "media_key": "3_2000168275519602688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8IGcwFaAAAkE-P.jpg",
+        "width": 2159
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000168275519602688"
+          ],
+          "media_source_tweet_id": [
+            "2000168285036556522"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000469348461539755",
+        "created_at": "2025-12-15T07:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000469348461539755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771141794258116608",
+              "start": 3,
+              "username": "_suisui8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSzJ1xQ0sC",
+              "end": 69,
+              "expanded_url": "https://x.com/_suisui8/status/2000168285036556522/photo/1",
+              "media_key": "3_2000168275519602688",
+              "start": 46,
+              "url": "https://t.co/uSzJ1xQ0sC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000469348461539755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000168285036556522",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_suisui8: アップの自撮り、髪の毛の面積がでかい\nモフモフヒナ☁️☁️☁️ https://t.co/uSzJ1xQ0sC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000168275519602688"
+          ]
+        },
+        "author_id": "1771141794258116608",
+        "conversation_id": "2000168285036556522",
+        "created_at": "2025-12-14T11:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T12:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000168285036556522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSzJ1xQ0sC",
+              "end": 55,
+              "expanded_url": "https://x.com/_suisui8/status/2000168285036556522/photo/1",
+              "media_key": "3_2000168275519602688",
+              "start": 32,
+              "url": "https://t.co/uSzJ1xQ0sC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000168285036556522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 6743,
+          "like_count": 820,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "アップの自撮り、髪の毛の面積がでかい\nモフモフヒナ☁️☁️☁️ https://t.co/uSzJ1xQ0sC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 154,
+          "like_count": 3957,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 544
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T11:48:15.000Z",
+        "description": "cosplay 20↑ ブルアカとホヨバ sub: @tanocakumu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "tanocakumu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sui8",
+                "end": 23,
+                "expanded_url": "https://lit.link/sui8",
+                "start": 0,
+                "url": "https://t.co/YseFLM9IEB"
+              }
+            ]
+          }
+        },
+        "id": "1771141794258116608",
+        "location": "次▶冬コミ両日.1/3a!",
+        "name": "すいは",
+        "pinned_tweet_id": "1999805591632642141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974589351649779712/SkAWoHIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5165,
+          "following_count": 291,
+          "like_count": 6921,
+          "listed_count": 74,
+          "media_count": 326,
+          "tweet_count": 4058
+        },
+        "url": "https://t.co/YseFLM9IEB",
+        "username": "_suisui8",
+        "verified": false
+      }
+    ]
+  }
+}

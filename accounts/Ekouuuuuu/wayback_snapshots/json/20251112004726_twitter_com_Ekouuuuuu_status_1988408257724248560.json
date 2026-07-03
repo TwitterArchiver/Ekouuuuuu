@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988408254863728640"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1988408257724248560",
+    "created_at": "2025-11-12T00:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T01:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988408257724248560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yfrp9GFH5i",
+          "end": 39,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1988408257724248560/photo/1",
+          "media_key": "3_1988408254863728640",
+          "start": 16,
+          "url": "https://t.co/yfrp9GFH5i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988408257724248560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "過往就像剩飯。熱一遍。餿一遍。 https://t.co/yfrp9GFH5i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1367,
+        "media_key": "3_1988408254863728640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5g-xdObYAAOCqz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988408254863728640"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1988408257724248560",
+        "created_at": "2025-11-12T00:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T01:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988408257724248560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yfrp9GFH5i",
+              "end": 39,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1988408257724248560/photo/1",
+              "media_key": "3_1988408254863728640",
+              "start": 16,
+              "url": "https://t.co/yfrp9GFH5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988408257724248560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "過往就像剩飯。熱一遍。餿一遍。 https://t.co/yfrp9GFH5i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "還要多久 我才能在你身邊",
+        "id": "1912063502782812160",
+        "location": "我最想選的肩膀又是否願意與我同心",
+        "name": "我珍惜你的方式錯了嗎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979464074787246080/49ypr-ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 32,
+          "like_count": 2421,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 299
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

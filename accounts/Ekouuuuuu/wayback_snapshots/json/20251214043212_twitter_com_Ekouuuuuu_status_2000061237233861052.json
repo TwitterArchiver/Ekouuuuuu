@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000061232251097088"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000061237233861052",
+    "created_at": "2025-12-14T04:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T05:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000061237233861052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 32,
+          "id": "1444995863512711170",
+          "start": 22,
+          "username": "Fox107133"
+        },
+        {
+          "end": 49,
+          "id": "1860719143835803648",
+          "start": 33,
+          "username": "ki0519324325053"
+        },
+        {
+          "end": 66,
+          "id": "1975500696427581440",
+          "start": 56,
+          "username": "TReverie_"
+        },
+        {
+          "end": 81,
+          "id": "1490543758160527361",
+          "start": 73,
+          "username": "Qiu1647"
+        },
+        {
+          "end": 97,
+          "id": "1963633171968229376",
+          "start": 82,
+          "username": "w4132909282004"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinitetweet.me/family-tree?la…",
+          "end": 125,
+          "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2000043581856509954/dS8oOT8C?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2000043581856509954/dS8oOT8C?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 102,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "url": "https://t.co/4nGejR50Bt"
+        },
+        {
+          "display_url": "pic.x.com/fDvErOhpzp",
+          "end": 149,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2000061237233861052/photo/1",
+          "media_key": "3_2000061232251097088",
+          "start": 126,
+          "url": "https://t.co/fDvErOhpzp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000061237233861052",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Fox107133 @ki0519324325053\n👰 配偶: @TReverie_\n👶 孩子: @Qiu1647 @w4132909282004\n\n➡️ https://t.co/4nGejR50Bt https://t.co/fDvErOhpzp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2000061232251097088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8GlGA1bUAAZ026.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000061232251097088"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000061237233861052",
+        "created_at": "2025-12-14T04:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T05:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000061237233861052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1444995863512711170",
+              "start": 22,
+              "username": "Fox107133"
+            },
+            {
+              "end": 49,
+              "id": "1860719143835803648",
+              "start": 33,
+              "username": "ki0519324325053"
+            },
+            {
+              "end": 66,
+              "id": "1975500696427581440",
+              "start": 56,
+              "username": "TReverie_"
+            },
+            {
+              "end": 81,
+              "id": "1490543758160527361",
+              "start": 73,
+              "username": "Qiu1647"
+            },
+            {
+              "end": 97,
+              "id": "1963633171968229376",
+              "start": 82,
+              "username": "w4132909282004"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 125,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2000043581856509954/dS8oOT8C?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2000043581856509954/dS8oOT8C?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 102,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/4nGejR50Bt"
+            },
+            {
+              "display_url": "pic.x.com/fDvErOhpzp",
+              "end": 149,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2000061237233861052/photo/1",
+              "media_key": "3_2000061232251097088",
+              "start": 126,
+              "url": "https://t.co/fDvErOhpzp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000061237233861052",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Fox107133 @ki0519324325053\n👰 配偶: @TReverie_\n👶 孩子: @Qiu1647 @w4132909282004\n\n➡️ https://t.co/4nGejR50Bt https://t.co/fDvErOhpzp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了ww‖化學極樂‖養病中……‖🇯🇵🤝🇹🇼‖overdose是吸毒所以我是毒蟲🥺‖亚硝酸钠 氧化羟胺重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 153,
+          "like_count": 3704,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 412
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-04T12:00:45.000Z",
+        "description": "赛博心理医生，互关可以随便心理咨询\n\n打游戏可以找我",
+        "id": "1444995863512711170",
+        "name": "云间",
+        "pinned_tweet_id": "1750775467731497461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1445011849636765701/LZ589jKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 163,
+          "like_count": 3626,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 738
+        },
+        "username": "Fox107133",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T16:17:50.000Z",
+        "description": "脑黄心红",
+        "id": "1860719143835803648",
+        "name": "铠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860719484669190144/VOU4aqpB_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "username": "ki0519324325053",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "包蜜😋 | 情绪超级不稳，喜欢三天两头切换状态 | 反共的我看到一个fo一个 | Blue Archive | 反支性，支持脱支 | Stand up for yourself",
+        "id": "1975500696427581440",
+        "location": "London, England",
+        "name": "Tiny Reverie",
+        "pinned_tweet_id": "1997905916759531682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996531878183235584/x-H22fXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3787,
+          "following_count": 832,
+          "like_count": 12158,
+          "listed_count": 28,
+          "media_count": 828,
+          "tweet_count": 3154
+        },
+        "username": "TReverie_",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-07T04:32:15.000Z",
+        "description": "男。我不期待爱，只期待流量，关注，钱。不谈恋爱，不免费私联，文案随意转载。",
+        "id": "1490543758160527361",
+        "location": "狮城",
+        "name": "Philip（p",
+        "pinned_tweet_id": "1997213991886602721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999091432024375296/itsbnFY__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 1494,
+          "like_count": 63015,
+          "listed_count": 5,
+          "media_count": 637,
+          "tweet_count": 15369
+        },
+        "username": "Qiu1647",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T16:00:20.000Z",
+        "description": "",
+        "id": "1963633171968229376",
+        "name": "吴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963633237273554944/H-h0qtTG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "username": "w4132909282004",
+        "verified": false
+      }
+    ]
+  }
+}

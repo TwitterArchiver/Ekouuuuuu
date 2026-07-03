@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026256034826964993"
+      ],
+      "media_source_tweet_id": [
+        "2027146657037770970"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2027289226698723375",
+    "created_at": "2026-02-27T07:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T08:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027289226698723375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1903451851150053378",
+          "start": 3,
+          "username": "aib_bar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eJ7RucWlfA",
+          "end": 55,
+          "expanded_url": "https://x.com/aib_bar/status/2027146657037770970/photo/1",
+          "media_key": "3_2026256034826964993",
+          "start": 32,
+          "url": "https://t.co/eJ7RucWlfA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027289226698723375",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027146657037770970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aib_bar: 忘れようとするほど、空が君に似てくる https://t.co/eJ7RucWlfA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2026256034826964993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB61IMvaUAE8xao.jpg",
+        "width": 849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026256034826964993"
+          ],
+          "media_source_tweet_id": [
+            "2027146657037770970"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2027289226698723375",
+        "created_at": "2026-02-27T07:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027289226698723375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1903451851150053378",
+              "start": 3,
+              "username": "aib_bar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eJ7RucWlfA",
+              "end": 55,
+              "expanded_url": "https://x.com/aib_bar/status/2027146657037770970/photo/1",
+              "media_key": "3_2026256034826964993",
+              "start": 32,
+              "url": "https://t.co/eJ7RucWlfA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027289226698723375",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027146657037770970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aib_bar: 忘れようとするほど、空が君に似てくる https://t.co/eJ7RucWlfA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026256034826964993"
+          ]
+        },
+        "author_id": "1903451851150053378",
+        "conversation_id": "2027146657037770970",
+        "created_at": "2026-02-26T22:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T23:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027146657037770970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eJ7RucWlfA",
+              "end": 42,
+              "expanded_url": "https://x.com/aib_bar/status/2027146657037770970/photo/1",
+              "media_key": "3_2026256034826964993",
+              "start": 19,
+              "url": "https://t.co/eJ7RucWlfA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027146657037770970",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 8532,
+          "like_count": 796,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "忘れようとするほど、空が君に似てくる https://t.co/eJ7RucWlfA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 249,
+          "like_count": 8908,
+          "listed_count": 1,
+          "media_count": 366,
+          "tweet_count": 2271
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T14:21:34.000Z",
+        "description": "AIartと写真であなたの心に、小さな物語を。オオカミの森コンテスト入選、LinkAI展グランプリ受賞ありがとうございます。画像などの無断転載、使用禁止。ご依頼はDMいただけますと幸いです。ポスター販売：https://t.co/CC00XQCMqg様、BOOTHなどはHPをご覧ください。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "iv-iz.com",
+                "end": 125,
+                "expanded_url": "https://iv-iz.com/",
+                "start": 102,
+                "url": "https://t.co/CC00XQCMqg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aibakinka.studio.site",
+                "end": 23,
+                "expanded_url": "https://aibakinka.studio.site/",
+                "start": 0,
+                "url": "https://t.co/3v6VbKC7mm"
+              }
+            ]
+          }
+        },
+        "id": "1903451851150053378",
+        "name": "藍葉_Aiba",
+        "pinned_tweet_id": "2018463944327717094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940504928415334400/hHbonHHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5518,
+          "following_count": 517,
+          "like_count": 35347,
+          "listed_count": 35,
+          "media_count": 786,
+          "tweet_count": 5887
+        },
+        "url": "https://t.co/3v6VbKC7mm",
+        "username": "aib_bar",
+        "verified": true
+      }
+    ]
+  }
+}

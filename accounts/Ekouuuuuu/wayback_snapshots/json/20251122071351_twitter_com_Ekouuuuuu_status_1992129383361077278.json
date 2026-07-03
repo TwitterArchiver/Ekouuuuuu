@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1992074877646573940",
+    "created_at": "2025-11-22T07:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T08:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992129383361077278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3319804777",
+          "start": 0,
+          "username": "XinhuaChinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992129383361077278",
+    "in_reply_to_user_id": "3319804777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992074877646573940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinhuaChinese 傻逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 89791,
+        "height": 1920,
+        "media_key": "7_1992074801704554496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1992074801704554496/pu/img/hbUcfNhyri9dVEN6.jpg",
+        "public_metrics": {
+          "view_count": 437
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992074801704554496/pu/vid/avc1/320x568/NRMSg45-zICFk4GA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992074801704554496/pu/vid/avc1/480x852/BM4lIHsc6QVFTMnC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992074801704554496/pu/vid/avc1/720x1280/EtAEykrY8n9BG_IH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1992074801704554496/pu/pl/x9DWHtGGolVs1puD.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1992074877646573940",
+        "created_at": "2025-11-22T07:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T08:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992129383361077278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3319804777",
+              "start": 0,
+              "username": "XinhuaChinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992129383361077278",
+        "in_reply_to_user_id": "3319804777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992074877646573940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinhuaChinese 傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1992074801704554496"
+          ]
+        },
+        "author_id": "3319804777",
+        "conversation_id": "1992074877646573940",
+        "created_at": "2025-11-22T03:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992074877646573940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wTDbSVcBsc",
+              "end": 111,
+              "expanded_url": "https://x.com/XinhuaChinese/status/1992074877646573940/video/1",
+              "media_key": "7_1992074801704554496",
+              "start": 88,
+              "url": "https://t.co/wTDbSVcBsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992074877646573940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1150,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“小海豚”是人们对第十五届全运会志愿者的亲切称呼，他们热情周到的服务和青春可爱的气息给赛事各方带来了快乐的感受。他们中有不少来自香港、澳门的学生，让我们一起来听听他们的感想。 https://t.co/wTDbSVcBsc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了🥬‖COSER‖互聯網雙相樂子人‖可以來找我互fo聊天喵",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜_Satsuki🍏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991377630818627588/tGgmPGTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 52,
+          "like_count": 2682,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 120
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-19T07:37:55.000Z",
+        "description": "這裡既嚴肃，又輕松；\n既自然，又人文；\n既為你梳理中國發展，也為你关注世界動態；\n時事、觀點、視野、娱樂俱全。\n了解中國和世界新聞，新華社中文賬號請您收好。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xinhuanet.com",
+                "end": 23,
+                "expanded_url": "http://www.xinhuanet.com",
+                "start": 0,
+                "url": "https://t.co/mhjLKixY7J"
+              }
+            ]
+          }
+        },
+        "id": "3319804777",
+        "location": "Beijing",
+        "name": "New China 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1246626970172940296/bd30DC_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334447,
+          "following_count": 62,
+          "like_count": 62,
+          "listed_count": 2392,
+          "media_count": 66157,
+          "tweet_count": 66569
+        },
+        "url": "https://t.co/mhjLKixY7J",
+        "username": "XinhuaChinese",
+        "verified": true
+      }
+    ]
+  }
+}

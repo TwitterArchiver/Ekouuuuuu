@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994046554580340736"
+      ],
+      "media_source_tweet_id": [
+        "1994046569155563867"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994582215297306656",
+    "created_at": "2025-11-29T01:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T02:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994582215297306656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1604143412881391617",
+          "start": 3,
+          "username": "Delt4nimation"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O29CrxkZR4",
+          "end": 42,
+          "expanded_url": "https://x.com/Delt4nimation/status/1994046569155563867/photo/1",
+          "media_key": "3_1994046554580340736",
+          "start": 19,
+          "url": "https://t.co/O29CrxkZR4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994582215297306656",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1227
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994046569155563867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Delt4nimation: https://t.co/O29CrxkZR4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1994046554580340736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xGxsdaUAA_IOh.jpg",
+        "width": 2766
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994046554580340736"
+          ],
+          "media_source_tweet_id": [
+            "1994046569155563867"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994582215297306656",
+        "created_at": "2025-11-29T01:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994582215297306656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1604143412881391617",
+              "start": 3,
+              "username": "Delt4nimation"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O29CrxkZR4",
+              "end": 42,
+              "expanded_url": "https://x.com/Delt4nimation/status/1994046569155563867/photo/1",
+              "media_key": "3_1994046554580340736",
+              "start": 19,
+              "url": "https://t.co/O29CrxkZR4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994582215297306656",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1227
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994046569155563867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Delt4nimation: https://t.co/O29CrxkZR4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994046554580340736"
+          ]
+        },
+        "author_id": "1604143412881391617",
+        "conversation_id": "1994046569155563867",
+        "created_at": "2025-11-27T14:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994046569155563867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O29CrxkZR4",
+              "end": 23,
+              "expanded_url": "https://x.com/Delt4nimation/status/1994046569155563867/photo/1",
+              "media_key": "3_1994046554580340736",
+              "start": 0,
+              "url": "https://t.co/O29CrxkZR4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994046569155563867",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1397,
+          "impression_count": 106920,
+          "like_count": 10534,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 1227
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/O29CrxkZR4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 2944,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 265
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T15:56:16.000Z",
+        "description": "絵描きます\n✉mail: delt4nimation@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/52385348",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/52385348",
+                "start": 0,
+                "url": "https://t.co/g9YtkD97OY"
+              }
+            ]
+          }
+        },
+        "id": "1604143412881391617",
+        "location": "NO 画像生成AI",
+        "name": "ルタ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990709974880956418/CFhfmL41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11603,
+          "following_count": 542,
+          "like_count": 6007,
+          "listed_count": 97,
+          "media_count": 164,
+          "tweet_count": 728
+        },
+        "url": "https://t.co/g9YtkD97OY",
+        "username": "Delt4nimation",
+        "verified": false
+      }
+    ]
+  }
+}

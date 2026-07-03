@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014337318967259136"
+      ],
+      "media_source_tweet_id": [
+        "2014337324436598959"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2014375374357233707",
+    "created_at": "2026-01-22T16:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T17:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014375374357233707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1249607798221967360",
+          "start": 3,
+          "username": "57ame"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/18wV1SaZUv",
+          "end": 39,
+          "expanded_url": "https://x.com/57ame/status/2014337324436598959/photo/1",
+          "media_key": "3_2014337318967259136",
+          "start": 16,
+          "url": "https://t.co/18wV1SaZUv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014375374357233707",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014337324436598959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @57ame: 2025 https://t.co/18wV1SaZUv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_2014337318967259136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_RdHoLbMAA1xdF.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014337318967259136"
+          ],
+          "media_source_tweet_id": [
+            "2014337324436598959"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2014375374357233707",
+        "created_at": "2026-01-22T16:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T17:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014375374357233707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1249607798221967360",
+              "start": 3,
+              "username": "57ame"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/18wV1SaZUv",
+              "end": 39,
+              "expanded_url": "https://x.com/57ame/status/2014337324436598959/photo/1",
+              "media_key": "3_2014337318967259136",
+              "start": 16,
+              "url": "https://t.co/18wV1SaZUv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014375374357233707",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014337324436598959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @57ame: 2025 https://t.co/18wV1SaZUv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014337318967259136"
+          ]
+        },
+        "author_id": "1249607798221967360",
+        "conversation_id": "2014337324436598959",
+        "created_at": "2026-01-22T14:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014337324436598959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/18wV1SaZUv",
+              "end": 28,
+              "expanded_url": "https://x.com/57ame/status/2014337324436598959/photo/1",
+              "media_key": "3_2014337318967259136",
+              "start": 5,
+              "url": "https://t.co/18wV1SaZUv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014337324436598959",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1595,
+          "like_count": 150,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "2025 https://t.co/18wV1SaZUv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖友LGBT‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6U23",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 80,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 57,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 226,
+          "like_count": 6793,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 1442
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T07:58:22.000Z",
+        "description": "つゆりです（╹◡╹）\n\nサブ　@sgw_ghost\n働　@szm8_bot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "sgw_ghost"
+              },
+              {
+                "end": 37,
+                "start": 28,
+                "username": "szm8_bot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "57ame.base.shop",
+                "end": 23,
+                "expanded_url": "http://57ame.base.shop",
+                "start": 0,
+                "url": "https://t.co/rYueIJsshO"
+              }
+            ]
+          }
+        },
+        "id": "1249607798221967360",
+        "name": "5月7日",
+        "pinned_tweet_id": "1974112210029850923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831704718684647426/2T_1dqGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5327,
+          "following_count": 93,
+          "like_count": 10042,
+          "listed_count": 43,
+          "media_count": 408,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/rYueIJsshO",
+        "username": "57ame",
+        "verified": false
+      }
+    ]
+  }
+}

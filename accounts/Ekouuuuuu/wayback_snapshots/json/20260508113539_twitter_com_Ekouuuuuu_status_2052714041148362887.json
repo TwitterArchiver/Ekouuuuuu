@@ -1,0 +1,610 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1234628013410545664",
+          "name": "Sky: Children of the Light"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1234628013410545664",
+          "name": "Sky: Children of the Light"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897364881178624",
+          "name": "Action-adventure games"
+        }
+      }
+    ],
+    "conversation_id": "2052714041148362887",
+    "created_at": "2026-05-08T11:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052714041148362887"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 131,
+          "start": 119,
+          "tag": "thatskygame"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1151247407180500992",
+          "start": 3,
+          "username": "thatskygameJP"
+        }
+      ],
+      "urls": [
+        {
+          "description": "『今月のSky』へようこそ。Skyの最新情報、コミュニティの活動、世界中の星の子どもたちの創作を一緒に堪能しましょう。 5月はとっても楽しい1ヶ月になるはず！アップデート33.5の配信に、宝探しの日々と彩なす日々が帰ってきます。詳しくみていきましょう。 5月26日(米太平洋夏時間) 次のアップデートは月末を予定しています。バージョン33.5は今後のイベントの準備はもちろん、様々な改善と修正が含まれています。Skyのソーシャルメディアをフォローして、詳細はパッチノートの公開をお待ちください。(パッチノート一覧は、今月のSky巻末のリンクからもご確認いただけます） 5月8日(金)〜5月22日(金) 宝探しの日々が帰ってきます！シャベルを手に取り、精霊たちと一緒に隠されたお宝の手がかりを辿りましょう。 イベントに参加することで日替わりで最大5枚のイベントチケットを集められます。イベントエリアとなる秘宝 の環礁には15枚のボーナスチケットも隠されているので、ぜひ全部見つけてくださいね。 5月29日(金)〜6月19日(金) 今年の彩なす日々は、みんなの色彩で空を埋めるご準備を！お気に入りの形のカイトを選んでお祝いに飛",
+          "display_url": "bit.ly/ThisMonthInSky…",
+          "end": 72,
+          "expanded_url": "https://bit.ly/ThisMonthInSkyMay2026_JP",
+          "start": 49,
+          "status": 200,
+          "title": "今月のSky：2026年5月号 - That Sky Game",
+          "unwound_url": "https://www.thatskygame.com/ja/news/this-month-in-sky-may-2026-edition/",
+          "url": "https://t.co/pytTI3aL1A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052714041148362887",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 690
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051452479091708123",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thatskygameJP: 5月はたっくさんのお宝が待ち受けていますよ！🏴‍☠️\n\n🔗 https://t.co/pytTI3aL1A\n今月のSky5月号で、どんなお楽しみが待っているかチェックしましょう！\n\n🕯️ハッシュタグ「#thatskygame」と投稿された作…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 805,
+        "media_key": "3_2051452470824771585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHg5JzUboAEQhZR.jpg",
+        "width": 1431
+      },
+      {
+        "height": 954,
+        "media_key": "3_2051452471038689280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHg5J0HbwAAodUj.jpg",
+        "width": 1696
+      },
+      {
+        "height": 961,
+        "media_key": "3_2051452470992490496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHg5Jz8a0AAJ-ev.jpg",
+        "width": 1708
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2051452470887661568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHg5JzjbQAAUcGe.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234628013410545664",
+              "name": "Sky: Children of the Light"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234628013410545664",
+              "name": "Sky: Children of the Light"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897364881178624",
+              "name": "Action-adventure games"
+            }
+          }
+        ],
+        "conversation_id": "2052714041148362887",
+        "created_at": "2026-05-08T11:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052714041148362887"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 119,
+              "tag": "thatskygame"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1151247407180500992",
+              "start": 3,
+              "username": "thatskygameJP"
+            }
+          ],
+          "urls": [
+            {
+              "description": "『今月のSky』へようこそ。Skyの最新情報、コミュニティの活動、世界中の星の子どもたちの創作を一緒に堪能しましょう。 5月はとっても楽しい1ヶ月になるはず！アップデート33.5の配信に、宝探しの日々と彩なす日々が帰ってきます。詳しくみていきましょう。 5月26日(米太平洋夏時間) 次のアップデートは月末を予定しています。バージョン33.5は今後のイベントの準備はもちろん、様々な改善と修正が含まれています。Skyのソーシャルメディアをフォローして、詳細はパッチノートの公開をお待ちください。(パッチノート一覧は、今月のSky巻末のリンクからもご確認いただけます） 5月8日(金)〜5月22日(金) 宝探しの日々が帰ってきます！シャベルを手に取り、精霊たちと一緒に隠されたお宝の手がかりを辿りましょう。 イベントに参加することで日替わりで最大5枚のイベントチケットを集められます。イベントエリアとなる秘宝 の環礁には15枚のボーナスチケットも隠されているので、ぜひ全部見つけてくださいね。 5月29日(金)〜6月19日(金) 今年の彩なす日々は、みんなの色彩で空を埋めるご準備を！お気に入りの形のカイトを選んでお祝いに飛",
+              "display_url": "bit.ly/ThisMonthInSky…",
+              "end": 72,
+              "expanded_url": "https://bit.ly/ThisMonthInSkyMay2026_JP",
+              "start": 49,
+              "status": 200,
+              "title": "今月のSky：2026年5月号 - That Sky Game",
+              "unwound_url": "https://www.thatskygame.com/ja/news/this-month-in-sky-may-2026-edition/",
+              "url": "https://t.co/pytTI3aL1A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052714041148362887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 690
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051452479091708123",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thatskygameJP: 5月はたっくさんのお宝が待ち受けていますよ！🏴‍☠️\n\n🔗 https://t.co/pytTI3aL1A\n今月のSky5月号で、どんなお楽しみが待っているかチェックしましょう！\n\n🕯️ハッシュタグ「#thatskygame」と投稿された作…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051452470824771585",
+            "3_2051452471038689280",
+            "3_2051452470992490496",
+            "3_2051452470887661568"
+          ]
+        },
+        "author_id": "1151247407180500992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234628013410545664",
+              "name": "Sky: Children of the Light"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234628013410545664",
+              "name": "Sky: Children of the Light"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897364881178624",
+              "name": "Action-adventure games"
+            }
+          }
+        ],
+        "conversation_id": "2051452479091708123",
+        "created_at": "2026-05-05T00:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T01:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051452479091708123"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 100,
+              "tag": "thatskygame"
+            },
+            {
+              "end": 162,
+              "start": 150,
+              "tag": "thatskygame"
+            },
+            {
+              "end": 176,
+              "start": 163,
+              "tag": "Sky星を紡ぐ子どもたち"
+            }
+          ],
+          "urls": [
+            {
+              "description": "『今月のSky』へようこそ。Skyの最新情報、コミュニティの活動、世界中の星の子どもたちの創作を一緒に堪能しましょう。 5月はとっても楽しい1ヶ月になるはず！アップデート33.5の配信に、宝探しの日々と彩なす日々が帰ってきます。詳しくみていきましょう。 5月26日(米太平洋夏時間) 次のアップデートは月末を予定しています。バージョン33.5は今後のイベントの準備はもちろん、様々な改善と修正が含まれています。Skyのソーシャルメディアをフォローして、詳細はパッチノートの公開をお待ちください。(パッチノート一覧は、今月のSky巻末のリンクからもご確認いただけます） 5月8日(金)〜5月22日(金) 宝探しの日々が帰ってきます！シャベルを手に取り、精霊たちと一緒に隠されたお宝の手がかりを辿りましょう。 イベントに参加することで日替わりで最大5枚のイベントチケットを集められます。イベントエリアとなる秘宝 の環礁には15枚のボーナスチケットも隠されているので、ぜひ全部見つけてくださいね。 5月29日(金)〜6月19日(金) 今年の彩なす日々は、みんなの色彩で空を埋めるご準備を！お気に入りの形のカイトを選んでお祝いに飛",
+              "display_url": "bit.ly/ThisMonthInSky…",
+              "end": 53,
+              "expanded_url": "https://bit.ly/ThisMonthInSkyMay2026_JP",
+              "start": 30,
+              "status": 200,
+              "title": "今月のSky：2026年5月号 - That Sky Game",
+              "unwound_url": "https://www.thatskygame.com/ja/news/this-month-in-sky-may-2026-edition/",
+              "url": "https://t.co/pytTI3aL1A"
+            },
+            {
+              "display_url": "pic.x.com/N7mLI3h960",
+              "end": 200,
+              "expanded_url": "https://x.com/thatskygameJP/status/2051452479091708123/photo/1",
+              "media_key": "3_2051452470824771585",
+              "start": 177,
+              "url": "https://t.co/N7mLI3h960"
+            },
+            {
+              "display_url": "pic.x.com/N7mLI3h960",
+              "end": 200,
+              "expanded_url": "https://x.com/thatskygameJP/status/2051452479091708123/photo/1",
+              "media_key": "3_2051452471038689280",
+              "start": 177,
+              "url": "https://t.co/N7mLI3h960"
+            },
+            {
+              "display_url": "pic.x.com/N7mLI3h960",
+              "end": 200,
+              "expanded_url": "https://x.com/thatskygameJP/status/2051452479091708123/photo/1",
+              "media_key": "3_2051452470992490496",
+              "start": 177,
+              "url": "https://t.co/N7mLI3h960"
+            },
+            {
+              "display_url": "pic.x.com/N7mLI3h960",
+              "end": 200,
+              "expanded_url": "https://x.com/thatskygameJP/status/2051452479091708123/photo/1",
+              "media_key": "3_2051452470887661568",
+              "start": 177,
+              "url": "https://t.co/N7mLI3h960"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051452479091708123",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 241,
+          "impression_count": 126175,
+          "like_count": 2391,
+          "quote_count": 110,
+          "reply_count": 3,
+          "retweet_count": 690
+        },
+        "reply_settings": "everyone",
+        "text": "5月はたっくさんのお宝が待ち受けていますよ！🏴‍☠️\n\n🔗 https://t.co/pytTI3aL1A\n今月のSky5月号で、どんなお楽しみが待っているかチェックしましょう！\n\n🕯️ハッシュタグ「#thatskygame」と投稿された作品は今月のSkyでご紹介させていただく場合がございます。\n\n#thatskygame #Sky星を紡ぐ子どもたち https://t.co/N7mLI3h960"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "我還想和你談論宇宙和天空‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2051776082542825551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 298,
+          "like_count": 11834,
+          "listed_count": 1,
+          "media_count": 483,
+          "tweet_count": 2923
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-16T21:49:05.000Z",
+        "description": "『Sky 星を紡ぐ子どもたち』iOS・Android・Switch・PlayStation®・Steam | ✧あなたもSkyの世界へ🔗https://t.co/x0EdgbbiVf | 個別DMはご対応できません。サポートチームまでご連絡ください🔗https://t.co/x7fwccEgk6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/playskynow",
+                "end": 91,
+                "expanded_url": "https://bit.ly/playskynow",
+                "start": 68,
+                "url": "https://t.co/x0EdgbbiVf"
+              },
+              {
+                "display_url": "bit.ly/contact_us_jp",
+                "end": 148,
+                "expanded_url": "https://bit.ly/contact_us_jp",
+                "start": 125,
+                "url": "https://t.co/x7fwccEgk6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/playskynow",
+                "end": 23,
+                "expanded_url": "https://bit.ly/playskynow",
+                "start": 0,
+                "url": "https://t.co/x0EdgbbiVf"
+              }
+            ]
+          }
+        },
+        "id": "1151247407180500992",
+        "location": "王国",
+        "name": "Sky 星を紡ぐ子どもたち",
+        "pinned_tweet_id": "2051452479091708123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039359554291707904/je5-rnjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359394,
+          "following_count": 36,
+          "like_count": 20677,
+          "listed_count": 2302,
+          "media_count": 3275,
+          "tweet_count": 6100
+        },
+        "url": "https://t.co/x0EdgbbiVf",
+        "username": "thatskygameJP",
+        "verified": true
+      }
+    ]
+  }
+}

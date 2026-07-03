@@ -1,0 +1,536 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1234628013410545664",
+          "name": "Sky: Children of the Light"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1234628013410545664",
+          "name": "Sky: Children of the Light"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897364881178624",
+          "name": "Action-adventure games"
+        }
+      }
+    ],
+    "conversation_id": "2070842661511323704",
+    "created_at": "2026-06-27T12:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070842661511323704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "770814665349697536",
+          "start": 3,
+          "username": "thatskygame"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/Pmd",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/Pmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070842661511323704",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 259
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070658888412598604",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thatskygame: 🎂 This July, soar to new heights during Sky’s 7th Annviersary! 🦋\n\nWhat activities are you excited for!? 🤩 https://t.co/Pmd…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55866,
+        "height": 1080,
+        "media_key": "13_2070658656996057088",
+        "preview_image_url": "https://pbs.twimg.com/media/HLx1RNZW4AAwd3D.jpg",
+        "public_metrics": {
+          "view_count": 13181
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070658656996057088/vid/avc1/480x270/gSXBZCrhIuNJZw8e.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070658656996057088/vid/avc1/640x360/XTPy3o_TeyUUgd3y.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070658656996057088/vid/avc1/1280x720/HqYLZ1gRZOyjKzvo.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070658656996057088/pl/Fr6FEpkrkAAaOuNS.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234628013410545664",
+              "name": "Sky: Children of the Light"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234628013410545664",
+              "name": "Sky: Children of the Light"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897364881178624",
+              "name": "Action-adventure games"
+            }
+          }
+        ],
+        "conversation_id": "2070842661511323704",
+        "created_at": "2026-06-27T12:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070842661511323704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "770814665349697536",
+              "start": 3,
+              "username": "thatskygame"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/Pmd",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/Pmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070842661511323704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 259
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070658888412598604",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thatskygame: 🎂 This July, soar to new heights during Sky’s 7th Annviersary! 🦋\n\nWhat activities are you excited for!? 🤩 https://t.co/Pmd…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070658656996057088"
+          ]
+        },
+        "author_id": "770814665349697536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234628013410545664",
+              "name": "Sky: Children of the Light"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234628013410545664",
+              "name": "Sky: Children of the Light"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897364881178624",
+              "name": "Action-adventure games"
+            }
+          }
+        ],
+        "conversation_id": "2070658888412598604",
+        "created_at": "2026-06-27T00:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T01:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070658888412598604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PmdMEzp4j2",
+              "end": 129,
+              "expanded_url": "https://x.com/thatskygame/status/2070658888412598604/video/1",
+              "media_key": "13_2070658656996057088",
+              "start": 106,
+              "url": "https://t.co/PmdMEzp4j2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070658888412598604",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 71592,
+          "like_count": 1588,
+          "quote_count": 42,
+          "reply_count": 12,
+          "retweet_count": 259
+        },
+        "reply_settings": "everyone",
+        "text": "🎂 This July, soar to new heights during Sky’s 7th Annviersary! 🦋\n\nWhat activities are you excited for!? 🤩 https://t.co/PmdMEzp4j2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖LGBTQ+友好‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2064040950851404219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 378,
+          "like_count": 14383,
+          "listed_count": 1,
+          "media_count": 637,
+          "tweet_count": 3844
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-31T02:45:12.000Z",
+        "description": "A place where we shine brighter together. iPhone GOTY. Also on Google Play, Nintendo Switch, Sony PlayStation and Steam. From @thatgamecompany.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 126,
+                "username": "thatgamecompany"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/thatskygame",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/thatskygame",
+                "start": 0,
+                "url": "https://t.co/FagGbWgyQp"
+              }
+            ]
+          }
+        },
+        "id": "770814665349697536",
+        "location": "California, USA",
+        "name": "Sky: Children of the Light",
+        "pinned_tweet_id": "2063366423406055427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063331351311368192/D9eqTt7w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341166,
+          "following_count": 81,
+          "like_count": 6186,
+          "listed_count": 936,
+          "media_count": 3315,
+          "tweet_count": 5994
+        },
+        "url": "https://t.co/FagGbWgyQp",
+        "username": "thatskygame",
+        "verified": true
+      }
+    ]
+  }
+}

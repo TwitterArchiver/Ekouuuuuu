@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999744673087390093",
+    "created_at": "2025-12-13T08:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T09:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999757867734433974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999757867734433974",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999744673087390093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesterdayOrange 貼貼～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999744673087390093",
+        "created_at": "2025-12-13T08:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T09:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999757867734433974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999757867734433974",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999744673087390093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 貼貼～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1999744673087390093",
+        "created_at": "2025-12-13T07:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T08:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999744673087390093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999744673087390093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扣1和我互关，已经是互关可以贴贴抱抱亲亲🥰。\n扣2和我互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999520374074024441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 137,
+          "like_count": 3524,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 314
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1999463741214327098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9455,
+          "following_count": 3412,
+          "like_count": 68520,
+          "listed_count": 16,
+          "media_count": 1503,
+          "tweet_count": 15787
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

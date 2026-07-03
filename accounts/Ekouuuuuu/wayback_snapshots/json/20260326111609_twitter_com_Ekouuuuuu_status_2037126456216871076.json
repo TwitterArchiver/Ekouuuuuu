@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036490050549194757"
+      ],
+      "media_source_tweet_id": [
+        "2036490061483794696"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2037126456216871076",
+    "created_at": "2026-03-26T11:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T12:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037126456216871076"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "oc"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1873744155756912640",
+          "start": 3,
+          "username": "wa_n_2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dxcyvm6VfL",
+          "end": 39,
+          "expanded_url": "https://x.com/wa_n_2/status/2036490061483794696/photo/1",
+          "media_key": "3_2036490050549194757",
+          "start": 16,
+          "url": "https://t.co/dxcyvm6VfL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037126456216871076",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036490061483794696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wa_n_2: #oc https://t.co/dxcyvm6VfL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1207,
+        "media_key": "3_2036490050549194757",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMQ6UOaIAU_lJx.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036490050549194757"
+          ],
+          "media_source_tweet_id": [
+            "2036490061483794696"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2037126456216871076",
+        "created_at": "2026-03-26T11:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037126456216871076"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "oc"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1873744155756912640",
+              "start": 3,
+              "username": "wa_n_2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dxcyvm6VfL",
+              "end": 39,
+              "expanded_url": "https://x.com/wa_n_2/status/2036490061483794696/photo/1",
+              "media_key": "3_2036490050549194757",
+              "start": 16,
+              "url": "https://t.co/dxcyvm6VfL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037126456216871076",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036490061483794696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wa_n_2: #oc https://t.co/dxcyvm6VfL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036490050549194757"
+          ]
+        },
+        "author_id": "1873744155756912640",
+        "conversation_id": "2036490061483794696",
+        "created_at": "2026-03-24T17:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T18:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036490061483794696"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "oc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dxcyvm6VfL",
+              "end": 27,
+              "expanded_url": "https://x.com/wa_n_2/status/2036490061483794696/photo/1",
+              "media_key": "3_2036490050549194757",
+              "start": 4,
+              "url": "https://t.co/dxcyvm6VfL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036490061483794696",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 4181,
+          "like_count": 501,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "#oc https://t.co/dxcyvm6VfL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖恆春最深情‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo‖陰暗逼od蛆互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2035365735460180096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 246,
+          "like_count": 9585,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 2524
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T14:53:22.000Z",
+        "description": "ありのまま ！ 絵と言葉 ！ お誘い等はDMまで ！ FA #ぐるぐるふわふわ〜ん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 30,
+                "tag": "ぐるぐるふわふわ〜ん"
+              }
+            ]
+          }
+        },
+        "id": "1873744155756912640",
+        "name": "wa~n",
+        "pinned_tweet_id": "2031190518416507099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021560470885539841/I9thsExj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 147,
+          "like_count": 2960,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 611
+        },
+        "username": "wa_n_2",
+        "verified": false
+      }
+    ]
+  }
+}

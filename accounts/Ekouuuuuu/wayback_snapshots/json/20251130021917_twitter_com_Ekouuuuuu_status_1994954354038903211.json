@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994352831529455617"
+      ],
+      "media_source_tweet_id": [
+        "1994352837854220665"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994954354038903211",
+    "created_at": "2025-11-30T02:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T03:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994954354038903211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1935733290675347456",
+          "start": 3,
+          "username": "p_qlww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1bXfsKbk9h",
+          "end": 46,
+          "expanded_url": "https://x.com/p_qlww/status/1994352837854220665/photo/1",
+          "media_key": "3_1994352831529455617",
+          "start": 23,
+          "url": "https://t.co/1bXfsKbk9h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994954354038903211",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994352837854220665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @p_qlww: 学校きただけでえらい https://t.co/1bXfsKbk9h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1900,
+        "media_key": "3_1994352831529455617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61dVXAbkAEniJs.jpg",
+        "width": 1126
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994352831529455617"
+          ],
+          "media_source_tweet_id": [
+            "1994352837854220665"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994954354038903211",
+        "created_at": "2025-11-30T02:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T03:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994954354038903211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1935733290675347456",
+              "start": 3,
+              "username": "p_qlww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bXfsKbk9h",
+              "end": 46,
+              "expanded_url": "https://x.com/p_qlww/status/1994352837854220665/photo/1",
+              "media_key": "3_1994352831529455617",
+              "start": 23,
+              "url": "https://t.co/1bXfsKbk9h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994954354038903211",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994352837854220665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @p_qlww: 学校きただけでえらい https://t.co/1bXfsKbk9h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994352831529455617"
+          ]
+        },
+        "author_id": "1935733290675347456",
+        "conversation_id": "1994352837854220665",
+        "created_at": "2025-11-28T10:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994352837854220665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bXfsKbk9h",
+              "end": 34,
+              "expanded_url": "https://x.com/p_qlww/status/1994352837854220665/photo/1",
+              "media_key": "3_1994352831529455617",
+              "start": 11,
+              "url": "https://t.co/1bXfsKbk9h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994352837854220665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 40504,
+          "like_count": 2591,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "学校きただけでえらい https://t.co/1bXfsKbk9h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 113,
+          "like_count": 3062,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 184
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T16:16:16.000Z",
+        "description": "",
+        "id": "1935733290675347456",
+        "name": "しおん",
+        "pinned_tweet_id": "1994723762345005125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943995733939826692/SPRiNO0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 16,
+          "like_count": 14360,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 39
+        },
+        "username": "p_qlww",
+        "verified": false
+      }
+    ]
+  }
+}

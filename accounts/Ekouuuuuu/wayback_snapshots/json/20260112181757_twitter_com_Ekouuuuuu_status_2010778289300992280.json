@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010778287115776000"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2010778289300992280",
+    "created_at": "2026-01-12T18:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T19:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010778289300992280"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WMksICWEn8",
+          "end": 27,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2010778289300992280/photo/1",
+          "media_key": "3_2010778287115776000",
+          "start": 4,
+          "url": "https://t.co/WMksICWEn8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010778289300992280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？傻逼 https://t.co/WMksICWEn8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010778287115776000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-e4MtWasAAyHZn.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010778287115776000"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2010778289300992280",
+        "created_at": "2026-01-12T18:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T19:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010778289300992280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WMksICWEn8",
+              "end": 27,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2010778289300992280/photo/1",
+              "media_key": "3_2010778287115776000",
+              "start": 4,
+              "url": "https://t.co/WMksICWEn8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010778289300992280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？傻逼 https://t.co/WMksICWEn8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/a1Jpzl6Paz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuu",
+                "end": 74,
+                "expanded_url": "http://t.me/Ekouuuuu",
+                "start": 51,
+                "url": "https://t.co/a1Jpzl6Paz"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 207,
+          "like_count": 6274,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 1191
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

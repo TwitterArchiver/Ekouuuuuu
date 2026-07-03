@@ -1,0 +1,574 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014262213935304704"
+      ],
+      "media_source_tweet_id": [
+        "2014262220960768365"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2014563088679497744",
+    "created_at": "2026-01-23T04:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T05:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014563088679497744"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 46,
+          "tag": "ブルアカ"
+        },
+        {
+          "end": 64,
+          "start": 52,
+          "tag": "BlueArchive"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1961350640309080067",
+          "start": 3,
+          "username": "linedrawing_man"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ci65G4FfiJ",
+          "end": 117,
+          "expanded_url": "https://x.com/linedrawing_man/status/2014262220960768365/photo/1",
+          "media_key": "3_2014262213935304704",
+          "start": 94,
+          "url": "https://t.co/ci65G4FfiJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014563088679497744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 492
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014262220960768365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @linedrawing_man: 「アル様の為に…..消えてください….!!!」\n\n#ブルアカ #BlueArchive \n伊草ハルカ / Igusa Haruka\n下ツリー👇🧵 https://t.co/ci65G4FfiJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2014262213935304704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QYz8IbEAAAH2P.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014262213935304704"
+          ],
+          "media_source_tweet_id": [
+            "2014262220960768365"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2014563088679497744",
+        "created_at": "2026-01-23T04:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T05:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014563088679497744"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 64,
+              "start": 52,
+              "tag": "BlueArchive"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1961350640309080067",
+              "start": 3,
+              "username": "linedrawing_man"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ci65G4FfiJ",
+              "end": 117,
+              "expanded_url": "https://x.com/linedrawing_man/status/2014262220960768365/photo/1",
+              "media_key": "3_2014262213935304704",
+              "start": 94,
+              "url": "https://t.co/ci65G4FfiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014563088679497744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 492
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014262220960768365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @linedrawing_man: 「アル様の為に…..消えてください….!!!」\n\n#ブルアカ #BlueArchive \n伊草ハルカ / Igusa Haruka\n下ツリー👇🧵 https://t.co/ci65G4FfiJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014262213935304704"
+          ]
+        },
+        "author_id": "1961350640309080067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2014262220960768365",
+        "created_at": "2026-01-22T09:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T10:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014262220960768365"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 43,
+              "start": 31,
+              "tag": "BlueArchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ci65G4FfiJ",
+              "end": 96,
+              "expanded_url": "https://x.com/linedrawing_man/status/2014262220960768365/photo/1",
+              "media_key": "3_2014262213935304704",
+              "start": 73,
+              "url": "https://t.co/ci65G4FfiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014262220960768365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 425,
+          "impression_count": 35138,
+          "like_count": 3381,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 492
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "「アル様の為に…..消えてください….!!!」\n\n#ブルアカ #BlueArchive \n伊草ハルカ / Igusa Haruka\n下ツリー👇🧵 https://t.co/ci65G4FfiJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖友LGBT‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6U23",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 80,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 57,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2014018792066535498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 226,
+          "like_count": 6887,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 1512
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T08:50:49.000Z",
+        "description": "原画マンで線画マンの作監┊︎Key animator and line-art-focused animation director. ┊︎pixivから流して投稿┊︎反応にはイラストで返すよ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/16782991",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/16782991",
+                "start": 0,
+                "url": "https://t.co/Mog3o8RSnw"
+              }
+            ]
+          }
+        },
+        "id": "1961350640309080067",
+        "location": "仕事のやる気スイッチと拘束費が入ると投稿頻度が落ちます",
+        "name": "ぬりは -key animator 原画マン-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961358176898748421/urnre9ZM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 0,
+          "like_count": 60,
+          "listed_count": 10,
+          "media_count": 121,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/Mog3o8RSnw",
+        "username": "linedrawing_man",
+        "verified": false
+      }
+    ]
+  }
+}

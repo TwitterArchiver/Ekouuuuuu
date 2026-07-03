@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994793173210861572"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994793176234955232",
+    "created_at": "2025-11-29T15:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T16:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994793176234955232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vqf3em528Q",
+          "end": 37,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1994793176234955232/photo/1",
+          "media_key": "3_1994793173210861572",
+          "start": 14,
+          "url": "https://t.co/vqf3em528Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994793176234955232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "總是要來不及 才知道我可愛 https://t.co/vqf3em528Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1994793173210861572",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G67t0nmbkAQimj3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994793173210861572"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994793176234955232",
+        "created_at": "2025-11-29T15:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994793176234955232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vqf3em528Q",
+              "end": 37,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1994793176234955232/photo/1",
+              "media_key": "3_1994793173210861572",
+              "start": 14,
+              "url": "https://t.co/vqf3em528Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994793176234955232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "總是要來不及 才知道我可愛 https://t.co/vqf3em528Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 113,
+          "like_count": 3047,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 179
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

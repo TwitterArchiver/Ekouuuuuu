@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038612214270279680"
+      ],
+      "media_source_tweet_id": [
+        "2038612241172623515"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2038841805949853738",
+    "created_at": "2026-03-31T04:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T05:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038841805949853738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1581967554264051714",
+          "start": 3,
+          "username": "bubu2kUFO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/em3rq2X8Ww",
+          "end": 38,
+          "expanded_url": "https://x.com/bubu2kUFO/status/2038612241172623515/photo/1",
+          "media_key": "3_2038612214270279680",
+          "start": 15,
+          "url": "https://t.co/em3rq2X8Ww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038841805949853738",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 182
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038612241172623515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bubu2kUFO: https://t.co/em3rq2X8Ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2432,
+        "media_key": "3_2038612214270279680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqbAgJaQAAfO2c.jpg",
+        "width": 1664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038612214270279680"
+          ],
+          "media_source_tweet_id": [
+            "2038612241172623515"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2038841805949853738",
+        "created_at": "2026-03-31T04:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038841805949853738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1581967554264051714",
+              "start": 3,
+              "username": "bubu2kUFO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/em3rq2X8Ww",
+              "end": 38,
+              "expanded_url": "https://x.com/bubu2kUFO/status/2038612241172623515/photo/1",
+              "media_key": "3_2038612214270279680",
+              "start": 15,
+              "url": "https://t.co/em3rq2X8Ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038841805949853738",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 182
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038612241172623515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bubu2kUFO: https://t.co/em3rq2X8Ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038612214270279680"
+          ]
+        },
+        "author_id": "1581967554264051714",
+        "conversation_id": "2038612241172623515",
+        "created_at": "2026-03-30T13:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038612241172623515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/em3rq2X8Ww",
+              "end": 23,
+              "expanded_url": "https://x.com/bubu2kUFO/status/2038612241172623515/photo/1",
+              "media_key": "3_2038612214270279680",
+              "start": 0,
+              "url": "https://t.co/em3rq2X8Ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038612241172623515",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 227,
+          "impression_count": 32224,
+          "like_count": 2761,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/em3rq2X8Ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖恆春最深情‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo‖陰暗逼od蛆互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2035365735460180096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 248,
+          "like_count": 9769,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 2555
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T11:17:22.000Z",
+        "description": "出力と加筆です。\nPatreon:https://t.co/AdyJkDjtvb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/bubu2kUMA/me…",
+                "end": 40,
+                "expanded_url": "https://www.patreon.com/c/bubu2kUMA/membership",
+                "start": 17,
+                "url": "https://t.co/AdyJkDjtvb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/bubu2k_note",
+                "end": 23,
+                "expanded_url": "https://note.com/bubu2k_note",
+                "start": 0,
+                "url": "https://t.co/JUNxAVRF3o"
+              }
+            ]
+          }
+        },
+        "id": "1581967554264051714",
+        "location": "x",
+        "name": "ぶぶ漬け",
+        "pinned_tweet_id": "1972324209851601316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016466464270905345/emIl2E8N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270268,
+          "following_count": 27,
+          "like_count": 346,
+          "listed_count": 1845,
+          "media_count": 566,
+          "tweet_count": 4834
+        },
+        "url": "https://t.co/JUNxAVRF3o",
+        "username": "bubu2kUFO",
+        "verified": true
+      }
+    ]
+  }
+}

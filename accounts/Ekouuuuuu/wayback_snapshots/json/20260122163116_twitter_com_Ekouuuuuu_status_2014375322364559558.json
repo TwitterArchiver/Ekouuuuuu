@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014309129410785280"
+      ],
+      "media_source_tweet_id": [
+        "2014309180119912887"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2014375322364559558",
+    "created_at": "2026-01-22T16:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T17:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014375322364559558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1463799156703739907",
+          "start": 3,
+          "username": "Manew0809"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1B0Jt3S4Xq",
+          "end": 40,
+          "expanded_url": "https://x.com/Manew0809/status/2014309180119912887/photo/1",
+          "media_key": "3_2014309129410785280",
+          "start": 17,
+          "url": "https://t.co/1B0Jt3S4Xq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014375322364559558",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 756
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014309180119912887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Manew0809: 🥺 https://t.co/1B0Jt3S4Xq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3352,
+        "media_key": "3_2014309129410785280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_RDex5bMAAq5eH.jpg",
+        "width": 2665
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014309129410785280"
+          ],
+          "media_source_tweet_id": [
+            "2014309180119912887"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2014375322364559558",
+        "created_at": "2026-01-22T16:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T17:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014375322364559558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1463799156703739907",
+              "start": 3,
+              "username": "Manew0809"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1B0Jt3S4Xq",
+              "end": 40,
+              "expanded_url": "https://x.com/Manew0809/status/2014309180119912887/photo/1",
+              "media_key": "3_2014309129410785280",
+              "start": 17,
+              "url": "https://t.co/1B0Jt3S4Xq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014375322364559558",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 756
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014309180119912887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Manew0809: 🥺 https://t.co/1B0Jt3S4Xq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014309129410785280"
+          ]
+        },
+        "author_id": "1463799156703739907",
+        "conversation_id": "2014309180119912887",
+        "created_at": "2026-01-22T12:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T13:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014309180119912887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1B0Jt3S4Xq",
+              "end": 25,
+              "expanded_url": "https://x.com/Manew0809/status/2014309180119912887/photo/1",
+              "media_key": "3_2014309129410785280",
+              "start": 2,
+              "url": "https://t.co/1B0Jt3S4Xq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014309180119912887",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 429,
+          "impression_count": 46437,
+          "like_count": 3899,
+          "quote_count": 13,
+          "reply_count": 8,
+          "retweet_count": 756
+        },
+        "reply_settings": "everyone",
+        "text": "🥺 https://t.co/1B0Jt3S4Xq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖友LGBT‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6U23",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 80,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 57,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 226,
+          "like_count": 6790,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 1439
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T09:18:16.000Z",
+        "description": "✉️ contact  : chashuwk@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/53670419",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/53670419",
+                "start": 0,
+                "url": "https://t.co/ud2J194CHA"
+              }
+            ]
+          }
+        },
+        "id": "1463799156703739907",
+        "name": "マニュー",
+        "pinned_tweet_id": "1772224821319151737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747561451789987840/j9m9PSTd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38080,
+          "following_count": 503,
+          "like_count": 6787,
+          "listed_count": 297,
+          "media_count": 124,
+          "tweet_count": 2426
+        },
+        "url": "https://t.co/ud2J194CHA",
+        "username": "Manew0809",
+        "verified": false
+      }
+    ]
+  }
+}

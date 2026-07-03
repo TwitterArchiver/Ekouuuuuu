@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1996155340275302404",
+    "created_at": "2025-12-03T09:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T10:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996155340275302404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1732775121797136384",
+          "start": 3,
+          "username": "zuilizhishier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996155340275302404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995311082865570175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zuilizhishier: 在中国，成熟就是从“相信咱妈”变成“我操你妈”的过程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1996155340275302404",
+        "created_at": "2025-12-03T09:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996155340275302404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1732775121797136384",
+              "start": 3,
+              "username": "zuilizhishier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996155340275302404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995311082865570175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zuilizhishier: 在中国，成熟就是从“相信咱妈”变成“我操你妈”的过程"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732775121797136384",
+        "conversation_id": "1995311082865570175",
+        "created_at": "2025-12-01T01:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T02:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995311082865570175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995311082865570175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 241916,
+          "like_count": 2903,
+          "quote_count": 10,
+          "reply_count": 82,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "在中国，成熟就是从“相信咱妈”变成“我操你妈”的过程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 122,
+          "like_count": 3186,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 215
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T14:52:46.000Z",
+        "description": "熟悉的人都在身旁 日子过得漫长且温暖 你可以和以前一样 同故人做旧事 也可以投身新事物 明天对你来说只是明天 无关压力 离别和死亡",
+        "id": "1732775121797136384",
+        "location": "长春市新民大街",
+        "name": "番茄哈猫🍐",
+        "pinned_tweet_id": "1975438493167051190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986314715342249985/IwbPq21S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 389,
+          "like_count": 6781,
+          "listed_count": 6,
+          "media_count": 659,
+          "tweet_count": 3642
+        },
+        "username": "zuilizhishier",
+        "verified": false
+      }
+    ]
+  }
+}

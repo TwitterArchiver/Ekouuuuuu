@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2057555743977726129",
+    "created_at": "2026-05-21T20:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T21:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057555743977726129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2056703191597920256",
+          "start": 3,
+          "username": "Mandala_Aru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057555743977726129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057555706597806090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mandala_Aru: 避孕藥的藥效一直讓我心情和體溫不穩定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2057555743977726129",
+        "created_at": "2026-05-21T20:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T21:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057555743977726129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2056703191597920256",
+              "start": 3,
+              "username": "Mandala_Aru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057555743977726129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057555706597806090",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mandala_Aru: 避孕藥的藥效一直讓我心情和體溫不穩定"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2057555706597806090",
+        "created_at": "2026-05-21T20:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T21:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057555706597806090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057555706597806090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "避孕藥的藥效一直讓我心情和體溫不穩定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖老公@Shiroko_Li‖支畜別他媽來惡心我了‖找我要色圖的你媽死了‖順男加我請附帶絕育證明‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2054494874192195972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 305,
+          "like_count": 13118,
+          "listed_count": 1,
+          "media_count": 561,
+          "tweet_count": 3366
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "如果從未存在過就好了",
+        "id": "2056703191597920256",
+        "name": "Mandala",
+        "pinned_tweet_id": "2056717430576046263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056716431698305024/N_FdPVtt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 40
+        },
+        "username": "Mandala_Aru",
+        "verified": false
+      }
+    ]
+  }
+}

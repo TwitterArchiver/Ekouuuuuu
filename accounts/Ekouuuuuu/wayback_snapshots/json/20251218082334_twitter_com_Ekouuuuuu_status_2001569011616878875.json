@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001483375757135873"
+      ],
+      "media_source_tweet_id": [
+        "2001483384170877222"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2001569011616878875",
+    "created_at": "2025-12-18T08:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T09:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001569011616878875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0peyw5rxQ8",
+          "end": 105,
+          "expanded_url": "https://x.com/Cldeop/status/2001483384170877222/photo/1",
+          "media_key": "3_2001483375757135873",
+          "start": 82,
+          "url": "https://t.co/0peyw5rxQ8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001569011616878875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001483384170877222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: 对不起大家，我要退推了，感觉越来越没啥意思了，感觉发来发去也就那么些东西，刷推的热情也慢慢消退了，最后再发推两个星期今年就不玩了，明年再玩 https://t.co/0peyw5rxQ8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 729,
+        "media_key": "3_2001483375757135873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ayhqPakAEtHbd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001483375757135873"
+          ],
+          "media_source_tweet_id": [
+            "2001483384170877222"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2001569011616878875",
+        "created_at": "2025-12-18T08:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T09:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001569011616878875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0peyw5rxQ8",
+              "end": 105,
+              "expanded_url": "https://x.com/Cldeop/status/2001483384170877222/photo/1",
+              "media_key": "3_2001483375757135873",
+              "start": 82,
+              "url": "https://t.co/0peyw5rxQ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001569011616878875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001483384170877222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: 对不起大家，我要退推了，感觉越来越没啥意思了，感觉发来发去也就那么些东西，刷推的热情也慢慢消退了，最后再发推两个星期今年就不玩了，明年再玩 https://t.co/0peyw5rxQ8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001483375757135873"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2001483384170877222",
+        "created_at": "2025-12-18T02:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T03:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001483384170877222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0peyw5rxQ8",
+              "end": 93,
+              "expanded_url": "https://x.com/Cldeop/status/2001483384170877222/photo/1",
+              "media_key": "3_2001483375757135873",
+              "start": 70,
+              "url": "https://t.co/0peyw5rxQ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001483384170877222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13742,
+          "like_count": 248,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "对不起大家，我要退推了，感觉越来越没啥意思了，感觉发来发去也就那么些东西，刷推的热情也慢慢消退了，最后再发推两个星期今年就不玩了，明年再玩 https://t.co/0peyw5rxQ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 184,
+          "like_count": 4693,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 704
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998284551303598080/m9aPxfLI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94250,
+          "following_count": 662,
+          "like_count": 32898,
+          "listed_count": 271,
+          "media_count": 14109,
+          "tweet_count": 20339
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

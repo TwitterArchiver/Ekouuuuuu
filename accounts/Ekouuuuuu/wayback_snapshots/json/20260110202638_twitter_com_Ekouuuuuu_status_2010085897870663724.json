@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2009593120011542528"
+      ],
+      "media_source_tweet_id": [
+        "2009593140681081001"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2010085897870663724",
+    "created_at": "2026-01-10T20:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T21:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010085897870663724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1664094644630851589",
+          "start": 3,
+          "username": "yeyupopopo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OjBpneShPC",
+          "end": 43,
+          "expanded_url": "https://x.com/yeyupopopo/status/2009593140681081001/video/1",
+          "media_key": "7_2009593120011542528",
+          "start": 20,
+          "url": "https://t.co/OjBpneShPC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010085897870663724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1864
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009593140681081001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yeyupopopo: 铜丝你 https://t.co/OjBpneShPC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4533,
+        "height": 720,
+        "media_key": "7_2009593120011542528",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2009593120011542528/pu/img/_cSpq2gp4h5jTo7O.jpg",
+        "public_metrics": {
+          "view_count": 148758
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009593120011542528/pu/vid/avc1/360x270/bJQJbxbQJaYirBZa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009593120011542528/pu/vid/avc1/480x360/cSIAtcK8JkSw5lFm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009593120011542528/pu/vid/avc1/960x720/qELqC-PrDG2sDueP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2009593120011542528/pu/pl/4-BhBPeZzlw8WWp8.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2009593120011542528"
+          ],
+          "media_source_tweet_id": [
+            "2009593140681081001"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2010085897870663724",
+        "created_at": "2026-01-10T20:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T21:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010085897870663724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1664094644630851589",
+              "start": 3,
+              "username": "yeyupopopo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OjBpneShPC",
+              "end": 43,
+              "expanded_url": "https://x.com/yeyupopopo/status/2009593140681081001/video/1",
+              "media_key": "7_2009593120011542528",
+              "start": 20,
+              "url": "https://t.co/OjBpneShPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010085897870663724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1864
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009593140681081001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yeyupopopo: 铜丝你 https://t.co/OjBpneShPC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2009593120011542528"
+          ]
+        },
+        "author_id": "1664094644630851589",
+        "conversation_id": "2009593140681081001",
+        "created_at": "2026-01-09T11:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009593140681081001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OjBpneShPC",
+              "end": 27,
+              "expanded_url": "https://x.com/yeyupopopo/status/2009593140681081001/video/1",
+              "media_key": "7_2009593120011542528",
+              "start": 4,
+              "url": "https://t.co/OjBpneShPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009593140681081001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2797,
+          "impression_count": 345271,
+          "like_count": 21384,
+          "quote_count": 175,
+          "reply_count": 186,
+          "retweet_count": 1864
+        },
+        "reply_settings": "everyone",
+        "text": "铜丝你 https://t.co/OjBpneShPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖藥物依賴‖尼古丁依賴‖N₂O依賴‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 111,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 88,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2009328654938198483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 201,
+          "like_count": 6109,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1101
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-01T02:21:13.000Z",
+        "description": "白日梦",
+        "id": "1664094644630851589",
+        "name": "葉雨popopoi",
+        "pinned_tweet_id": "1816351755552317609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664096727572574208/1vCX2-g1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26070,
+          "following_count": 121,
+          "like_count": 3301,
+          "listed_count": 107,
+          "media_count": 104,
+          "tweet_count": 811
+        },
+        "username": "yeyupopopo",
+        "verified": false
+      }
+    ]
+  }
+}

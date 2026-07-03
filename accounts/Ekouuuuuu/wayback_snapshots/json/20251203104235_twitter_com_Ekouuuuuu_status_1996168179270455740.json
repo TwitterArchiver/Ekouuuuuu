@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996003741577715712"
+      ],
+      "media_source_tweet_id": [
+        "1996003755368542339"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1996168179270455740",
+    "created_at": "2025-12-03T10:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T11:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996168179270455740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2242330808",
+          "start": 3,
+          "username": "catsdotjpg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pIbPHv09iT",
+          "end": 39,
+          "expanded_url": "https://x.com/catsdotjpg/status/1996003755368542339/photo/1",
+          "media_key": "3_1996003741577715712",
+          "start": 16,
+          "url": "https://t.co/pIbPHv09iT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996168179270455740",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1076
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996003755368542339",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @catsdotjpg: https://t.co/pIbPHv09iT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1145,
+        "media_key": "3_1996003741577715712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7M60-MXIAAfD8V.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996003741577715712"
+          ],
+          "media_source_tweet_id": [
+            "1996003755368542339"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1996168179270455740",
+        "created_at": "2025-12-03T10:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996168179270455740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2242330808",
+              "start": 3,
+              "username": "catsdotjpg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pIbPHv09iT",
+              "end": 39,
+              "expanded_url": "https://x.com/catsdotjpg/status/1996003755368542339/photo/1",
+              "media_key": "3_1996003741577715712",
+              "start": 16,
+              "url": "https://t.co/pIbPHv09iT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996168179270455740",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1076
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996003755368542339",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @catsdotjpg: https://t.co/pIbPHv09iT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996003741577715712"
+          ]
+        },
+        "author_id": "2242330808",
+        "conversation_id": "1996003755368542339",
+        "created_at": "2025-12-02T23:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T00:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996003755368542339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pIbPHv09iT",
+              "end": 23,
+              "expanded_url": "https://x.com/catsdotjpg/status/1996003755368542339/photo/1",
+              "media_key": "3_1996003741577715712",
+              "start": 0,
+              "url": "https://t.co/pIbPHv09iT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996003755368542339",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 340,
+          "impression_count": 91791,
+          "like_count": 8624,
+          "quote_count": 97,
+          "reply_count": 9,
+          "retweet_count": 1076
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pIbPHv09iT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 124,
+          "like_count": 3275,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 251
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-12T12:57:54.000Z",
+        "description": "Daily dose of cats",
+        "id": "2242330808",
+        "location": "dm for credit or removal",
+        "name": "daily cats ♡",
+        "pinned_tweet_id": "1994823199465640246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889361801101414400/ZZeY9aqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18267,
+          "following_count": 51,
+          "like_count": 629,
+          "listed_count": 93,
+          "media_count": 4516,
+          "tweet_count": 4718
+        },
+        "username": "catsdotjpg",
+        "verified": true
+      }
+    ]
+  }
+}

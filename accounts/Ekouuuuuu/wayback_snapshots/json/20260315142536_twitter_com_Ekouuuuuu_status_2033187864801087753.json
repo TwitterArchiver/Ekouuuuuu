@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032720526385491971"
+      ],
+      "media_source_tweet_id": [
+        "2032720917940547685"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033187864801087753",
+    "created_at": "2026-03-15T14:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T15:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033187864801087753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1367498535307005960",
+          "start": 3,
+          "username": "yawaU_U"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UjfbqIWcfe",
+          "end": 44,
+          "expanded_url": "https://x.com/yawaU_U/status/2032720917940547685/photo/1",
+          "media_key": "3_2032720526385491971",
+          "start": 21,
+          "url": "https://t.co/UjfbqIWcfe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033187864801087753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 750
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032720917940547685",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yawaU_U: skeb納品🦭 https://t.co/UjfbqIWcfe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032720526385491971",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDWsjIbaMAM6XVp.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032720526385491971"
+          ],
+          "media_source_tweet_id": [
+            "2032720917940547685"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033187864801087753",
+        "created_at": "2026-03-15T14:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033187864801087753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1367498535307005960",
+              "start": 3,
+              "username": "yawaU_U"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UjfbqIWcfe",
+              "end": 44,
+              "expanded_url": "https://x.com/yawaU_U/status/2032720917940547685/photo/1",
+              "media_key": "3_2032720526385491971",
+              "start": 21,
+              "url": "https://t.co/UjfbqIWcfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033187864801087753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 750
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032720917940547685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yawaU_U: skeb納品🦭 https://t.co/UjfbqIWcfe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032720526385491971"
+          ]
+        },
+        "author_id": "1367498535307005960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032720917940547685",
+        "created_at": "2026-03-14T07:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T08:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032720917940547685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UjfbqIWcfe",
+              "end": 31,
+              "expanded_url": "https://x.com/yawaU_U/status/2032720917940547685/photo/1",
+              "media_key": "3_2032720526385491971",
+              "start": 8,
+              "url": "https://t.co/UjfbqIWcfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032720917940547685",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 932,
+          "impression_count": 83228,
+          "like_count": 9263,
+          "quote_count": 9,
+          "reply_count": 8,
+          "retweet_count": 750
+        },
+        "reply_settings": "everyone",
+        "text": "skeb納品🦭 https://t.co/UjfbqIWcfe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo‖#shtwt#drugtwt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2032007899732721877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 241,
+          "like_count": 9399,
+          "listed_count": 1,
+          "media_count": 387,
+          "tweet_count": 2444
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-04T15:34:05.000Z",
+        "description": "絵を描いてます🌲🎅🏻使用転載禁止、画像編集AI学習禁止、🥷🏻https://t.co/O8jVaC95GL🦭https://t.co/lfeKQZ1uix",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yawau-u.fanbox.cc",
+                "end": 53,
+                "expanded_url": "https://yawau-u.fanbox.cc/",
+                "start": 30,
+                "url": "https://t.co/O8jVaC95GL"
+              },
+              {
+                "display_url": "skeb.jp/@yawaU_U",
+                "end": 77,
+                "expanded_url": "http://skeb.jp/@yawaU_U",
+                "start": 54,
+                "url": "https://t.co/lfeKQZ1uix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/20na",
+                "end": 23,
+                "expanded_url": "https://lit.link/20na",
+                "start": 0,
+                "url": "https://t.co/GcfUJsWY5c"
+              }
+            ]
+          }
+        },
+        "id": "1367498535307005960",
+        "name": "七岡",
+        "pinned_tweet_id": "2032401996993708405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928628269588557828/HUG3RE2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24867,
+          "following_count": 320,
+          "like_count": 11315,
+          "listed_count": 149,
+          "media_count": 28,
+          "tweet_count": 916
+        },
+        "url": "https://t.co/GcfUJsWY5c",
+        "username": "yawaU_U",
+        "verified": false
+      }
+    ]
+  }
+}

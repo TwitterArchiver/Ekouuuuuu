@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009266253136056321"
+      ],
+      "media_source_tweet_id": [
+        "2009266256948441127"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2009897516217839942",
+    "created_at": "2026-01-10T07:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T08:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009897516217839942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870313420807163904",
+          "start": 3,
+          "username": "IzayoiMarin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4LvVLdaLBU",
+          "end": 45,
+          "expanded_url": "https://x.com/IzayoiMarin/status/2009266256948441127/photo/1",
+          "media_key": "3_2009266253136056321",
+          "start": 22,
+          "url": "https://t.co/4LvVLdaLBU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009897516217839942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 165
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009266256948441127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IzayoiMarin: 是这样的 https://t.co/4LvVLdaLBU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 552,
+        "media_key": "3_2009266253136056321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JZAv1a0AEJF6S.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009266253136056321"
+          ],
+          "media_source_tweet_id": [
+            "2009266256948441127"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009897516217839942",
+        "created_at": "2026-01-10T07:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T08:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009897516217839942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870313420807163904",
+              "start": 3,
+              "username": "IzayoiMarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4LvVLdaLBU",
+              "end": 45,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2009266256948441127/photo/1",
+              "media_key": "3_2009266253136056321",
+              "start": 22,
+              "url": "https://t.co/4LvVLdaLBU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009897516217839942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 165
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009266256948441127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IzayoiMarin: 是这样的 https://t.co/4LvVLdaLBU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009266253136056321"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009266256948441127",
+        "created_at": "2026-01-08T14:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009266256948441127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4LvVLdaLBU",
+              "end": 28,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2009266256948441127/photo/1",
+              "media_key": "3_2009266253136056321",
+              "start": 5,
+              "url": "https://t.co/4LvVLdaLBU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009266256948441127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 127212,
+          "like_count": 4210,
+          "quote_count": 13,
+          "reply_count": 15,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "是这样的 https://t.co/4LvVLdaLBU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖藥物依賴‖尼古丁依賴‖N₂O依賴‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 111,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 88,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2004134740719538263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 198,
+          "like_count": 5961,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1052
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "君はもうあの頃の君じゃないわ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQro7WH"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "马口头喜欢喜欢喜欢",
+        "name": "まりん@まりん大嫌い",
+        "pinned_tweet_id": "2006736433885884796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007088570058801152/0SkntszX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2024,
+          "following_count": 2233,
+          "like_count": 32197,
+          "listed_count": 4,
+          "media_count": 1170,
+          "tweet_count": 14848
+        },
+        "url": "https://t.co/BABPQro7WH",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

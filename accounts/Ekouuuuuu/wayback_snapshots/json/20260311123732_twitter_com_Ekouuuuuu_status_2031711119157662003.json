@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031303036937891840"
+      ],
+      "media_source_tweet_id": [
+        "2031303041987838145"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2031711119157662003",
+    "created_at": "2026-03-11T12:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T13:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031711119157662003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2489661048",
+          "start": 3,
+          "username": "TatsuyaKitani"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aJX8gg3Wp1",
+          "end": 72,
+          "expanded_url": "https://x.com/TatsuyaKitani/status/2031303041987838145/photo/1",
+          "media_key": "3_2031303036937891840",
+          "start": 49,
+          "url": "https://t.co/aJX8gg3Wp1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031711119157662003",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4018
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031303041987838145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TatsuyaKitani: ニディガアニメのために作った「れびてーしょん」という歌です https://t.co/aJX8gg3Wp1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2031303036937891840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCjWYva8AA4Duz.jpg",
+        "width": 1013
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031303036937891840"
+          ],
+          "media_source_tweet_id": [
+            "2031303041987838145"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2031711119157662003",
+        "created_at": "2026-03-11T12:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T13:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031711119157662003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2489661048",
+              "start": 3,
+              "username": "TatsuyaKitani"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJX8gg3Wp1",
+              "end": 72,
+              "expanded_url": "https://x.com/TatsuyaKitani/status/2031303041987838145/photo/1",
+              "media_key": "3_2031303036937891840",
+              "start": 49,
+              "url": "https://t.co/aJX8gg3Wp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031711119157662003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4018
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031303041987838145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TatsuyaKitani: ニディガアニメのために作った「れびてーしょん」という歌です https://t.co/aJX8gg3Wp1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031303036937891840"
+          ]
+        },
+        "author_id": "2489661048",
+        "conversation_id": "2031303041987838145",
+        "created_at": "2026-03-10T09:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T10:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031303041987838145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJX8gg3Wp1",
+              "end": 53,
+              "expanded_url": "https://x.com/TatsuyaKitani/status/2031303041987838145/photo/1",
+              "media_key": "3_2031303036937891840",
+              "start": 30,
+              "url": "https://t.co/aJX8gg3Wp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031303041987838145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2206,
+          "impression_count": 667973,
+          "like_count": 27261,
+          "quote_count": 383,
+          "reply_count": 22,
+          "retweet_count": 4018
+        },
+        "reply_settings": "everyone",
+        "text": "ニディガアニメのために作った「れびてーしょん」という歌です https://t.co/aJX8gg3Wp1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 244,
+          "like_count": 9325,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 2395
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-11T10:55:55.000Z",
+        "description": "Tatchang👁 YouTube https://t.co/3AM7fDJ2Ki / instagram https://t.co/W9VGG2PML2 / TikTok https://t.co/89T7xDXASw / staff→ @TatsuyaKitani2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "TatsuyaKitani2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/3hUacIZ",
+                "end": 41,
+                "expanded_url": "https://bit.ly/3hUacIZ",
+                "start": 18,
+                "url": "https://t.co/3AM7fDJ2Ki"
+              },
+              {
+                "display_url": "bit.ly/2TpQer5",
+                "end": 77,
+                "expanded_url": "http://bit.ly/2TpQer5",
+                "start": 54,
+                "url": "https://t.co/W9VGG2PML2"
+              },
+              {
+                "display_url": "bit.ly/2LOm6HA",
+                "end": 110,
+                "expanded_url": "http://bit.ly/2LOm6HA",
+                "start": 87,
+                "url": "https://t.co/89T7xDXASw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tatsuyakitani.com",
+                "end": 23,
+                "expanded_url": "https://tatsuyakitani.com/",
+                "start": 0,
+                "url": "https://t.co/128rQjikIH"
+              }
+            ]
+          }
+        },
+        "id": "2489661048",
+        "name": "キタニタツヤ Tatsuya Kitani",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000152123204595712/LhaIH5Rm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333730,
+          "following_count": 623,
+          "like_count": 12975,
+          "listed_count": 1321,
+          "media_count": 1098,
+          "tweet_count": 4824
+        },
+        "url": "https://t.co/128rQjikIH",
+        "username": "TatsuyaKitani",
+        "verified": false
+      }
+    ]
+  }
+}

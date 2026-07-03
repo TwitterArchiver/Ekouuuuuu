@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996782956783063040",
+        "3_1996782956787200000",
+        "3_1996782956774600704",
+        "3_1996782956787200002"
+      ],
+      "media_source_tweet_id": [
+        "1996782964148154595",
+        "1996782964148154595",
+        "1996782964148154595",
+        "1996782964148154595"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2000771445006458914",
+    "created_at": "2025-12-16T03:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T04:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000771445006458914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1496532710528929792",
+          "start": 3,
+          "username": "DNDN_kotatumuri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KjYwWXpFAa",
+          "end": 64,
+          "expanded_url": "https://x.com/DNDN_kotatumuri/status/1996782964148154595/photo/1",
+          "media_key": "3_1996782956783063040",
+          "start": 41,
+          "url": "https://t.co/KjYwWXpFAa"
+        },
+        {
+          "display_url": "pic.x.com/KjYwWXpFAa",
+          "end": 64,
+          "expanded_url": "https://x.com/DNDN_kotatumuri/status/1996782964148154595/photo/1",
+          "media_key": "3_1996782956787200000",
+          "start": 41,
+          "url": "https://t.co/KjYwWXpFAa"
+        },
+        {
+          "display_url": "pic.x.com/KjYwWXpFAa",
+          "end": 64,
+          "expanded_url": "https://x.com/DNDN_kotatumuri/status/1996782964148154595/photo/1",
+          "media_key": "3_1996782956774600704",
+          "start": 41,
+          "url": "https://t.co/KjYwWXpFAa"
+        },
+        {
+          "display_url": "pic.x.com/KjYwWXpFAa",
+          "end": 64,
+          "expanded_url": "https://x.com/DNDN_kotatumuri/status/1996782964148154595/photo/1",
+          "media_key": "3_1996782956787200002",
+          "start": 41,
+          "url": "https://t.co/KjYwWXpFAa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000771445006458914",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 158
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996782964148154595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DNDN_kotatumuri: 【固定】\n\n普段こんな絵を描いてます2 https://t.co/KjYwWXpFAa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996782956783063040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7X_hRCb0AAXEl0.jpg",
+        "width": 1796
+      },
+      {
+        "height": 1818,
+        "media_key": "3_1996782956787200000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7X_hRDa8AAC_q2.jpg",
+        "width": 1565
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996782956774600704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7X_hRAasAAknh2.jpg",
+        "width": 1449
+      },
+      {
+        "height": 535,
+        "media_key": "3_1996782956787200002",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7X_hRDa8AIIYri.jpg",
+        "width": 639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996782956783063040",
+            "3_1996782956787200000",
+            "3_1996782956774600704",
+            "3_1996782956787200002"
+          ],
+          "media_source_tweet_id": [
+            "1996782964148154595",
+            "1996782964148154595",
+            "1996782964148154595",
+            "1996782964148154595"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2000771445006458914",
+        "created_at": "2025-12-16T03:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T04:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000771445006458914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1496532710528929792",
+              "start": 3,
+              "username": "DNDN_kotatumuri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjYwWXpFAa",
+              "end": 64,
+              "expanded_url": "https://x.com/DNDN_kotatumuri/status/1996782964148154595/photo/1",
+              "media_key": "3_1996782956783063040",
+              "start": 41,
+              "url": "https://t.co/KjYwWXpFAa"
+            },
+            {
+              "display_url": "pic.x.com/KjYwWXpFAa",
+              "end": 64,
+              "expanded_url": "https://x.com/DNDN_kotatumuri/status/1996782964148154595/photo/1",
+              "media_key": "3_1996782956787200000",
+              "start": 41,
+              "url": "https://t.co/KjYwWXpFAa"
+            },
+            {
+              "display_url": "pic.x.com/KjYwWXpFAa",
+              "end": 64,
+              "expanded_url": "https://x.com/DNDN_kotatumuri/status/1996782964148154595/photo/1",
+              "media_key": "3_1996782956774600704",
+              "start": 41,
+              "url": "https://t.co/KjYwWXpFAa"
+            },
+            {
+              "display_url": "pic.x.com/KjYwWXpFAa",
+              "end": 64,
+              "expanded_url": "https://x.com/DNDN_kotatumuri/status/1996782964148154595/photo/1",
+              "media_key": "3_1996782956787200002",
+              "start": 41,
+              "url": "https://t.co/KjYwWXpFAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000771445006458914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 158
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996782964148154595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DNDN_kotatumuri: 【固定】\n\n普段こんな絵を描いてます2 https://t.co/KjYwWXpFAa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996782956783063040",
+            "3_1996782956787200000",
+            "3_1996782956774600704",
+            "3_1996782956787200002"
+          ]
+        },
+        "author_id": "1496532710528929792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1996782964148154595",
+        "created_at": "2025-12-05T03:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T04:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996782964148154595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjYwWXpFAa",
+              "end": 43,
+              "expanded_url": "https://x.com/DNDN_kotatumuri/status/1996782964148154595/photo/1",
+              "media_key": "3_1996782956783063040",
+              "start": 20,
+              "url": "https://t.co/KjYwWXpFAa"
+            },
+            {
+              "display_url": "pic.x.com/KjYwWXpFAa",
+              "end": 43,
+              "expanded_url": "https://x.com/DNDN_kotatumuri/status/1996782964148154595/photo/1",
+              "media_key": "3_1996782956787200000",
+              "start": 20,
+              "url": "https://t.co/KjYwWXpFAa"
+            },
+            {
+              "display_url": "pic.x.com/KjYwWXpFAa",
+              "end": 43,
+              "expanded_url": "https://x.com/DNDN_kotatumuri/status/1996782964148154595/photo/1",
+              "media_key": "3_1996782956774600704",
+              "start": 20,
+              "url": "https://t.co/KjYwWXpFAa"
+            },
+            {
+              "display_url": "pic.x.com/KjYwWXpFAa",
+              "end": 43,
+              "expanded_url": "https://x.com/DNDN_kotatumuri/status/1996782964148154595/photo/1",
+              "media_key": "3_1996782956787200002",
+              "start": 20,
+              "url": "https://t.co/KjYwWXpFAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996782964148154595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 11366,
+          "like_count": 1200,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "【固定】\n\n普段こんな絵を描いてます2 https://t.co/KjYwWXpFAa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 169,
+          "like_count": 4141,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 602
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-23T17:09:50.000Z",
+        "description": "何にもしてないよ(笑) pixiv→https://t.co/7R12Er8Z78 マシュマロ→ https://t.co/J0i6rLIi3S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/57714492",
+                "end": 41,
+                "expanded_url": "https://www.pixiv.net/users/57714492",
+                "start": 18,
+                "url": "https://t.co/7R12Er8Z78"
+              },
+              {
+                "display_url": "marshmallow-qa.com/xj6n8uzq29kas2…",
+                "end": 72,
+                "expanded_url": "https://marshmallow-qa.com/xj6n8uzq29kas26?t=yWApxQ&utm_medium=url_text&utm_source=promotion",
+                "start": 49,
+                "url": "https://t.co/J0i6rLIi3S"
+              }
+            ]
+          }
+        },
+        "id": "1496532710528929792",
+        "name": "でんでん",
+        "pinned_tweet_id": "1996782964148154595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962198075558248448/9OE0JZz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2818,
+          "following_count": 365,
+          "like_count": 6186,
+          "listed_count": 25,
+          "media_count": 456,
+          "tweet_count": 5785
+        },
+        "username": "DNDN_kotatumuri",
+        "verified": true
+      }
+    ]
+  }
+}

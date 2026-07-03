@@ -1,0 +1,517 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004368786787651590",
+        "3_2004368786762485761",
+        "3_2004368786758209538",
+        "3_2004368786791845888"
+      ],
+      "media_source_tweet_id": [
+        "2004368795629244670",
+        "2004368795629244670",
+        "2004368795629244670",
+        "2004368795629244670"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2004586139462815926",
+    "created_at": "2025-12-26T16:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T17:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004586139462815926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1619357064610066433",
+          "start": 3,
+          "username": "gabang02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4cHD4g8yMO",
+          "end": 99,
+          "expanded_url": "https://x.com/gabang02/status/2004368795629244670/photo/1",
+          "media_key": "3_2004368786787651590",
+          "start": 76,
+          "url": "https://t.co/4cHD4g8yMO"
+        },
+        {
+          "display_url": "pic.x.com/4cHD4g8yMO",
+          "end": 99,
+          "expanded_url": "https://x.com/gabang02/status/2004368795629244670/photo/1",
+          "media_key": "3_2004368786762485761",
+          "start": 76,
+          "url": "https://t.co/4cHD4g8yMO"
+        },
+        {
+          "display_url": "pic.x.com/4cHD4g8yMO",
+          "end": 99,
+          "expanded_url": "https://x.com/gabang02/status/2004368795629244670/photo/1",
+          "media_key": "3_2004368786758209538",
+          "start": 76,
+          "url": "https://t.co/4cHD4g8yMO"
+        },
+        {
+          "display_url": "pic.x.com/4cHD4g8yMO",
+          "end": 99,
+          "expanded_url": "https://x.com/gabang02/status/2004368795629244670/photo/1",
+          "media_key": "3_2004368786791845888",
+          "start": 76,
+          "url": "https://t.co/4cHD4g8yMO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004586139462815926",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7443
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004368795629244670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gabang02: 트위터 정상화될때까지 트위터에 올라오는 모든 그림에 예시같이 일론머스크가 들어갑니다! 모두 일론머스크를 즐겨요 https://t.co/4cHD4g8yMO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1247,
+        "media_key": "3_2004368786787651590",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Dyyr9b0AYQs3i.jpg",
+        "width": 757
+      },
+      {
+        "height": 1401,
+        "media_key": "3_2004368786762485761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Dyyr3b0AEvhmy.jpg",
+        "width": 767
+      },
+      {
+        "height": 1371,
+        "media_key": "3_2004368786758209538",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Dyyr2akAIcESs.jpg",
+        "width": 889
+      },
+      {
+        "height": 1100,
+        "media_key": "3_2004368786791845888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Dyyr-b0AAbPUl.jpg",
+        "width": 537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004368786787651590",
+            "3_2004368786762485761",
+            "3_2004368786758209538",
+            "3_2004368786791845888"
+          ],
+          "media_source_tweet_id": [
+            "2004368795629244670",
+            "2004368795629244670",
+            "2004368795629244670",
+            "2004368795629244670"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2004586139462815926",
+        "created_at": "2025-12-26T16:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T17:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004586139462815926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1619357064610066433",
+              "start": 3,
+              "username": "gabang02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4cHD4g8yMO",
+              "end": 99,
+              "expanded_url": "https://x.com/gabang02/status/2004368795629244670/photo/1",
+              "media_key": "3_2004368786787651590",
+              "start": 76,
+              "url": "https://t.co/4cHD4g8yMO"
+            },
+            {
+              "display_url": "pic.x.com/4cHD4g8yMO",
+              "end": 99,
+              "expanded_url": "https://x.com/gabang02/status/2004368795629244670/photo/1",
+              "media_key": "3_2004368786762485761",
+              "start": 76,
+              "url": "https://t.co/4cHD4g8yMO"
+            },
+            {
+              "display_url": "pic.x.com/4cHD4g8yMO",
+              "end": 99,
+              "expanded_url": "https://x.com/gabang02/status/2004368795629244670/photo/1",
+              "media_key": "3_2004368786758209538",
+              "start": 76,
+              "url": "https://t.co/4cHD4g8yMO"
+            },
+            {
+              "display_url": "pic.x.com/4cHD4g8yMO",
+              "end": 99,
+              "expanded_url": "https://x.com/gabang02/status/2004368795629244670/photo/1",
+              "media_key": "3_2004368786791845888",
+              "start": 76,
+              "url": "https://t.co/4cHD4g8yMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004586139462815926",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7443
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004368795629244670",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gabang02: 트위터 정상화될때까지 트위터에 올라오는 모든 그림에 예시같이 일론머스크가 들어갑니다! 모두 일론머스크를 즐겨요 https://t.co/4cHD4g8yMO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004368786787651590",
+            "3_2004368786762485761",
+            "3_2004368786758209538",
+            "3_2004368786791845888"
+          ]
+        },
+        "author_id": "1619357064610066433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2004368795629244670",
+        "created_at": "2025-12-26T01:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T02:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004368795629244670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4cHD4g8yMO",
+              "end": 85,
+              "expanded_url": "https://x.com/gabang02/status/2004368795629244670/photo/1",
+              "media_key": "3_2004368786787651590",
+              "start": 62,
+              "url": "https://t.co/4cHD4g8yMO"
+            },
+            {
+              "display_url": "pic.x.com/4cHD4g8yMO",
+              "end": 85,
+              "expanded_url": "https://x.com/gabang02/status/2004368795629244670/photo/1",
+              "media_key": "3_2004368786762485761",
+              "start": 62,
+              "url": "https://t.co/4cHD4g8yMO"
+            },
+            {
+              "display_url": "pic.x.com/4cHD4g8yMO",
+              "end": 85,
+              "expanded_url": "https://x.com/gabang02/status/2004368795629244670/photo/1",
+              "media_key": "3_2004368786758209538",
+              "start": 62,
+              "url": "https://t.co/4cHD4g8yMO"
+            },
+            {
+              "display_url": "pic.x.com/4cHD4g8yMO",
+              "end": 85,
+              "expanded_url": "https://x.com/gabang02/status/2004368795629244670/photo/1",
+              "media_key": "3_2004368786791845888",
+              "start": 62,
+              "url": "https://t.co/4cHD4g8yMO"
+            },
+            {
+              "display_url": "x.com/gabang02/statu…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/gabang02/status/2004309284532998367",
+              "start": 86,
+              "url": "https://t.co/37Uz4t82RU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004368795629244670",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1307,
+          "impression_count": 1627313,
+          "like_count": 15269,
+          "quote_count": 916,
+          "reply_count": 92,
+          "retweet_count": 7443
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004309284532998367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "트위터 정상화될때까지 트위터에 올라오는 모든 그림에 예시같이 일론머스크가 들어갑니다! 모두 일론머스크를 즐겨요 https://t.co/4cHD4g8yMO https://t.co/37Uz4t82RU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了w‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 188,
+          "like_count": 5092,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 817
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T15:30:04.000Z",
+        "description": "취미 나부랭이 그림쟁이Commission-closed 🎨not bluearchive-@kaban552912 https://t.co/vjYmmYPJ6R message-in here or in pixiv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "kaban552912"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/103899772",
+                "end": 83,
+                "expanded_url": "https://www.pixiv.net/users/103899772",
+                "start": 60,
+                "url": "https://t.co/vjYmmYPJ6R"
+              }
+            ]
+          }
+        },
+        "id": "1619357064610066433",
+        "location": "Ai🚫",
+        "name": "gabang",
+        "pinned_tweet_id": "2003979259883515962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969828607691542528/_c0FHGgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29059,
+          "following_count": 1923,
+          "like_count": 21874,
+          "listed_count": 195,
+          "media_count": 994,
+          "tweet_count": 12481
+        },
+        "username": "gabang02",
+        "verified": false
+      }
+    ]
+  }
+}

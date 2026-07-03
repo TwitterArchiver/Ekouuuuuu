@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2041371090900136427",
+    "created_at": "2026-04-07T04:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T05:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041371090900136427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1889200694986756096",
+          "start": 3,
+          "username": "OvOxiaomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041371090900136427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041029717839794581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OvOxiaomi: 反正我对普通话说不标准的人是0好感。鼻音边音不分，我觉得可以理解。但是最基本的平翘舌不分给我一种对方是文盲的感觉，会立马打消我所有聊天欲望。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2041371090900136427",
+        "created_at": "2026-04-07T04:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041371090900136427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1889200694986756096",
+              "start": 3,
+              "username": "OvOxiaomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041371090900136427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041029717839794581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OvOxiaomi: 反正我对普通话说不标准的人是0好感。鼻音边音不分，我觉得可以理解。但是最基本的平翘舌不分给我一种对方是文盲的感觉，会立马打消我所有聊天欲望。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889200694986756096",
+        "conversation_id": "2041029717839794581",
+        "created_at": "2026-04-06T05:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041029717839794581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041029717839794581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 40849,
+          "like_count": 468,
+          "quote_count": 15,
+          "reply_count": 86,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "反正我对普通话说不标准的人是0好感。鼻音边音不分，我觉得可以理解。但是最基本的平翘舌不分给我一种对方是文盲的感觉，会立马打消我所有聊天欲望。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖恆春最深情‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo‖陰暗逼od蛆互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2035365735460180096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 250,
+          "like_count": 10054,
+          "listed_count": 1,
+          "media_count": 422,
+          "tweet_count": 2625
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T06:32:08.000Z",
+        "description": "请不要骚扰我谢谢!我只是一块三文鱼和一块寿司🍣我是一只苦力怕! @OnOxiaomi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "OnOxiaomi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%96%B5%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%96%B5%E5%96%B5%E5%96%B556588",
+                "start": 0,
+                "url": "https://t.co/bFvbqgw3Nk"
+              }
+            ]
+          }
+        },
+        "id": "1889200694986756096",
+        "location": "匿名提问在➡️",
+        "name": "我的智齿可疼了",
+        "pinned_tweet_id": "1970395598131208203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033793301028249601/U-7a-4bM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 279,
+          "like_count": 28763,
+          "listed_count": 11,
+          "media_count": 936,
+          "tweet_count": 15664
+        },
+        "url": "https://t.co/bFvbqgw3Nk",
+        "username": "OvOxiaomi",
+        "verified": false
+      }
+    ]
+  }
+}

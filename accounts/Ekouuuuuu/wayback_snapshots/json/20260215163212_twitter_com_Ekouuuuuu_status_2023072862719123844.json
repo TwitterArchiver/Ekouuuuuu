@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023036611139960832"
+      ],
+      "media_source_tweet_id": [
+        "2023036617427148812"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2023072862719123844",
+    "created_at": "2026-02-15T16:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023072862719123844"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 49,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "非绿"
+        },
+        {
+          "end": 62,
+          "start": 58,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 67,
+          "start": 63,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 73,
+          "start": 68,
+          "tag": "金主爸爸"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1966106364901740544",
+          "start": 3,
+          "username": "AgNo3_XQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6tvou369P8",
+          "end": 97,
+          "expanded_url": "https://x.com/AgNo3_XQ/status/2023036617427148812/photo/1",
+          "media_key": "3_2023036611139960832",
+          "start": 74,
+          "url": "https://t.co/6tvou369P8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023072862719123844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023036617427148812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AgNo3_XQ: 杂鱼小浅拍了新的自慰视频www\n有没有爸爸妈妈宠幸人家一下入门购买😭\n#门槛妹 #非绿 #爸爸活 #妈妈活 #金主爸爸 https://t.co/6tvou369P8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2023072862719123844].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2023072862719123844",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2023072862719123844"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2023036611139960832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNFFE6bgAAul6J.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023036611139960832"
+          ]
+        },
+        "author_id": "1966106364901740544",
+        "conversation_id": "2023036617427148812",
+        "created_at": "2026-02-15T14:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023036617427148812"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "非绿"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "金主爸爸"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6tvou369P8",
+              "end": 83,
+              "expanded_url": "https://x.com/AgNo3_XQ/status/2023036617427148812/photo/1",
+              "media_key": "3_2023036611139960832",
+              "start": 60,
+              "url": "https://t.co/6tvou369P8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023036617427148812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 161,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "杂鱼小浅拍了新的自慰视频www\n有没有爸爸妈妈宠幸人家一下入门购买😭\n#门槛妹 #非绿 #爸爸活 #妈妈活 #金主爸爸 https://t.co/6tvou369P8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 247,
+          "like_count": 8477,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 2170
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T11:47:50.000Z",
+        "description": "09｜双相｜istp-t｜巨蟹座｜日常频繁od｜目前已戒割｜顺女双性恋｜欢迎互fo｜精神无国籍｜骂我的人都是傻逼支那猪我就是个刻薄的人｜坐标上海带口令问问题谢谢",
+        "id": "1966106364901740544",
+        "location": "🚪52/88/188/288/520",
+        "name": "硝酸银#浅（求过门版）",
+        "pinned_tweet_id": "2020107092934197549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021161260986093568/rHDvltlv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 754,
+          "like_count": 2559,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 2243
+        },
+        "username": "AgNo3_XQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,572 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014611106023796736"
+      ],
+      "media_source_tweet_id": [
+        "2014611112965362128"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2014887187482083492",
+    "created_at": "2026-01-24T02:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T03:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014887187482083492"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "空崎ヒナ"
+        },
+        {
+          "end": 30,
+          "start": 21,
+          "tag": "ブルーアーカイブ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1914573883430330368",
+          "start": 3,
+          "username": "beccakiko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bVbfyIJbWp",
+          "end": 73,
+          "expanded_url": "https://x.com/beccakiko/status/2014611112965362128/photo/1",
+          "media_key": "3_2014611106023796736",
+          "start": 50,
+          "url": "https://t.co/bVbfyIJbWp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014887187482083492",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014611112965362128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beccakiko: #空崎ヒナ #ブルーアーカイブ \n礼服日奈\nface  reveal https://t.co/bVbfyIJbWp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014611106023796736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VWIIca8AA32fS.jpg",
+        "width": 1318
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014611106023796736"
+          ],
+          "media_source_tweet_id": [
+            "2014611112965362128"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2014887187482083492",
+        "created_at": "2026-01-24T02:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T03:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014887187482083492"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "空崎ヒナ"
+            },
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "ブルーアーカイブ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1914573883430330368",
+              "start": 3,
+              "username": "beccakiko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bVbfyIJbWp",
+              "end": 73,
+              "expanded_url": "https://x.com/beccakiko/status/2014611112965362128/photo/1",
+              "media_key": "3_2014611106023796736",
+              "start": 50,
+              "url": "https://t.co/bVbfyIJbWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014887187482083492",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014611112965362128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beccakiko: #空崎ヒナ #ブルーアーカイブ \n礼服日奈\nface  reveal https://t.co/bVbfyIJbWp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014611106023796736"
+          ]
+        },
+        "author_id": "1914573883430330368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2014611112965362128",
+        "created_at": "2026-01-23T08:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T09:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014611112965362128"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "空崎ヒナ"
+            },
+            {
+              "end": 15,
+              "start": 6,
+              "tag": "ブルーアーカイブ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bVbfyIJbWp",
+              "end": 58,
+              "expanded_url": "https://x.com/beccakiko/status/2014611112965362128/photo/1",
+              "media_key": "3_2014611106023796736",
+              "start": 35,
+              "url": "https://t.co/bVbfyIJbWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014611112965362128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 11637,
+          "like_count": 972,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "#空崎ヒナ #ブルーアーカイブ \n礼服日奈\nface  reveal https://t.co/bVbfyIJbWp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "中共的走狗沒有一個是無辜的‖叫我白菜就好了捏‖cisgender‖養病中…‖友LGBT‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6U23",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 83,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 60,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2014018792066535498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 226,
+          "like_count": 6888,
+          "listed_count": 1,
+          "media_count": 255,
+          "tweet_count": 1518
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T06:56:10.000Z",
+        "description": "不接电报置顶推广🚪52走口令 备用号@beccakiko1 我是女生 不要再问我性别了 私信问问题前最好先付门槛 不然应该不会回嘟 扩列先给门槛 美女可以找我互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "beccakiko1"
+              }
+            ]
+          }
+        },
+        "id": "1914573883430330368",
+        "location": "Deep in your mind",
+        "name": "朝花希拾",
+        "pinned_tweet_id": "1968969171594580167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847018530258944/uGhLwqSp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46527,
+          "following_count": 119,
+          "like_count": 1529,
+          "listed_count": 147,
+          "media_count": 129,
+          "tweet_count": 1081
+        },
+        "username": "beccakiko",
+        "verified": true
+      }
+    ]
+  }
+}

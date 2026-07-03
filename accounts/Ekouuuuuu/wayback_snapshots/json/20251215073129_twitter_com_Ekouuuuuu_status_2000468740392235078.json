@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000205970329182212"
+      ],
+      "media_source_tweet_id": [
+        "2000205974515200499"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000468740392235078",
+    "created_at": "2025-12-15T07:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T08:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000468740392235078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1693700595331289089",
+          "start": 3,
+          "username": "CryingEmojiman"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WUgzGQtuLd",
+          "end": 46,
+          "expanded_url": "https://x.com/CryingEmojiman/status/2000205974515200499/photo/1",
+          "media_key": "3_2000205970329182212",
+          "start": 23,
+          "url": "https://t.co/WUgzGQtuLd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000468740392235078",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 264
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000205974515200499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CryingEmojiman: GM https://t.co/WUgzGQtuLd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1495,
+        "media_key": "3_2000205970329182212",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Iou4MWIAQe9I6.jpg",
+        "width": 1292
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000205970329182212"
+          ],
+          "media_source_tweet_id": [
+            "2000205974515200499"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000468740392235078",
+        "created_at": "2025-12-15T07:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000468740392235078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1693700595331289089",
+              "start": 3,
+              "username": "CryingEmojiman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUgzGQtuLd",
+              "end": 46,
+              "expanded_url": "https://x.com/CryingEmojiman/status/2000205974515200499/photo/1",
+              "media_key": "3_2000205970329182212",
+              "start": 23,
+              "url": "https://t.co/WUgzGQtuLd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000468740392235078",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 264
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000205974515200499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CryingEmojiman: GM https://t.co/WUgzGQtuLd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000205970329182212"
+          ]
+        },
+        "author_id": "1693700595331289089",
+        "conversation_id": "2000205974515200499",
+        "created_at": "2025-12-14T14:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T15:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000205974515200499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUgzGQtuLd",
+              "end": 26,
+              "expanded_url": "https://x.com/CryingEmojiman/status/2000205974515200499/photo/1",
+              "media_key": "3_2000205970329182212",
+              "start": 3,
+              "url": "https://t.co/WUgzGQtuLd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000205974515200499",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 279,
+          "impression_count": 24317,
+          "like_count": 3679,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "GM https://t.co/WUgzGQtuLd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 154,
+          "like_count": 3949,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 539
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T19:05:20.000Z",
+        "description": "Submissions Open // alt @TheUOHMAN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "TheUOHMAN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@cryingemojima…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@cryingemojiman?si=YRHKkc8WlDNirSSQ",
+                "start": 0,
+                "url": "https://t.co/43YJWX9X7S"
+              }
+            ]
+          }
+        },
+        "id": "1693700595331289089",
+        "location": "Kivotos",
+        "name": "Bad Blue Archive Memes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976675006152155136/2ZUulBRb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112773,
+          "following_count": 1006,
+          "like_count": 78394,
+          "listed_count": 194,
+          "media_count": 12134,
+          "tweet_count": 21504
+        },
+        "url": "https://t.co/43YJWX9X7S",
+        "username": "CryingEmojiman",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006758830252896260"
+      ],
+      "media_source_tweet_id": [
+        "2006758836686979552"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2019498360655474873",
+    "created_at": "2026-02-05T19:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T20:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019498360655474873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1945070018905145344",
+          "start": 3,
+          "username": "DianaAnya0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZdfYkGdKiT",
+          "end": 66,
+          "expanded_url": "https://x.com/DianaAnya0/status/2006758836686979552/photo/1",
+          "media_key": "3_2006758830252896260",
+          "start": 43,
+          "url": "https://t.co/ZdfYkGdKiT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019498360655474873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006758836686979552",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DianaAnya0: 芒果不要和蓝莓一起吃，不然嘴里会有很大的jy味🤮🤮🤮 https://t.co/ZdfYkGdKiT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 537,
+        "media_key": "3_2006758830252896260",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9lwhhsaMAQ4aN0.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006758830252896260"
+          ],
+          "media_source_tweet_id": [
+            "2006758836686979552"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2019498360655474873",
+        "created_at": "2026-02-05T19:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T20:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019498360655474873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1945070018905145344",
+              "start": 3,
+              "username": "DianaAnya0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZdfYkGdKiT",
+              "end": 66,
+              "expanded_url": "https://x.com/DianaAnya0/status/2006758836686979552/photo/1",
+              "media_key": "3_2006758830252896260",
+              "start": 43,
+              "url": "https://t.co/ZdfYkGdKiT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019498360655474873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006758836686979552",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DianaAnya0: 芒果不要和蓝莓一起吃，不然嘴里会有很大的jy味🤮🤮🤮 https://t.co/ZdfYkGdKiT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006758830252896260"
+          ]
+        },
+        "author_id": "1945070018905145344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2006758836686979552",
+        "created_at": "2026-01-01T16:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T17:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006758836686979552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZdfYkGdKiT",
+              "end": 50,
+              "expanded_url": "https://x.com/DianaAnya0/status/2006758836686979552/photo/1",
+              "media_key": "3_2006758830252896260",
+              "start": 27,
+              "url": "https://t.co/ZdfYkGdKiT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006758836686979552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 335,
+          "impression_count": 674100,
+          "like_count": 2615,
+          "quote_count": 13,
+          "reply_count": 176,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "芒果不要和蓝莓一起吃，不然嘴里会有很大的jy味🤮🤮🤮 https://t.co/ZdfYkGdKiT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖同類互fo‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 248,
+          "like_count": 8163,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 1985
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T10:37:08.000Z",
+        "description": "砂糖橘小猫娘喵♡~// 会在推上发有趣的梗图 // 大二 // 喜欢玩音乐🎵 // bass guitar // 绳艺 // 恋袜 // 非常友好!❤️ (点个关注再走好嘛☺️)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SatouNya",
+                "end": 23,
+                "expanded_url": "https://t.me/SatouNya",
+                "start": 0,
+                "url": "https://t.co/cpFUZonbzW"
+              }
+            ]
+          }
+        },
+        "id": "1945070018905145344",
+        "location": "Beijing",
+        "name": "砂糖桔🫧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012673871745323009/LPbtZtHL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8331,
+          "following_count": 160,
+          "like_count": 4711,
+          "listed_count": 9,
+          "media_count": 275,
+          "tweet_count": 942
+        },
+        "url": "https://t.co/cpFUZonbzW",
+        "username": "DianaAnya0",
+        "verified": true
+      }
+    ]
+  }
+}

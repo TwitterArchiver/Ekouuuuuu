@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013159459871207425"
+      ],
+      "media_source_tweet_id": [
+        "2013159473104527756"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2013205628785942933",
+    "created_at": "2026-01-19T11:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T12:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013205628785942933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1846188581905485828",
+          "start": 3,
+          "username": "aaaa____dry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tY1nbIPFZa",
+          "end": 51,
+          "expanded_url": "https://x.com/aaaa____dry/status/2013159473104527756/photo/1",
+          "media_key": "3_2013159459871207425",
+          "start": 28,
+          "url": "https://t.co/tY1nbIPFZa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013205628785942933",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013159473104527756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaaa____dry: おやすみなさいと遺言 https://t.co/tY1nbIPFZa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013159459871207425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_At3NHXMAECQvr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013159459871207425"
+          ],
+          "media_source_tweet_id": [
+            "2013159473104527756"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2013205628785942933",
+        "created_at": "2026-01-19T11:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T12:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013205628785942933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1846188581905485828",
+              "start": 3,
+              "username": "aaaa____dry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tY1nbIPFZa",
+              "end": 51,
+              "expanded_url": "https://x.com/aaaa____dry/status/2013159473104527756/photo/1",
+              "media_key": "3_2013159459871207425",
+              "start": 28,
+              "url": "https://t.co/tY1nbIPFZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013205628785942933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013159473104527756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaaa____dry: おやすみなさいと遺言 https://t.co/tY1nbIPFZa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013159459871207425"
+          ]
+        },
+        "author_id": "1846188581905485828",
+        "conversation_id": "2013159473104527756",
+        "created_at": "2026-01-19T07:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T08:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013159473104527756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tY1nbIPFZa",
+              "end": 34,
+              "expanded_url": "https://x.com/aaaa____dry/status/2013159473104527756/photo/1",
+              "media_key": "3_2013159459871207425",
+              "start": 11,
+              "url": "https://t.co/tY1nbIPFZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013159473104527756",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 540,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "おやすみなさいと遺言 https://t.co/tY1nbIPFZa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 74,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 51,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 222,
+          "like_count": 6602,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 1305
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T13:57:35.000Z",
+        "description": "🐇⋆✴︎˚｡⋆感情と子供たちの絵*･ﾟ❤︎ 𝐡_ @9_Un_ya__ ❤︎.*･ﾟ┆日常アカウント@mosohk_sub┊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "9_Un_ya__"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "mosohk_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aaaa_dry",
+                "end": 23,
+                "expanded_url": "https://lit.link/aaaa_dry",
+                "start": 0,
+                "url": "https://t.co/t6kH1MBSF1"
+              }
+            ]
+          }
+        },
+        "id": "1846188581905485828",
+        "name": "妄想癖 @COMITIA155 B26b",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928593953114435584/vsRqgJsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4958,
+          "following_count": 120,
+          "like_count": 10440,
+          "listed_count": 29,
+          "media_count": 1135,
+          "tweet_count": 2654
+        },
+        "url": "https://t.co/t6kH1MBSF1",
+        "username": "aaaa____dry",
+        "verified": true
+      }
+    ]
+  }
+}

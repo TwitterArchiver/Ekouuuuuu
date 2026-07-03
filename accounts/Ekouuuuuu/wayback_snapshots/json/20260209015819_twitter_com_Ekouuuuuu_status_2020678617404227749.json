@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020469315435450368"
+      ],
+      "media_source_tweet_id": [
+        "2020469375522725931"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2020678617404227749",
+    "created_at": "2026-02-09T01:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T02:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020678617404227749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1854915067994841088",
+          "start": 3,
+          "username": "siquanjiale8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZH0wtkGjcm",
+          "end": 49,
+          "expanded_url": "https://x.com/siquanjiale8964/status/2020469375522725931/photo/1",
+          "media_key": "3_2020469315435450368",
+          "start": 26,
+          "url": "https://t.co/ZH0wtkGjcm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020678617404227749",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020469375522725931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siquanjiale8964: 我要去死 https://t.co/ZH0wtkGjcm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2020678617404227749].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2020678617404227749",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2020678617404227749"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2020469315435450368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAomIzIbUAAFKG-.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020469315435450368"
+          ]
+        },
+        "author_id": "1854915067994841088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2020469375522725931",
+        "created_at": "2026-02-08T12:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020469375522725931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZH0wtkGjcm",
+              "end": 28,
+              "expanded_url": "https://x.com/siquanjiale8964/status/2020469375522725931/photo/1",
+              "media_key": "3_2020469315435450368",
+              "start": 5,
+              "url": "https://t.co/ZH0wtkGjcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020469375522725931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 353,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我要去死 https://t.co/ZH0wtkGjcm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖同類互fo‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 250,
+          "like_count": 8245,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 2047
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T15:53:35.000Z",
+        "description": "｜性格は悪いが善良だ｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/crycry92872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/crycry92872",
+                "start": 0,
+                "url": "https://t.co/hRTe26VoVn"
+              }
+            ]
+          }
+        },
+        "id": "1854915067994841088",
+        "location": "👇提问箱🚪52/188/520 没有线下没有福利",
+        "name": "泣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988170632170008581/oFbmNtXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 160,
+          "like_count": 1300,
+          "listed_count": 4,
+          "media_count": 86,
+          "tweet_count": 2915
+        },
+        "url": "https://t.co/hRTe26VoVn",
+        "username": "siquanjiale8964",
+        "verified": false
+      }
+    ]
+  }
+}

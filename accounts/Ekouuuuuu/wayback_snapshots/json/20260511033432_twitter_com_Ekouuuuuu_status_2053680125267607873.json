@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052940117975990272"
+      ],
+      "media_source_tweet_id": [
+        "2053422294576529506"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053680125267607873",
+    "created_at": "2026-05-11T03:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053680125267607873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756304949603160064",
+          "start": 3,
+          "username": "anpan8569_AI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U2IZJpUsPG",
+          "end": 41,
+          "expanded_url": "https://x.com/anpan8569_AI/status/2053422294576529506/photo/1",
+          "media_key": "3_2052940117975990272",
+          "start": 18,
+          "url": "https://t.co/U2IZJpUsPG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053680125267607873",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053422294576529506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anpan8569_AI: https://t.co/U2IZJpUsPG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1344,
+        "media_key": "3_2052940117975990272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2CKQ0bgAASmdL.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052940117975990272"
+          ],
+          "media_source_tweet_id": [
+            "2053422294576529506"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053680125267607873",
+        "created_at": "2026-05-11T03:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053680125267607873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756304949603160064",
+              "start": 3,
+              "username": "anpan8569_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U2IZJpUsPG",
+              "end": 41,
+              "expanded_url": "https://x.com/anpan8569_AI/status/2053422294576529506/photo/1",
+              "media_key": "3_2052940117975990272",
+              "start": 18,
+              "url": "https://t.co/U2IZJpUsPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053680125267607873",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053422294576529506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anpan8569_AI: https://t.co/U2IZJpUsPG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052940117975990272"
+          ]
+        },
+        "author_id": "1756304949603160064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053422294576529506",
+        "created_at": "2026-05-10T10:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053422294576529506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U2IZJpUsPG",
+              "end": 23,
+              "expanded_url": "https://x.com/anpan8569_AI/status/2053422294576529506/photo/1",
+              "media_key": "3_2052940117975990272",
+              "start": 0,
+              "url": "https://t.co/U2IZJpUsPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053422294576529506",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 11991,
+          "like_count": 1152,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/U2IZJpUsPG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "我還想和你談論宇宙和天空‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2051776082542825551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 297,
+          "like_count": 12064,
+          "listed_count": 1,
+          "media_count": 500,
+          "tweet_count": 3022
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T13:12:52.000Z",
+        "description": "趣味でAIイラストメインに投稿している者です。 基本無言でやってます。無断転載❌",
+        "id": "1756304949603160064",
+        "name": "あんぱん",
+        "pinned_tweet_id": "2037296036981473701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029367739106902019/Q8UfLS-k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24184,
+          "following_count": 985,
+          "like_count": 18491,
+          "listed_count": 122,
+          "media_count": 410,
+          "tweet_count": 1584
+        },
+        "username": "anpan8569_AI",
+        "verified": true
+      }
+    ]
+  }
+}

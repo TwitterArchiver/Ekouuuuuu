@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1974674937144316146",
+    "created_at": "2025-10-05T03:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T04:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974685064073220601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974685064073220601",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974674937144316146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF 寶子π"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 340,
+        "media_key": "3_1974674924985065473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2d0YcqbIAEiFTB.jpg",
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1974674937144316146",
+        "created_at": "2025-10-05T03:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T04:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974685064073220601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974685064073220601",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974674937144316146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 寶子π"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974674924985065473"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1974674937144316146",
+        "created_at": "2025-10-05T03:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T04:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974674937144316146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tSiAXWyYhy",
+              "end": 36,
+              "expanded_url": "https://x.com/FurinaDF/status/1974674937144316146/photo/1",
+              "media_key": "3_1974674924985065473",
+              "start": 13,
+              "url": "https://t.co/tSiAXWyYhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974674937144316146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1264,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "习近平是左派还是右派？🤔 https://t.co/tSiAXWyYhy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "年年歲歲花相似",
+        "id": "1912063502782812160",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974683142880665600/4D1J2k-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 81,
+          "like_count": 2129,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 296
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "偷井盖专家，河南驻马店实验小学四年级在读@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLR6O"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54921,
+          "following_count": 2319,
+          "like_count": 28936,
+          "listed_count": 153,
+          "media_count": 6991,
+          "tweet_count": 11470
+        },
+        "url": "https://t.co/69nE3RLR6O",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

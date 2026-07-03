@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2013762933902500238",
+    "created_at": "2026-01-22T10:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T11:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014290674183786668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1894766619341336576",
+          "start": 0,
+          "username": "Chaushesuku"
+        },
+        {
+          "end": 28,
+          "id": "1911004116299788288",
+          "start": 13,
+          "username": "TWCommanderCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014290674183786668",
+    "in_reply_to_user_id": "1894766619341336576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013990851110707212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chaushesuku @TWCommanderCat 他媽的甘！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2013762933902500238",
+        "created_at": "2026-01-22T10:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T11:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014290674183786668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1894766619341336576",
+              "start": 0,
+              "username": "Chaushesuku"
+            },
+            {
+              "end": 28,
+              "id": "1911004116299788288",
+              "start": 13,
+              "username": "TWCommanderCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014290674183786668",
+        "in_reply_to_user_id": "1894766619341336576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013990851110707212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chaushesuku @TWCommanderCat 他媽的甘！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894766619341336576",
+        "conversation_id": "2013762933902500238",
+        "created_at": "2026-01-21T15:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013990851110707212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911004116299788288",
+              "start": 0,
+              "username": "TWCommanderCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013990851110707212",
+        "in_reply_to_user_id": "1911004116299788288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2877,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013762933902500238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TWCommanderCat 手上的腊肉好像几把"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖友LGBT‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6U23",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 80,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 57,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 226,
+          "like_count": 6718,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 1381
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T15:09:25.000Z",
+        "description": "#民国右派 #自由民主  当你视奸我是就意味着你在视奸我🤔",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "民国右派"
+              },
+              {
+                "end": 11,
+                "start": 6,
+                "tag": "自由民主"
+              }
+            ]
+          }
+        },
+        "id": "1894766619341336576",
+        "location": "Republic of China ",
+        "name": "𝐶ℎ𝑎𝑢𝑠ℎ𝑒𝑠𝑢𝑘𝑢🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007113423000358913/GEK4Od4n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 140,
+          "like_count": 1891,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 350
+        },
+        "username": "Chaushesuku",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T10:31:12.000Z",
+        "description": "Nationalism, Democracy & Civil Rights, Livelihood of the people; All\nHail Republic of China！ 🫡🇹🇼 逃生艙：@TaipeiCat8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 101,
+                "username": "TaipeiCat8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/twcommandercat",
+                "end": 23,
+                "expanded_url": "http://t.me/twcommandercat",
+                "start": 0,
+                "url": "https://t.co/5Fw2EJ2wBo"
+              }
+            ]
+          }
+        },
+        "id": "1911004116299788288",
+        "location": "台湾台北市中正區重慶南路一段122號",
+        "name": "國軍喵司令🇹🇼（互fo/台北の虎🐯",
+        "pinned_tweet_id": "1988906399351357769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936876826804051969/JeNzglol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 986,
+          "like_count": 7423,
+          "listed_count": 9,
+          "media_count": 647,
+          "tweet_count": 1834
+        },
+        "url": "https://t.co/5Fw2EJ2wBo",
+        "username": "TWCommanderCat",
+        "verified": true
+      }
+    ]
+  }
+}

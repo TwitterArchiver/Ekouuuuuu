@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989708837834903553"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1989708893195563188",
+    "created_at": "2025-11-15T14:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T15:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989708893195563188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tsOVNYXu1o",
+          "end": 40,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/1989708893195563188/photo/1",
+          "media_key": "3_1989708837834903553",
+          "start": 17,
+          "url": "https://t.co/tsOVNYXu1o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989708893195563188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果這能讓我身邊人短暫快樂的話。 https://t.co/tsOVNYXu1o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1989708837834903553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5zdpWWa0AE727G.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989708837834903553"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1989708893195563188",
+        "created_at": "2025-11-15T14:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T15:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989708893195563188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tsOVNYXu1o",
+              "end": 40,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/1989708893195563188/photo/1",
+              "media_key": "3_1989708837834903553",
+              "start": 17,
+              "url": "https://t.co/tsOVNYXu1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989708893195563188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果這能讓我身邊人短暫快樂的話。 https://t.co/tsOVNYXu1o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "還要多久 我才能在你身邊",
+        "id": "1912063502782812160",
+        "location": "我最想選的肩膀又是否願意與我同心",
+        "name": "我珍惜你的方式錯了嗎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979464074787246080/49ypr-ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 40,
+          "like_count": 2538,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 102
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

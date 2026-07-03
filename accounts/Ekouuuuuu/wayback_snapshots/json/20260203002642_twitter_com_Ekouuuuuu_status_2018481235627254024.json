@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018284187644760064"
+      ],
+      "media_source_tweet_id": [
+        "2018284195186188754"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2018481235627254024",
+    "created_at": "2026-02-03T00:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T01:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018481235627254024"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "凪豆腐家"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1908951022233690112",
+          "start": 3,
+          "username": "nagidoufu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6pCVnePbR7",
+          "end": 46,
+          "expanded_url": "https://x.com/nagidoufu/status/2018284195186188754/photo/1",
+          "media_key": "3_2018284187644760064",
+          "start": 23,
+          "url": "https://t.co/6pCVnePbR7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018481235627254024",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018284195186188754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nagidoufu: #凪豆腐家\n🚬 https://t.co/6pCVnePbR7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1772,
+        "media_key": "3_2018284187644760064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJixnxakAAbGnd.jpg",
+        "width": 1372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018284187644760064"
+          ],
+          "media_source_tweet_id": [
+            "2018284195186188754"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2018481235627254024",
+        "created_at": "2026-02-03T00:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018481235627254024"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "凪豆腐家"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1908951022233690112",
+              "start": 3,
+              "username": "nagidoufu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6pCVnePbR7",
+              "end": 46,
+              "expanded_url": "https://x.com/nagidoufu/status/2018284195186188754/photo/1",
+              "media_key": "3_2018284187644760064",
+              "start": 23,
+              "url": "https://t.co/6pCVnePbR7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018481235627254024",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018284195186188754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nagidoufu: #凪豆腐家\n🚬 https://t.co/6pCVnePbR7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018284187644760064"
+          ]
+        },
+        "author_id": "1908951022233690112",
+        "conversation_id": "2018284195186188754",
+        "created_at": "2026-02-02T11:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018284195186188754"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "凪豆腐家"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6pCVnePbR7",
+              "end": 31,
+              "expanded_url": "https://x.com/nagidoufu/status/2018284195186188754/photo/1",
+              "media_key": "3_2018284187644760064",
+              "start": 8,
+              "url": "https://t.co/6pCVnePbR7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018284195186188754",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 11174,
+          "like_count": 1416,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "#凪豆腐家\n🚬 https://t.co/6pCVnePbR7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "同一片天為何好久不見‖叫我白菜就好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 236,
+          "like_count": 7869,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 1878
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T18:33:00.000Z",
+        "description": "傷表現・不穏な絵/創作タグ: #凪豆腐家/⚠︎︎無断転載・AI学習禁止/成人済 【https://t.co/Wwi8OBffn1】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 15,
+                "tag": "凪豆腐家"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@nagidoufu",
+                "end": 64,
+                "expanded_url": "https://skeb.jp/@nagidoufu",
+                "start": 41,
+                "url": "https://t.co/Wwi8OBffn1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nagidoufu",
+                "end": 23,
+                "expanded_url": "https://lit.link/nagidoufu",
+                "start": 0,
+                "url": "https://t.co/EhFouJmEa8"
+              }
+            ]
+          }
+        },
+        "id": "1908951022233690112",
+        "name": "凪豆腐◇COMITIA155【う15a】",
+        "pinned_tweet_id": "1991883703518396670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012914380531200001/SR5Ypay6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6914,
+          "following_count": 250,
+          "like_count": 17012,
+          "listed_count": 19,
+          "media_count": 249,
+          "tweet_count": 2678
+        },
+        "url": "https://t.co/EhFouJmEa8",
+        "username": "nagidoufu",
+        "verified": false
+      }
+    ]
+  }
+}

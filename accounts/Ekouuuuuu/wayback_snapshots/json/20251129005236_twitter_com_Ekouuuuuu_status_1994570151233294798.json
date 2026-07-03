@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994518773781725184"
+      ],
+      "media_source_tweet_id": [
+        "1994518808737014266"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994570151233294798",
+    "created_at": "2025-11-29T00:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T01:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994570151233294798"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "コハル",
+          "probability": 0.5607,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1153954556310503426",
+          "start": 3,
+          "username": "bamyam22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eGgY5NpIwG",
+          "end": 42,
+          "expanded_url": "https://x.com/bamyam22/status/1994518808737014266/photo/1",
+          "media_key": "3_1994518773781725184",
+          "start": 19,
+          "url": "https://t.co/eGgY5NpIwG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994570151233294798",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994518808737014266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bamyam22: コハル🐱 https://t.co/eGgY5NpIwG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1794,
+        "media_key": "3_1994518773781725184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G630QeEbgAA8aug.jpg",
+        "width": 1652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994518773781725184"
+          ],
+          "media_source_tweet_id": [
+            "1994518808737014266"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994570151233294798",
+        "created_at": "2025-11-29T00:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T01:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994570151233294798"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "コハル",
+              "probability": 0.5607,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1153954556310503426",
+              "start": 3,
+              "username": "bamyam22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eGgY5NpIwG",
+              "end": 42,
+              "expanded_url": "https://x.com/bamyam22/status/1994518808737014266/photo/1",
+              "media_key": "3_1994518773781725184",
+              "start": 19,
+              "url": "https://t.co/eGgY5NpIwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994570151233294798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994518808737014266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bamyam22: コハル🐱 https://t.co/eGgY5NpIwG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994518773781725184"
+          ]
+        },
+        "author_id": "1153954556310503426",
+        "conversation_id": "1994518808737014266",
+        "created_at": "2025-11-28T21:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T22:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994518808737014266"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "コハル",
+              "probability": 0.6481,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eGgY5NpIwG",
+              "end": 28,
+              "expanded_url": "https://x.com/bamyam22/status/1994518808737014266/photo/1",
+              "media_key": "3_1994518773781725184",
+              "start": 5,
+              "url": "https://t.co/eGgY5NpIwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994518808737014266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 4364,
+          "like_count": 576,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "コハル🐱 https://t.co/eGgY5NpIwG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 2825,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 198
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T09:06:20.000Z",
+        "description": "글임글여요",
+        "id": "1153954556310503426",
+        "name": "밤얌",
+        "pinned_tweet_id": "1260915226829942788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897404252022300673/8fNTfSwG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4848,
+          "following_count": 544,
+          "like_count": 7021,
+          "listed_count": 40,
+          "media_count": 62,
+          "tweet_count": 9234
+        },
+        "username": "bamyam22",
+        "verified": false
+      }
+    ]
+  }
+}

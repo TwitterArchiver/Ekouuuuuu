@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1995116082701509088",
+    "created_at": "2025-12-02T00:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T01:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995646132207403442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580505223071641600",
+          "start": 0,
+          "username": "qwq_shark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995646132207403442",
+    "in_reply_to_user_id": "1580505223071641600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995116082701509088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_shark 之前我的朋友看見過我的傷疤。第一反應居然是你改花刀好好笑。後來我就在我和他共同好友那裡得知了他講我自殘大肆宣揚的事情。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1995116082701509088",
+        "created_at": "2025-12-02T00:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T01:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995646132207403442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580505223071641600",
+              "start": 0,
+              "username": "qwq_shark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995646132207403442",
+        "in_reply_to_user_id": "1580505223071641600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995116082701509088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_shark 之前我的朋友看見過我的傷疤。第一反應居然是你改花刀好好笑。後來我就在我和他共同好友那裡得知了他講我自殘大肆宣揚的事情。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580505223071641600",
+        "conversation_id": "1995116082701509088",
+        "created_at": "2025-11-30T13:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T14:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995116082701509088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995116082701509088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 70630,
+          "like_count": 391,
+          "quote_count": 3,
+          "reply_count": 251,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "健全人看到有伤疤自残的胳膊反应是啥，求告诉好好奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 117,
+          "like_count": 3135,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 205
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:28:18.000Z",
+        "description": "我是小惨｜好朋友@Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1580505223071641600",
+        "name": "悲惨世界与内心独白",
+        "pinned_tweet_id": "1863064821769568264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993995065333829635/vxItnGmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5686,
+          "following_count": 352,
+          "like_count": 3761,
+          "listed_count": 7,
+          "media_count": 564,
+          "tweet_count": 12135
+        },
+        "username": "qwq_shark",
+        "verified": false
+      }
+    ]
+  }
+}

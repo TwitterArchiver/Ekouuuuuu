@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021595760224313345"
+      ],
+      "media_source_tweet_id": [
+        "2021595783909265906"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2021823489683144776",
+    "created_at": "2026-02-12T05:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T06:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021823489683144776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678171777409875968",
+          "start": 3,
+          "username": "420420420CTL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xl1AIBYsjr",
+          "end": 44,
+          "expanded_url": "https://x.com/420420420CTL/status/2021595783909265906/photo/1",
+          "media_key": "3_2021595760224313345",
+          "start": 21,
+          "url": "https://t.co/Xl1AIBYsjr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021823489683144776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021595783909265906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @420420420CTL: 支持 https://t.co/Xl1AIBYsjr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2021595760224313345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4mog-bIAExopz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021595760224313345"
+          ],
+          "media_source_tweet_id": [
+            "2021595783909265906"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2021823489683144776",
+        "created_at": "2026-02-12T05:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T06:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021823489683144776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678171777409875968",
+              "start": 3,
+              "username": "420420420CTL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xl1AIBYsjr",
+              "end": 44,
+              "expanded_url": "https://x.com/420420420CTL/status/2021595783909265906/photo/1",
+              "media_key": "3_2021595760224313345",
+              "start": 21,
+              "url": "https://t.co/Xl1AIBYsjr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021823489683144776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021595783909265906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @420420420CTL: 支持 https://t.co/Xl1AIBYsjr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021595760224313345"
+          ]
+        },
+        "author_id": "1678171777409875968",
+        "conversation_id": "2021595783909265906",
+        "created_at": "2026-02-11T14:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021595783909265906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xl1AIBYsjr",
+              "end": 26,
+              "expanded_url": "https://x.com/420420420CTL/status/2021595783909265906/photo/1",
+              "media_key": "3_2021595760224313345",
+              "start": 3,
+              "url": "https://t.co/Xl1AIBYsjr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021595783909265906",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3103,
+          "like_count": 99,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "支持 https://t.co/Xl1AIBYsjr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 249,
+          "like_count": 8395,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 2122
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，社群：https://t.co/YwMarw2XdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 93,
+                "expanded_url": "https://x.com/i/communities/2002034506979750304",
+                "start": 70,
+                "url": "https://t.co/YwMarw2XdU"
+              }
+            ]
+          }
+        },
+        "id": "1678171777409875968",
+        "location": "Los Angeles, CA",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018807810830770177/xgp8x96H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 657,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 889
+        },
+        "username": "420420420CTL",
+        "verified": true
+      }
+    ]
+  }
+}

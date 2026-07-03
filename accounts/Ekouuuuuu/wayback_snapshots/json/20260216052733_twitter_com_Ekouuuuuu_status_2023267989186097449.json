@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023039893006618624"
+      ],
+      "media_source_tweet_id": [
+        "2023039975437287758"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2023267989186097449",
+    "created_at": "2026-02-16T05:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T06:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023267989186097449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1355900185235259396",
+          "start": 3,
+          "username": "AzumaSeren"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fFvXXU3kbn",
+          "end": 50,
+          "expanded_url": "https://x.com/AzumaSeren/status/2023039975437287758/photo/1",
+          "media_key": "3_2023039893006618624",
+          "start": 27,
+          "url": "https://t.co/fFvXXU3kbn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023267989186097449",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023039975437287758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @AzumaSeren: 2.19 20:00 https://t.co/fFvXXU3kbn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2023039893006618624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNIEG0akAAifjS.png",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023039893006618624"
+          ],
+          "media_source_tweet_id": [
+            "2023039975437287758"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2023267989186097449",
+        "created_at": "2026-02-16T05:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023267989186097449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1355900185235259396",
+              "start": 3,
+              "username": "AzumaSeren"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fFvXXU3kbn",
+              "end": 50,
+              "expanded_url": "https://x.com/AzumaSeren/status/2023039975437287758/photo/1",
+              "media_key": "3_2023039893006618624",
+              "start": 27,
+              "url": "https://t.co/fFvXXU3kbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023267989186097449",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023039975437287758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @AzumaSeren: 2.19 20:00 https://t.co/fFvXXU3kbn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023039893006618624"
+          ]
+        },
+        "author_id": "1355900185235259396",
+        "conversation_id": "2023039975437287758",
+        "created_at": "2026-02-15T14:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023039975437287758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fFvXXU3kbn",
+              "end": 34,
+              "expanded_url": "https://x.com/AzumaSeren/status/2023039975437287758/photo/1",
+              "media_key": "3_2023039893006618624",
+              "start": 11,
+              "url": "https://t.co/fFvXXU3kbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023039975437287758",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4487,
+          "like_count": 116,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "following",
+        "text": "2.19 20:00 https://t.co/fFvXXU3kbn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 247,
+          "like_count": 8502,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 2197
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-31T15:26:46.000Z",
+        "description": "°ʚ🍼ɞ°￤詩￤唄￤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/azumaseren",
+                "end": 23,
+                "expanded_url": "https://lit.link/azumaseren",
+                "start": 0,
+                "url": "https://t.co/fKPzK4dlPm"
+              }
+            ]
+          }
+        },
+        "id": "1355900185235259396",
+        "name": "東 雪蓮",
+        "pinned_tweet_id": "2002333167970365445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922983367907090432/mLpJdD8G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53479,
+          "following_count": 203,
+          "like_count": 21033,
+          "listed_count": 122,
+          "media_count": 948,
+          "tweet_count": 8404
+        },
+        "url": "https://t.co/fKPzK4dlPm",
+        "username": "AzumaSeren",
+        "verified": false
+      }
+    ]
+  }
+}

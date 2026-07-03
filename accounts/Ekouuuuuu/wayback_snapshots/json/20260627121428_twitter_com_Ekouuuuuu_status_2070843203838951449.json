@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070834468785668096"
+      ],
+      "media_source_tweet_id": [
+        "2070834505418727865"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2070843203838951449",
+    "created_at": "2026-06-27T12:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070843203838951449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1153970326604144640",
+          "start": 3,
+          "username": "Ruters0615"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hMhbjHUN4W",
+          "end": 48,
+          "expanded_url": "https://x.com/Ruters0615/status/2070834505418727865/photo/1",
+          "media_key": "3_2070834468785668096",
+          "start": 25,
+          "url": "https://t.co/hMhbjHUN4W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070843203838951449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070834505418727865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ruters0615: 我的学历没那么高 https://t.co/hMhbjHUN4W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 956,
+        "media_key": "3_2070834468785668096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0U-kSawAA-NmV.jpg",
+        "width": 448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070834468785668096"
+          ],
+          "media_source_tweet_id": [
+            "2070834505418727865"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2070843203838951449",
+        "created_at": "2026-06-27T12:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070843203838951449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1153970326604144640",
+              "start": 3,
+              "username": "Ruters0615"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hMhbjHUN4W",
+              "end": 48,
+              "expanded_url": "https://x.com/Ruters0615/status/2070834505418727865/photo/1",
+              "media_key": "3_2070834468785668096",
+              "start": 25,
+              "url": "https://t.co/hMhbjHUN4W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070843203838951449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070834505418727865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ruters0615: 我的学历没那么高 https://t.co/hMhbjHUN4W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070834468785668096"
+          ]
+        },
+        "author_id": "1153970326604144640",
+        "conversation_id": "2070834505418727865",
+        "created_at": "2026-06-27T11:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070834505418727865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hMhbjHUN4W",
+              "end": 32,
+              "expanded_url": "https://x.com/Ruters0615/status/2070834505418727865/photo/1",
+              "media_key": "3_2070834468785668096",
+              "start": 9,
+              "url": "https://t.co/hMhbjHUN4W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070834505418727865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1324,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我的学历没那么高 https://t.co/hMhbjHUN4W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖LGBTQ+友好‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2064040950851404219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 378,
+          "like_count": 14387,
+          "listed_count": 1,
+          "media_count": 637,
+          "tweet_count": 3847
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T10:09:00.000Z",
+        "description": "官方X账户，国安部最高通缉，专注于乳包反共鬼畜作品，投稿请私信or邮箱投稿：Ruters0615@gmail.com\nTelegram：https://t.co/p6qoFVZxgy\nYouTube：小反旗&小池塘（被国安橄榄过三回啊三回）\nRumble / Spotify：Ruters乳透社",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruters0615",
+                "end": 91,
+                "expanded_url": "http://t.me/Ruters0615",
+                "start": 68,
+                "url": "https://t.co/p6qoFVZxgy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@RutersXiaoFan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@RutersXiaoFanQi",
+                "start": 0,
+                "url": "https://t.co/fxNkDBFEkL"
+              }
+            ]
+          }
+        },
+        "id": "1153970326604144640",
+        "location": "IP属地：梁家河",
+        "name": "Ruters乳透社",
+        "pinned_tweet_id": "2013472422435983458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520784344280748032/gHq_Pfaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297180,
+          "following_count": 2383,
+          "like_count": 2408,
+          "listed_count": 943,
+          "media_count": 2436,
+          "tweet_count": 3249
+        },
+        "url": "https://t.co/fxNkDBFEkL",
+        "username": "Ruters0615",
+        "verified": true
+      }
+    ]
+  }
+}

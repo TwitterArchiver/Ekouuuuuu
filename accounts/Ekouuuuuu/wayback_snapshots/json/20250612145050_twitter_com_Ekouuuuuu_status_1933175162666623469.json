@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1932871253981049222",
+    "created_at": "2025-06-12T14:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T15:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933175162666623469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933175162666623469",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932871253981049222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 布豪😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_1932871223958220800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtLwIyyasAAN70t.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1932871253981049222",
+        "created_at": "2025-06-12T14:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T15:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933175162666623469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933175162666623469",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932871253981049222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 布豪😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932871223958220800"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1932871253981049222",
+        "created_at": "2025-06-11T18:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T19:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932871253981049222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vqOxnctDfv",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1932871253981049222/photo/1",
+              "media_key": "3_1932871223958220800",
+              "start": 0,
+              "url": "https://t.co/vqOxnctDfv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932871253981049222",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 37486,
+          "like_count": 774,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vqOxnctDfv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "这个世界 性在繁殖 爱在消失",
+        "id": "1912063502782812160",
+        "location": "Nara-ken, Japan",
+        "name": "悯菓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931725408283799552/jhn11osa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 31,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1909591657043144887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77273,
+          "following_count": 973,
+          "like_count": 40580,
+          "listed_count": 170,
+          "media_count": 12201,
+          "tweet_count": 18623
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

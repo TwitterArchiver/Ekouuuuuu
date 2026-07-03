@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994339137777025024"
+      ],
+      "media_source_tweet_id": [
+        "1994339429956112400"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994656784322367803",
+    "created_at": "2025-11-29T06:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T07:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994656784322367803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1066612232685940736",
+          "start": 3,
+          "username": "mofunamako"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DMs6EeVblC",
+          "end": 68,
+          "expanded_url": "https://x.com/mofunamako/status/1994339429956112400/photo/1",
+          "media_key": "3_1994339137777025024",
+          "start": 45,
+          "url": "https://t.co/DMs6EeVblC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994656784322367803",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 601
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994339429956112400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mofunamako: うーん…言われてみれば前世で一緒だったかも…（目ぐるぐる https://t.co/DMs6EeVblC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1994339137777025024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61Q4RzbwAAqnyX.jpg",
+        "width": 572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994339137777025024"
+          ],
+          "media_source_tweet_id": [
+            "1994339429956112400"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994656784322367803",
+        "created_at": "2025-11-29T06:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994656784322367803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1066612232685940736",
+              "start": 3,
+              "username": "mofunamako"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DMs6EeVblC",
+              "end": 68,
+              "expanded_url": "https://x.com/mofunamako/status/1994339429956112400/photo/1",
+              "media_key": "3_1994339137777025024",
+              "start": 45,
+              "url": "https://t.co/DMs6EeVblC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994656784322367803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 601
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994339429956112400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mofunamako: うーん…言われてみれば前世で一緒だったかも…（目ぐるぐる https://t.co/DMs6EeVblC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994339137777025024"
+          ]
+        },
+        "author_id": "1066612232685940736",
+        "conversation_id": "1994339429956112400",
+        "created_at": "2025-11-28T09:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T10:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994339429956112400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DMs6EeVblC",
+              "end": 52,
+              "expanded_url": "https://x.com/mofunamako/status/1994339429956112400/photo/1",
+              "media_key": "3_1994339137777025024",
+              "start": 29,
+              "url": "https://t.co/DMs6EeVblC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994339429956112400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 441,
+          "impression_count": 41441,
+          "like_count": 4022,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 601
+        },
+        "reply_settings": "everyone",
+        "text": "うーん…言われてみれば前世で一緒だったかも…（目ぐるぐる https://t.co/DMs6EeVblC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 107,
+          "like_count": 2961,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 279
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-25T08:39:07.000Z",
+        "description": "もふナマコと申します。   イラストを描いてます。\n連絡等はDMにお願いします。\nskeb : https://t.co/KBiwPALqve",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@mofunamako",
+                "end": 71,
+                "expanded_url": "https://skeb.jp/@mofunamako",
+                "start": 48,
+                "url": "https://t.co/KBiwPALqve"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=577853",
+                "start": 0,
+                "url": "https://t.co/NM7BvgiJH2"
+              }
+            ]
+          }
+        },
+        "id": "1066612232685940736",
+        "location": "海底",
+        "name": "もふナマコ",
+        "pinned_tweet_id": "1885665983207272917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1142932618117185536/CC2opOnr_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58549,
+          "following_count": 714,
+          "like_count": 12688,
+          "listed_count": 650,
+          "media_count": 299,
+          "tweet_count": 6824
+        },
+        "url": "https://t.co/NM7BvgiJH2",
+        "username": "mofunamako",
+        "verified": true
+      }
+    ]
+  }
+}

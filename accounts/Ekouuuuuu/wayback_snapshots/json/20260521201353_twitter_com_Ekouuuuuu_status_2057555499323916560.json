@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057555341823336450"
+      ],
+      "media_source_tweet_id": [
+        "2057555361867980924"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057555499323916560",
+    "created_at": "2026-05-21T20:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T21:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057555499323916560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2056703191597920256",
+          "start": 3,
+          "username": "Mandala_Aru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mnlKowcg1i",
+          "end": 53,
+          "expanded_url": "https://x.com/Mandala_Aru/status/2057555361867980924/photo/1",
+          "media_key": "3_2057555341823336450",
+          "start": 30,
+          "url": "https://t.co/mnlKowcg1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057555499323916560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057555361867980924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mandala_Aru: 我原創貼文好像發佈上限了 https://t.co/mnlKowcg1i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057555341823336450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3nrpcWYAIAYT1.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057555341823336450"
+          ],
+          "media_source_tweet_id": [
+            "2057555361867980924"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057555499323916560",
+        "created_at": "2026-05-21T20:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T21:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057555499323916560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2056703191597920256",
+              "start": 3,
+              "username": "Mandala_Aru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mnlKowcg1i",
+              "end": 53,
+              "expanded_url": "https://x.com/Mandala_Aru/status/2057555361867980924/photo/1",
+              "media_key": "3_2057555341823336450",
+              "start": 30,
+              "url": "https://t.co/mnlKowcg1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057555499323916560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057555361867980924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mandala_Aru: 我原創貼文好像發佈上限了 https://t.co/mnlKowcg1i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057555341823336450"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057555361867980924",
+        "created_at": "2026-05-21T20:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T21:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057555361867980924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mnlKowcg1i",
+              "end": 36,
+              "expanded_url": "https://x.com/Mandala_Aru/status/2057555361867980924/photo/1",
+              "media_key": "3_2057555341823336450",
+              "start": 13,
+              "url": "https://t.co/mnlKowcg1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057555361867980924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我原創貼文好像發佈上限了 https://t.co/mnlKowcg1i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖老公@Shiroko_Li‖支畜別他媽來惡心我了‖找我要色圖的你媽死了‖順男加我請附帶絕育證明‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2054494874192195972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 305,
+          "like_count": 13117,
+          "listed_count": 1,
+          "media_count": 561,
+          "tweet_count": 3365
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "如果從未存在過就好了",
+        "id": "2056703191597920256",
+        "name": "Mandala",
+        "pinned_tweet_id": "2056717430576046263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056716431698305024/N_FdPVtt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 39
+        },
+        "username": "Mandala_Aru",
+        "verified": false
+      }
+    ]
+  }
+}

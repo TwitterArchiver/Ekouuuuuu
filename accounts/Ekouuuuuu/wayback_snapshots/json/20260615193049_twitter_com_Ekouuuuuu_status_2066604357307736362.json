@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066177502524157952",
+        "3_2066177502528360448",
+        "3_2066177502582890496",
+        "3_2066177502587088896"
+      ],
+      "media_source_tweet_id": [
+        "2066177510271074745",
+        "2066177510271074745",
+        "2066177510271074745",
+        "2066177510271074745"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2066604357307736362",
+    "created_at": "2026-06-15T19:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T20:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066604357307736362"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 20,
+          "tag": "dateidea"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2057160627941261312",
+          "start": 3,
+          "username": "bacteriaichigo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bxAVY4sKLJ",
+          "end": 53,
+          "expanded_url": "https://x.com/bacteriaichigo/status/2066177510271074745/photo/1",
+          "media_key": "3_2066177502524157952",
+          "start": 30,
+          "url": "https://t.co/bxAVY4sKLJ"
+        },
+        {
+          "display_url": "pic.x.com/bxAVY4sKLJ",
+          "end": 53,
+          "expanded_url": "https://x.com/bacteriaichigo/status/2066177510271074745/photo/1",
+          "media_key": "3_2066177502528360448",
+          "start": 30,
+          "url": "https://t.co/bxAVY4sKLJ"
+        },
+        {
+          "display_url": "pic.x.com/bxAVY4sKLJ",
+          "end": 53,
+          "expanded_url": "https://x.com/bacteriaichigo/status/2066177510271074745/photo/1",
+          "media_key": "3_2066177502582890496",
+          "start": 30,
+          "url": "https://t.co/bxAVY4sKLJ"
+        },
+        {
+          "display_url": "pic.x.com/bxAVY4sKLJ",
+          "end": 53,
+          "expanded_url": "https://x.com/bacteriaichigo/status/2066177510271074745/photo/1",
+          "media_key": "3_2066177502587088896",
+          "start": 30,
+          "url": "https://t.co/bxAVY4sKLJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066604357307736362",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 461
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066177510271074745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bacteriaichigo: #dateidea https://t.co/bxAVY4sKLJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066177502524157952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyJfdDbMAAeCu0.jpg",
+        "width": 1640
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066177502528360448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyJfdEbUAAJZ9j.jpg",
+        "width": 1640
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066177502582890496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyJfdRbYAASgFJ.jpg",
+        "width": 1640
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066177502587088896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyJfdSbcAAQdYQ.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066177502524157952",
+            "3_2066177502528360448",
+            "3_2066177502582890496",
+            "3_2066177502587088896"
+          ],
+          "media_source_tweet_id": [
+            "2066177510271074745",
+            "2066177510271074745",
+            "2066177510271074745",
+            "2066177510271074745"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2066604357307736362",
+        "created_at": "2026-06-15T19:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T20:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066604357307736362"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "dateidea"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2057160627941261312",
+              "start": 3,
+              "username": "bacteriaichigo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxAVY4sKLJ",
+              "end": 53,
+              "expanded_url": "https://x.com/bacteriaichigo/status/2066177510271074745/photo/1",
+              "media_key": "3_2066177502524157952",
+              "start": 30,
+              "url": "https://t.co/bxAVY4sKLJ"
+            },
+            {
+              "display_url": "pic.x.com/bxAVY4sKLJ",
+              "end": 53,
+              "expanded_url": "https://x.com/bacteriaichigo/status/2066177510271074745/photo/1",
+              "media_key": "3_2066177502528360448",
+              "start": 30,
+              "url": "https://t.co/bxAVY4sKLJ"
+            },
+            {
+              "display_url": "pic.x.com/bxAVY4sKLJ",
+              "end": 53,
+              "expanded_url": "https://x.com/bacteriaichigo/status/2066177510271074745/photo/1",
+              "media_key": "3_2066177502582890496",
+              "start": 30,
+              "url": "https://t.co/bxAVY4sKLJ"
+            },
+            {
+              "display_url": "pic.x.com/bxAVY4sKLJ",
+              "end": 53,
+              "expanded_url": "https://x.com/bacteriaichigo/status/2066177510271074745/photo/1",
+              "media_key": "3_2066177502587088896",
+              "start": 30,
+              "url": "https://t.co/bxAVY4sKLJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066604357307736362",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 461
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066177510271074745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bacteriaichigo: #dateidea https://t.co/bxAVY4sKLJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066177502524157952",
+            "3_2066177502528360448",
+            "3_2066177502582890496",
+            "3_2066177502587088896"
+          ]
+        },
+        "author_id": "2057160627941261312",
+        "conversation_id": "2066177510271074745",
+        "created_at": "2026-06-14T15:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066177510271074745"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "dateidea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxAVY4sKLJ",
+              "end": 33,
+              "expanded_url": "https://x.com/bacteriaichigo/status/2066177510271074745/photo/1",
+              "media_key": "3_2066177502524157952",
+              "start": 10,
+              "url": "https://t.co/bxAVY4sKLJ"
+            },
+            {
+              "display_url": "pic.x.com/bxAVY4sKLJ",
+              "end": 33,
+              "expanded_url": "https://x.com/bacteriaichigo/status/2066177510271074745/photo/1",
+              "media_key": "3_2066177502528360448",
+              "start": 10,
+              "url": "https://t.co/bxAVY4sKLJ"
+            },
+            {
+              "display_url": "pic.x.com/bxAVY4sKLJ",
+              "end": 33,
+              "expanded_url": "https://x.com/bacteriaichigo/status/2066177510271074745/photo/1",
+              "media_key": "3_2066177502582890496",
+              "start": 10,
+              "url": "https://t.co/bxAVY4sKLJ"
+            },
+            {
+              "display_url": "pic.x.com/bxAVY4sKLJ",
+              "end": 33,
+              "expanded_url": "https://x.com/bacteriaichigo/status/2066177510271074745/photo/1",
+              "media_key": "3_2066177502587088896",
+              "start": 10,
+              "url": "https://t.co/bxAVY4sKLJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066177510271074745",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 315,
+          "impression_count": 41598,
+          "like_count": 2868,
+          "quote_count": 18,
+          "reply_count": 5,
+          "retweet_count": 461
+        },
+        "reply_settings": "everyone",
+        "text": "#dateidea https://t.co/bxAVY4sKLJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖化 學 極 樂‖支畜別他媽來惡心我了‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2064040950851404219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 341,
+          "like_count": 13841,
+          "listed_count": 1,
+          "media_count": 605,
+          "tweet_count": 3672
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T18:05:44.000Z",
+        "description": "하수구의끝에서나를증명해줘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/aoixmi?igsh=NG…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/aoixmi?igsh=NGNnZ3FheHp5OW9l",
+                "start": 0,
+                "url": "https://t.co/gjyCGx4UgG"
+              }
+            ]
+          }
+        },
+        "id": "2057160627941261312",
+        "name": "병균1호",
+        "pinned_tweet_id": "2064643062064935021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057161005646643200/mbs1ZdLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 99,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 55
+        },
+        "url": "https://t.co/gjyCGx4UgG",
+        "username": "bacteriaichigo",
+        "verified": false
+      }
+    ]
+  }
+}

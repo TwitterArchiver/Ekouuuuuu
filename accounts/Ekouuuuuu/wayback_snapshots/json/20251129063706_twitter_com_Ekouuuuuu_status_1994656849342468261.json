@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994608068416737284"
+      ],
+      "media_source_tweet_id": [
+        "1994608074532032643"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "1994656849342468261",
+    "created_at": "2025-11-29T06:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T07:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994656849342468261"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "ナギちゃん",
+          "probability": 0.8003,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1488296794857799681",
+          "start": 3,
+          "username": "nashipple1_sub"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EX2X3ptdJ9",
+          "end": 52,
+          "expanded_url": "https://x.com/nashipple1_sub/status/1994608074532032643/photo/1",
+          "media_key": "3_1994608068416737284",
+          "start": 29,
+          "url": "https://t.co/EX2X3ptdJ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994656849342468261",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 546
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994608074532032643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nashipple1_sub: ナギちゃんさぁ… https://t.co/EX2X3ptdJ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994608068416737284",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65FeGgbkAQN5Wi.jpg",
+        "width": 1410
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994608068416737284"
+          ],
+          "media_source_tweet_id": [
+            "1994608074532032643"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1994656849342468261",
+        "created_at": "2025-11-29T06:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994656849342468261"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "ナギちゃん",
+              "probability": 0.8003,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1488296794857799681",
+              "start": 3,
+              "username": "nashipple1_sub"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EX2X3ptdJ9",
+              "end": 52,
+              "expanded_url": "https://x.com/nashipple1_sub/status/1994608074532032643/photo/1",
+              "media_key": "3_1994608068416737284",
+              "start": 29,
+              "url": "https://t.co/EX2X3ptdJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994656849342468261",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 546
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994608074532032643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nashipple1_sub: ナギちゃんさぁ… https://t.co/EX2X3ptdJ9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994608068416737284"
+          ]
+        },
+        "author_id": "1488296794857799681",
+        "conversation_id": "1994608074532032643",
+        "created_at": "2025-11-29T03:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T04:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994608074532032643"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "ナギちゃん",
+              "probability": 0.8159,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EX2X3ptdJ9",
+              "end": 32,
+              "expanded_url": "https://x.com/nashipple1_sub/status/1994608074532032643/photo/1",
+              "media_key": "3_1994608068416737284",
+              "start": 9,
+              "url": "https://t.co/EX2X3ptdJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994608074532032643",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 418,
+          "impression_count": 47007,
+          "like_count": 4510,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 546
+        },
+        "reply_settings": "everyone",
+        "text": "ナギちゃんさぁ… https://t.co/EX2X3ptdJ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 107,
+          "like_count": 2963,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 281
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T23:43:24.000Z",
+        "description": "@nashipple1のサブ垢です！イラストの練習等をこちらにあげる予定です / pixiv→ https://t.co/lAXau9UH6Q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "nashipple1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/75956699",
+                "end": 71,
+                "expanded_url": "http://pixiv.net/users/75956699",
+                "start": 48,
+                "url": "https://t.co/lAXau9UH6Q"
+              }
+            ]
+          }
+        },
+        "id": "1488296794857799681",
+        "name": "洋なし🍐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947297362835079168/QYKZ7tJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9536,
+          "following_count": 146,
+          "like_count": 1572,
+          "listed_count": 63,
+          "media_count": 82,
+          "tweet_count": 431
+        },
+        "username": "nashipple1_sub",
+        "verified": false
+      }
+    ]
+  }
+}

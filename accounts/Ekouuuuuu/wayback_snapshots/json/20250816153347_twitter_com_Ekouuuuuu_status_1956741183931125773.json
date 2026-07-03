@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1956741183931125773",
+    "created_at": "2025-08-16T15:33:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T16:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956741183931125773"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1956741183931125773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天od了半隻北京烤鴨，我現在撐懵了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1956741183931125773",
+        "created_at": "2025-08-16T15:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956741183931125773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956741183931125773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天od了半隻北京烤鴨，我現在撐懵了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "愛 是文學作品撒下的彌天大謊",
+        "id": "1912063502782812160",
+        "name": "^白菜^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937599411460403200/XrYwRLKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 48,
+          "like_count": 1408,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 225
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

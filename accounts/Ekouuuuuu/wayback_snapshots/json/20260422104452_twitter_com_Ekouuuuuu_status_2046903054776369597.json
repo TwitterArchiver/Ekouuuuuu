@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2046809077507121545",
+    "created_at": "2026-04-22T10:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T11:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046903054776369597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2045548042083049472",
+          "start": 0,
+          "username": "Yruzps"
+        },
+        {
+          "end": 24,
+          "id": "1798973564269318144",
+          "start": 8,
+          "username": "BrandiJens12162"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046903054776369597",
+    "in_reply_to_user_id": "2045548042083049472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046885880644898868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yruzps @BrandiJens12162 你是習近平生的嗎😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2046809077507121545",
+        "created_at": "2026-04-22T10:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046903054776369597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2045548042083049472",
+              "start": 0,
+              "username": "Yruzps"
+            },
+            {
+              "end": 24,
+              "id": "1798973564269318144",
+              "start": 8,
+              "username": "BrandiJens12162"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046903054776369597",
+        "in_reply_to_user_id": "2045548042083049472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046885880644898868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yruzps @BrandiJens12162 你是習近平生的嗎😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045548042083049472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2046809077507121545",
+        "created_at": "2026-04-22T09:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046885880644898868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1798973564269318144",
+              "start": 0,
+              "username": "BrandiJens12162"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046885880644898868",
+        "in_reply_to_user_id": "1798973564269318144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046809077507121545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrandiJens12162 操你妈没有习近平你妈逼早就死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "Don't you let me go‖20/4/2026 pregabalin 事變永遠懷念‖1/7/2024 DXM事變永遠懷念‖男友@Shiroko_Li‖叫我白菜就好‖三民主義‖🚪2778收錢我就跑路‖查主頁成分我會回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2045267383476945131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 272,
+          "like_count": 11159,
+          "listed_count": 1,
+          "media_count": 458,
+          "tweet_count": 2767
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T17:01:16.000Z",
+        "description": "🚪52",
+        "id": "2045548042083049472",
+        "name": "小奶酱.",
+        "pinned_tweet_id": "2045705913206784353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045591859364614144/InEHxtEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 11
+        },
+        "username": "Yruzps",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T07:01:57.000Z",
+        "description": "= 小媛 \nod/自伤/负能\n同类互fo大欢迎\n我没回fo可能是没看见 可以私信",
+        "id": "1798973564269318144",
+        "location": "🚪52 🚪66",
+        "name": "媛媛命",
+        "pinned_tweet_id": "2046882438744506678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046521830429855744/FEmJ-joY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 61,
+          "like_count": 474,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 393
+        },
+        "username": "BrandiJens12162",
+        "verified": false
+      }
+    ]
+  }
+}

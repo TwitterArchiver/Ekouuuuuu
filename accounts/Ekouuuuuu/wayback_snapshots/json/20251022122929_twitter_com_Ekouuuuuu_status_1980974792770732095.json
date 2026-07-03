@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1979442052531392617",
+    "created_at": "2025-10-22T12:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T13:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980974792770732095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1683650275406651392",
+          "start": 0,
+          "username": "yaoliwei465512"
+        },
+        {
+          "end": 24,
+          "id": "592326946",
+          "start": 16,
+          "username": "paooo79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980974792770732095",
+    "in_reply_to_user_id": "1683650275406651392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979505388606382504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaoliwei465512 @paooo79 支蛆滾回抖音愛國去😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1979442052531392617",
+        "created_at": "2025-10-22T12:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T13:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980974792770732095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1683650275406651392",
+              "start": 0,
+              "username": "yaoliwei465512"
+            },
+            {
+              "end": 24,
+              "id": "592326946",
+              "start": 16,
+              "username": "paooo79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980974792770732095",
+        "in_reply_to_user_id": "1683650275406651392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979505388606382504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaoliwei465512 @paooo79 支蛆滾回抖音愛國去😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683650275406651392",
+        "conversation_id": "1979442052531392617",
+        "created_at": "2025-10-18T11:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T12:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979505388606382504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "592326946",
+              "start": 0,
+              "username": "paooo79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979505388606382504",
+        "in_reply_to_user_id": "592326946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2537,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979503337344245943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paooo79 南支日杂儿余孽啥都不看都能摩擦🤡🤡🤡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "還要多久 我才能在你身邊",
+        "id": "1912063502782812160",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979464074787246080/49ypr-ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 35,
+          "like_count": 2237,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 351
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-25T01:28:08.000Z",
+        "description": "怼公知反贼大殖子！YouTube@老姚不造谣",
+        "id": "1683650275406651392",
+        "name": "老姚不造谣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909935107248676864/xisu1fcB_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 163,
+          "like_count": 7,
+          "listed_count": 8,
+          "media_count": 467,
+          "tweet_count": 2401
+        },
+        "username": "yaoliwei465512",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-28T02:10:26.000Z",
+        "description": "生、台灣人，死、台灣魂",
+        "id": "592326946",
+        "location": "Taiwan",
+        "name": "ponpon",
+        "pinned_tweet_id": "1349755395644919811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/660451397343686656/SRL114Mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20844,
+          "following_count": 1253,
+          "like_count": 67200,
+          "listed_count": 62,
+          "media_count": 12117,
+          "tweet_count": 25215
+        },
+        "username": "paooo79",
+        "verified": true
+      }
+    ]
+  }
+}

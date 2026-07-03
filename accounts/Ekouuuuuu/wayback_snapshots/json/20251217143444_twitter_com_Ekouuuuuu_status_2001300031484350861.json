@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001100634679074819"
+      ],
+      "media_source_tweet_id": [
+        "2001100663254868182"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2001300031484350861",
+    "created_at": "2025-12-17T14:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T15:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001300031484350861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2585157547",
+          "start": 3,
+          "username": "jeonghee1414"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yeZhgSz6Zm",
+          "end": 45,
+          "expanded_url": "https://x.com/jeonghee1414/status/2001100663254868182/photo/1",
+          "media_key": "3_2001100634679074819",
+          "start": 22,
+          "url": "https://t.co/yeZhgSz6Zm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001300031484350861",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6005
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001100663254868182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jeonghee1414: ホシノ https://t.co/yeZhgSz6Zm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1836,
+        "media_key": "3_2001100634679074819",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8VWbMna4AM1r-f.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001100634679074819"
+          ],
+          "media_source_tweet_id": [
+            "2001100663254868182"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2001300031484350861",
+        "created_at": "2025-12-17T14:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T15:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001300031484350861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2585157547",
+              "start": 3,
+              "username": "jeonghee1414"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yeZhgSz6Zm",
+              "end": 45,
+              "expanded_url": "https://x.com/jeonghee1414/status/2001100663254868182/photo/1",
+              "media_key": "3_2001100634679074819",
+              "start": 22,
+              "url": "https://t.co/yeZhgSz6Zm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001300031484350861",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6005
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001100663254868182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jeonghee1414: ホシノ https://t.co/yeZhgSz6Zm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001100634679074819"
+          ]
+        },
+        "author_id": "2585157547",
+        "conversation_id": "2001100663254868182",
+        "created_at": "2025-12-17T01:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T02:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001100663254868182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yeZhgSz6Zm",
+              "end": 27,
+              "expanded_url": "https://x.com/jeonghee1414/status/2001100663254868182/photo/1",
+              "media_key": "3_2001100634679074819",
+              "start": 4,
+              "url": "https://t.co/yeZhgSz6Zm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001100663254868182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5241,
+          "impression_count": 485276,
+          "like_count": 50739,
+          "quote_count": 56,
+          "reply_count": 65,
+          "retweet_count": 6005
+        },
+        "reply_settings": "everyone",
+        "text": "ホシノ https://t.co/yeZhgSz6Zm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 181,
+          "like_count": 4376,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 641
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-24T05:12:17.000Z",
+        "description": "もだれ\nContact)jeonghee1414@naver.com\nBrodcast)https://t.co/ZDJSem9VIz\ncoloso)https://t.co/qm73auCZo4\nFANBOX)https://t.co/YVJwU2C25e",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/mogoon14",
+                "end": 67,
+                "expanded_url": "http://twitch.tv/mogoon14",
+                "start": 44,
+                "url": "https://t.co/ZDJSem9VIz"
+              },
+              {
+                "display_url": "bit.ly/2SaxvnW",
+                "end": 98,
+                "expanded_url": "http://bit.ly/2SaxvnW",
+                "start": 75,
+                "url": "https://t.co/qm73auCZo4"
+              },
+              {
+                "display_url": "fanbox.cc/@modare",
+                "end": 129,
+                "expanded_url": "http://fanbox.cc/@modare",
+                "start": 106,
+                "url": "https://t.co/YVJwU2C25e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=1878082",
+                "start": 0,
+                "url": "https://t.co/rTZhopt0yp"
+              }
+            ]
+          }
+        },
+        "id": "2585157547",
+        "name": "モ誰",
+        "pinned_tweet_id": "1821017613847474642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1443136156535648260/xWiV8tj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328568,
+          "following_count": 970,
+          "like_count": 10977,
+          "listed_count": 10794,
+          "media_count": 847,
+          "tweet_count": 12349
+        },
+        "url": "https://t.co/rTZhopt0yp",
+        "username": "jeonghee1414",
+        "verified": true
+      }
+    ]
+  }
+}

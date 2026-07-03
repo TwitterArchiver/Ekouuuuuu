@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1909757695046861029",
+    "created_at": "2025-04-15T08:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T09:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912066199988416833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1693700595331289089",
+          "start": 0,
+          "username": "CryingEmojiman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912066199988416833",
+    "in_reply_to_user_id": "1693700595331289089",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909757695046861029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CryingEmojiman 灵感菇😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20700,
+        "height": 576,
+        "media_key": "13_1909757632384057344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1909757632384057344/img/DM-u0l6TMBSd0CIF.jpg",
+        "public_metrics": {
+          "view_count": 240351
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909757632384057344/vid/avc1/360x270/T77-OcztRPraDkMV.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909757632384057344/vid/avc1/480x360/mib5xtcNVd-6YYD8.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909757632384057344/vid/avc1/768x576/XcuBEnL6wGvKIkPB.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1909757632384057344/pl/QLzFirfXgc9GKrnS.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1909757695046861029",
+        "created_at": "2025-04-15T08:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T09:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912066199988416833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1693700595331289089",
+              "start": 0,
+              "username": "CryingEmojiman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912066199988416833",
+        "in_reply_to_user_id": "1693700595331289089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909757695046861029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CryingEmojiman 灵感菇😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1909757632384057344"
+          ]
+        },
+        "author_id": "1693700595331289089",
+        "conversation_id": "1909757695046861029",
+        "created_at": "2025-04-08T23:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T00:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909757695046861029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bdhKSD53J9",
+              "end": 23,
+              "expanded_url": "https://x.com/CryingEmojiman/status/1909757695046861029/video/1",
+              "media_key": "13_1909757632384057344",
+              "start": 0,
+              "url": "https://t.co/bdhKSD53J9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909757695046861029",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6730,
+          "impression_count": 538886,
+          "like_count": 36162,
+          "quote_count": 47,
+          "reply_count": 37,
+          "retweet_count": 4562
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bdhKSD53J9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "悲伤随着情绪的平仄逆流成河",
+        "id": "1912063502782812160",
+        "location": "Nara-ken, Japan",
+        "name": "Ekou白菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912063810430443520/vyJKkQeD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T19:05:20.000Z",
+        "description": "Submissions Open // alt @BadBAMemes",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "BadBAMemes"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@cryingemojima…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@cryingemojiman?si=YRHKkc8WlDNirSSQ",
+                "start": 0,
+                "url": "https://t.co/43YJWX9X7S"
+              }
+            ]
+          }
+        },
+        "id": "1693700595331289089",
+        "location": "🚸🪥",
+        "name": "Bad Blue Archive Memes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882540471253184512/bVUtfQLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98896,
+          "following_count": 925,
+          "like_count": 79634,
+          "listed_count": 163,
+          "media_count": 9566,
+          "tweet_count": 18551
+        },
+        "url": "https://t.co/43YJWX9X7S",
+        "username": "CryingEmojiman",
+        "verified": true
+      }
+    ]
+  }
+}

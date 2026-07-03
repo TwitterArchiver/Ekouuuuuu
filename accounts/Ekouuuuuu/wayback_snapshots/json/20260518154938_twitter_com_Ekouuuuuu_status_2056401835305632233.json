@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055989209174061057",
+        "3_2055989209169829888"
+      ],
+      "media_source_tweet_id": [
+        "2055989214739931211",
+        "2055989214739931211"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2056401835305632233",
+    "created_at": "2026-05-18T15:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056401835305632233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1812096623394299904",
+          "start": 3,
+          "username": "CW_kochi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d3qwRctg3u",
+          "end": 56,
+          "expanded_url": "https://x.com/CW_kochi/status/2055989214739931211/photo/1",
+          "media_key": "3_2055989209174061057",
+          "start": 33,
+          "url": "https://t.co/d3qwRctg3u"
+        },
+        {
+          "display_url": "pic.x.com/d3qwRctg3u",
+          "end": 56,
+          "expanded_url": "https://x.com/CW_kochi/status/2055989214739931211/photo/1",
+          "media_key": "3_2055989209169829888",
+          "start": 33,
+          "url": "https://t.co/d3qwRctg3u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056401835305632233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055989214739931211",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CW_kochi: 5年前から酒癖変わってないの悔しすぎ https://t.co/d3qwRctg3u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1195,
+        "media_key": "3_2055989209174061057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhXSurbMAEThQS.jpg",
+        "width": 896
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2055989209169829888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhXSuqaoAA_V0Y.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055989209174061057",
+            "3_2055989209169829888"
+          ],
+          "media_source_tweet_id": [
+            "2055989214739931211",
+            "2055989214739931211"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2056401835305632233",
+        "created_at": "2026-05-18T15:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056401835305632233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1812096623394299904",
+              "start": 3,
+              "username": "CW_kochi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3qwRctg3u",
+              "end": 56,
+              "expanded_url": "https://x.com/CW_kochi/status/2055989214739931211/photo/1",
+              "media_key": "3_2055989209174061057",
+              "start": 33,
+              "url": "https://t.co/d3qwRctg3u"
+            },
+            {
+              "display_url": "pic.x.com/d3qwRctg3u",
+              "end": 56,
+              "expanded_url": "https://x.com/CW_kochi/status/2055989214739931211/photo/1",
+              "media_key": "3_2055989209169829888",
+              "start": 33,
+              "url": "https://t.co/d3qwRctg3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056401835305632233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055989214739931211",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CW_kochi: 5年前から酒癖変わってないの悔しすぎ https://t.co/d3qwRctg3u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055989209174061057",
+            "3_2055989209169829888"
+          ]
+        },
+        "author_id": "1812096623394299904",
+        "conversation_id": "2055989214739931211",
+        "created_at": "2026-05-17T12:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055989214739931211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3qwRctg3u",
+              "end": 42,
+              "expanded_url": "https://x.com/CW_kochi/status/2055989214739931211/photo/1",
+              "media_key": "3_2055989209174061057",
+              "start": 19,
+              "url": "https://t.co/d3qwRctg3u"
+            },
+            {
+              "display_url": "pic.x.com/d3qwRctg3u",
+              "end": 42,
+              "expanded_url": "https://x.com/CW_kochi/status/2055989214739931211/photo/1",
+              "media_key": "3_2055989209169829888",
+              "start": 19,
+              "url": "https://t.co/d3qwRctg3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055989214739931211",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 82598,
+          "like_count": 2498,
+          "quote_count": 7,
+          "reply_count": 8,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "5年前から酒癖変わってないの悔しすぎ https://t.co/d3qwRctg3u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "她說她停不下這瘋狂‖閨蜜@seeFvn‖老公@Shiroko_Li‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 12,
+                "username": "seeFvn"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2054494874192195972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 303,
+          "like_count": 12882,
+          "listed_count": 1,
+          "media_count": 526,
+          "tweet_count": 3230
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T12:08:08.000Z",
+        "description": "@cafe_SugarHound のぷろでゅーさー",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "cafe_SugarHound"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "daburea.base.shop",
+                "end": 23,
+                "expanded_url": "https://daburea.base.shop/",
+                "start": 0,
+                "url": "https://t.co/ta976yJoPA"
+              }
+            ]
+          }
+        },
+        "id": "1812096623394299904",
+        "location": "一生忘れないで",
+        "name": "犬塚こち",
+        "pinned_tweet_id": "2049097896356876354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052352442625634304/J6bwam9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 52,
+          "like_count": 6925,
+          "listed_count": 8,
+          "media_count": 359,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/ta976yJoPA",
+        "username": "CW_kochi",
+        "verified": false
+      }
+    ]
+  }
+}

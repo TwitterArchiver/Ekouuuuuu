@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999768652917493761",
+    "created_at": "2025-12-13T15:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T16:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999866583586677072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1954552273138565120",
+          "start": 0,
+          "username": "tk331612479"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999866583586677072",
+    "in_reply_to_user_id": "1954552273138565120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999861483208151125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tk331612479 鬧麻了 罵你你也不樂意 不罵也不樂意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999768652917493761",
+        "created_at": "2025-12-13T15:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999866583586677072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1954552273138565120",
+              "start": 0,
+              "username": "tk331612479"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999866583586677072",
+        "in_reply_to_user_id": "1954552273138565120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999861483208151125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tk331612479 鬧麻了 罵你你也不樂意 不罵也不樂意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954552273138565120",
+        "conversation_id": "1999768652917493761",
+        "created_at": "2025-12-13T15:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999861483208151125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999861483208151125",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999860562742878543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu 哈哈哈😂笑死人了，那你真是无趣🙄骂你都不知道还嘴，哈哈哈，就你长那样，回家洗洗睡吧哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了ww‖極樂‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 145,
+          "like_count": 3578,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 365
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T14:36:03.000Z",
+        "description": "Long live communism!",
+        "id": "1954552273138565120",
+        "location": "New York, USA",
+        "name": "tk33",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954552425567662081/OH3Znv6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 483,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 157
+        },
+        "username": "tk331612479",
+        "verified": false
+      }
+    ]
+  }
+}

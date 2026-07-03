@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999509557186625841",
+    "created_at": "2025-12-13T04:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T05:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999691375345041526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998874599304605700",
+          "start": 0,
+          "username": "xiaojingwa99884"
+        },
+        {
+          "end": 27,
+          "id": "1999506230147260417",
+          "start": 17,
+          "username": "gaole1021"
+        },
+        {
+          "end": 42,
+          "id": "1840929391494287361",
+          "start": 28,
+          "username": "HJacquelineRR"
+        },
+        {
+          "end": 53,
+          "id": "1997946138083926016",
+          "start": 43,
+          "username": "MND_China"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999691375345041526",
+    "in_reply_to_user_id": "1998874599304605700",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999528630314062013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaojingwa99884 @gaole1021 @HJacquelineRR @MND_China 蠢得像串子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999509557186625841",
+        "created_at": "2025-12-13T04:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T05:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999691375345041526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998874599304605700",
+              "start": 0,
+              "username": "xiaojingwa99884"
+            },
+            {
+              "end": 27,
+              "id": "1999506230147260417",
+              "start": 17,
+              "username": "gaole1021"
+            },
+            {
+              "end": 42,
+              "id": "1840929391494287361",
+              "start": 28,
+              "username": "HJacquelineRR"
+            },
+            {
+              "end": 53,
+              "id": "1997946138083926016",
+              "start": 43,
+              "username": "MND_China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999691375345041526",
+        "in_reply_to_user_id": "1998874599304605700",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999528630314062013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojingwa99884 @gaole1021 @HJacquelineRR @MND_China 蠢得像串子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998874599304605700",
+        "conversation_id": "1999509557186625841",
+        "created_at": "2025-12-12T17:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T18:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999528630314062013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1999506230147260417",
+              "start": 0,
+              "username": "gaole1021"
+            },
+            {
+              "end": 25,
+              "id": "1840929391494287361",
+              "start": 11,
+              "username": "HJacquelineRR"
+            },
+            {
+              "end": 36,
+              "id": "1997946138083926016",
+              "start": 26,
+              "username": "MND_China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999528630314062013",
+        "in_reply_to_user_id": "1999506230147260417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999513978884542957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaole1021 @HJacquelineRR @MND_China 为了国家强大， 我们愿意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999520374074024441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 134,
+          "like_count": 3446,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 212
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T21:57:17.000Z",
+        "description": "",
+        "id": "1998874599304605700",
+        "name": "两岸一家亲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998874688181993472/k36qQ3cC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "username": "xiaojingwa99884",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:46:58.000Z",
+        "description": "",
+        "id": "1999506230147260417",
+        "name": "幽默大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999506385353216000/GRdHoPzN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "gaole1021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T01:39:24.000Z",
+        "description": "",
+        "id": "1840929391494287361",
+        "name": "Hong Jacqueline",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840929479209730050/sMnas74u_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "HJacquelineRR",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T08:27:55.000Z",
+        "description": "Follow us to know about China's national defense in the new era.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "eng.mod.gov.cn",
+                "end": 23,
+                "expanded_url": "http://eng.mod.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/CWpY8zE0AC"
+              }
+            ]
+          }
+        },
+        "id": "1997946138083926016",
+        "location": "Beijing, China",
+        "name": "Ministry of National Defense of China",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997946300550217728/w3JcRFTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320694,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 136,
+          "media_count": 7,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/CWpY8zE0AC",
+        "username": "MND_China",
+        "verified": true
+      }
+    ]
+  }
+}

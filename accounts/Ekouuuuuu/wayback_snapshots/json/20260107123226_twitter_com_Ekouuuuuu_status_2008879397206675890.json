@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2008787671460835753",
+    "created_at": "2026-01-07T12:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T13:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008879397206675890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641968587102621696",
+          "start": 0,
+          "username": "0voki33Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008879397206675890",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008849442791956871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0voki33Me 嗚嗚X﹏X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2008787671460835753",
+        "created_at": "2026-01-07T12:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T13:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008879397206675890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008879397206675890",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008849442791956871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 嗚嗚X﹏X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2008787671460835753",
+        "created_at": "2026-01-07T10:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T11:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008849442791956871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008849442791956871",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008787671460835753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu 宝宝摸摸🫳🫳🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了w‖生理性別女‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 90,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 67,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2006059996145148295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 195,
+          "like_count": 5726,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 976
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事///🚪52过了什么福利也没有只能看到我更多无聊的日常///骂我默认全家死光",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 748,
+          "like_count": 3011,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1360
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001447924757389312"
+      ],
+      "media_source_tweet_id": [
+        "2001447935930986888"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2001567008220201137",
+    "created_at": "2025-12-18T08:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T09:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001567008220201137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2585157547",
+          "start": 3,
+          "username": "jeonghee1414"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dU7YUKxPRW",
+          "end": 49,
+          "expanded_url": "https://x.com/jeonghee1414/status/2001447935930986888/photo/1",
+          "media_key": "3_2001447924757389312",
+          "start": 26,
+          "url": "https://t.co/dU7YUKxPRW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001567008220201137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4042
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001447935930986888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jeonghee1414: シロコ*テラー https://t.co/dU7YUKxPRW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1833,
+        "media_key": "3_2001447924757389312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8aSSI-bYAA0gSo.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001447924757389312"
+          ],
+          "media_source_tweet_id": [
+            "2001447935930986888"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2001567008220201137",
+        "created_at": "2025-12-18T08:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T09:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001567008220201137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2585157547",
+              "start": 3,
+              "username": "jeonghee1414"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dU7YUKxPRW",
+              "end": 49,
+              "expanded_url": "https://x.com/jeonghee1414/status/2001447935930986888/photo/1",
+              "media_key": "3_2001447924757389312",
+              "start": 26,
+              "url": "https://t.co/dU7YUKxPRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001567008220201137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4042
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001447935930986888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jeonghee1414: シロコ*テラー https://t.co/dU7YUKxPRW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001447924757389312"
+          ]
+        },
+        "author_id": "2585157547",
+        "conversation_id": "2001447935930986888",
+        "created_at": "2025-12-18T00:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T01:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001447935930986888"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "シロコ*テラー",
+              "probability": 0.1714,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dU7YUKxPRW",
+              "end": 31,
+              "expanded_url": "https://x.com/jeonghee1414/status/2001447935930986888/photo/1",
+              "media_key": "3_2001447924757389312",
+              "start": 8,
+              "url": "https://t.co/dU7YUKxPRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001447935930986888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4010,
+          "impression_count": 296106,
+          "like_count": 34710,
+          "quote_count": 31,
+          "reply_count": 41,
+          "retweet_count": 4042
+        },
+        "reply_settings": "everyone",
+        "text": "シロコ*テラー https://t.co/dU7YUKxPRW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 184,
+          "like_count": 4684,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 702
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-24T05:12:17.000Z",
+        "description": "もだれ\nContact)jeonghee1414@naver.com\nBrodcast)https://t.co/ZDJSem9nT1\ncoloso)https://t.co/qm73auCryw\nFANBOX)https://t.co/YVJwU2BufG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/mogoon14",
+                "end": 67,
+                "expanded_url": "http://twitch.tv/mogoon14",
+                "start": 44,
+                "url": "https://t.co/ZDJSem9nT1"
+              },
+              {
+                "display_url": "bit.ly/2SaxvnW",
+                "end": 98,
+                "expanded_url": "http://bit.ly/2SaxvnW",
+                "start": 75,
+                "url": "https://t.co/qm73auCryw"
+              },
+              {
+                "display_url": "fanbox.cc/@modare",
+                "end": 129,
+                "expanded_url": "http://fanbox.cc/@modare",
+                "start": 106,
+                "url": "https://t.co/YVJwU2BufG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=1878082",
+                "start": 0,
+                "url": "https://t.co/rTZhopssIR"
+              }
+            ]
+          }
+        },
+        "id": "2585157547",
+        "name": "モ誰@C107火曜日/ア-48ab",
+        "pinned_tweet_id": "1821017613847474642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1443136156535648260/xWiV8tj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329760,
+          "following_count": 970,
+          "like_count": 10977,
+          "listed_count": 10796,
+          "media_count": 848,
+          "tweet_count": 12350
+        },
+        "url": "https://t.co/rTZhopssIR",
+        "username": "jeonghee1414",
+        "verified": true
+      }
+    ]
+  }
+}

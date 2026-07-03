@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1999664885400240463",
+    "created_at": "2025-12-13T07:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T08:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999743333204402674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1607231228142571521",
+          "start": 0,
+          "username": "Snofy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999743333204402674",
+    "in_reply_to_user_id": "1607231228142571521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999664885400240463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snofy8 最も愚かな中国人～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999664873949786112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8A8m7GacAArCFM.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999664885400240463",
+        "created_at": "2025-12-13T07:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T08:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999743333204402674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1607231228142571521",
+              "start": 0,
+              "username": "Snofy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999743333204402674",
+        "in_reply_to_user_id": "1607231228142571521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999664885400240463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snofy8 最も愚かな中国人～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999664873949786112"
+          ]
+        },
+        "author_id": "1607231228142571521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity for Memorial day for all years",
+              "id": "1240941899902357510",
+              "name": "Memorial Day "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity for Memorial day for all years",
+              "id": "1240941899902357510",
+              "name": "Memorial Day "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1999664885400240463",
+        "created_at": "2025-12-13T02:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T03:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999664885400240463"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 102,
+              "tag": "Nanjing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AC4qbSOmJn",
+              "end": 134,
+              "expanded_url": "https://x.com/Snofy8/status/1999664885400240463/photo/1",
+              "media_key": "3_1999664873949786112",
+              "start": 111,
+              "url": "https://t.co/AC4qbSOmJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999664885400240463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6129,
+          "like_count": 305,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "南京大屠杀88周年了，我们不能忘，因为凶手还在逍遥法外！\n\nLest We Forget!  The National Memorial Day for Nanjing Massacre Victims #Nanjing https://t.co/AC4qbSOmJn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖養病中……‖🇯🇵🤝🇹🇼‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999520374074024441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 136,
+          "like_count": 3460,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 265
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T04:26:10.000Z",
+        "description": "一名普通的中国人，生生被无脑、无品、无德的反贼、殖人、1450逼成了小粉红，深爱中国，希冀与中华民族一起实现伟大复兴。\nAn ordinary Chinese. Love China deeply and hope to achieve great rejuvenation with  China.",
+        "id": "1607231228142571521",
+        "name": "豫章信使",
+        "pinned_tweet_id": "1998997866799595982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607231424888999938/1b6VOmLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75459,
+          "following_count": 22542,
+          "like_count": 124239,
+          "listed_count": 385,
+          "media_count": 14400,
+          "tweet_count": 42410
+        },
+        "username": "Snofy8",
+        "verified": true
+      }
+    ]
+  }
+}

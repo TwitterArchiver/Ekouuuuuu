@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029679794972168193"
+      ],
+      "media_source_tweet_id": [
+        "2029679808062554583"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2029913974314258624",
+    "created_at": "2026-03-06T13:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T14:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029913974314258624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804798191940124673",
+          "start": 3,
+          "username": "Rin1732996"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DFX7opO29O",
+          "end": 59,
+          "expanded_url": "https://x.com/Rin1732996/status/2029679808062554583/photo/1",
+          "media_key": "3_2029679794972168193",
+          "start": 36,
+          "url": "https://t.co/DFX7opO29O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029913974314258624",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 307
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029679808062554583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rin1732996: ｢Usage and dosage.｣ https://t.co/DFX7opO29O"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "AI Illust",
+        "height": 2464,
+        "media_key": "3_2029679794972168193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCrfBRMakAEe5fN.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029679794972168193"
+          ],
+          "media_source_tweet_id": [
+            "2029679808062554583"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2029913974314258624",
+        "created_at": "2026-03-06T13:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T14:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029913974314258624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1804798191940124673",
+              "start": 3,
+              "username": "Rin1732996"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFX7opO29O",
+              "end": 59,
+              "expanded_url": "https://x.com/Rin1732996/status/2029679808062554583/photo/1",
+              "media_key": "3_2029679794972168193",
+              "start": 36,
+              "url": "https://t.co/DFX7opO29O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029913974314258624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 307
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029679808062554583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rin1732996: ｢Usage and dosage.｣ https://t.co/DFX7opO29O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029679794972168193"
+          ]
+        },
+        "author_id": "1804798191940124673",
+        "conversation_id": "2029679808062554583",
+        "created_at": "2026-03-05T22:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T23:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029679808062554583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFX7opO29O",
+              "end": 43,
+              "expanded_url": "https://x.com/Rin1732996/status/2029679808062554583/photo/1",
+              "media_key": "3_2029679794972168193",
+              "start": 20,
+              "url": "https://t.co/DFX7opO29O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029679808062554583",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 275,
+          "impression_count": 26728,
+          "like_count": 3417,
+          "quote_count": 10,
+          "reply_count": 3,
+          "retweet_count": 307
+        },
+        "reply_settings": "everyone",
+        "text": "｢Usage and dosage.｣ https://t.co/DFX7opO29O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 246,
+          "like_count": 9161,
+          "listed_count": 1,
+          "media_count": 378,
+          "tweet_count": 2336
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T08:47:01.000Z",
+        "description": "趣味でAIイラストを載せてるただの病み散らかしてる人。│H▶八朔さん  @tiksca2299 │弟子▶ふじ○さん  @fujimaru_niji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "tiksca2299"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "fujimaru_niji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/RinAiIllust",
+                "end": 23,
+                "expanded_url": "https://lit.link/RinAiIllust",
+                "start": 0,
+                "url": "https://t.co/RkWva4KWVT"
+              }
+            ]
+          }
+        },
+        "id": "1804798191940124673",
+        "location": "-143",
+        "name": "Rin_981",
+        "pinned_tweet_id": "2027324517325197749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027176610399657984/Ha8W8WFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60868,
+          "following_count": 296,
+          "like_count": 115784,
+          "listed_count": 220,
+          "media_count": 3591,
+          "tweet_count": 37551
+        },
+        "url": "https://t.co/RkWva4KWVT",
+        "username": "Rin1732996",
+        "verified": true
+      }
+    ]
+  }
+}

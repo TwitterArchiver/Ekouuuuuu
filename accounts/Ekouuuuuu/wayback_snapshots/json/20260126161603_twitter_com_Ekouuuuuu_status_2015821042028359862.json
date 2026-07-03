@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015473236457439232"
+      ],
+      "media_source_tweet_id": [
+        "2015473239095714202"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2015821042028359862",
+    "created_at": "2026-01-26T16:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T17:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015821042028359862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1875115728166342656",
+          "start": 3,
+          "username": "3253212MCZ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FXDgF3lGWT",
+          "end": 58,
+          "expanded_url": "https://x.com/3253212MCZ/status/2015473239095714202/photo/1",
+          "media_key": "3_2015473236457439232",
+          "start": 35,
+          "url": "https://t.co/FXDgF3lGWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015821042028359862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015473239095714202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3253212MCZ: 谁听说过？我不到啊/ᐠ ｡‸ ｡ᐟ\\ https://t.co/FXDgF3lGWT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015473236457439232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hmOulaQAA4mui.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015473236457439232"
+          ],
+          "media_source_tweet_id": [
+            "2015473239095714202"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2015821042028359862",
+        "created_at": "2026-01-26T16:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T17:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015821042028359862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1875115728166342656",
+              "start": 3,
+              "username": "3253212MCZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FXDgF3lGWT",
+              "end": 58,
+              "expanded_url": "https://x.com/3253212MCZ/status/2015473239095714202/photo/1",
+              "media_key": "3_2015473236457439232",
+              "start": 35,
+              "url": "https://t.co/FXDgF3lGWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015821042028359862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015473239095714202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3253212MCZ: 谁听说过？我不到啊/ᐠ ｡‸ ｡ᐟ\\ https://t.co/FXDgF3lGWT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015473236457439232"
+          ]
+        },
+        "author_id": "1875115728166342656",
+        "conversation_id": "2015473239095714202",
+        "created_at": "2026-01-25T17:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015473239095714202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FXDgF3lGWT",
+              "end": 42,
+              "expanded_url": "https://x.com/3253212MCZ/status/2015473239095714202/photo/1",
+              "media_key": "3_2015473236457439232",
+              "start": 19,
+              "url": "https://t.co/FXDgF3lGWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015473239095714202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5085,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谁听说过？我不到啊/ᐠ ｡‸ ｡ᐟ\\ https://t.co/FXDgF3lGWT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "同一片天為何好久不見‖叫我白菜就好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 230,
+          "like_count": 7491,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 1595
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T09:43:34.000Z",
+        "description": "🐱INFJ | 🌧喜欢雨天发呆 | 🌿讨厌香菜！ | 178cm超大只 | ❤️‍🩹抑郁症自愈者 |🍬已断糖| MIKU重度依赖 |❤️最最最爱的公主大人@xiaogudu423「共享账号中～」 | 💌努力互fo |❤️‍🔥分享欲旺 |💞不定时安慰每个人 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "xiaogudu423"
+              }
+            ]
+          }
+        },
+        "id": "1875115728166342656",
+        "location": "在北京的雨天漫步中～",
+        "name": "零落孤潮＆雨泠🏳️‍⚧️",
+        "pinned_tweet_id": "1984571565917552657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012894202544214016/WVF-m8WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 1035,
+          "like_count": 5685,
+          "listed_count": 1,
+          "media_count": 280,
+          "tweet_count": 3924
+        },
+        "username": "3253212MCZ",
+        "verified": false
+      }
+    ]
+  }
+}

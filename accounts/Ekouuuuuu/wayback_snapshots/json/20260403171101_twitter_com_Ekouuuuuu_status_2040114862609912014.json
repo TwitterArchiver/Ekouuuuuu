@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040012749267456000"
+      ],
+      "media_source_tweet_id": [
+        "2040012755173061048"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2040114862609912014",
+    "created_at": "2026-04-03T17:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040114862609912014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1967755187633926145",
+          "start": 3,
+          "username": "junaida900"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tJ5qwpg0k2",
+          "end": 45,
+          "expanded_url": "https://x.com/junaida900/status/2040012755173061048/photo/1",
+          "media_key": "3_2040012749267456000",
+          "start": 22,
+          "url": "https://t.co/tJ5qwpg0k2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040114862609912014",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040012755173061048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @junaida900: 壊れてる？ https://t.co/tJ5qwpg0k2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_2040012749267456000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-UyXla0AA-YcK.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040012749267456000"
+          ],
+          "media_source_tweet_id": [
+            "2040012755173061048"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2040114862609912014",
+        "created_at": "2026-04-03T17:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040114862609912014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1967755187633926145",
+              "start": 3,
+              "username": "junaida900"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJ5qwpg0k2",
+              "end": 45,
+              "expanded_url": "https://x.com/junaida900/status/2040012755173061048/photo/1",
+              "media_key": "3_2040012749267456000",
+              "start": 22,
+              "url": "https://t.co/tJ5qwpg0k2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040114862609912014",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040012755173061048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @junaida900: 壊れてる？ https://t.co/tJ5qwpg0k2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040012749267456000"
+          ]
+        },
+        "author_id": "1967755187633926145",
+        "conversation_id": "2040012755173061048",
+        "created_at": "2026-04-03T10:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T11:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040012755173061048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJ5qwpg0k2",
+              "end": 29,
+              "expanded_url": "https://x.com/junaida900/status/2040012755173061048/photo/1",
+              "media_key": "3_2040012749267456000",
+              "start": 6,
+              "url": "https://t.co/tJ5qwpg0k2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040012755173061048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 2629,
+          "like_count": 326,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "壊れてる？ https://t.co/tJ5qwpg0k2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖男友@Shiroko_Li‖叫我白菜就好‖恆春最深情‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo‖陰暗逼od蛆互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七🇹🇼",
+        "pinned_tweet_id": "2035365735460180096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 261,
+          "like_count": 9802,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 2583
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T01:00:10.000Z",
+        "description": "MADサブ垢。暗い海の底で生きてる。引きこもっているだけなので期待には応えられません。転載コピーNG。AI + retouch + hand-drawn mixed style 本垢 @madox900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "madox900"
+              }
+            ]
+          }
+        },
+        "id": "1967755187633926145",
+        "name": "mad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021848492868820992/e2I3VPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5443,
+          "following_count": 103,
+          "like_count": 1074,
+          "listed_count": 20,
+          "media_count": 55,
+          "tweet_count": 700
+        },
+        "username": "junaida900",
+        "verified": false
+      }
+    ]
+  }
+}

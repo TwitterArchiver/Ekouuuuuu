@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1957943558285254941",
+    "created_at": "2025-08-19T23:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T00:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957943558285254941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1957314515693084749",
+          "start": 4,
+          "url": "https://t.co/KfV4w9iVar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957943558285254941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957314515693084749",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幽默了 https://t.co/KfV4w9iVar"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9209,
+        "height": 1280,
+        "media_key": "13_1957208250308255744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957208250308255744/img/H05WYATaljbAI7_y.jpg",
+        "public_metrics": {
+          "view_count": 99512
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957208250308255744/vid/avc1/320x568/nrxxCzN_8p51sZkj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957208250308255744/vid/avc1/480x852/bhc-4smQ-FNX1zd3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957208250308255744/vid/avc1/720x1280/povgcM60MGf6179a.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957208250308255744/pl/GmzyiiJh28lW60s_.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1957943558285254941",
+        "created_at": "2025-08-19T23:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T00:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957943558285254941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1957314515693084749",
+              "start": 4,
+              "url": "https://t.co/KfV4w9iVar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957943558285254941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957314515693084749",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幽默了 https://t.co/KfV4w9iVar"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957208250308255744"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1957314515693084749",
+        "created_at": "2025-08-18T05:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T06:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957314515693084749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GB2j7q4aZj",
+              "end": 77,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1957314515693084749/video/1",
+              "media_key": "13_1957208250308255744",
+              "start": 54,
+              "url": "https://t.co/GB2j7q4aZj"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1957093669850239013",
+              "start": 78,
+              "url": "https://t.co/sBfUedgBdk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957314515693084749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 346308,
+          "like_count": 1709,
+          "quote_count": 31,
+          "reply_count": 154,
+          "retweet_count": 170
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957093669850239013",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8月18日，东莞网友表示，还没开始下雨，下水道防蚊网就已经开始导致路面积水了。形成了绝佳的人造蚊子培养皿。 https://t.co/GB2j7q4aZj https://t.co/sBfUedgBdk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "自尊常常將人拖著 把愛都走曲折",
+        "id": "1912063502782812160",
+        "name": "白菜_Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937599411460403200/XrYwRLKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 74,
+          "like_count": 1554,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 251
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082797,
+          "following_count": 983,
+          "like_count": 7944,
+          "listed_count": 8271,
+          "media_count": 33686,
+          "tweet_count": 40439
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

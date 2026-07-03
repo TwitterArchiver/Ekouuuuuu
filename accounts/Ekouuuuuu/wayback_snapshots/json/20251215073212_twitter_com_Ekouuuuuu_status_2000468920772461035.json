@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000468920772461035",
+    "created_at": "2025-12-15T07:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T08:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000468920772461035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1286241253621817344",
+          "start": 3,
+          "username": "ACldJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000468920772461035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000409476898378004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ACldJP: 我不会出轨的 因为出轨至少要两个人喜欢我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000468920772461035",
+        "created_at": "2025-12-15T07:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000468920772461035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1286241253621817344",
+              "start": 3,
+              "username": "ACldJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000468920772461035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000409476898378004",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ACldJP: 我不会出轨的 因为出轨至少要两个人喜欢我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286241253621817344",
+        "conversation_id": "2000409476898378004",
+        "created_at": "2025-12-15T03:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T04:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000409476898378004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000409476898378004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2647,
+          "like_count": 84,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我不会出轨的 因为出轨至少要两个人喜欢我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 154,
+          "like_count": 3950,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 541
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "音游人｜运营兼策划「初心者」\n云鸠の生活推\n本命号@Cldeop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 25,
+                "username": "Cldeop"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "location": "鹊巢（鸠占）",
+        "name": "九鸟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 268,
+          "like_count": 2087,
+          "listed_count": 4,
+          "media_count": 257,
+          "tweet_count": 860
+        },
+        "username": "ACldJP",
+        "verified": true
+      }
+    ]
+  }
+}

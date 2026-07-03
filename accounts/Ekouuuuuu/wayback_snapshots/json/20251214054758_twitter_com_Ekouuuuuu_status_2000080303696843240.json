@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999952847912173571"
+      ],
+      "media_source_tweet_id": [
+        "1999952850580050351"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000080303696843240",
+    "created_at": "2025-12-14T05:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T06:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000080303696843240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "863156336850214914",
+          "start": 3,
+          "username": "gfl_david"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eQoy38o1HV",
+          "end": 64,
+          "expanded_url": "https://x.com/gfl_david/status/1999952850580050351/photo/1",
+          "media_key": "3_1999952847912173571",
+          "start": 41,
+          "url": "https://t.co/eQoy38o1HV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000080303696843240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999952850580050351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gfl_david: 十月一日，就是中國的國殤日，共產主義受難日。。。。 https://t.co/eQoy38o1HV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1642,
+        "media_key": "3_1999952847912173571",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8FChNtWAAMm_b2.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999952847912173571"
+          ],
+          "media_source_tweet_id": [
+            "1999952850580050351"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000080303696843240",
+        "created_at": "2025-12-14T05:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000080303696843240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "863156336850214914",
+              "start": 3,
+              "username": "gfl_david"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQoy38o1HV",
+              "end": 64,
+              "expanded_url": "https://x.com/gfl_david/status/1999952850580050351/photo/1",
+              "media_key": "3_1999952847912173571",
+              "start": 41,
+              "url": "https://t.co/eQoy38o1HV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000080303696843240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999952850580050351",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gfl_david: 十月一日，就是中國的國殤日，共產主義受難日。。。。 https://t.co/eQoy38o1HV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999952847912173571"
+          ]
+        },
+        "author_id": "863156336850214914",
+        "conversation_id": "1999952850580050351",
+        "created_at": "2025-12-13T21:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T22:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999952850580050351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQoy38o1HV",
+              "end": 49,
+              "expanded_url": "https://x.com/gfl_david/status/1999952850580050351/photo/1",
+              "media_key": "3_1999952847912173571",
+              "start": 26,
+              "url": "https://t.co/eQoy38o1HV"
+            },
+            {
+              "display_url": "x.com/XVanFleet/stat…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/XVanFleet/status/1999859909853426137",
+              "start": 50,
+              "url": "https://t.co/89fDT8xKeB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999952850580050351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2441,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 43,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999859909853426137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "十月一日，就是中國的國殤日，共產主義受難日。。。。 https://t.co/eQoy38o1HV https://t.co/89fDT8xKeB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了ww‖買笑氣請加我tg‖化學極樂‖養病中……‖🇯🇵🤝🇹🇼‖overdose是吸毒所以我是毒蟲🥺‖N₂O重度依賴‖支畜滾‖陰暗逼（？）‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 159,
+          "like_count": 3805,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 482
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-12T22:18:02.000Z",
+        "description": "王炳章: 我們必須指出的是﹐重建中華民國﹐使亞洲第一個民主共和國重新屹立在世界的東方﹐是我們全體中華兒女的責任。我們必須結合中國大陸﹑臺灣﹑港澳﹑海外一切華人的力量﹐重新舉起孫中山的旗幟﹐重建曾經屬於﹑未來也必然屬於全體中華兒女的中華民國。當然，我們必須最終接受大多數中國國民的決定!🇹🇼🇹🇼🇹🇼",
+        "id": "863156336850214914",
+        "name": "🇹🇼 國民革命，驅除馬列，回歸憲政!",
+        "pinned_tweet_id": "933782343378116608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/874411205120581632/KwPPnhAs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13065,
+          "following_count": 127,
+          "like_count": 228089,
+          "listed_count": 67,
+          "media_count": 9907,
+          "tweet_count": 86642
+        },
+        "username": "gfl_david",
+        "verified": false
+      }
+    ]
+  }
+}

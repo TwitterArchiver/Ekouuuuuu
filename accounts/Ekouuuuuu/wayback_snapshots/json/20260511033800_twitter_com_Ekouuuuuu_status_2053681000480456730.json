@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053433932407013376"
+      ],
+      "media_source_tweet_id": [
+        "2053433939185070549"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2053681000480456730",
+    "created_at": "2026-05-11T03:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053681000480456730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1445280510683406339",
+          "start": 3,
+          "username": "ram_4nuna"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AdqdrsazHD",
+          "end": 43,
+          "expanded_url": "https://x.com/ram_4nuna/status/2053433939185070549/photo/1",
+          "media_key": "3_2053433932407013376",
+          "start": 20,
+          "url": "https://t.co/AdqdrsazHD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053681000480456730",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053433939185070549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ram_4nuna: ﾓﾁﾓﾁ https://t.co/AdqdrsazHD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053433932407013376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9DSC7agAATF69.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053433932407013376"
+          ],
+          "media_source_tweet_id": [
+            "2053433939185070549"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2053681000480456730",
+        "created_at": "2026-05-11T03:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053681000480456730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1445280510683406339",
+              "start": 3,
+              "username": "ram_4nuna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AdqdrsazHD",
+              "end": 43,
+              "expanded_url": "https://x.com/ram_4nuna/status/2053433939185070549/photo/1",
+              "media_key": "3_2053433932407013376",
+              "start": 20,
+              "url": "https://t.co/AdqdrsazHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053681000480456730",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053433939185070549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ram_4nuna: ﾓﾁﾓﾁ https://t.co/AdqdrsazHD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053433932407013376"
+          ]
+        },
+        "author_id": "1445280510683406339",
+        "conversation_id": "2053433939185070549",
+        "created_at": "2026-05-10T11:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053433939185070549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AdqdrsazHD",
+              "end": 28,
+              "expanded_url": "https://x.com/ram_4nuna/status/2053433939185070549/photo/1",
+              "media_key": "3_2053433932407013376",
+              "start": 5,
+              "url": "https://t.co/AdqdrsazHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053433939185070549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2622,
+          "like_count": 297,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "ﾓﾁﾓﾁ https://t.co/AdqdrsazHD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "我還想和你談論宇宙和天空‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2051776082542825551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 297,
+          "like_count": 12076,
+          "listed_count": 1,
+          "media_count": 500,
+          "tweet_count": 3025
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T06:51:51.000Z",
+        "description": "🎀 ｻﾌﾞ@4nisou_ram 🎀ｵ店 @ange_morte0614",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "4nisou_ram"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "ange_morte0614"
+              }
+            ]
+          }
+        },
+        "id": "1445280510683406339",
+        "location": "救済",
+        "name": "関口 ラム",
+        "pinned_tweet_id": "2052344728512065956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978575714271313920/gBS3uULV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3697,
+          "following_count": 133,
+          "like_count": 25681,
+          "listed_count": 28,
+          "media_count": 674,
+          "tweet_count": 5572
+        },
+        "username": "ram_4nuna",
+        "verified": false
+      }
+    ]
+  }
+}

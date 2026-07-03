@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994322617596301312"
+      ],
+      "media_source_tweet_id": [
+        "1994322622717276191"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1994574106667487277",
+    "created_at": "2025-11-29T01:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T02:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994574106667487277"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "初音ミク"
+        },
+        {
+          "end": 28,
+          "start": 20,
+          "tag": "雪ミク2022"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1981439929755504640",
+          "start": 3,
+          "username": "afk_0831"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s3HbMsdcV9",
+          "end": 52,
+          "expanded_url": "https://x.com/afk_0831/status/1994322622717276191/photo/1",
+          "media_key": "3_1994322617596301312",
+          "start": 29,
+          "url": "https://t.co/s3HbMsdcV9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994574106667487277",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 249
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994322622717276191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @afk_0831: #初音ミク #雪ミク2022 https://t.co/s3HbMsdcV9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994322617596301312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61B2rVa0AA-wq1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994322617596301312"
+          ],
+          "media_source_tweet_id": [
+            "1994322622717276191"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1994574106667487277",
+        "created_at": "2025-11-29T01:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994574106667487277"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 28,
+              "start": 20,
+              "tag": "雪ミク2022"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1981439929755504640",
+              "start": 3,
+              "username": "afk_0831"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s3HbMsdcV9",
+              "end": 52,
+              "expanded_url": "https://x.com/afk_0831/status/1994322622717276191/photo/1",
+              "media_key": "3_1994322617596301312",
+              "start": 29,
+              "url": "https://t.co/s3HbMsdcV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994574106667487277",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 249
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994322622717276191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @afk_0831: #初音ミク #雪ミク2022 https://t.co/s3HbMsdcV9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994322617596301312"
+          ]
+        },
+        "author_id": "1981439929755504640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1994322622717276191",
+        "created_at": "2025-11-28T08:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T09:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994322622717276191"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 14,
+              "start": 6,
+              "tag": "雪ミク2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s3HbMsdcV9",
+              "end": 38,
+              "expanded_url": "https://x.com/afk_0831/status/1994322622717276191/photo/1",
+              "media_key": "3_1994322617596301312",
+              "start": 15,
+              "url": "https://t.co/s3HbMsdcV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994322622717276191",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 242,
+          "impression_count": 25539,
+          "like_count": 2537,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 249
+        },
+        "reply_settings": "everyone",
+        "text": "#初音ミク #雪ミク2022 https://t.co/s3HbMsdcV9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了‖COSER‖互聯網樂子人‖可以來找我互fo聊天",
+        "id": "1912063502782812160",
+        "location": "QQ：656371428",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994408748933410817/TEtTZkgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 2864,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 226
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T19:18:02.000Z",
+        "description": "気ままにします。フォロバいらないです。たまに絵描きます。自慢のアイコン・ヘッダー→@astwni_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "astwni_"
+              }
+            ]
+          }
+        },
+        "id": "1981439929755504640",
+        "location": "趣味雑多垢であり、真面目な絵垢ではないです",
+        "name": "井上",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987101777242820608/dqCFoJ-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 288,
+          "like_count": 1866,
+          "listed_count": 14,
+          "media_count": 24,
+          "tweet_count": 658
+        },
+        "username": "afk_0831",
+        "verified": false
+      }
+    ]
+  }
+}

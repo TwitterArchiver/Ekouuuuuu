@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "1974504524631974005",
+    "created_at": "2025-10-07T12:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T13:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975542741762441365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1239457591417171973",
+          "start": 0,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975542741762441365",
+    "in_reply_to_user_id": "1239457591417171973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974504524631974005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GFWfrog 吓哭了55"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10093,
+        "height": 1280,
+        "media_key": "7_1974504493644451840",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1974504493644451840/pu/img/p5u9w4zbR0gQELVg.jpg",
+        "public_metrics": {
+          "view_count": 189301
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974504493644451840/pu/vid/avc1/320x580/uLyoniapzdS6b1rl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974504493644451840/pu/vid/avc1/480x872/wkIfvniu6eJ0nA95.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974504493644451840/pu/vid/avc1/704x1280/6UWXPQI9n0qwu-46.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1974504493644451840/pu/pl/zN4eQLNcBpTGeoFT.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "1974504524631974005",
+        "created_at": "2025-10-07T12:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T13:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975542741762441365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239457591417171973",
+              "start": 0,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975542741762441365",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974504524631974005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GFWfrog 吓哭了55"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1974504493644451840"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "conversation_id": "1974504524631974005",
+        "created_at": "2025-10-04T15:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T16:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974504524631974005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M3kyQiAESd",
+              "end": 31,
+              "expanded_url": "https://x.com/GFWfrog/status/1974504524631974005/video/1",
+              "media_key": "7_1974504493644451840",
+              "start": 8,
+              "url": "https://t.co/M3kyQiAESd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974504524631974005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 569,
+          "impression_count": 376543,
+          "like_count": 2717,
+          "quote_count": 52,
+          "reply_count": 349,
+          "retweet_count": 220
+        },
+        "reply_settings": "everyone",
+        "text": "🕶️ 匿名投稿 https://t.co/M3kyQiAESd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "年年歲歲花相似",
+        "id": "1912063502782812160",
+        "name": "白菜Satsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974683142880665600/4D1J2k-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 80,
+          "like_count": 2161,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 314
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "学而时习之，墙国404\n\n欢迎私信投稿\nTg群：https://t.co/BbAyHfnObj\n\nTg频道：https://t.co/Evu48wmwfT\n\n#OK革命：用OK👌手势线上阴阳怪气，线下冲塔抗议\n\n#大自爆运动 ：其实本该叫爆料革命的，但被郭文贵给…😅🙈🐸\n\n邮箱：gfwfrog@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 79,
+                "tag": "OK革命"
+              },
+              {
+                "end": 112,
+                "start": 106,
+                "tag": "大自爆运动"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 47,
+                "expanded_url": "https://t.me/SpeedUpCN",
+                "start": 24,
+                "url": "https://t.co/BbAyHfnObj"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 77,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 54,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@GFWfrog",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@GFWfrog",
+                "start": 0,
+                "url": "https://t.co/LfpvB0NEDk"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙蛤蛤🐸（OK革命👌大自爆运动💣）",
+        "pinned_tweet_id": "1975397581858742554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973694469510770688/BQZK_qm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241604,
+          "following_count": 1690,
+          "like_count": 93747,
+          "listed_count": 826,
+          "media_count": 5389,
+          "tweet_count": 9577
+        },
+        "url": "https://t.co/LfpvB0NEDk",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

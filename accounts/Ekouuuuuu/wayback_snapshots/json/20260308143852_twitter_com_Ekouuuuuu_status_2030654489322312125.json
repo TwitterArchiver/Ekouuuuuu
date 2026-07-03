@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030307144021733376"
+      ],
+      "media_source_tweet_id": [
+        "2030307148052546019"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2030654489322312125",
+    "created_at": "2026-03-08T14:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T15:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030654489322312125"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "宵崎さん",
+          "probability": 0.5102,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1340600598622695424",
+          "start": 3,
+          "username": "mahu_night"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pj8IGSwRde",
+          "end": 50,
+          "expanded_url": "https://x.com/mahu_night/status/2030307148052546019/photo/1",
+          "media_key": "3_2030307144021733376",
+          "start": 27,
+          "url": "https://t.co/Pj8IGSwRde"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030654489322312125",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 417
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030307148052546019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mahu_night: n徹目の宵崎さん 🎼 https://t.co/Pj8IGSwRde"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2030307144021733376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0ZlyhacAAx348.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030307144021733376"
+          ],
+          "media_source_tweet_id": [
+            "2030307148052546019"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2030654489322312125",
+        "created_at": "2026-03-08T14:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T15:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030654489322312125"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "宵崎さん",
+              "probability": 0.5102,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1340600598622695424",
+              "start": 3,
+              "username": "mahu_night"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pj8IGSwRde",
+              "end": 50,
+              "expanded_url": "https://x.com/mahu_night/status/2030307148052546019/photo/1",
+              "media_key": "3_2030307144021733376",
+              "start": 27,
+              "url": "https://t.co/Pj8IGSwRde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030654489322312125",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 417
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030307148052546019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mahu_night: n徹目の宵崎さん 🎼 https://t.co/Pj8IGSwRde"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030307144021733376"
+          ]
+        },
+        "author_id": "1340600598622695424",
+        "conversation_id": "2030307148052546019",
+        "created_at": "2026-03-07T15:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030307148052546019"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "宵崎さん",
+              "probability": 0.4844,
+              "start": 4,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pj8IGSwRde",
+              "end": 34,
+              "expanded_url": "https://x.com/mahu_night/status/2030307148052546019/photo/1",
+              "media_key": "3_2030307144021733376",
+              "start": 11,
+              "url": "https://t.co/Pj8IGSwRde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030307148052546019",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 479,
+          "impression_count": 45109,
+          "like_count": 5875,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 417
+        },
+        "reply_settings": "everyone",
+        "text": "n徹目の宵崎さん 🎼 https://t.co/Pj8IGSwRde"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 244,
+          "like_count": 9242,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 2350
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-20T10:11:17.000Z",
+        "description": "イラスト描いたり 20↑ ❄朝比奈まふゆを愛しています❄ ＊ まふゆが来ると荒れます＊ 無言フォロー失礼します🙇‍♂️ お別れはブロ解で ⚠️りっとりんく読んでもらえると嬉しいです @CUkytjfheS52296 #えまちゃんアート ✏️依頼垢 @mahu_ilai_tv",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 108,
+                "tag": "えまちゃんアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "CUkytjfheS52296"
+              },
+              {
+                "end": 137,
+                "start": 124,
+                "username": "mahu_ilai_tv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/mahukawa",
+                "end": 23,
+                "expanded_url": "https://lit.link/mahukawa",
+                "start": 0,
+                "url": "https://t.co/WjtE1osGmz"
+              }
+            ]
+          }
+        },
+        "id": "1340600598622695424",
+        "location": "絵の無断転載・二次配布・自作発言・AI学習❌",
+        "name": "まふかわ❄",
+        "pinned_tweet_id": "1972684164810825911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848922847080812547/zhuERUa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4679,
+          "following_count": 1336,
+          "like_count": 80427,
+          "listed_count": 40,
+          "media_count": 2463,
+          "tweet_count": 14592
+        },
+        "url": "https://t.co/WjtE1osGmz",
+        "username": "mahu_night",
+        "verified": false
+      }
+    ]
+  }
+}

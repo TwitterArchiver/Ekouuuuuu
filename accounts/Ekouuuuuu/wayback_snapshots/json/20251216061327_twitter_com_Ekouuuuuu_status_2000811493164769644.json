@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000734597534126080"
+      ],
+      "media_source_tweet_id": [
+        "2000734607793164438"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "conversation_id": "2000811493164769644",
+    "created_at": "2025-12-16T06:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T07:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000811493164769644"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "アルちゃん",
+          "probability": 0.6624,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1684918441348931584",
+          "start": 3,
+          "username": "3kanmm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y1LdxChJWg",
+          "end": 48,
+          "expanded_url": "https://x.com/3kanmm/status/2000734607793164438/photo/1",
+          "media_key": "3_2000734597534126080",
+          "start": 25,
+          "url": "https://t.co/y1LdxChJWg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000811493164769644",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 387
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000734607793164438",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3kanmm: ダサ服アルちゃん（再掲） https://t.co/y1LdxChJWg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1824,
+        "media_key": "3_2000734597534126080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8QJhB_bEAA99Sg.jpg",
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000734597534126080"
+          ],
+          "media_source_tweet_id": [
+            "2000734607793164438"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2000811493164769644",
+        "created_at": "2025-12-16T06:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T07:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000811493164769644"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "アルちゃん",
+              "probability": 0.6624,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1684918441348931584",
+              "start": 3,
+              "username": "3kanmm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1LdxChJWg",
+              "end": 48,
+              "expanded_url": "https://x.com/3kanmm/status/2000734607793164438/photo/1",
+              "media_key": "3_2000734597534126080",
+              "start": 25,
+              "url": "https://t.co/y1LdxChJWg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000811493164769644",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 387
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000734607793164438",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3kanmm: ダサ服アルちゃん（再掲） https://t.co/y1LdxChJWg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000734597534126080"
+          ]
+        },
+        "author_id": "1684918441348931584",
+        "conversation_id": "2000734607793164438",
+        "created_at": "2025-12-16T01:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T02:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000734607793164438"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "アルちゃん",
+              "probability": 0.6797,
+              "start": 3,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1LdxChJWg",
+              "end": 36,
+              "expanded_url": "https://x.com/3kanmm/status/2000734607793164438/photo/1",
+              "media_key": "3_2000734597534126080",
+              "start": 13,
+              "url": "https://t.co/y1LdxChJWg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000734607793164438",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 537,
+          "impression_count": 49846,
+          "like_count": 4326,
+          "quote_count": 10,
+          "reply_count": 17,
+          "retweet_count": 387
+        },
+        "reply_settings": "everyone",
+        "text": "ダサ服アルちゃん（再掲） https://t.co/y1LdxChJWg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "叫我白菜就好了w‖養病中……‖化學極樂‖🇯🇵🤝🇹🇼‖oder‖N₂O重度依賴‖支畜滾‖同類互fo",
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "1999859855524565310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 169,
+          "like_count": 4144,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 603
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T13:27:21.000Z",
+        "description": "オタク。イラスト投げてます。\n全年齢向けですがpixivの中は🔞多めですー。\n🔞@2kanm\n渋:https://t.co/7ZdvSahzEb\n販売系(booth的な):https://t.co/TYTxGfhPGM\nFANZA:https://t.co/iPxQuNmvn5\n支援サイト:https://t.co/RBHjOyteLX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 40,
+                "username": "2kanm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/gjone",
+                "end": 72,
+                "expanded_url": "https://x.gd/gjone",
+                "start": 49,
+                "url": "https://t.co/7ZdvSahzEb"
+              },
+              {
+                "display_url": "x.gd/D4Eig",
+                "end": 109,
+                "expanded_url": "https://x.gd/D4Eig",
+                "start": 86,
+                "url": "https://t.co/TYTxGfhPGM"
+              },
+              {
+                "display_url": "x.gd/CNlrl",
+                "end": 139,
+                "expanded_url": "https://x.gd/CNlrl",
+                "start": 116,
+                "url": "https://t.co/iPxQuNmvn5"
+              },
+              {
+                "display_url": "x.gd/mBDdN",
+                "end": 169,
+                "expanded_url": "https://x.gd/mBDdN",
+                "start": 146,
+                "url": "https://t.co/RBHjOyteLX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/2kanm",
+                "end": 23,
+                "expanded_url": "https://lit.link/2kanm",
+                "start": 0,
+                "url": "https://t.co/dkQJsB6Aaq"
+              }
+            ]
+          }
+        },
+        "id": "1684918441348931584",
+        "location": "グラフィックボードの中",
+        "name": "さんかん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883431501708333056/cGelNQE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54986,
+          "following_count": 416,
+          "like_count": 3868,
+          "listed_count": 280,
+          "media_count": 724,
+          "tweet_count": 2481
+        },
+        "url": "https://t.co/dkQJsB6Aaq",
+        "username": "3kanmm",
+        "verified": true
+      }
+    ]
+  }
+}

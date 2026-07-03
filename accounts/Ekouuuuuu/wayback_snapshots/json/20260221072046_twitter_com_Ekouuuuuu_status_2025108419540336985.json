@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024853116462788609",
+        "3_2024853116504756224"
+      ],
+      "media_source_tweet_id": [
+        "2024853121760100396",
+        "2024853121760100396"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2025108419540336985",
+    "created_at": "2026-02-21T07:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025108419540336985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1568722929411854337",
+          "start": 3,
+          "username": "htnmk2007"
+        },
+        {
+          "end": 30,
+          "id": "1604181895721504771",
+          "start": 15,
+          "username": "mengtunwudaimu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/djeKCgKb2s",
+          "end": 77,
+          "expanded_url": "https://x.com/htnmk2007/status/2024853121760100396/photo/1",
+          "media_key": "3_2024853116462788609",
+          "start": 54,
+          "url": "https://t.co/djeKCgKb2s"
+        },
+        {
+          "display_url": "pic.x.com/djeKCgKb2s",
+          "end": 77,
+          "expanded_url": "https://x.com/htnmk2007/status/2024853121760100396/photo/1",
+          "media_key": "3_2024853116504756224",
+          "start": 54,
+          "url": "https://t.co/djeKCgKb2s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025108419540336985",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024853121760100396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @htnmk2007: @mengtunwudaimu 誰Cosplay了我的英雄學院be like https://t.co/djeKCgKb2s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 496,
+        "media_key": "3_2024853116462788609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBm5LmkbcAEdfhd.jpg",
+        "width": 409
+      },
+      {
+        "height": 1056,
+        "media_key": "3_2024853116504756224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBm5Lmub0AAAN-Z.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024853116462788609",
+            "3_2024853116504756224"
+          ],
+          "media_source_tweet_id": [
+            "2024853121760100396",
+            "2024853121760100396"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2025108419540336985",
+        "created_at": "2026-02-21T07:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025108419540336985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1568722929411854337",
+              "start": 3,
+              "username": "htnmk2007"
+            },
+            {
+              "end": 30,
+              "id": "1604181895721504771",
+              "start": 15,
+              "username": "mengtunwudaimu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/djeKCgKb2s",
+              "end": 77,
+              "expanded_url": "https://x.com/htnmk2007/status/2024853121760100396/photo/1",
+              "media_key": "3_2024853116462788609",
+              "start": 54,
+              "url": "https://t.co/djeKCgKb2s"
+            },
+            {
+              "display_url": "pic.x.com/djeKCgKb2s",
+              "end": 77,
+              "expanded_url": "https://x.com/htnmk2007/status/2024853121760100396/photo/1",
+              "media_key": "3_2024853116504756224",
+              "start": 54,
+              "url": "https://t.co/djeKCgKb2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025108419540336985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024853121760100396",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @htnmk2007: @mengtunwudaimu 誰Cosplay了我的英雄學院be like https://t.co/djeKCgKb2s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024853116462788609",
+            "3_2024853116504756224"
+          ]
+        },
+        "author_id": "1568722929411854337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2024846731016573083",
+        "created_at": "2026-02-20T14:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024853121760100396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1604181895721504771",
+              "start": 0,
+              "username": "mengtunwudaimu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/djeKCgKb2s",
+              "end": 62,
+              "expanded_url": "https://x.com/htnmk2007/status/2024853121760100396/photo/1",
+              "media_key": "3_2024853116462788609",
+              "start": 39,
+              "url": "https://t.co/djeKCgKb2s"
+            },
+            {
+              "display_url": "pic.x.com/djeKCgKb2s",
+              "end": 62,
+              "expanded_url": "https://x.com/htnmk2007/status/2024853121760100396/photo/1",
+              "media_key": "3_2024853116504756224",
+              "start": 39,
+              "url": "https://t.co/djeKCgKb2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024853121760100396",
+        "in_reply_to_user_id": "1604181895721504771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2171,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024846731016573083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengtunwudaimu 誰Cosplay了我的英雄學院be like https://t.co/djeKCgKb2s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 249,
+          "like_count": 8691,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 2233
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T22:07:54.000Z",
+        "description": "Meta把我的IG和脆炸了祖克柏cos福瑞習近平考慮回去中華民國台派急獨華統主推： 民進黨、初音未來、Mygo、母雞卡、曉山瑞希、千早愛音、高松燈 、椎名立希、長崎素世、要樂奈 雷：國民黨（連之後）民眾黨 私は陸配二代 台灣獨立萬歲香港獨立萬歲反對大中華遵循民進黨英派新潮流路線國民黨兩蔣路線堅持反共立場  愛看圖紙TV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC9vEY…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC9vEYet72sG0gF1uZqekGzQ?si=trbwrIcw-nP3oe9T",
+                "start": 0,
+                "url": "https://t.co/1gOk4eotlV"
+              }
+            ]
+          }
+        },
+        "id": "1568722929411854337",
+        "location": "英屬香港旺角/台灣共和國花蓮縣",
+        "name": "ミクちゃんの千早あのん 🏳️‍⚧️ 🇹🇼 🇯🇵",
+        "pinned_tweet_id": "2015108171069788665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019120091477286912/kWp--3OF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 383,
+          "like_count": 8225,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 2223
+        },
+        "url": "https://t.co/1gOk4eotlV",
+        "username": "htnmk2007",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T18:29:10.000Z",
+        "description": "喵酱的真实账号\n政治立场：台独、支黑\n喜欢批判支人的奴性和劣根性\n评论区互fo或者私信",
+        "id": "1604181895721504771",
+        "location": "IP属地：南京",
+        "name": "川和喵酱薯条🍟🇯🇵井外势力",
+        "pinned_tweet_id": "1729765345424990414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011343699327000576/ngvpFLui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13321,
+          "following_count": 2735,
+          "like_count": 26487,
+          "listed_count": 148,
+          "media_count": 2283,
+          "tweet_count": 14227
+        },
+        "username": "mengtunwudaimu",
+        "verified": true
+      }
+    ]
+  }
+}
