@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2054632479571550348",
+    "created_at": "2026-07-07T21:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T22:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074605979719832012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2056703191597920256",
+          "start": 0,
+          "username": "Mandala_Aru"
+        },
+        {
+          "end": 28,
+          "id": "1748531675573964800",
+          "start": 13,
+          "username": "dingansich8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074605979719832012",
+    "in_reply_to_user_id": "2056703191597920256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074592954413625458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mandala_Aru @dingansich8964 我標記敏感內容了。。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2074592954413625458].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2074592954413625458",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2074592954413625458"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2054632479571550348",
+        "created_at": "2026-07-07T21:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T22:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074605979719832012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2056703191597920256",
+              "start": 0,
+              "username": "Mandala_Aru"
+            },
+            {
+              "end": 28,
+              "id": "1748531675573964800",
+              "start": 13,
+              "username": "dingansich8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074605979719832012",
+        "in_reply_to_user_id": "2056703191597920256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074592954413625458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mandala_Aru @dingansich8964 我標記敏感內容了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭Follow List一堆R18的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2073904608901235015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 455,
+          "like_count": 14673,
+          "listed_count": 0,
+          "media_count": 662,
+          "tweet_count": 3982
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "如果從未存在過就好了",
+        "id": "2056703191597920256",
+        "name": "Fate",
+        "pinned_tweet_id": "2060343983776416251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064044489044578304/oV6ynY5d_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 5,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "Mandala_Aru",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T02:23:53.000Z",
+        "description": "會發一些枯燥的日常。叫我物物就好。在國外工作。看動漫，健身，填词，聽音樂劇。拉丁文勉強中。喜欢烹飪、園藝。喜歡發牢騷，碎碎唸。「だって、私、追いかけるのが好きなんだもの。」電報@DINGANSICH648",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 88,
+                "username": "DINGANSICH648"
+              }
+            ]
+          }
+        },
+        "id": "1748531675573964800",
+        "name": "物凝主體",
+        "pinned_tweet_id": "1945457173599072557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984133882594402304/iQ-0FrZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 70,
+          "like_count": 38429,
+          "listed_count": 13,
+          "media_count": 1269,
+          "tweet_count": 11619
+        },
+        "url": "",
+        "username": "dingansich8964",
+        "verified": false
+      }
+    ]
+  }
+}

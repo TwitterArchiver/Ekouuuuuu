@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074622787717939200",
+        "3_2074622808072892416",
+        "3_2074622829417701376",
+        "3_2074622848849809408"
+      ]
+    },
+    "author_id": "1912063502782812160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2074622861009203479",
+    "created_at": "2026-07-07T22:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T23:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074622861009203479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 73,
+          "id": "1980612830824132609",
+          "start": 66,
+          "username": "seeFvn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JRQSY1HuFn",
+          "end": 154,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2074622861009203479/photo/1",
+          "media_key": "3_2074622787717939200",
+          "start": 131,
+          "url": "https://t.co/JRQSY1HuFn"
+        },
+        {
+          "display_url": "pic.x.com/JRQSY1HuFn",
+          "end": 154,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2074622861009203479/photo/1",
+          "media_key": "3_2074622808072892416",
+          "start": 131,
+          "url": "https://t.co/JRQSY1HuFn"
+        },
+        {
+          "display_url": "pic.x.com/JRQSY1HuFn",
+          "end": 154,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2074622861009203479/photo/1",
+          "media_key": "3_2074622829417701376",
+          "start": 131,
+          "url": "https://t.co/JRQSY1HuFn"
+        },
+        {
+          "display_url": "pic.x.com/JRQSY1HuFn",
+          "end": 154,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2074622861009203479/photo/1",
+          "media_key": "3_2074622848849809408",
+          "start": 131,
+          "url": "https://t.co/JRQSY1HuFn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074622861009203479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "歡迎來到Mandrake的首頁🙃\n叫我曼德拉草/白菜都可以☑️\n簡/繁中🆗\n能讓人民幸福的主義就是好主義\n自我認知性別女\n唯一的閨蜜@seeFvn \n討厭Substance abuse&amp;Self-harm/負能量/cosplay/碎碎唸的麻煩自行屏蔽🥲 https://t.co/JRQSY1HuFn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3954,
+        "media_key": "3_2074622787717939200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqKbwDbwAAj6HC.jpg",
+        "width": 3071
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2074622808072892416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqKc74bsAAu94r.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2074622829417701376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqKeLZboAAT3wE.jpg",
+        "width": 2248
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2074622848849809408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqKfTyaEAAKA4D.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074622787717939200",
+            "3_2074622808072892416",
+            "3_2074622829417701376",
+            "3_2074622848849809408"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2074622861009203479",
+        "created_at": "2026-07-07T22:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T23:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074622861009203479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 73,
+              "id": "1980612830824132609",
+              "start": 66,
+              "username": "seeFvn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JRQSY1HuFn",
+              "end": 154,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2074622861009203479/photo/1",
+              "media_key": "3_2074622787717939200",
+              "start": 131,
+              "url": "https://t.co/JRQSY1HuFn"
+            },
+            {
+              "display_url": "pic.x.com/JRQSY1HuFn",
+              "end": 154,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2074622861009203479/photo/1",
+              "media_key": "3_2074622808072892416",
+              "start": 131,
+              "url": "https://t.co/JRQSY1HuFn"
+            },
+            {
+              "display_url": "pic.x.com/JRQSY1HuFn",
+              "end": 154,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2074622861009203479/photo/1",
+              "media_key": "3_2074622829417701376",
+              "start": 131,
+              "url": "https://t.co/JRQSY1HuFn"
+            },
+            {
+              "display_url": "pic.x.com/JRQSY1HuFn",
+              "end": 154,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2074622861009203479/photo/1",
+              "media_key": "3_2074622848849809408",
+              "start": 131,
+              "url": "https://t.co/JRQSY1HuFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074622861009203479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歡迎來到Mandrake的首頁🙃\n叫我曼德拉草/白菜都可以☑️\n簡/繁中🆗\n能讓人民幸福的主義就是好主義\n自我認知性別女\n唯一的閨蜜@seeFvn \n討厭Substance abuse&amp;Self-harm/負能量/cosplay/碎碎唸的麻煩自行屏蔽🥲 https://t.co/JRQSY1HuFn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭Follow List一堆R18的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 456,
+          "like_count": 14687,
+          "listed_count": 0,
+          "media_count": 664,
+          "tweet_count": 3986
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "location": "New York, USA",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 754,
+          "like_count": 6457,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1855
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

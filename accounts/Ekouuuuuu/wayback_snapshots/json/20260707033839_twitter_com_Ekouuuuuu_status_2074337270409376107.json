@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1912063502782812160",
+    "conversation_id": "2074001595185123517",
+    "created_at": "2026-07-07T03:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T04:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074337270409376107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921862257874702337",
+          "start": 0,
+          "username": "Theprophetsfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074337270409376107",
+    "in_reply_to_user_id": "1921862257874702337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074333375016681691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Theprophetsfox 效果太短了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2074001595185123517",
+        "created_at": "2026-07-07T03:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074337270409376107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921862257874702337",
+              "start": 0,
+              "username": "Theprophetsfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074337270409376107",
+        "in_reply_to_user_id": "1921862257874702337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074333375016681691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Theprophetsfox 效果太短了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921862257874702337",
+        "conversation_id": "2074001595185123517",
+        "created_at": "2026-07-07T03:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074333375016681691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074333375016681691",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074001595185123517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu w，這個很容易買到啊\n但是我還沒試過，因為聽說過這玩意效果不怎麼樣。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭Follow List一堆R18的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2073904608901235015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 450,
+          "like_count": 14664,
+          "listed_count": 0,
+          "media_count": 661,
+          "tweet_count": 3968
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T09:37:33.000Z",
+        "description": "日本語でのコミュニケーションにAI翻訳を使用していることをお許しください💦\n\n私は華夏地域出身のゲーマーオタクです！（旅行好き、コスプレイヤー、詩人）\n\n私の投稿には、日常会話、AI作品、ゲーム、薬物乱用、ポルノ写真、面白い見聞、再投稿などが含まれる場合があります…\n\nぜひお友達になってください！（◍˃ᵕ˂◍）",
+        "id": "1921862257874702337",
+        "location": "トリニティ総合学園中央図書館",
+        "name": "北落師門",
+        "pinned_tweet_id": "2065485133504016613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065442815820345344/hWscjKJZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 171,
+          "like_count": 1583,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1527
+        },
+        "url": "",
+        "username": "Theprophetsfox",
+        "verified": false
+      }
+    ]
+  }
+}
